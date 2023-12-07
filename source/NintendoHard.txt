@@ -1,0 +1,51 @@
+%% Image selected per Image Pickin' thread: https://tvtropes.org/pmwiki/posts.php?discussion=1295097781009842100
+%% Please do not change or remove without starting a new thread.
+%%
+[[quoteright:342:[[VideoGame/IWannaBeTheGuy https://static.tvtropes.org/pmwiki/pub/images/iwbtgscreen_1962.png]]]]
+[[caption-width-right:342:[[PressXToDie Be prepared to see this.]] '''[[PunctuatedForEmphasis A. Lot!]]''']]
+
+The UsefulNotes/NintendoEntertainmentSystem was known for two things: [[UsefulNotes/TheGreatVideoGameCrashOf1983 reviving home console gaming]] and having ridiculously difficult games.
+
+Back in TheEighties, video games didn't have today's sophisticated storylines. {{Excuse Plot}}s were the norm. Therefore, much of the feeling of accomplishment one could get from playing them was from overcoming the insane difficulty they provided, if only so that one could {{brag|gingRightsReward}} about it to their friends. [[GoddamnedBats A plethora of enemies]] and difficult jumps were not just the name of the game, they ''were'' the game. And these games weren't just hard; they were ''[[TitleDrop Nintendo Hard!]]''
+
+Since games cost a fair amount of money at the time, and could usually be beaten in 15 minutes if you knew what you were doing, a game that was easy had little value. It was simply not possible to make very long games in the modern style that take hours to beat even if you are good. So games had to be difficult so players would feel they got their money's worth.
+
+'''The difficulty of these games usually stems from a combination of factors:'''
+* [[GoddamnedBats Lots of enemies]] ([[BulletHell or lots of bullets]]) that are [[DenialOfDiagonalAttack hard to hit or dodge]].
+* Surprise attacks that can only be avoided by sheerest luck or [[TrialAndErrorGameplay memorizing their locations]].
+* MalevolentArchitecture that poses a [[EverythingTryingToKillYou constant danger of death]] even when the player proceeds as cautiously as possible.
+* A hero (or heroine) who can survive very few hits--[[OneHitPointWonder often dying from even the slightest scratch]].
+** But if he/she can take at least one hit without repercussions, falling into BottomlessPits and/or getting SquashedFlat [[OneHitKill still instantly kills him/her]].
+* [[CheckPointStarvation Few—if any—Check Points or Save Points]].
+* A limited number of [[VideoGameLives lives]] and/or continues, or no continues at all.
+** Even worse, [[PointOfNoContinues no more continues once you get to the homestretch]].[[note]]On [[UsefulNotes/ArcadeGame Arcade Games]] (where mostly seen) that was meant to prevent excessive credit-feeding, a practice deemed very unprofessional (as opposed to learning and memorizing the levels and/or bosses).[[/note]]
+* No way to [[DifficultyLevels adjust the difficulty]], or doing so is pretty much superficial. Even those that did allow difficulty changes featured EasyModeMockery, making it often not worth the time to even play on Easy.
+** Or if the difficulty levels actually are fair, there may be an optional difficulty level that [[HarderThanHard makes Easy, Normal, and even Hard look like child's play]].
+* [[ContinuingIsPainful Losing all or most of your weapons/powerups when you die; or having your score reset to 0 whenever you use the ability to continue, if available]].
+* Stiff, clunky, and perhaps somewhat unresponsive controls (but ''only'' when applied to the original 8-bit, 16-bit, and (to a small extent) 32-bit generations; in more modern games, it ceases to be expected and veers right into FakeDifficulty).
+** Inflexible JumpPhysics render it impossible to accurately dodge attacks in midair, especially if your character's jump height is less than half that of Mario's or Luigi's.
+** [[DenialOfDiagonalAttack The inability to attack anywhere but left or right]] while GoddamnedBats attack you from above or below. Most games with this setup even denied you crouching to take out the enemies that crawled under your shots.
+* Little to no guidance. [[GuideDangIt Objectives are vague]], and [[TalkToEveryone you are expected to figure them out on your own]]. If the game teaches you any of the mechanics at all, it's through a WakeUpCallBoss or a [[DifficultySpike particularly nasty]] NoobBridge.
+* [[{{Permadeath}} Death being final]] for your teammates or character and [[DeletionAsPunishment having all your saves deleted]] if you die.
+
+When Nintendo Hard is taken to its most sadistic extremes by deliberately adding cheap deaths and TrialAndErrorGameplay, you get PlatformHell and/or BulletHell.
+
+Keep in mind though, the difficulty of the game [[SurpriseDifficulty might have nothing to do with how the game looks aesthetically]], but [[WhatDoYouMeanItsNotForKids they're not tailored for young kids either]].
+
+When only one or few levels or areas of the game are Nintendo Hard, you're probably dealing with ThatOneLevel, BrutalBonusLevel, or SNKBoss if it's the end. If the game reaches an obscene difficulty at a certain point and never looks back, look for DifficultySpike. Examples of Nintendo Hard head-to-head fighters generally go under TheComputerIsACheatingBastard, since crazy-hard opponent AI is nigh-universally the culprit. EarnYourFun is a common argument for those who like such abusingly difficult games.
+
+A lot of arcade games were, and still are, Nintendo Hard for the purposes of encouraging a steady flow of quarters into the machine. The arcade owners have to make money ''somehow'', you know.
+
+Also, remember that by "hard", [[JustForFun/IThoughtItMeant we're only talking about the difficulty in playing the game]]. While Nintendo products themselves are ''physically'' hard (to break, which is [[TantrumThrowing fortunate when playing games like this]]), that's not this trope but MadeOfIndestructium. And the fact that several classic Nintendo games are [[http://arxiv.org/abs/1203.1895 NP-]][[http://www.i-programmer.info/news/112-theory/3896-classic-nintendo-games-are-np-hard.html hard]] is not relevant either.
+
+The [[https://gamefaqs.gamespot.com/games/rankings?platform=0&genre=0&list_type=diff&view_type=0&dlc=1&min_votes=1 difficulty rankings]] section of [=GameFAQs=] is a good measure of a game's difficulty as long as it has a sufficiently large number (50+) of difficulty votes. Games that are rated 4.0 or above on that list represent the top 3% hardest video games ever released. (Note: it is effectively a [[FourPointScale 2.5-4.0 scale]].)
+
+The contrapositive corollary is SequelDifficultyDrop. Though, contrary to the claims of some derisors, modern games can still be Nintendo Hard, it's just not as common.
+
+'''When you add examples, please be sure to read the following sentence:''' If you feel inclined to add the words "for this troper" or "could be considered" and cannot make a strong statement on the universal difficulty of the game in question, '''[[Administrivia/SquarePegRoundTrope then it is not an example]]. Examples must be games that, as a whole, are extremely difficult even by skilled players' standards.'''
+
+'''If you know where an example filed under "Uncategorised" goes, then please sort it.'''
+----
+!!Examples:
+
+Missing examples.

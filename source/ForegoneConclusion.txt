@@ -1,0 +1,39 @@
+[[quoteright:350:[[UsefulNotes/RMSTitanic https://static.tvtropes.org/pmwiki/pub/images/titanic_2009.jpg]] ]]
+[[caption-width-right:350:Stop me if you've heard this one.]]
+
+->''"My name is Lester Burnham. This is my neighborhood; this is my street; this is my life. I'm 42 years old. In less than a year I'll be dead."''
+-->-- '''OpeningNarration''', ''Film/AmericanBeauty''
+
+Most dramatic tension in story-telling comes from the audience being ignorant of the work's ending. Audience members invest in characters and plots and want to know how they are treated and resolved, respectively.
+
+Sometimes, however, authors choose to go a different route. They will make known to the audience how their story ends before they even begin telling it. Sometimes they'll do so with an explicit statement (such as in a SpoilerOpening or HowWeGotHere), sometimes by writing a prequel that ends right where the original work begins. Whatever the case may be, the author has given themselves quite a task. They must find some way to establish tension and doubt when everyone knows how the story is going to end.
+
+This can be easily confused with several tropes:
+* ItWasHisSled deals with twists or endings that, thanks to their [[PopCulturalOsmosis assimilation into popular culture]], no longer surprise us, although the author originally did not intend for everyone to know the ending.
+* HowWeGotHere and InMediasRes are related, but not identical.
+* Movies or shows which, by their [[StatusQuoIsGod predictable nature]], indicate how the work ends, don't count either: the audience already knows that the good guys will win, that Characters/{{Batman|TheCharacter}} will survive to fight another day, same-bat-time-same-bat-channel, yes; but the ending isn't canonically established; theoretically, Creator/AdamWest could die at the end of an episode, although realistically [[LikeYouWouldReallyDoIt we know he won't]].
+* CaptainObviousReveal is when the majority of the audience unintentionally figures out the twist before it's revealed, usually because the creator dropped too many [[{{Foreshadowing}} hints]].
+
+Authors might cheat with this a bit (or ''a lot''), either by having the "ending" shown be [[ProphecyTwist context-sensitive and open to an entirely different interpretation]] as the audience gets to know the set up, or with an outright TwistEnding by having the "end" shown in a HowWeGotHere like fashion be only the first 10 or 15 minutes, and ending much differently than is likely.
+
+Or the whole thing isn't about ''what'' happens at the end, but ''how'' it happens. The Whodunnit becomes a [[ReverseWhodunnit Howdunnit]], and so on.
+
+Can also be used to crank DramaticIrony up.
+
+HistoricalFiction is tied to this trope, since history isn't changing (unless the author pulls a WrittenByTheWinners and claim that the events as portrayed in his work is what "really" happened). It's also very common in well-established franchises especially [[{{Prequel}} prequels]] set before the events of another work such as Episodes I-III of ''Franchise/StarWars''.
+
+Compare ExternalRetcon, where the audience is expected to be familiar with an entire ''existing'' story.
+
+DoomedByCanon is a SubTrope of this, and deals with prequel characters and their attempts to either take out the main cast of the original story or survive to the end, attempts which we know are doomed because of the original story. FramingDevice entails this to a certain extent, as any character alive to tell or hear the tale must have survived, and the setting may also hint.
+
+In almost any story that has a {{narrator}}, you can safely assume the narrator will live. For similar reasons, in any ScrapbookStory, you can safely assume that somebody must have been able to put together the scrapbook. There are some deliberate subversions, of course, [[PosthumousNarration including ones where a ghost is narrating or scrapbooking]].
+
+OhAndXDies and DidYouDie are also subtropes.
+
+This is OlderThanFeudalism. Everyone who heard Creator/{{Homer}} (no, the other one) sing already knew that Troy falls and Achilles and Hector both die; nobody walked out of Creator/{{Sophocles}}'s play saying, "Dude, he married his ''mom?''" There's a long, long tradition of retelling the story everyone knows.
+
+HistoricalInJoke is sometimes like this, but sometimes [[NotHisSled subverts it]].
+
+As a warning, '''''this entry contains spoilers both marked and unmarked'''''. Since several tropes can twist into a {{Subverted|Trope}} example, ''tread carefully''.
+
+[[noreallife]]

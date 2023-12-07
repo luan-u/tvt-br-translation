@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>''"[[BlackComedy Pain is funny.]] Therefore, more pain must be even funnier!"''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T161648Z" creationid="Luan" creationdate="20231029T161625Z">
+        <seg>''"[[Br/HumorNegro A dor é engraçada.]] Portanto, mais dor deve ser ainda mais engraçada!"''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(And, in a stroke of genius, [[ShapedLikeItself the word "wisecrack" is itself a wisecrack]], carrying the sarcastic connotation of "Oh, yeah, you're a real Creator/{{Socrates}}, smart guy.")</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140533Z" creationid="Luan" creationdate="20231029T135456Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>----
+!!Examples:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163742Z" creationid="Luan" creationdate="20231029T163742Z">
+        <seg>----
+!!Exemplos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character prone to gnomic, sarcastic, sometimes bitter, occasionally whimsical asides.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T133742Z" creationid="Luan" creationdate="20231029T133742Z">
+        <seg>Um personagem propenso a comentários sarcásticos ocasionalmente ácidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A common role for a StraightMan.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140713Z" creationid="Luan" creationdate="20231029T140713Z">
+        <seg>Um papel comum para o Br/HomemComum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A sub-trope of this is GradeSystemSnark.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T135556Z" creationid="Luan" creationdate="20231029T135556Z">
+        <seg>Um sub-tropo disso é o Br/SarcasticoComSistemaDeNotas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also often signaled by an increase in [[{{Slapstick}} wacky humor]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180648Z" creationid="Luan" creationdate="20231101T180648Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At its most extreme it can [[CharacterDerailment turn]] a previously vibrant cast into {{Flat Character}}s and remove a lot of the show's appeal or even cause fans to abandon the work entirely.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180023Z" creationid="Luan" creationdate="20231101T180023Z">
+        <seg>No ponto mais extremo isso pode causar um Br/DescarrilamentoDePersonagem, fazendo com que cada membro do elenco se torne um Br/PersonagemPlano, o que remove muito da atratividade do show e pode fazer com que os fãs o abandonem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compare ActuallyPrettyFunny, when even the target of the joke concedes the humor of the situation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163708Z" creationid="Luan" creationdate="20231029T163708Z">
+        <seg>Comparar com Br/NaVerdadeFoiEngracado, quando até o alvo da piada reconhece o humor da situação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compare TheSnarkKnight, LittleMissSnarker, {{Cuckoosnarker}}, WeaselMascot, FirstPersonSmartass, ServileSnarker, GentlemanSnarker, SilentSnarker, DisabledSnarker, MentorInSourArmor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140126Z" creationid="Luan" creationdate="20231029T140126Z">
+        <seg>Comparar com Br/CavaleiroSarcastico, ??? LittleMissSnarker, ??? {{Cuckoosnarker}}, ??? WeaselMascot, Br/EngracadinhoEmPrimeiraPessoa, Br/SarcasticoServil, Br/SarcasticoCavalheiro, Br/SarcasticoSilencioso, Br/SarcasticoPCD e ??? MentorInSourArmor. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compare {{Bowdlerise}} (where a work is edited to remove material that can be considered questionable), {{Disneyfication}} (making a story more suitable for children by toning down the darker elements), MenaceDecay (where a bratty child character becomes less of a troublemaker over time), BadassDecay (where audiences see a cool character as becoming not as impressive and formidable as they used to be), ReverseCerebusSyndrome (where an initially dark work becomes lighter in tone over time), SugarWiki/{{WAFF}} (when a work's whole purpose is to appeal to the audience by being cute and endearing), AdaptationalAngstDowngrade (where an adaptation changes a character's backstory to remove the tragic parts), TamerAndChaster (where a work reduces the amount of nudity and sexual content) and PacifiedAdaptation (where the adaptation has less violence).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T182601Z" creationid="Luan" creationdate="20231101T182005Z">
+        <seg>Comparar com ??? {{Bowdlerise}} (quando uma obra é editada para remover material que pode ser considerado questionável, Br/{{Disneyficacao}} (tornar uma história mais apropriada para crianças ao atenuar os elementos mais pesados), ??? MenaceDecay (onde uma criança problemática se torna menos problemática com o tempo), Br/DecaimentoDoFodao (onde o público percebe um personagem maneiro como não sendo tão impressionante e formidável quanto costumavam ser), ??? ReverseCerebusSyndrome (uma obra inicialmente séria se torna mais leve com o tempo), ??? AdaptationalAngstDowngrade (uma adaptação muda a história de fundo de um personagem para remover os elementos trágicos), Br/MaisMansoECasto (quando uma obra reduz a quantidade de nudez e conteúdo sexual) e Br/AdaptacaoPacificada (quando a adaptação possui menos violência).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contrast DarkerAndEdgier (where a work is changed to be darker and more serious in tone), BloodierAndGorier (where the work features more graphic violence than usual), CerebusSyndrome (where a work defaults to becoming darker in tone over time), AdaptationalAngstUpgrade (where an adaptation alters a character's history so their life is more miserable than it was in the source material) and HotterAndSexier (where a work increases the amount of nudity and sexual content).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T182305Z" creationid="Luan" creationdate="20231101T182305Z">
+        <seg>Contrastar com Br/MaisSombrioEPesado (quando uma obra é alterada para receber um tom mais pesado e sério), ??? BloodierAndGorier (quando a obra apresenta mais violência e detalhes gráficos que o usual), Br/SindromeDeCerebus (onde uma obra vai se tornando mais séria ao longo do tempo), ??? AdaptationalAngstUpgrade (onde uma adaptação altera a história do personagem para que sua vida passe a ser mais miserável do que antes) e Br/MaisAtraenteESexy (onde uma obra aumenta a quantidade de nudez e conteúdo sexual).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ExecutiveMeddling may of course be at fault; "We gotta appeal to the kids!" But other reasons include trying to be more mainstream, to change an unpopular run, to appeal to another demographic, to recognize and dispel TooBleakStoppedCaring etc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180937Z" creationid="Luan" creationdate="20231101T180937Z">
+        <seg>A Br/InterferenciaExecutiva, pode, naturalmente, ter culpa nisso: "Precisamos que as crianças queiram ver isso!" Mas outros motivos incluem tentar se tornar mais populares, tentar alcançar outras demografias, reconhecer e tratar ??? TooBleakStoppedCaring, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expect plenty of SnarkToSnarkCombat if and when two of these meet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T141315Z" creationid="Luan" creationdate="20231029T141315Z">
+        <seg>Espere muito Br/CombateEntreSarcasticos se e quando dois deles se encontram.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expect them to resort frequently to BrutalHonesty.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140810Z" creationid="Luan" creationdate="20231029T140810Z">
+        <seg>Espere que eles façam uso frequente de Br/HonestidadeBrutal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finally, if an adult or more serious TV show or movie has a spin-off aimed at children, this can be the result.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T175745Z" creationid="Luan" creationdate="20231101T175745Z">
+        <seg>Por fim, se um show ou filme que é mais sério ou foi pensado para adultos recebe uma obra derivada que almeja crianças, este pode ser o resultado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For instance, the BoardingSchoolOfHorrors in ''Radio/BleakExpectations'' would be abusive if the staff beat the students and deprived them of food.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163605Z" creationid="Luan" creationdate="20231029T163605Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the (mostly) non-vulgar variant, see OverlyLongGag.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163730Z" creationid="Luan" creationdate="20231029T163730Z">
+        <seg>Para a variante (geralmente) não vulgar, ver Br/PiadaExcessivamenteLonga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, if a show goes far enough with its violence, it may end up crossing the line not once but ''twice'', as it goes around the planet and crosses it again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162011Z" creationid="Luan" creationdate="20231029T162011Z">
+        <seg>No entanto, se um show vai muito longe com a violência, ele pode passar do ponto não uma, mas ''duas'' vezes, como se desse a volta no planeta e passasse de novo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If it shoehorns BlackAndWhiteMorality into the work and makes everyone clear heroes and villains, then expect people to complain about the loss of subtlety in the setting, or feel like the writers are talking down to them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180209Z" creationid="Luan" creationdate="20231101T180209Z">
+        <seg>Se a Br/MoralidadePretaEBranca for encaixada à força na obra para tornar todo mundo claramente um herói ou um vilão, pode esperar que as pessoas reclamem sobre a perda de sutilieza na ambientação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If there are too many of these, you might be in a WorldOfSnark.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140839Z" creationid="Luan" creationdate="20231029T140839Z">
+        <seg>Se houverem muitos desses, pode ser que você esteja na Br/{{Sarcasmolandia}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this happens completely by accident, that's SpringtimeForHitler.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163322Z" creationid="Luan" creationdate="20231029T163322Z">
+        <seg>Se isso acontecer completamente por acidente, então é Br/PrimaveraParaHitler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In fact, it was in 1933 that the word "wisecrack" (the Snarker's most trusted sidearm) entered English-language dictionaries.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140539Z" creationid="Luan" creationdate="20231029T135443Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In most cases, it is implied that the snarker would make a good leader, strategist, or consultant given their ability to [[GenreSavvy instantly see the flaws in a constructed plan]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T134717Z" creationid="Luan" creationdate="20231029T134717Z">
+        <seg>Na maioria dos casos, fica implícito que o sarcástico daria um bom líder, estrategista ou consultor, dada a habilidade dele de [[Br/LigadoNoGenero instantaneamente ver as falhas em um plano]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In music, this may result in an artist merely recording a SurprisinglyGentleSong, or it could lead to the artist having a complete GenreShift to a lighter genre.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180312Z" creationid="Luan" creationdate="20231101T180312Z">
+        <seg>Na música, isso pode resultar no artista meramente gravando uma Br/MusicaSurpreendentementeCalma ou no artista fazendo uma completa Br/MudancaDeGenero para algo mais leve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In other cases, the Deadpan Snarker resorts to sarcasm because they're the OnlySaneMan.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T134857Z" creationid="Luan" creationdate="20231029T134857Z">
+        <seg>Em outros casos, o Sarcástico Sério recorre ao sarcamos porque eles são o Br/UnicoHomemSao. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It could be a deliberate throwback to a pre-{{Cerebus Syndrome}} incarnation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T175618Z" creationid="Luan" creationdate="20231101T175618Z">
+        <seg>Pode também ser um retorno planejado para uma época de antes de uma Br/SindromeDeCerebus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It just depends on who's behind the product and how they execute it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T181011Z" creationid="Luan" creationdate="20231101T181011Z">
+        <seg>Apenas depende de quem está por trás do produto e como isso é executado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It usually depends on who creates/writes said material as well as how subtly they make the transition.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180806Z" creationid="Luan" creationdate="20231101T180806Z">
+        <seg>Isso depende de quem cria/escreve o material assim também como a sutileza com a qual se faz a transição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's common among narrators, making them into a LemonyNarrator.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T141435Z" creationid="Luan" creationdate="20231029T141435Z">
+        <seg>É comum entre narradores, e isso os torna um tipo de ??? LemonyNarrator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Just like its brother extreme, Lighter and Softer can leave just as bad of a taste in longtime fans' mouths as Darker and Edgier if handled poorly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T175834Z" creationid="Luan" creationdate="20231101T175834Z">
+        <seg>Assim como com seu irmão mais extremo, Mais Animado e Leve pode deixar um gosto ruim entre os fãs se for usado de maneira ruim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Just like with DarkerAndEdgier, please keep in mind that Administrivia/TropesAreTools.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180717Z" creationid="Luan" creationdate="20231101T180717Z">
+        <seg>Assim como em Br/MaisSombrioEPesado, tenha em mente que BrAdministrivia/TroposSaoFerramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>May result in OffingTheMouth.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T141326Z" creationid="Luan" creationdate="20231029T141326Z">
+        <seg>Pode resultar em ??? OffingTheMouth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>May wear JadeColoredGlasses.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140750Z" creationid="Luan" creationdate="20231029T140750Z">
+        <seg>Pode usar Br/OculosCorDeJade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Missing examples.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T182329Z" creationid="Luan" creationdate="20231101T182329Z">
+        <seg>Br/ExemplosEmFalta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More often than not, their innate snarkiness is the only thing preventing the other characters from comprehending this for themselves.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T134806Z" creationid="Luan" creationdate="20231029T134806Z">
+        <seg>No entanto, o sarcasmo inerente a eles costuma ser a única coisa que impede os outros personagens de compreenderem isso por si mesmos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note that due to the definition evolving, the "Deadpan" part of the title has gradually become TheArtifact and a deadpan delivery is no longer a necessary part of the trope.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T135144Z" creationid="Luan" creationdate="20231029T135144Z">
+        <seg>Devido à constante evolução da definição, a parte "séria" do título está gradualmente se tornando Br/OArtefato e uma fala séria já não é uma parte necessária do tropo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Of course, this form of the trope is just as subjective as the last, so be careful what you put down as an example.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163240Z" creationid="Luan" creationdate="20231029T163240Z">
+        <seg>É claro, esta forma de tropo é muito subjetiva, por isso atenção com o que você coloca nos exemplos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Often found alongside DenserAndWackier (when the work is made sillier and more gag-oriented than what came before), YoungerAndHipper (retooling a work so that the characters are younger to appeal to younger demographics) and KinderAndCleaner (where profanity is toned down if not removed outright).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180506Z" creationid="Luan" creationdate="20231101T180506Z">
+        <seg>Costuma ser encontrado junto com Br/MaisDensoEEstranho (quando a obra é tornada mais orientada à piadas aleatórias do que antes), Br/MaisJovemEManeiro (remodelando uma obra para que os personagens fiquem mais jovens, a fim de conseguir popularidade com um público mais novo) e Br/MaisGentilELimpo (quando as profanidades são reduzidas ou totalmente removidas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overdoing it on one character may result in a {{Jerkass}}; even when done in sufficient moderation, however, the character still tends to rely on a certain amount of JerkassDissonance (since, well, the audience would probably be less amused by the Deadpan Snarker's biting wit if ''they'' were the ones on the receiving end of it).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T141107Z" creationid="Luan" creationdate="20231029T141107Z">
+        <seg>O excesso de sarcasmo em um único personagem pode resultar em um Br/{{Babaca}}; no entanto, mesmo que isso seja feito com moderação o personagem tende a se apoiar em uma certa quantidade de Br/DissonanciaDeBabaca (até porque o público acharia o sarcasmo menos interessante se eles estivessem no lugar de quem recebe os comentários). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Part of the SlidingScaleOfComedyAndHorror.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163327Z" creationid="Luan" creationdate="20231029T163327Z">
+        <seg>Parte da Br/EscalaMovelDeComediaETerror.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rather than cross the line a second time, the show [[MemeticMutation makes a]] WrongTurnAtAlbuquerque and breaks the audience's WillingSuspensionOfDisbelief.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162539Z" creationid="Luan" creationdate="20231029T162539Z">
+        <seg>Ao invés de cruzar a linha uma segunda vez, o show faz uma Br/CurvaErradaEmAlbuquerque e quebra a Br/SuspensaoVoluntariaDaDescrenca do público. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sadly, that's not the case.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T161725Z" creationid="Luan" creationdate="20231029T161725Z">
+        <seg>Infelizmente, não é esse o caso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See also BlackComedy, BloodyHilarious, RefugeInAudacity, VulgarHumor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163300Z" creationid="Luan" creationdate="20231029T163300Z">
+        <seg>Consultar também Br/HumorNegro, ??? BloodyHilarious, Br/RefugioNaAudacia, Br/HumorVulgar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See also NonActionSnarker, SnarkyNonhumanSidekick, CatsAreSnarkers, TallDarkAndSnarky, SurroundedByIdiots, SiliconSnarker, and SarcasticDevotee.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140629Z" creationid="Luan" creationdate="20231029T140528Z">
+        <seg>Consultar também ??? NonActionSnarker, ??? SnarkyNonHumanSidekick, Br/GatosSaoSarcasticos, Br/AltoTrevosoESarcastico, Br/CercadoPorIdiotas e Br/DevotoSarcastico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shows attempting to be DarkerAndEdgier with their humor this way straddle the line between sadism and comedy, and it's easy to make a mistake and fall on the wrong side of the S.S.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162257Z" creationid="Luan" creationdate="20231029T162257Z">
+        <seg>Shows que tentam se enquadrar como Br/MaisSombrioEPesado com seu humor podem ficar bem em cima do muro entre sadismo e comédia, e é muito fácil cometer um erro e cair do lado errado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Similar to SoBadItsGood, but done quite intentionally.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162050Z" creationid="Luan" creationdate="20231029T162050Z">
+        <seg>É similar a Br/TaoRuimQueEBom, só que feito de maneira intencional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes overlaps with GenreSavvy and NoSenseOfHumor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140652Z" creationid="Luan" creationdate="20231029T140652Z">
+        <seg>Às vezes se sobrepõe a Br/LigadoNoGenero e Br/SemSensoDeHumor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes the Deadpan Snarker is shown to be incapable of avoiding sarcasm, due to their insecurity about expressing any genuine thought or feeling, and their fear of withdrawing from the cynical position and protection.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T135248Z" creationid="Luan" creationdate="20231029T135248Z">
+        <seg>Às vezes o Sarcástico Sério é mostrado como incapaz de evitar sarcasmo devido à sua insegurança em expressar qualquer pensamento ou sentimento genuínos junto com o receio de sair de uma posição de proteção baseada no cinismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Still, others take the over-the-top so over the top that what was before unbelievable garbage is now heart-wrenching, adrenaline-rushing, undiluted '''[[SugarWiki/MomentOfAwesome AWESOME]]'''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163222Z" creationid="Luan" creationdate="20231029T163222Z">
+        <seg>Ainda assim, outros exageram tanto no exagero que aquilo que antes era só baboseira sem sentido agora causa uma onda de adrenalina em um puro momento de '''[[BrWikiAlegre/MomentoFantastico ISSO FOI DEMAIS]]'''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Take action scenes, for example: some shows try to keep action scenes realistic in order to seem believable, while others go so far over the top that it breaks the audience's WillingSuspensionOfDisbelief.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163020Z" creationid="Luan" creationdate="20231029T162928Z">
+        <seg>Em cenas de ação, por exemplo, alguns shows tentam manter essas cenas realistas para passar credibilidade, enquanto outros exageram tanto nelas que acabam por quebrar a Br/SuspensaoVoluntariaDaDescrenca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tends to be shot a DeathGlare when they go too far (and probably isn't without one of their own, either).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T135013Z" creationid="Luan" creationdate="20231029T135013Z">
+        <seg>Tende a receber um Br/OlharDaMorte quando eles vão longe demais (e provavelmente possuem um para distribuir também).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That they use the boys as ammo for artillery practice and make them play a game where the smallest boy is chosen as the ball, kicked and punched across the field, and finally has his head shoved in a bucket of manure to score a goal is just silly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163602Z" creationid="Luan" creationdate="20231029T163602Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That's... brilliant]]." [[note]][[ComicallyMissingthePoint Shouldn't the planes be white though?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T161346Z" creationid="Luan" creationdate="20231029T161346Z">
+        <seg>Isso é... brilhante]]."[[note]][[Br/ComicamentePerdendoOPonto Os aviões não deveriam ser brancos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Deadpan Snarker exists to deflate pomposity, [[LampshadeHanging point out the unlikelihood of]] [[ZanyScheme certain]] [[GambitRoulette plans]], and deliver funny lines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T134302Z" creationid="Luan" creationdate="20231029T134302Z">
+        <seg>O Sarcástico Sério existe para acabar com a pomposidade, [[Br/LancandoLuz apontar a improbabilidade de]] certos [[Br/RoletaDeGambitos planos]] e dizer frases engraçadinhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The HilariouslyAbusiveChildhood depends on this trope, piling misfortune on misfortune until it becomes so ridiculous it's funny.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163559Z" creationid="Luan" creationdate="20231029T163559Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Lighter And Softer run can end up being positively remembered for years to come.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180957Z" creationid="Luan" creationdate="20231101T180957Z">
+        <seg>A versão Mais Animada e Leve pode acabar sendo lembrada positivamente por muitos anos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The light twin of DarkerAndEdgier, when something is {{Tone Shift}}ed to be more family friendly and frothy than the original source.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T175424Z" creationid="Luan" creationdate="20231101T175424Z">
+        <seg>O gêmeo leve de Br/MaisSombrioEPesado, quando algo sofre uma Br/MudancaDeTom para se tornar mais fácil de assistir em família do que o material original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The line separating ''Film/TheThreeStooges''-style painful fun from outright villainous {{squick}}y sadism varies from person to person but is definitely there; crossing it makes one fan's ''[[TheChewToy "Nyuk nyuk!"]]'' another fan's GuiltyPleasures.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T161936Z" creationid="Luan" creationdate="20231029T161936Z">
+        <seg>A linha que separa o estilo "diversão com vergonha alheia" no estilo BrFilme/OsTresPatetas do sadismo vilanesco varia de pessoa pra pessoa, mas definitivamente está presente. Cruzar essa linha faz com que o saco de pancadas de um seja a satisfação de outro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then why does no one feel like cheering?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231028T161632Z" creationid="Luan" creationdate="20231028T161632Z">
+        <seg>Então porque ninguém está comemorando?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This can also apply to things other than violence for [[RuleOfFunny funny's sake]]; any time a little exaggeration would provoke a negative reaction, but exaggeration is fine, that's crossing the line twice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162918Z" creationid="Luan" creationdate="20231029T162918Z">
+        <seg>Isso pode se aplicar também a outras coisas que não sejam violência, mas que são feitas Br/PorqueEEngracado: sempre que um pouco de exagero poderia provocar uma reação negativa, mas o excesso dele é ok, então isso é passar do ponto duas vezes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This can either happen to a show over time, or it can be the result of deliberate {{Executive Meddling}}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T175459Z" creationid="Luan" creationdate="20231101T175459Z">
+        <seg>Isso pode acontecer com um show através do tempo ou pode ser um caso de Br/InterferenciaExecutiva deliberada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This character does evil in such an over-the-top, outrageous fashion that the audience stops feeling any moral qualms, because it's so over-the-top and out of line that it becomes ''hilarious'' instead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163621Z" creationid="Luan" creationdate="20231029T163621Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is also the way the HeroicComedicSociopath holds the audience's hearts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163619Z" creationid="Luan" creationdate="20231029T163619Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This isn't as easy as it sounds.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162058Z" creationid="Luan" creationdate="20231029T162058Z">
+        <seg>Isso não é tão fácil quanto parece.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This may turn them into a StepfordSnarker.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T135322Z" creationid="Luan" creationdate="20231029T135322Z">
+        <seg>Isso pode transformar eles em um ??? StepfordSnarker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This second crossing takes the violence from sick back to funny in its ridiculous extremes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162039Z" creationid="Luan" creationdate="20231029T162039Z">
+        <seg>Essa segunda passada de ponto faz a violência passar de repugnante para engraçada nos seus ridículos extremos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus goes the logic in a lot of comedy shows and a few adult cartoons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T161719Z" creationid="Luan" creationdate="20231029T161719Z">
+        <seg>Essa é a lógica em muitos shows de comédia e de alguns desenhos animados para adultos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, a Lighter And Softer reboot may often follow an incarnation which made a point of being Darker and Edgier.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T175658Z" creationid="Luan" creationdate="20231101T175658Z">
+        <seg>Assim sendo, um recomeço Mais Animado E Leve pode se seguir a uma versão que foi um caso de Mais Sombrio  e Pesado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tightrope.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162301Z" creationid="Luan" creationdate="20231029T162301Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try not to confuse the dialogue with BuffySpeak.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T141349Z" creationid="Luan" creationdate="20231029T141349Z">
+        <seg>Tente não confundir o diálogo com Br/DialetoCoisado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Typically the [[SlidingScaleOfIdealismVersusCynicism most cynical]] [[SourSupporter supporting character]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T134514Z" creationid="Luan" creationdate="20231029T134514Z">
+        <seg>Tipicamente é o [[Br/EscalaMovelDeIdealismoVersusCinismo mais cínico]] [[Br/ApoiadorAcido personagem de apoio]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Victory, at last!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231028T161616Z" creationid="Luan" creationdate="20231028T161616Z">
+        <seg>Vitória, enfim!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When it succeeds in being offensive but not so much at comedy, it's DudeNotFunny.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163418Z" creationid="Luan" creationdate="20231029T163418Z">
+        <seg>Quando ele consegue ser ofensivo mas não tão cômico assim, é Br/CaraNaoFoiLegal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When something is lighter and softer than its initial source material, it doesn't mean it's automatically worse.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180738Z" creationid="Luan" creationdate="20231101T180738Z">
+        <seg>Quando algo é mais animado e leve em relação ao material original, isso não significa que é automaticamente pior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this trope ''isn't'' taken to extreme, over-the-top levels, it's mere ComedicSociopathy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163357Z" creationid="Luan" creationdate="20231029T163357Z">
+        <seg>Quando este tropo ''não é'' levado ao extremo exagerado, é apenas Br/SociopatiaComica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While the Snarker has existed (in both fiction and RealLife) since time immemorial, its most contemporary incarnation emerged in the early 1930s with the new popularity of sound cinema and the rise of "zinger" comedy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T135436Z" creationid="Luan" creationdate="20231029T135436Z">
+        <seg>Apesar de o Sarcástico ter existido (tanto na ficção quanto na Br/VidaReal) desde tempos imemoriais, a versão contemporânea deles emergiu no começo dos anos 1930 com a popularidade do cinema com som. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>White moves first.]][[/note]]]]
+-&gt;''"I may disapprove of a movie for going too far, and yet have a sneaky regard for a movie that goes much, much farther than merely too far."''
+--&gt;-- '''Creator/RogerEbert''' on ''Film/ShootEmUp''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T161618Z" creationid="Luan" creationdate="20231029T161352Z">
+        <seg>O branco se move antes.]][[/note]]]]
+-&gt;''"Eu posso reprovar um filme por ir longe demais, mas ainda assim tenho uma sutil consideração por um filme que vai muito, muito além do que apenas longe demais."''
+--&gt;-- '''BrCriador/RogerEbert''' sobre o filme ''BrFilme/MandandoBala''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why is the atmosphere so heavy with melancholy?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231028T161649Z" creationid="Luan" creationdate="20231028T161649Z">
+        <seg>Porque a atmosfera está tão pesada com melancolia?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[Administrivia/NoRealLifeExamplesPlease Now, as for real life examples... ]] [[SelfDemonstratingArticle Oh, yeah, right.]] '''[[SelfDemonstratingArticle Someone]]''' [[SelfDemonstratingArticle up there has got no sense of humour.]]
+[[noreallife]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T141730Z" creationid="Luan" creationdate="20231029T141730Z">
+        <seg>[[BrAdministrivia/SemExemplosDaVidaRealPorFavor Agora, quanto a exemplos da vida real... Ah é, né. '''Alguém''' por aqui não tem senso de humor.]][[noreallife]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[MoralGuardians Some people]] just don't have a second line to cross in their minds, and will [[DudeNotFunny dislike]] any turn into sadism or vulgarity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162642Z" creationid="Luan" creationdate="20231029T162642Z">
+        <seg>[[Br/GuardioesDaMoral Algumas pessoas]] simplesmente não possuem uma segunda linha a se cruzar em suas mentes, e vão [[Br/CaraNaoFoiLegal rejeitar]] qualquer curva em direção ao sadismo ou vulgaridade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[quoteright:260:[[VideoGame/{{Diablo}} https://static.tvtropes.org/pmwiki/pub/images/diablo_1_3.png]]]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T175318Z" creationid="Luan" creationdate="20231101T175256Z">
+        <seg>[[quoteright:260:[[BrVideoGame/{{Diablo}} https://static.tvtropes.org/pmwiki/pub/images/diablo_1_3.png]]]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[quoteright:350:[[TabletopGame/{{Chess}} https://static.tvtropes.org/pmwiki/pub/images/rsz_chess_set_2855.jpg]]]]
+[[caption-width-right:350:"[[UsefulNotes/TheWarOnTerror That's... wrong.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T161256Z" creationid="Luan" creationdate="20231029T161223Z">
+        <seg>[[quoteright:350:[[BrJogoDeMesa/{{Xadrez}} https://static.tvtropes.org/pmwiki/pub/images/rsz_chess_set_2855.jpg]]]]
+[[caption-width-right:350:"[[BrNotasUteis/AGuerraAoTerror Isso é... errado.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

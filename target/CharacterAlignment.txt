@@ -1,0 +1,54 @@
+[[WMG:[[center:'''[-Existem itens subjetivos e existem itens ''como esse aqui''. Ainda que ''você'' acredite que uma obra se encaixa aqui, e ainda que você esteja certo, as pessoas tendem a ter opiniões fortes a respeito disso.\\
+Por favor mantenha isso longe da página da obra.-]''']]]]
+
+[[WMG:[[center:[-'''Character Alignment'''\\
+Br/LealEBom | Br/NeutroEBom | Br/CaoticoEBom \\
+Br/LealENeutro | Br/NeutroPuro | Br/CaoticoENeutro \\
+Br/LealEMau | Br/NeutroEMau | Br/CaoticoEMau -]]]]]
+  
+
+Alinhamento de personagem, ou tendência de personagem, é um jeito simples de se referir à percepção ética e moral de um personagem sobre [[BrFranquia/OGuiaDoMochileiroDasGalaxias a vida, o universo e tudo o mais]]. Muitos jogos de RPG usam algum tipo de sistema de alinhamento como um Br/MedidorDeKarma, um "ideal" que determinado personagem deve seguir, ou apenas uma descrição breve dos personagens. Alguns jogadores menosprezam o alinhamento de personagem por o considerarem como muletas para "interpretação real", e em acordo alguns sistemas não possuem alinhamentos de personagem. Espere que uma ambientação que usa Alinhamentos de Personagem faça uso frequente de tramas do tipo Br/OrdemContraCaos e Br/EquilibrioEntreOBemEOMal. 
+
+O sistema de alinhamento/tendências que a maioria dos jogadores conhece é aquele usado em ''BrJogoDeMesa/DungeonsAndDragons'', que aparece com algumas variações.
+
+As edições originais de ''BrJogoDeMesa/DungeonsAndDragons'' se basearam nos trabalhos de BrCriador/PoulAnderson e BrCriador/MichaelMoorcock para estabelecerem dois eixos:
+
+* '''Eixo ético''': Leal (ou ordeiro), Neutro e Caótico -- isto é: ordem, equilíbrio e caos. Leal ou Ordeiro (ordem) representa a honra e a obediência à lei: Caótico (caos) representa a liberdade pessoal sem consideração pela lei, e Neutro (equilíbrio) é uma posição intermediária que não se importa ou que busca um meio termo entre as duas pontas.
+* '''Eixo moral''': Bom, Neutro e Mau. O Bom foca em melhorar o bem-estar de outros; o Mal foca em si próprio, mesmo que às custas dos outros; e o Neutro serve um papel similar ao do eixo ético, mas tende a favorecer amigos e família.
+
+'''A combinação dos dois eixos permite que os personagens se enquadrem em nove alinhamentos possíveis, a seguir:
+
+[[index]]
+
+* '''Br/LealEBom''': Honrados e bondosos, personagens do tipo Leal e Bom acreditam que o trabalho em conjunto e adesão a um código de conduta torna a vida melhor para todos. Os tipos heroicos podem se levantar para lutar em nome da verdade e da justiça, enquanto o povo comum vai apenas pagar os impostos em dia, manter a palavra e fazer trabalho voluntário aos fins de semana. Os tipos realmente extremos correm o risco de se tornarem idealistas demais. 
+
+* '''Br/NeutroEBom''': Doçura e luz. Fazer o bem é mais importante do que seguir a lei, mas a lei não é má. Não é muito envolvido na disputa da Br/OrdemContraCaos; preocupa-se com a bondade moral mas não tem a vontade de impôr a moral sobre os outros. Lugares do tipo Br/NeutroEBom podem ser locais ótimos para se viver, mas a depender do quão idealista ou cínica a ambientação, é, eles podem apenas estar se iludindo com excesso de idealismo.
+
+* '''Br/CaoticoEBom''': [[Br/EspiritoRebelde Rebeldes]] e espíritos livres que estereotipicamente se opõem a tiranos e outros tipos opressores. Eles tendem a acreditar que coisas como ordem, disciplina e [[Br/HonraAntesDaRazao honra]] podem ficar no caminho de fazer o bem. Sua natureza livre e do tipo que fica entediado fácil significa que se o governo local não for considerado opressor o suficiente, eles podem simplesmente ir atrás de um lugar com um governo que é.
+
+* '''Br/LealENeutro''': Se é contra as regras, é ruim, não importa o que seja. Personagens leais e neutros acreditam que ordem é mais importante que bondade, empatia e compreensão. Geralmente muito honrados, e se eles [[Br/EuDeiMinhaPalavra deram sua palavra]], eles vão seguir com a promessa mesmo que isso piore as coisas. Apesar de não tentarem usar o sistema para explorar outros, que nem personagens leais e maus, eles podem ser surpreendentemente indiferentes se as pessoas forem esmagadas pelas engrenagens da justiça. Personagens desse tipo costumam aparecer em uma situação de Br/OrdemContraCaos onde nenhum dos dois lados está estabelecido como certo.
+
+* '''[[Br/NeutroNeutro Neutro Puro]]''': Às vezes referenciado somente como "Neutro", ou como "[[Br/DepartamentoDeRedundanciaRedundante Neutro Neutro]]".  Aparece em duas variantes: [[Br/EquilibrioEntreBemEMal aquele que mantém o equilíbrio]] ou [[Br/SindromeDoTranseunte aquele que tá nem ai]]. Esse tipo pode às vezes ser um personagem burro demais para fazer distinções, mas também pode ser Br/OCoringa. Personagens inteligentes que são verdadeiramente neutros usam muito a lógica em relação às abordagens de vida, incluindo a moral.
+
+* '''Br/CaoticoENeutro''': Personagens caóticos e neutros valorizam a liberdade e não ligam muito para regras ou moralidade. Eles são livres, descuidados e egoístas, mas não insensíveis ou sadistas a ponto de serem considerados maus. Os exemplos mais extremos agem de maneira aleatória. Quando alinhamentos do mal não são permitidos, o Caótico e Neutro costuma ser usado por jogadores em Br/JogosDeMesa como uma desculpa para fazerem o que quiserem, e por isso costumam ser proibidos pelo tipo de Br/MestreDoJogo que também proíbe alinhamentos do mal.  Em uma situação de Br/OrdemContraCaos, podem ser os mocinhos ou os vilões. 
+
+* '''Br/LealEMau''': O mal organizado com um grande plano. Costumam ser membros do [[Br/OImperio império]], usando a organização, regras e honra em própria vantagem e impondo as próprias vontades sobre os outros ao obter poder dentro do sistema. Sejam eles um Br/DemonioNobre, um Br/CaraDeUmaRacaGuerreiraOrgulhosa ou simplesmente alguém que acredita em manter a ordem [[Br/UtopiaJustificaOsMeios a todo custo]], eles não devem ser subestimados.
+
+* '''Br/NeutroEMau''': Os [[Br/PragmaticoDoMal pragmáticos]] contumazes, personagens do tipo Neutro Mau não se deixam limitar por seus impulsos ou por regras de lei e honra. Eles só se interessam em uma coisa: [[Br/TudoGiraAoMeuRedor em si mesmos]]. Eles fazem o que quer que seja mais prudente para chegar ao objetivo desejado, não importa quem eles precisem machucar ao longo do caminho.
+
+* '''Br/CaoticoEMau''': Farão o que quiserem fazer, especialmente se isso fere outras pessoas, e sem nenhuma consideração pelas regras. Enquanto uma pessoa do tipo Neutro e Mau trabalha dentro do sistema até o momento em que é conveniente não trabalhar, uma pessoa do tipo caótico com frequência trabalha por fora do sistema. Ao contrário do que alguns acreditam, o tipo Caótico e Mau não necessariamente significa matança e destruição exageradas e desnecessárias. Ao invés, eles usualmente consideram o que é mais prático em determinada situação.
+[[/index]]
+
+Pode ser conveniente pensar nos alinhamentos arranjados em uma tabela 3 x 3 com os eixos morais e éticos nas laterais e os possíveis alinhamentos ao redor de Br/VerdadeiroNeutro, assim: 
+
+||align=center border=1 width=75%
+|| '''''Alinhamento''''' || ''Leal'' || ''Neutro'' || ''Caótico'' ||
+|| ''Bom'' || Leal e Bom || Neutro e Bom || Caótico e Bom ||
+|| ''Neutro'' || Leal e Neutro || Neutro Puro || Caótico e Neutro ||
+|| ''Mau'' || Leal e Mau || Neutro e Mau || Caótico e Mau ||
+
+O alinhamento de qualquer personagem em particular é geralmente questão de opinião em obras que não sejam Br/JogosDeMesa, devido ao amplo espaço disponível para Br/InterpretacaoAlternativaDePersonagem, desenvolvimento de personagem, etc. No entanto, isso não impede os fãs de RPG de discutirem quais os alinhamentos de personagem em outras obras. 
+
+'''Como regra geral, não adicione Alinhamento de Personagem para qualquer obra onde isso não apareça em Br/{{canone}}, pois isso levará a uma Br/GuerraDeEdicoes.  Em particular, [[BrAdministrivia/SemExemplosDaVidaRealPorFavor não devem haver exemplos da vida real]].'''
+
+Ver também Br/AlinhamentoNaoConvencional, Br/LealEEstupido, Br/CaoticoEEstupido, Br/EstupidoEBom, Br/EstupidoEMau, Br/EstupidoENeutro, Br/SempreLealEBom, Br/SempreCaoticoEMau e Br/BomEMauParaASuaConveniencia. A Br/MaquinaDeEspelhoDaMoralidade inverte qualquer alinhamento... exceto por Br/VerdadeiroNeutro: o oposto de zero sempre é zero.

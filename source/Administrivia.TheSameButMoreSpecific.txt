@@ -1,0 +1,11 @@
+When someone wants to start a new article which can be summed up as "the same as Article X, only with <specification>"--or may alternately be phrased as "[[JustForFun/XMeetsY a combination of article X and article Y]]".
+
+This is generally ''not'' a very good idea, since it can easily clutter the wiki with [[Administrivia/RidiculouslySimilarTrope nigh-indistinguishable trope variations]]. On the other hand, if the added qualification is clear enough that the result serves a distinct narrative function from the original--then it becomes a SubTrope.
+
+Whether a given proposal qualifies as a SubTrope or The Same But More Specific can be [[Administrivia/LumperVsSplitter highly subjective]]; Administrivia/TropesAreFlexible, after all, but we don't need a new page for ''every last variation'' possible. Please [[https://tvtropes.org/pmwiki/tlp_activity.php consult your fellow Tropers first]] to get opinions.
+
+When the added distinction is "the same, but played up to eleven," this is known simply as Administrivia/TheSameButMore since most instances are just an ExaggeratedTrope.
+
+If the added distinction is so narrow that the result fails to actually ''establish a pattern'', the trope is Administrivia/TooRareToTrope.
+
+For attempts to create a suspiciously-similar SisterTrope, instead of a hierarchical SubTrope, see Administrivia/RidiculouslySimilarTrope. Please try to avoid getting the two confused.

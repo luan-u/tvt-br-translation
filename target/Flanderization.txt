@@ -1,0 +1,105 @@
+%%%
+%%
+%%
+%%
+%% This list of examples has been alphabetized. Take care to put your example in its proper place in accordance with Administrivia/HowToAlphabetizeThings!
+%%
+%%
+%%
+%%%
+
+%% Leave image on right, please.
+[[quoteright:300:[[Website/{{Cracked}} https://static.tvtropes.org/pmwiki/pub/images/flanderization_transparent.png]]]]
+[[caption-width-right:300:[[http://www.cracked.com/article_18741_the-evolution-fictional-characters-by-medium-5Bcomic5D.html By Winston Rowntree]] of ''Webcomic/{{Subnormality}}''.]]
+
+->''"I think Homer gets stupider every year."''
+-->-- '''Professor Lawrence Pierce''', ''WesternAnimation/TheSimpsons'', "[[Recap/TheSimpsonsS7E10TheSimpsons138thEpisodeSpectacular The Simpsons 138th Episode Spectacular]]"
+
+The act of taking a single (often minor) action or trait of a character within a work and exaggerating it more and more over time until it completely consumes the character. Most always, the trait/action becomes completely outlandish and it becomes their defining characteristic, turning them into a caricature of their former selves. {{Sitcom}}s and sitcom characters are particularly susceptible to this, as are peripheral characters in shows with {{long run|ners}}s.
+
+The trope is named for ''WesternAnimation/TheSimpsons'' character Ned Flanders, who was originally depicted as a friendly, generous Christian neighbor and a model father, husband and citizen, making him a [[{{Foil}} contrast to Homer Simpson]]. As seasons progressed, however, he became increasingly [[TheFundamentalist obsessively religious]] to the point where he eventually embodied [[MoralGuardians almost]] [[HeteronormativeCrusader every]] [[HolierThanThou negative]] [[AgainstMyReligion stereotype]] of the God-fearing, bible-thumping American Christian evangelist.
+
+Note that the key to this trope is in how the process is a gradual thing: the character starts relatively normal with a few quirks, the quirks become more prominent, then the quirks gradually ''become'' the character. If the character acquires quirks that are contrary to their earlier portrayal, usually because the writers were figuring out what to do with them, that is CharacterizationMarchesOn.
+
+In general, comedies, especially sitcoms, fall into the trap of Flanderization because CharacterDevelopment is far less important than RuleOfFunny. Given a choice between getting a laugh or moving the story forward, the former will almost always take priority.
+
+[[Administrivia/TropesAreTools Flanderization doesn't have to be a bad thing]] -- sometimes it can be used to expand on a background character's personality when they are brought to the foreground, or make an otherwise bland character stand out more. It can even be beneficial on a cast-wide scale: A comedy that has a cast full of zany, outsized personas will probably be funnier than one full of nondescript [[StraightMan straight men]].
+
+When Flanderization occurs as the result of adaptation from one medium to another (manga to anime, for example), it's CharacterExaggeration and frequently a sign of AdaptationDecay. May sometimes be related to LostInImitation.
+
+See also NeverLiveItDown (when the character is more associated with some action or event than the character actually changing), UnintentionallySympathetic (when realistic quirks are mishandled by the writers) and ForgotFlandersCouldDoThat (when a story brings back pre-Flanderized aspects of the character as a reminder that those traits are there, even if you don't see them much any more). Compare TemporarilyExaggeratedTrait, which is like flanderization but only done temporarily. Compare and contrast EarlyInstallmentWeirdness (as it applies to characters), with early depictions of a character being different from later ones simply because the producers hadn't figured out what role they should play in the story. See also MoralDisambiguation for when the morality of a work becomes more [[BlackAndWhiteMorality black and white]].
+
+The opposite to this trope is CharacterDevelopment, naturally.
+
+[[Website/{{Wikipedia}} The Other Wiki]] has [[https://en.wikipedia.org/wiki/Flanderization their own article]]. It credits us!
+
+Here's a list of cases of Flanderization:
+
+!!![[TookALevelInDumbass Stupidity]]
+* A character does dumb things, but manages to get gradually dumber as time goes by.
+* A character is only slightly dumb, and is capable of doing what they need to, but later becomes unable to perform even the most simple tasks like reading.
+* The character's stupidity is only demonstrated by them saying funny phrases, but later [[TooDumbToLive starts putting their and others' lives at danger]].
+* Insanity or eccentricity is mistaken for stupidity, and a [[{{Cloudcuckoolander}} dippy or crazy character]] becomes a dumb character.
+* A character is not dumb, just [[BrilliantButLazy lazy]] and/or [[BookDumb hates studying]], but is turned later into [[TheDitz straight dumb]].
+* Incompetence or clumsiness is mistaken for stupidity, and a character who's [[TheKlutz clumsy]] or bad at their job becomes a dumb character.
+* A character is [[KindheartedSimpleton dim-witted, but clearly has good intentions]], or at the very least, isn't a bad person, but later [[TookALevelInJerkass becomes actively rude and malicious]], [[InsufferableImbecile often using their lack of intelligence to justify any rude or flat-out dangerous actions]].
+
+!!!Intelligence
+* A character is intelligent, but in realistic levels, later they become extremely intelligent, being comparable to many famous scientists, or even exaggerated to the point of being able to build wondrous gadgets at their house.
+* Insanity or eccentricity is mistaken for brilliance, and a [[CloudCuckoolander dippy or crazy character]] who would previously save the day through an AssPull once in a while for RuleOfFunny now does so OncePerEpisode.
+* A character is intelligent in one or two specific areas, but more inexperienced and flawed in others. Later they are smart in every level, [[EinsteinSue providing knowledge and wisdom in every possible situation]].
+* Knowledge is conflated with intelligence, and a character who knows a lot of trivia is turned into a genius.
+
+!!!{{Greed}}
+* A greedy character [[JerkWithAHeartOfGold has a kind side]] and often chooses what is more important instead of riches, but later, becomes even greedier to the point that they even sacrifice friends and family just for a few more pennies.
+* A character who is a collector who enjoys building their collection turns into a hoarder whose life revolves around filling their house with an excessive number of trivial possessions.
+
+!!![[TookALevelInJerkass Meanness]]
+* A {{Jerkass}} becomes much meaner and nastier, perhaps even behaving more like a villain, becoming a DesignatedHero in the worst cases.
+* A JerkWithAHeartOfGold degenerates into a straight {{Jerkass}}.
+* A character who is generally decent but has a mocking sense of humour turns into a true bully who greatly enjoys insulting other characters.
+
+!!![[TookALevelInKindness Kindness]]
+* A NiceGuy but with human flaws becomes a PuritySue.
+* Alternately, they evolve into an ExtremeDoormat who is unable to stand up for themselves whenever they’re mistreated.
+
+!!!Villainy
+* A competent villain that came close to defeating the hero, [[VillainDecay somehow becomes more and more incompetent]] and [[HarmlessVillain gets defeated easily all the time]], without the justification of [[TaughtByExperience the hero becoming stronger]].
+* A villain sure is evil, but has a clear goal and does evil acts only to achieve it, but later, becomes much more evil and starts [[ForTheEvulz doing evil acts just for the sake of it]].
+* A realistic villain, similar to real world criminals or dictators (even with supernatural elements), starts [[CardCarryingVillain referring to themselves as evil and a professional villain all the time]].
+* A TokenEvilTeammate will do increasingly evil things to make up for teaming up with the good guys all the time, and the good guys will become less and less disgusted by these actions.
+
+!!!Annoyance
+* A character is kind of annoying but mainly infuriates those who are [[HairTriggerTemper especially touchy]], later becomes incredibly annoying to almost anybody, to the point that the audience empathizes with those whom the character infuriates.
+* The creators find out that a character [[TheScrappy is very hated]], and [[TakeThatScrappy decide to make fun of it]] making them intentionally annoying, however their annoying traits are cranked up and/or the character shows up with scrappy traits that they never had, or worse, [[AdaptationalVillainy turning the character into a villain]] even if the fans knew the character was not evil.
+* The creators discover a character is not well liked by the fans, and thus decides to hurt and humiliate the character in increasingly horrifying ways, despite the fact that the character had really done nothing wrong in recent episodes.
+* A character that is intelligent and sometimes accidentally patronizes or confuses laymen, later becomes an InsufferableGenius and may even [[KnowNothingKnowItAll lose the "genius" part]].
+
+!!!Likes/dislikes
+* A character has a [[TrademarkFavoriteFood favorite food]] like many people have, but later the love for that food is brought up all the time and the character becomes enamored with it to the point of addiction.
+* Conversely, if there is [[DoesNotLikeSpam a food]] or something else that the character doesn't like, their distaste for it will increase over time, and the character will become more and more of a magnet for improbable situations in which the disliked thing cannot be avoided.
+* It's also possible for a character to simply be a BigEater who has their love of food upped over time to the point that they will [[ExtremeOmnivore eat literally anything happily, even inorganic/inedible items]].
+* A character has an interest, that gradually turns into an obsession.
+* A character starts out with a diverse set of interests, but gradually becomes only obsessed with one of them.
+
+!!!Sexuality
+* A character is known to be very [[ReallyGetsAround sexually active]] or perverted but they can control themselves. Maybe they're an EthicalSlut or ChivalrousPervert. The character's lust and sexual activity will later be their only defining characteristic and may become TheCasanova, an ExtremeOmnisexual, or even a rapist.
+* A StraightGay character may become CampGay over time, become more [[AllGaysArePromiscuous promiscuous]], or said character may possess other traits but will later become just a walking gay joke or stereotype.
+* A character who might've been pretty cool with some sexual/kinky stuff every now and then now can't stop thinking about them and might [[CasualKink casually slip in]] [[DoubleEntendre sexual innuendos]] into every conversation.
+
+!!!Others
+* A character is somewhat of an activist and organizes protests when something really bad is going on, but later [[SoapBoxSadie becomes very annoying with activism, and almost all episodes revolving around the character are about a protest]].
+* A mischievous character who loves playing lighthearted practical jokes on people turns into a sociopathic bully whose practical jokes become needlessly mean-spirited and sometimes violent.
+* A character is [[SirSwearsalot foul-mouthed]], but only curses when they’re angry or scared, or just to sound cool, but later, the character is unable to form a single sentence without having to use curse words.
+* A nervous character who finds certain situations and things scary turns into an extreme coward who freaks out at the mildest creepy things and has multiple phobias.
+** Similarly, a character is [[WhyDidItHaveToBeSnakes afraid of something]], but can still function when around it, but eventually, the fear becomes crippling.
+* A character [[DamselInDistress gets in]] [[DistressedDude distress]] sometimes, but has many other uses in the plot. Later, the character's only use is [[DistressBall getting in danger to be rescued]].
+* A character has some anger issues, but is still able to control it and mostly gets angry when the situation calls for it. Later on, however, [[HairTriggerTemper their anger issues get much worse to the point that they go berserk over the slightest annoyances, provocations or inconveniences]].
+* A character who often talks loudly gets louder and louder to the point that they have [[NoIndoorVoice no indoor voice]].
+* A character who is emotionally sensitive, but only when the situation calls for it becomes a full-blown crybaby who bursts into tears on a regular basis and often for petty reasons.
+* A character is in a romantic relationship while maintaining their own personal motivations and goals, but then have [[DemotedToSatelliteLoveInterest all of their screentime solely devoted their significant other to the determent of their other aspects]].
+* A character who is somewhat immature and childish, but still shows some levels of maturity becomes increasingly immature over time to the point that they never act their age.
+* A character has an [[PlotAllergy allergy]] or two, is disabled, or has asthma but it's not a big deal. Later, they're portrayed as a borderline invalid. Alternately, a {{Hypochondria}}c will gradually be portrayed as actually being sickly ([[SicklyNeuroticGeek neuroticism and geekiness]] optional).
+* A character with a job will slowly become obsessed with said job.
+* A character is popular among a small community, but gradually becomes a full-blown celebrity. Conversely, a character who's kind of unpopular but still has friends gradually becomes a complete loser with either no friends at all or an OnlyFriend.
+* A parent character who is somewhat overprotective of their kids later becomes so protective to the point that they keep their kids away from anything that is negative in the slightest.

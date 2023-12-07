@@ -1,0 +1,39 @@
+[[quoteright:350:[[BrDadosUteis/RMSTitanic https://static.tvtropes.org/pmwiki/pub/images/titanic_2009.jpg]] ]]
+[[caption-width-right:350:Aposto que você já ouviu sobre essa aqui.]]
+
+->''"Meu nome é Lester Burnham. Esta é a minha vizinhança; esta é minha rua; esta é minha vida. Tenho 42 anos. Em menos de um ano eu estarei morto."''
+-->--'''Br/NarracaoDeAbertura''', ''BrFilme/BelezaAmericana''
+
+A maioria da tensão dramática na narrativa vem do público não saber como a obra termina. Os membros da plateia torcem por personagens e tramas e desejam saber como eles são tratados e resolvidos, respectivamente.
+
+No entanto, às vezes os autores decidem ir por uma direção diferente. Eles vão mostrar para o público como a história termina antes de começar a contá-la. Às vezes eles fazem isso com uma declaração explícita (tal como uma Br/IntroducaoComSpoiler ou Br/ComoChegamosAqui), às vezes ao escrever uma prequência que termina onde a obra original começa. Qualquer que seja o caso, o autor tem diante de si uma tarefa complicada. Eles devem encontrar um meio de estabelecer tensão e dúvida quando todo mundo já sabe como a história termina.
+
+Isso pode ser facilmente confundido com vários tropos:
+* Br/EraOTrenoDele lida com reviravoltas e finais que, graças à [[Br/OsmoseDeCulturaPop assimilação na cultura popular]], já não são mais surpreendentes, ainda que o autor não tenha pretendido que todo mundo soubesse o encerramento.
+* Br/ComoChegamosAqui e Br/InMediasRes são relacionados, mas não idênticos.
+* Filmes ou shows que, pela sua [[Br/StatusQuoEDeus natureza previsível]], indicam como a obra termina, também não contam: o público já sabe que os bonzinhos vencem e que o BrPersonagens/{{Batman|OPersonagem}} vai viver para lutar outro dia, na mesma bat-hora e no mesmo bat-canal, mas o final não é canonicamente estabelecido; teoricamente, o BrCriador/AdamWest poderia morrer no final de um episódio, mas realisticamente [[Br/ComoSeVoceRealmenteFosseFazerIsso a gente sabe que isso não vai acontecer]].
+* Br/RevelacaoDoCapitaoObvio é quando a maioria do público descobre a reviravolta antes da revelação, geralmente porque o criador deixou muitas [[Br/{{Prenuncio}} dicas]].
+
+Autores podem usar isso para trapacear um pouquinho (ou ''bastante'') ao fazer com que o ''final'' mostrado seja [[Br/ReviravoltaDaProfecia sensível ao contexto e aberto à uma interpretação totalmente diferente]] ou estabelecer um Br/FinalReviravolta ao fazer com que o ''final'' mostrado no estilo Br/ComoChegamosAqui seja apenas os primeiros 10 ou 15 minutos, de maneira que o final é muito diferente do provável.
+
+Ou então a premissa não é sobre ''o que'' acontece, mas sim ''como'' acontece. O Br/QuemFezIsso se torna um [[Br/QuemFezIssoReverso Como-fez-isso]], e assim em diante.
+
+Também pode ser usado para elevar o grau de Br/IroniaDramatica.
+
+Br/FiccaoHistorica é ligada a este tropo, pois a história não muda (a não ser que o autor use o argumento de Br/EscritoPelosVencedores e diga que os eventos conforme registrados na obra são o que "realmente" aconteceu). Também é muito comum em franquias bem estabelecidas, especialmente com [[Br/{{Prequencia}} prequências]] que ocorrem antes dos eventos de outra obra, como com os Episódios I a III de ''BrFranquia/StarWars''.
+
+Comparar com Br/RetconExterno, onde espera-se que o público seja familiarizado com uma história ''já existente''.
+
+Br/CondenadoPeloCanone é um Br/SubTropo disso que lida com personagens da prequência e suas tentativas de executar o elenco principal ou de sobreviver ao fim, tentativas essas que sabemos que vão falhar por causa da história original. O Br/DispositivoDeEnquadramento se conecta a isso até certo ponto, pois qualquer personagem que esteja vivo para contar a história deve ter sobrevivido.
+
+Em qualquer história que tenha um Br/{{Narrador}}, você pode seguramente supor que o narrador viverá. Por motivos similares, em qualquer Br/HistoriaComRecortes você pode seguramente supor que alguém conseguiu reunir todos os recortes para contar a história. Existem algumas subversões deliberadas, é claro, [[Br/NarracaoPostuma incluindo aquelas em que um fantasma faz a narração]].
+
+Br/AhEXMorre e Br/VoceMorreu também são sub-tropos.
+
+Isto é Br/MaisVelhoQueOFeudalismo. Qualquer um que tenha ouvido BrCriador/{{Homero}} cantar já sabia que Troia é derrotada e que Aquiles e Hector morrem; ninguém saiu da peça do BrCriador/{{Sofocles}} dizendo "cara, ele casou com ''a mãe dele?''" Existe uma longa tradição de se recontar uma história que todo mundo conheça.
+
+Br/PiadaInternaHistorica às vezes é isso, mas às vezes [[Br/NaoEOTrenoDele subverte isso]].
+
+Como um aviso, saiba que '''''este artigo contém spoilers marcados e desmarcados'''''. Como muitos tropos podem ser um caso de Br/TropoSubvertido, ''ande cautelosamente''.
+
+[[noreallife]]

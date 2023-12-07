@@ -1,0 +1,55 @@
+[[WMG:[[center:[-'''Character Alignment'''\\
+LawfulGood | NeutralGood | ChaoticGood\\
+LawfulNeutral | TrueNeutral | ChaoticNeutral\\
+LawfulEvil | NeutralEvil | ChaoticEvil-]]]]]
+
+[[quoteright:250:https://static.tvtropes.org/pmwiki/pub/images/alignment_graph_3756.png]]
+[-[[caption-width-right:250:What it ultimately boils down to. In theory. [[FlameBait But since it's so much fun to argue...]]]]-]
+%%
+
+Character Alignment is a shorthand for a given character's (or religion's, society's, organization's, etc.) moral/ethical outlook on [[Franchise/TheHitchhikersGuideToTheGalaxy life, the universe and everything]]. Many roleplaying games use some sort of alignment system as a KarmaMeter, an "ideal" for a character to live up to, or just a descriptive shorthand for characters. Some gamers deride Character Alignments as crutches to "real roleplaying", so some systems accordingly have none at all. Expect a setting that uses Character Alignments to make frequent use of plots about OrderVersusChaos and BalanceBetweenGoodAndEvil.
+
+The alignment system most roleplayers are familiar with is the one used in ''TabletopGame/DungeonsAndDragons'', which has appeared in a couple of different forms:
+
+The original editions of ''TabletopGame/DungeonsAndDragons'' drew on the works of Creator/PoulAnderson and Creator/MichaelMoorcock to come up with two axes:
+
+* '''Ethical axis''': Lawful, Neutral, and Chaotic (AKA Order, Balance, and Chaos). Lawful (Order) represents honor and obedience to the law; Chaotic (Chaos) leans toward personal freedom, without regards to the law; and Neutral (Balance) is an intermediate position that either doesn't care or seeks balance between the two ends.
+* '''Moral axis''': Good, Neutral, and Evil. Good focuses on improving others' well-being; Evil focuses on the self, even at the expense of others; and Neutral serves a similar role as on the ethical axis, but tends to favor their friends and family.
+
+'''Combining the two axes allowed characters to be of nine possible alignments, as follows''':
+
+[[index]]
+
+* '''LawfulGood''': Both honorable and kind, Lawful Good characters believe that working together and following a code of conduct makes life better for everyone. Heroic types may stand up to fight for Truth, Justice and such, but the commonfolk just tend to pay their taxes, keep their word, and volunteer on weekends. The really extreme types might run the risk of becoming a WideEyedIdealist. While sometimes mischaracterized as TheFundamentalist, Lawful Good is just as much Good as Lawful, so they'll resist efforts to let rules inflict harm.
+
+* '''NeutralGood''': Sweetness and light. Doing good is more important than upholding the law, but law is not a bad thing. Not too caught up in OrderVersusChaos; concerned with moral goodness, but often not willing to enforce it in others. NeutralGood states may be [[{{Utopia}} really nice places to live]], but depending on how idealistic or cynical the setting is, they may be deluding themselves into being too idealistic.
+
+* '''ChaoticGood''': [[RebelliousSpirit Rebels]] and [[WildCard free spirits]] who are stereotypically found opposing tyrants and other oppressive types. They tend to believe that things like order, discipline, and [[HonorBeforeReason honor]] can get in the way of doing good. Their free-spirited, easily bored nature means that if the local government isn't considered sufficiently oppressive, they might just go out and find one that is.
+
+* '''LawfulNeutral''': If it's against the rules, then it's bad, no matter what. Lawful Neutral characters believe that order is more important than kindness, empathy and understanding. Often highly honorable, if they [[IGaveMyWord give their word]], they'll carry it out even if it makes things worse. While they don't try to use the system to exploit others, like Lawful Evil characters, they can be shockingly indifferent if people ''do'' get ground up by the cogs of justice. Characters of this type often feature in an OrderVersusChaos situation where neither side is proven to be right.
+
+* '''TrueNeutral''': Sometimes known as just ''Neutral'', or even ''[[DepartmentOfRedundancyDepartment Neutral Neutral]]''. Comes in two flavors: [[BalanceBetweenGoodAndEvil Keeping the Balance]] and [[BystanderSyndrome Just Doesn't Care]]. The balance-happy sort may sometimes be [[TheDitz characters just too dumb to know the difference]], but may also be a WildCard. Intelligent true neutrals are quite logical in how they go about things, including morals.
+
+* '''ChaoticNeutral''': Chaotic Neutral characters are all about freedom, and don't care so much about rules or morality. They're wild, carefree and selfish, but not so callous or sadistic as to be actually evil. The most extreme examples act randomly. When evil alignments are unavailable, Chaotic Neutral is often used by players in TabletopGames to excuse doing anything they feel like, and as such is often prohibited by the sort of GameMaster who also prohibits evil characters. Just as often the bad guys as the good guys in an OrderVersusChaos situation. The main difference between Chaotic Neutral and Chaotic Evil is a matter of execution.
+
+* '''LawfulEvil''': Organized evil with a master plan. Often members of TheEmpire, they use organization, rules and honor to their advantage, inflicting their will on others by achieving power within the system. Be they a NobleDemon, a ProudWarriorRaceGuy, or just someone who believes in keeping order [[UtopiaJustifiesTheMeans at all costs]], they are not to be underestimated.
+
+* '''NeutralEvil''': The consummate [[PragmaticEvil pragmatists]], Neutral Evil characters don't find themselves shackled to their impulses or bound by rules of law and honor. They are only interested in one thing: [[ItsAllAboutMe themselves]]. They'll do whatever is most prudent to get them to their desired destination, no matter whom they have to hurt along the way.
+
+* '''ChaoticEvil''': Will do whatever they want to, especially if it hurts other people, without regard for the rules. While a Neutral Evil person would work within the system until it was convenient not to, a chaotic evil person would often work outside the system. Contrary to what some believe, Chaotic Evil does not have to mean wanton, meaningless slaughter and destruction. Rather, they usually consider what is practical in a particular situation.
+[[/index]]
+
+It helps to think of it as a 3x3 square with the moral and ethical axes on each side, and all the possible alignments surrounding TrueNeutral, like so:\\
+\\
+
+||align=center border=1 width=75%
+|| '''''Alignment Chart''''' || ''Lawful'' || ''Neutral'' || ''Chaotic'' ||
+|| ''Good'' || Lawful Good || Neutral Good || Chaotic Good ||
+|| ''Neutral'' || Lawful Neutral || True Neutral || Chaotic Neutral ||
+|| ''Evil'' || Lawful Evil || Neutral Evil || Chaotic Evil ||
+
+The alignment any particular character falls under is mostly a matter of opinion in works other than TabletopGames, due to the large wiggle room for AlternateCharacterInterpretation, character development, and so on. However, that doesn't stop RPG fans from discussing what alignment characters in other works would be. In fact, a [[MemeticMutation meme]] on the imageboard Website/FourChan is creating motivational posters of various characters from fiction and real life, with a caption explaining their alignment.
+
+'''As a general rule, do not add Character Alignment to any work where it is not featured in {{canon}}, as it will just lead to an EditWar. Administrivia/TheGreatCharacterAlignmentDebate explains this in more detail. In particular, [[Administrivia/NoRealLifeExamplesPlease there will be no real-life examples under these circumstances]], except for descriptions of proposed systems like the [[FourTemperamentEnsemble four humours]] theory.'''
+
+See also UnconventionalAlignment, LawfulStupid, ChaoticStupid, StupidGood, StupidEvil, StupidNeutral, AlwaysLawfulGood, AlwaysChaoticEvil, and GoodAndEvilForYourConvenience. The MirrorMoralityMachine will invert any alignment... except for TrueNeutral; the opposite of zero is still zero.

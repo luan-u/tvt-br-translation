@@ -1,0 +1,2797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>"DroppedABridgeOnHim, But On A Thursday", is an example.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231102T184305Z" creationid="Luan" creationdate="20231102T184117Z">
+        <seg>"Br/DerrubaramUmaPonteNele, Só Que Em Uma Quinta" é um exemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Middle Child Hates Tomato Sauce And Loves Disco", for example, would not be a trope even if three examples of it could be found.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231102T183856Z" creationid="Luan" creationdate="20231102T183856Z">
+        <seg>"Filho do Meio Odeia Molho de Tomate e Ama Summer Eletro Hits", por exemplo, não seria um tropo mesmo que três exemplos disso pudessem ser encontrados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>%%
+[[quoteright:342:[[VideoGame/IWannaBeTheGuy https://static.tvtropes.org/pmwiki/pub/images/iwbtgscreen_1962.png]]]]
+[[caption-width-right:342:[[PressXToDie Be prepared to see this.]] '''[[PunctuatedForEmphasis A. Lot!]]''']]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T183820Z" creationid="Luan" creationdate="20231101T183656Z">
+        <seg>%%
+[[quoteright:342:[[BrVideoGame/IWannaBeTheGuy https://static.tvtropes.org/pmwiki/pub/images/iwbtgscreen_1962.png]]]]
+[[caption-width-right:342:[[Br/PressioneXParaMorrer Esteja preparado para ver isso.]] '''[[Br/PontuadoParaEnfase Bas. Tan. TE!]]''']]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>%% Image selected per Image Pickin' thread: https://tvtropes.org/pmwiki/posts.php?discussion=1295097781009842100
+%% Please do not change or remove without starting a new thread.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T183651Z" creationid="Luan" creationdate="20231101T183651Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>''"[[BlackComedy Pain is funny.]] Therefore, more pain must be even funnier!"''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T161648Z" creationid="Luan" creationdate="20231029T161625Z">
+        <seg>''"[[Br/HumorNegro A dor é engraçada.]] Portanto, mais dor deve ser ainda mais engraçada!"''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'''As a general rule, do not add Character Alignment to any work where it is not featured in {{canon}}, as it will just lead to an EditWar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T211947Z" creationid="Luan" creationdate="20231103T211947Z">
+        <seg>'''Como regra geral, não adicione Alinhamento de Personagem para qualquer obra onde isso não apareça em Br/{{canone}}, pois isso levará a uma Br/GuerraDeEdicoes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'''Combining the two axes allowed characters to be of nine possible alignments, as follows''':</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T202801Z" creationid="Luan" creationdate="20231103T202801Z">
+        <seg>'''A combinação dos dois eixos permite que os personagens se enquadrem em nove alinhamentos possíveis, a seguir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'''Examples go through the Magnificent Bastard [[https://tvtropes.org/pmwiki/posts.php?discussion=16738556640A36226400 proposal thread]] (for new additions) and [[https://tvtropes.org/pmwiki/posts.php?discussion=16706345050A65984200 cleanup thread]] (for discussion of existing examples).'''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T141934Z" creationid="Luan" creationdate="20231103T141934Z">
+        <seg>'''Exemplos que não venham da página original devem passar pela [[https://tvtropes.org/pmwiki/posts.php?discussion=16738556640A36226400 thread de discussão]] (para novas adições) ou pela [[https://tvtropes.org/pmwiki/posts.php?discussion=16706345050A65984200 thread de limpeza]] (para discussão de exemplos existentes.'''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'''If you know where an example filed under "Uncategorised" goes, then please sort it.'''
+----
+!!Examples:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T230251Z" creationid="Luan" creationdate="20231101T230251Z">
+        <seg>----
+!!Exemplos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'''The difficulty of these games usually stems from a combination of factors:'''
+* [[GoddamnedBats Lots of enemies]] ([[BulletHell or lots of bullets]]) that are [[DenialOfDiagonalAttack hard to hit or dodge]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T184905Z" creationid="Luan" creationdate="20231101T184824Z">
+        <seg>'''A dificuldade desses jogos geralmente surge a partir de uma combinação de fatores:'''
+* [[Br/MalditosMorcegos Muitos inimigos]] ou muitos projéteis que são difíceis de acertar ou desviar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'''When you add examples, please be sure to read the following sentence:''' If you feel inclined to add the words "for this troper" or "could be considered" and cannot make a strong statement on the universal difficulty of the game in question, '''[[Administrivia/SquarePegRoundTrope then it is not an example]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T230152Z" creationid="Luan" creationdate="20231101T230152Z">
+        <seg>'''Ao adicionar exemplos, lembre:''' Se você está inclinado a adicionar as palavras ''para este tropoeiro'' ou ''poderia ser considerado'' e não consegue fazer uma declaração forte sobre a dificuldade universal do jogo em questão, '''[[BrAdministrivia/PorcaQuadradaTropoRedondo então não é um exemplo]]. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>''Usually''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T204612Z" creationid="Luan" creationdate="20231206T204612Z">
+        <seg>''Normalmente.''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(And, in a stroke of genius, [[ShapedLikeItself the word "wisecrack" is itself a wisecrack]], carrying the sarcastic connotation of "Oh, yeah, you're a real Creator/{{Socrates}}, smart guy.")</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140533Z" creationid="Luan" creationdate="20231029T135456Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Except in SuperHero series, with Franchise/{{Superman}} being the flagship example.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T194115Z" creationid="Luan" creationdate="20231206T194115Z">
+        <seg>(Exceto em séries de Br/SuperHeroi, com o BrFranquia/{{Superman}} sendo o principal exemplo.) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Note: it is effectively a [[FourPointScale 2.5-4.0 scale]].)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T225520Z" creationid="Luan" creationdate="20231101T225520Z">
+        <seg>(Nota: efetivamente é uma [[Br/EscalaDeQuatroPontos escala que varia entre 2.5 até 4.0]].)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* '''ChaoticEvil''': Will do whatever they want to, especially if it hurts other people, without regard for the rules.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T210216Z" creationid="Luan" creationdate="20231103T210216Z">
+        <seg>* '''Br/CaoticoEMau''': Farão o que quiserem fazer, especialmente se isso fere outras pessoas, e sem nenhuma consideração pelas regras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* '''ChaoticGood''': [[RebelliousSpirit Rebels]] and [[WildCard free spirits]] who are stereotypically found opposing tyrants and other oppressive types.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T203728Z" creationid="Luan" creationdate="20231103T203728Z">
+        <seg>* '''Br/CaoticoEBom''': [[Br/EspiritoRebelde Rebeldes]] e espíritos livres que estereotipicamente se opõem a tiranos e outros tipos opressores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* '''ChaoticNeutral''': Chaotic Neutral characters are all about freedom, and don't care so much about rules or morality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T205135Z" creationid="Luan" creationdate="20231103T205135Z">
+        <seg>* '''Br/CaoticoENeutro''': Personagens caóticos e neutros valorizam a liberdade e não ligam muito para regras ou moralidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* '''Ethical axis''': Lawful, Neutral, and Chaotic (AKA Order, Balance, and Chaos).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T202346Z" creationid="Luan" creationdate="20231103T202346Z">
+        <seg>* '''Eixo ético''': Ordeiro (ou leal), Neutro e Caótico -- isto é: ordem, equilíbrio e caos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* '''LawfulEvil''': Organized evil with a master plan.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T205554Z" creationid="Luan" creationdate="20231103T205554Z">
+        <seg>* '''Br/LealEMau''': O mal organizado com um grande plano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* '''LawfulGood''': Both honorable and kind, Lawful Good characters believe that working together and following a code of conduct makes life better for everyone.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T203011Z" creationid="Luan" creationdate="20231103T203011Z">
+        <seg>* '''Br/LealEBom''': Honrados e bondosos, personagens do tipo Leal e Bom acreditam que o trabalho em conjunto e adesão a um código de conduta torna a vida melhor para todos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* '''LawfulNeutral''': If it's against the rules, then it's bad, no matter what.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T204004Z" creationid="Luan" creationdate="20231103T204004Z">
+        <seg>* '''Br/LealENeutro''': Se é contra as regras, é ruim, não importa o que seja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* '''Moral axis''': Good, Neutral, and Evil.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T202628Z" creationid="Luan" creationdate="20231103T202628Z">
+        <seg>* '''Eixo moral''': Bom, Neutro e Mau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* '''NeutralEvil''': The consummate [[PragmaticEvil pragmatists]], Neutral Evil characters don't find themselves shackled to their impulses or bound by rules of law and honor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T210022Z" creationid="Luan" creationdate="20231103T210022Z">
+        <seg>* '''Br/NeutroEMau''': Os [[Br/PragmaticoDoMal pragmáticos]] contumazes, personagens do tipo Neutro Mau não se deixam limitar por seus impulsos ou por regras de lei e honra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* '''NeutralGood''': Sweetness and light.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T203341Z" creationid="Luan" creationdate="20231103T203341Z">
+        <seg>* '''Br/NeutroEBom''': Doçura e luz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* '''TrueNeutral''': Sometimes known as just ''Neutral'', or even ''[[DepartmentOfRedundancyDepartment Neutral Neutral]]''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T204415Z" creationid="Luan" creationdate="20231103T204415Z">
+        <seg>* '''[[Br/NeutroNeutro Verdadeiro Neutro]]''': Às vezes referenciado somente como "Neutro", ou como "[[Br/DepartamentoDeRedundanciaRedundante Neutro Neutro]]". </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ''BodySurf'': Similar to Multiple Bodies and BodyBackupDrive above, but instead they [[DemonicPossession possess another living person]] to use for themselves, possibly transforming the body of the possessed into something related to the new owner.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T204434Z" creationid="Luan" creationdate="20231206T204434Z">
+        <seg>* ''Br/SurfeCorporal'': similar a Múltipls Corpos e a Br/CorpoReserva, mas ao invés eles [[Br/PossessaoDemoniaca possuem outra pessoa viva]] para usar, possivelmente transformando o corpo do ser afetado em algo relacionado ao novo proprietário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ''Extreme Luck'': You don't need to be invincible when you never get hit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T214932Z" creationid="Luan" creationdate="20231206T214932Z">
+        <seg>* ''Sorte Extrema'': Você não precisa ser invencível se nunca te acertarem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ''Made of Air'': Going the opposite direction, there doesn't seem to be something to fight... but that "something" can fight ''you''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T195232Z" creationid="Luan" creationdate="20231206T195232Z">
+        <seg>* ''Feito de Ar'': Indo no sentido oposto, não parece haver algo contra o que lutar... mas esse ''algo'' é capaz de enfrentar ''você''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ''Made of Liquid'', AKA ''[[BlobMonster The Blob]]'': a common variant of this, when the character is made of some sort of fluid stuff that makes him tangible, but completely impervious to damage with bludgeoning or piercing weapons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T195641Z" creationid="Luan" creationdate="20231206T195641Z">
+        <seg>* ''Feito de Líquido'' AKA ''[[Br/MonstroDeGosma A Gosma]]'': uma variante comum, onde o personagem é composto de algum tipo de fluído que o torna tangível, porém impérvio a dano causado por armas perfurantes ou de impacto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ''Multiple Bodies'': Similar to the above, this classic power of the HiveMind will render the death of one body [[Franchise/StarTrek irrelevant]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T204159Z" creationid="Luan" creationdate="20231206T204159Z">
+        <seg>* ''Corpos Múltiplos'': Similar ao anterior, este poder clássico da Br/MenteUnificada faz com que a morte de um corpo seja [[BrFranquia/StarTrek irrelevante]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ''[[FeelNoPain No Pain]]'': While you can technically damage them, their lack of pain receptors means that they will just keep coming.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T205149Z" creationid="Luan" creationdate="20231206T205149Z">
+        <seg>* ''Indolor'': Você pode causar dano, mas a falta de receptores de dor significa que eles vão continuar lutando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ''[[HealingFactor Regeneration/Regrowth]]'': They have the truly nasty tendency to recover from anything.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T200638Z" creationid="Luan" creationdate="20231206T200638Z">
+        <seg>* ''[[Br/FatorDeCura Regeneração/Crescimento]]'': Eles possuem a tendência incômoda de se recuperar de qualquer coisa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ''[[RealityWarper Reality-Warping]]'': They don't want to be hurt, so you can't hurt them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T220406Z" creationid="Luan" creationdate="20231206T220406Z">
+        <seg>* ''[[Br/DobradorDeRealidade Alteração da Realidade]]'': Eles não querem se machucar, por isso você não consegue os machucar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ''[[RemoteBody The Proxy]]'': When a person makes use of other bodies or identities in order to conceal themselves and avoid direct contact, therefore reducing risk of injury/death.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T203713Z" creationid="Luan" creationdate="20231206T203713Z">
+        <seg>* ''[[Br/CorpoRemoto O Substituto]]'': Quando uma pessoa faz uso de outros corpos ou identidades para se esconder e evitar contato direto, reduzindo portanto o risco de ferimentos ou morte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ''[[ResurrectiveImmortality Resurrection]]'': You technically ''can'' kill them, but the problem is that they don't ''stay dead''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T204809Z" creationid="Luan" creationdate="20231206T204729Z">
+        <seg>* ''[[Br/ImortalidadeRessurreitiva Ressurreição]]'': Você pode ''tecnicamente'' matá-los, mas o problema é que eles não ''permanecem mortos''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ''[[RubberMan Made of Rubber]]'': Somewhere in between the last two, where most attacks just seem to bounce off with little to no effect to the victim.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T195959Z" creationid="Luan" creationdate="20231206T195959Z">
+        <seg>* ''[[Br/HomemBorracha Feito de Borracha]]'': Mais ou menos entre os dois anteriores, onde a maioria dos ataques simplesmente quica com pouco ou nenhum efeito para a vítima. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ''[[SpareBodyParts External Repair/Spare Body Parts]]'': Like regeneration/regrowth, but external.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T201833Z" creationid="Luan" creationdate="20231206T201833Z">
+        <seg>* ''[[Br/PartesCorporaisExtras Reparo externo/Partes Corporais Extras]]'': Como a regeneração, porém externo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ''[[SuperToughness Made of Diamond]]'': The power of the ImplacableMan and TheJuggernaut, [[NoSell nothing does anything to this being]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T194837Z" creationid="Luan" creationdate="20231206T194837Z">
+        <seg>* ''[[Br/SuperResistencia Feito De Diamante]]'': o poder do Br/OImplacavel e do ??? TheJuggernaut, nada causa dano a este ser. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* A hero (or heroine) who can survive very few hits--[[OneHitPointWonder often dying from even the slightest scratch]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T185224Z" creationid="Luan" creationdate="20231101T185224Z">
+        <seg>* Um herói (ou heroína) que pode sobreviver a pouquíssimos ataques -- geralmente morrendo com o menor arranhão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* A limited number of [[VideoGameLives lives]] and/or continues, or no continues at all.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T192459Z" creationid="Luan" creationdate="20231101T192459Z">
+        <seg>* Um número limitado de Br/{{vidas|DeVideogame}} ou ''continues'', ou nenhum deles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CaptainObviousReveal is when the majority of the audience unintentionally figures out the twist before it's revealed, usually because the creator dropped too many [[{{Foreshadowing}} hints]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T230522Z" creationid="Luan" creationdate="20231206T230522Z">
+        <seg>* Br/RevelacaoDoCapitaoObvio é quando a maioria do público descobre a reviravolta antes da revelação, geralmente porque o criador deixou muitas [[Br/{{Prenuncio}} dicas]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HowWeGotHere and InMediasRes are related, but not identical.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T230101Z" creationid="Luan" creationdate="20231206T230101Z">
+        <seg>* Br/ComoChegamosAqui e Br/InMediasRes são relacionados, mas não idênticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* Little to no guidance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T223140Z" creationid="Luan" creationdate="20231101T223140Z">
+        <seg>* Pouca ou nenhuma orientação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MalevolentArchitecture that poses a [[EverythingTryingToKillYou constant danger of death]] even when the player proceeds as cautiously as possible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T185131Z" creationid="Luan" creationdate="20231101T185127Z">
+        <seg>* Br/ArquiteturaMalevolente que apresenta um [[Br/TudoTentandoTeMatar constante risco de morte]] mesmo quando o jogador segue com tanta cautela quanto possível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* Movies or shows which, by their [[StatusQuoIsGod predictable nature]], indicate how the work ends, don't count either: the audience already knows that the good guys will win, that Characters/{{Batman|TheCharacter}} will survive to fight another day, same-bat-time-same-bat-channel, yes; but the ending isn't canonically established; theoretically, Creator/AdamWest could die at the end of an episode, although realistically [[LikeYouWouldReallyDoIt we know he won't]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T230355Z" creationid="Luan" creationdate="20231206T230355Z">
+        <seg>* Filmes ou shows que, pela sua [[Br/StatusQuoEDeus natureza previsível]], indicam como a obra termina, também não contam: o público já sabe que os bonzinhos vencem e que o BrPersonagens/{{Batman|OPersonagem}} vai viver para lutar outro dia, na mesma bat-hora e no mesmo bat-canal, mas o final não é canonicamente estabelecido; teoricamente, o BrCriador/AdamWest poderia morrer no final de um episódio, mas realisticamente [[Br/ComoSeVoceRealmenteFosseFazerIsso a gente sabe que isso não vai acontecer]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* Stiff, clunky, and perhaps somewhat unresponsive controls (but ''only'' when applied to the original 8-bit, 16-bit, and (to a small extent) 32-bit generations; in more modern games, it ceases to be expected and veers right into FakeDifficulty).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T222846Z" creationid="Luan" creationdate="20231101T222846Z">
+        <seg>* Controles estranhos e pouco responsivos (mas ''apenas'' quando aplicado às gerações em 8 bits, 16 bits e (em certa medida) 32 bits; nos jogos mais modernos, isso deixa de ser esperado e entra direto no território da Br/DificuldadeArtificial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* Surprise attacks that can only be avoided by sheerest luck or [[TrialAndErrorGameplay memorizing their locations]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T184947Z" creationid="Luan" creationdate="20231101T184947Z">
+        <seg>* Ataques surpresa que podem ser evitados apenas por pura sorte ou [[Br/JogoDeTentativaEErro ao memorizar as localizações]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* They are charismatic, often [[TheCharmer charming]], their personality is like a physical force.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T141632Z" creationid="Luan" creationdate="20231103T141632Z">
+        <seg>* Eles são carismáticos e encantadores, e sua personalidade é como uma força radiante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* [[CheckPointStarvation Few—if any—Check Points or Save Points]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T192336Z" creationid="Luan" creationdate="20231101T192336Z">
+        <seg>* Poucos -- ou nenhum -- pontos para salvar o progresso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* [[ContinuingIsPainful Losing all or most of your weapons/powerups when you die; or having your score reset to 0 whenever you use the ability to continue, if available]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T222400Z" creationid="Luan" creationdate="20231101T222400Z">
+        <seg>* [[Br/ContinuarEDolorido Perder a maioria (ou todas) das armas/melhorias ao morrer, ou ter a pontuação resetada para 0 sempre que você usa a opção de continuar]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* [[TheChessmaster They are brilliant]] and utterly devious, a smooth operator.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T141432Z" creationid="Luan" creationdate="20231103T141432Z">
+        <seg>* [[Br/OMestreEnxadrista Eles são brilhantes]] e operam por caminhos desleais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* [[VisionaryVillain They have a goal]], and they're not going to stop until they've completed it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T141525Z" creationid="Luan" creationdate="20231103T141525Z">
+        <seg>* [[Br/VilaoVisionario Eles têm um objetivo]] e não vão parar até que o tenham alcançado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* [[{{Permadeath}} Death being final]] for your teammates or character and [[DeletionAsPunishment having all your saves deleted]] if you die.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T224208Z" creationid="Luan" creationdate="20231101T224208Z">
+        <seg>* Br/MortePermanente para os membros da sua equipe e [[Br/ApagamentoComoPunicao ter todo o progresso apagado]] se você morrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* {{Kevlard}}: Similar to made of rubber, but with protective blubber instead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T200139Z" creationid="Luan" creationdate="20231206T200139Z">
+        <seg>* Br/BanhaKevlar: similar à feito de borracha, mas com gordura protetora ao invés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** ''Can Only Kill Part of Him'': FightingAShadow.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T220908Z" creationid="Luan" creationdate="20231206T220908Z">
+        <seg>** ''Só É Possível Matar Parte Dele'': Br/LutandoContraUmaSombra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** ''Divine Protection'': The character itself is not a god, but can survive anything due to intervention of a favorable god/guardian angel/spirit of parent that has been [[AscendedToAHigherPlaneOfExistence 'struck down and become more powerful than you can possibly imagine']].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T220839Z" creationid="Luan" creationdate="20231206T220839Z">
+        <seg>** ''Proteção Divina'': O personagem em si não é um deus, mas pode sobreviver a qualquer coisa devido à intervenção de um deus/anjo guardião/espírito ancestral que [[Br/AscenderParaUmPlanoSuperiorDaExistencia se tornou mais poderoso do que você pode imaginar]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** ''[[BeyondTheImpossible Impossibly Good Luck]]'': They charge headlong at a machine gun, and win.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T215442Z" creationid="Luan" creationdate="20231206T215442Z">
+        <seg>** ''[[Br/AlemDoImpossivel Sorte Impossivelmente Boa]]'': Eles mergulham de cabeça na direção de uma metralhadora e saem vitoriosos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** ''[[BornAgainImmortality Rebirth]]'': Related to above, except when killed, they'll be reborn as an infant.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T205015Z" creationid="Luan" creationdate="20231206T205015Z">
+        <seg>** ''[[Br/ImortalidadePorRenascimento Renascimento]]'': Relacionado ao item acima, mas quando mortos, eles renascem como pequenos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** ''[[BornLucky Dumb Luck/Crazy Luck]]'': The clumsy hero/heroine can dodge everything just because of extreme luck.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T215136Z" creationid="Luan" creationdate="20231206T215136Z">
+        <seg>** ''[[Br/SortudoDeNascenca Sorte Insana]]'': O herói desajeitado consegue desviar de tudo por pura sorte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** ''[[OurGodsAreDifferent God]]'': Face it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T220432Z" creationid="Luan" creationdate="20231206T220432Z">
+        <seg>** ''[[Br/NossosDeusesSaoDiferentes Deus]]'': Admita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** ''[[WindsOfDestinyChange Making Their Own Luck]]'': Some characters literally have luck on their side, in the form of [[FormulaicMagic crunching the numbers]], [[PsychicPowers only seeming to be relying on luck]], [[PalsWithJesus having a friendship with the one setting the odds]] or [[RealityWarper actually changing them themselves]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T220341Z" creationid="Luan" creationdate="20231206T220341Z">
+        <seg>** ''[[Br/VentosDoDestinoMudem Fazendo A Própria Sorte]]'': Alguns personagens literalmente possuem a sorte ao seu lado, seja na forma de [[Br/MagiaFormulaica manipulação dos números]], [[Br/PoderesPsiquicos meramente aparentar estar dependendo da sorte]], [[Br/AmigosDeJesus ter uma amizade com quem quer que estabeleça as chances]] ou [[Br/DobradorDeRealidade alterando a própria realidade]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** ''[[YouCantKillWhatsAlreadyDead No Pain for the Undead]]'': Lack of pain is justified because the character is a member of the living dead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T205449Z" creationid="Luan" creationdate="20231206T205449Z">
+        <seg>** ''[[Br/VoceNaoPodeMatarOQueJaEstaMorto Mortos não sentem dor]]'': A falta de dor é justificada porque o personagem é parte dos mortos-vivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** Alternatively, the person can be hit, but the proxy somehow takes all the damage instead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T203835Z" creationid="Luan" creationdate="20231206T203835Z">
+        <seg>** Alternativamente, a pessoa pode sofrer o golpe mas o substituto, de algum modo, recebe todo o dano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** BodyBackupDrive is the most extreme form of this, with a character being able to transfer their consciousness into a complete replacement ''body''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T202256Z" creationid="Luan" creationdate="20231206T202256Z">
+        <seg>** Br/CorpoReserva é a forma mais extrema disso, com um personagem conseguindo transferir completamente a consciência para um ''corpo'' substituto completo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** But if he/she can take at least one hit without repercussions, falling into BottomlessPits and/or getting SquashedFlat [[OneHitKill still instantly kills him/her]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T185324Z" creationid="Luan" creationdate="20231101T185324Z">
+        <seg>** Mas se ele/ela consegue aguentar pelo menos um ataque sem repercussões sérias, cair no Br/FossoSemFundo ou ser esmagado ainda vai causar morte instantânea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** Even worse, [[PointOfNoContinues no more continues once you get to the homestretch]].[[note]]On [[UsefulNotes/ArcadeGame Arcade Games]] (where mostly seen) that was meant to prevent excessive credit-feeding, a practice deemed very unprofessional (as opposed to learning and memorizing the levels and/or bosses).[[/note]]
+* No way to [[DifficultyLevels adjust the difficulty]], or doing so is pretty much superficial.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T222000Z" creationid="Luan" creationdate="20231101T222000Z">
+        <seg>** Pior ainda, sem ''continues'' extras quando você chega na reta final.[[note]]Nos BrNotasUteis/JogosDeArcade, onde isso era visto, a ideia era impedir o uso de fichas em excesso, uma prática que era considerada pouco profissional (ao invés de memorizar os níveis e os chefes).[[/note]]
+* Sem meio para ajustar os Br/NiveisDeDificuldade, ou então o ajuste é superficial. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** Inflexible JumpPhysics render it impossible to accurately dodge attacks in midair, especially if your character's jump height is less than half that of Mario's or Luigi's.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T222939Z" creationid="Luan" creationdate="20231101T222932Z">
+        <seg>** A Br/FisicaDeSalto inflexível faz com que seja impossível desviar de ataques no meio do ar, especialmente se a altura de pulo do personagem é pouca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** Ironically, the title is a bit of a misnomer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T195132Z" creationid="Luan" creationdate="20231206T195132Z">
+        <seg>** Ironicamente, o título não é exatamente adequado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** Or if the difficulty levels actually are fair, there may be an optional difficulty level that [[HarderThanHard makes Easy, Normal, and even Hard look like child's play]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T222259Z" creationid="Luan" creationdate="20231101T222259Z">
+        <seg>** Ou se os níveis de dificuldade na verdade são justos, pode ser que haja um nível de dificuldade opcional [[Br/MaisDificilQueODificil que faz com que os outros níveis, até o difícil, se pareçam com brincadeira de criança]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** [[DenialOfDiagonalAttack The inability to attack anywhere but left or right]] while GoddamnedBats attack you from above or below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T223108Z" creationid="Luan" creationdate="20231101T223108Z">
+        <seg>** [[Br/NegacaoDeAtaqueDiagonal A incapacidade de atacar para qualquer direção que não seja esquerda ou direita]] enquanto os Br/MalditosMorcegos te atacam por cima ou por baixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>----
+!!Examples:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163742Z" creationid="Luan" creationdate="20231029T163742Z">
+        <seg>----
+!!Exemplos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>-&gt;''"My name is Lester Burnham.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T225329Z" creationid="Luan" creationdate="20231206T225329Z">
+        <seg>-&gt;''"Meu nome é Lester Burnham.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character prone to gnomic, sarcastic, sometimes bitter, occasionally whimsical asides.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T133742Z" creationid="Luan" creationdate="20231029T133742Z">
+        <seg>Um personagem propenso a comentários sarcásticos ocasionalmente ácidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A combination of limited super-toughness, super-pain tolerance and regeneration is a popular [[RequiredSecondaryPowers power set]] to render a character effectively nigh-invulnerable while still being shown to suffer temporary pain and injury in a way that gives recognisable stakes to physical threats, even if we know they won't be fatal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T221419Z" creationid="Luan" creationdate="20231206T221419Z">
+        <seg>Uma combinação de super resistência, super tolerância à dor e regeneração é um [[Br/PoderesSecundariosRequeridos conjunto de poderes]] popular para tornar um personagem praticamente invulnerável ao mesmo tempo em que demonstra sofrer dor e ferimentos de um jeito que transmita alguma vulnerabilidade à ameaças físicas, ainda que saibamos que elas não serão fatais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A common role for a StraightMan.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140713Z" creationid="Luan" creationdate="20231029T140713Z">
+        <seg>Um papel comum para o Br/HomemComum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A lot of arcade games were, and still are, Nintendo Hard for the purposes of encouraging a steady flow of quarters into the machine.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T224924Z" creationid="Luan" creationdate="20231101T224924Z">
+        <seg>Muitos jogos de arcade se encaixam na Dificuldade Nintendo para assegurar um fluxo constante de fichas para dentro da máquina. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A sub-trope of this is GradeSystemSnark.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T135556Z" creationid="Luan" creationdate="20231029T135556Z">
+        <seg>Um sub-tropo disso é o Br/SarcasticoComSistemaDeNotas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A very rare trope is still a trope, but, by definition, a trope still needs to represent some sort of ''meaningful'' pattern (as opposed to a coincidence).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231102T183556Z" creationid="Luan" creationdate="20231102T183556Z">
+        <seg>Um tropo muito raro ainda é um tropo, mas, por definição, um tropo ainda precisa representar algum tipo de padrão com sentido intrínseco (ao contrário de uma coincidência).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Administrivia/TheGreatCharacterAlignmentDebate explains this in more detail.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T211952Z" creationid="Luan" creationdate="20231103T211952Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also often signaled by an increase in [[{{Slapstick}} wacky humor]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180648Z" creationid="Luan" creationdate="20231101T180648Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also the constant disappointment of a chronic DeathSeeker.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T215856Z" creationid="Luan" creationdate="20231206T215856Z">
+        <seg>É também a decepção constante de alguém que seja um Br/BuscadorDaMorte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also, remember that by "hard", [[JustForFun/IThoughtItMeant we're only talking about the difficulty in playing the game]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T225153Z" creationid="Luan" creationdate="20231101T225153Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And the fact that several classic Nintendo games are [[http://arxiv.org/abs/1203.1895 NP-]][[http://www.i-programmer.info/news/112-theory/3896-classic-nintendo-games-are-np-hard.html hard]] is not relevant either.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T225201Z" creationid="Luan" creationdate="20231101T225201Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And these games weren't just hard; they were ''[[TitleDrop Nintendo Hard!]]''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T184620Z" creationid="Luan" creationdate="20231101T184620Z">
+        <seg>E esses jogos não tinham uma dificuldade qualquer; eles tinham a [[Br/FalarONome Dificuldade Nintendo]]!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And they are definitively not cowards.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T141727Z" creationid="Luan" creationdate="20231103T141727Z">
+        <seg>E eles definitivamente não são covardes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As a warning, '''''this entry contains spoilers both marked and unmarked'''''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T233547Z" creationid="Luan" creationdate="20231206T233547Z">
+        <seg>Como um aviso, saiba que '''''este artigo contém spoilers marcados e desmarcados'''''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At its most extreme it can [[CharacterDerailment turn]] a previously vibrant cast into {{Flat Character}}s and remove a lot of the show's appeal or even cause fans to abandon the work entirely.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180023Z" creationid="Luan" creationdate="20231101T180023Z">
+        <seg>No ponto mais extremo isso pode causar um Br/DescarrilamentoDePersonagem, fazendo com que cada membro do elenco se torne um Br/PersonagemPlano, o que remove muito da atratividade do show e pode fazer com que os fãs o abandonem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At worst, to kill enemies with this ability will require killing ''every'' single part of him, since even one survivor may be able to recreate a whole new army of selves.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T204245Z" creationid="Luan" creationdate="20231206T204245Z">
+        <seg>No pior dos casos, matar inimigos com essa habilidade vai requerer matar ''cada um'' deles, pois um único sobrevivente poderá recriar um exército.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Audience members invest in characters and plots and want to know how they are treated and resolved, respectively.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T225533Z" creationid="Luan" creationdate="20231206T225533Z">
+        <seg>Os membros da plateia torcem por personagens e tramas e desejam saber como eles são tratados e resolvidos, respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Authors might cheat with this a bit (or ''a lot''), either by having the "ending" shown be [[ProphecyTwist context-sensitive and open to an entirely different interpretation]] as the audience gets to know the set up, or with an outright TwistEnding by having the "end" shown in a HowWeGotHere like fashion be only the first 10 or 15 minutes, and ending much differently than is likely.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T230936Z" creationid="Luan" creationdate="20231206T230936Z">
+        <seg>Autores podem usar isso para trapacear um pouquinho (ou ''bastante'') ao fazer com que o ''final'' mostrado seja [[Br/ReviravoltaDaProfecia sensível ao contexto e aberto à uma interpretação totalmente diferente]] ou estabelecer um Br/FinalReviravolta ao fazer com que o ''final'' mostrado no estilo Br/ComoChegamosAqui seja apenas os primeiros 10 ou 15 minutos, de maneira que o final é muito diferente do provável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Back in TheEighties, video games didn't have today's sophisticated storylines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T184231Z" creationid="Luan" creationdate="20231101T184231Z">
+        <seg>Lá nos Br/AnosOitenta, os videogames não tinham histórias sofisticadas como hoje em dia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Basically the whatsit that you were fighting was just its... "representation" in the same world.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T220931Z" creationid="Luan" creationdate="20231206T220931Z">
+        <seg>Basicamente o seu oponente é apenas uma ''representação'' dele neste mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Be they a NobleDemon, a ProudWarriorRaceGuy, or just someone who believes in keeping order [[UtopiaJustifiesTheMeans at all costs]], they are not to be underestimated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T205838Z" creationid="Luan" creationdate="20231103T205838Z">
+        <seg>Sejam eles um Br/DemonioNobre, um Br/CaraDeUmaRacaGuerreiraOrgulhosa ou simplesmente alguém que acredita em manter a ordem [[Br/UtopiaJustificaOsMeios a todo custo]], eles não devem ser subestimados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can also be used to crank DramaticIrony up.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T231246Z" creationid="Luan" creationdate="20231206T231246Z">
+        <seg>Também pode ser usado para elevar o grau de Br/IroniaDramatica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Capturing the audience with their charisma, incredible intellect, mastery of manipulation, and boldness of action, this character is a show-stealer, demanding your reverence at every turn.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T141316Z" creationid="Luan" creationdate="20231103T141316Z">
+        <seg>Ele atrai para si o público com seus carisma, intelecto, maestria na manipulação e ousadia na ação. Este personagem rouba para si a cena e exige sua reverência a cada momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Character Alignment is a shorthand for a given character's (or religion's, society's, organization's, etc.) moral/ethical outlook on [[Franchise/TheHitchhikersGuideToTheGalaxy life, the universe and everything]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T201628Z" creationid="Luan" creationdate="20231103T201628Z">
+        <seg>Alinhamento de personagem, ou tendência de personagem, é um jeito simples de se referir à percepção ética e moral de um personagem sobre [[BrFranquia/OGuiaDoMochileiroDasGalaxias a vida, o universo e tudo o mais]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Characters of this type often feature in an OrderVersusChaos situation where neither side is proven to be right.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T204223Z" creationid="Luan" creationdate="20231103T204223Z">
+        <seg>Personagens desse tipo costumam aparecer em uma situação de Br/OrdemContraCaos onde nenhum dos dois lados está estabelecido como certo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chop off an arm?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T202054Z" creationid="Luan" creationdate="20231206T202054Z">
+        <seg>Teve o braço cortado?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Comes in two flavors: [[BalanceBetweenGoodAndEvil Keeping the Balance]] and [[BystanderSyndrome Just Doesn't Care]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T204821Z" creationid="Luan" creationdate="20231103T204821Z">
+        <seg>Aparece em duas variantes: "[[Br/EquilibrioEntreOBemEOMal mantendo o equilíbrio]]" e "[[Br/SindromeDoTranseunte eu não me importo]]".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compare ActuallyPrettyFunny, when even the target of the joke concedes the humor of the situation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163708Z" creationid="Luan" creationdate="20231029T163708Z">
+        <seg>Comparar com Br/NaVerdadeFoiEngracado, quando até o alvo da piada reconhece o humor da situação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compare ExternalRetcon, where the audience is expected to be familiar with an entire ''existing'' story.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T231847Z" creationid="Luan" creationdate="20231206T231847Z">
+        <seg>Comparar com Br/RetconExterno, onde espera-se que o público seja familiarizado com uma história ''já existente''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compare GuileHero, its GoodCounterpart.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T141747Z" creationid="Luan" creationdate="20231103T141747Z">
+        <seg>Comparar com Br/HeroiAstuto, a sua Br/ContraparteDoBem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compare TheSnarkKnight, LittleMissSnarker, {{Cuckoosnarker}}, WeaselMascot, FirstPersonSmartass, ServileSnarker, GentlemanSnarker, SilentSnarker, DisabledSnarker, MentorInSourArmor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140126Z" creationid="Luan" creationdate="20231029T140126Z">
+        <seg>Comparar com Br/CavaleiroSarcastico, ??? LittleMissSnarker, ??? {{Cuckoosnarker}}, ??? WeaselMascot, Br/EngracadinhoEmPrimeiraPessoa, Br/SarcasticoServil, Br/SarcasticoCavalheiro, Br/SarcasticoSilencioso, Br/SarcasticoPCD e ??? MentorInSourArmor. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compare of course {{Immortality}}, for the ways in which characters cannot die.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T221732Z" creationid="Luan" creationdate="20231206T221732Z">
+        <seg>Comparar com Br/{{Imortalidade}}, para os meios em que os personagens não podem morrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compare {{Bowdlerise}} (where a work is edited to remove material that can be considered questionable), {{Disneyfication}} (making a story more suitable for children by toning down the darker elements), MenaceDecay (where a bratty child character becomes less of a troublemaker over time), BadassDecay (where audiences see a cool character as becoming not as impressive and formidable as they used to be), ReverseCerebusSyndrome (where an initially dark work becomes lighter in tone over time), SugarWiki/{{WAFF}} (when a work's whole purpose is to appeal to the audience by being cute and endearing), AdaptationalAngstDowngrade (where an adaptation changes a character's backstory to remove the tragic parts), TamerAndChaster (where a work reduces the amount of nudity and sexual content) and PacifiedAdaptation (where the adaptation has less violence).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T182601Z" creationid="Luan" creationdate="20231101T182005Z">
+        <seg>Comparar com ??? {{Bowdlerise}} (quando uma obra é editada para remover material que pode ser considerado questionável, Br/{{Disneyficacao}} (tornar uma história mais apropriada para crianças ao atenuar os elementos mais pesados), ??? MenaceDecay (onde uma criança problemática se torna menos problemática com o tempo), Br/DecaimentoDoFodao (onde o público percebe um personagem maneiro como não sendo tão impressionante e formidável quanto costumavam ser), ??? ReverseCerebusSyndrome (uma obra inicialmente séria se torna mais leve com o tempo), ??? AdaptationalAngstDowngrade (uma adaptação muda a história de fundo de um personagem para remover os elementos trágicos), Br/MaisMansoECasto (quando uma obra reduz a quantidade de nudez e conteúdo sexual) e Br/AdaptacaoPacificada (quando a adaptação possui menos violência).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compare/contrast Administrivia/NoTropeIsTooCommon.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231102T184903Z" creationid="Luan" creationdate="20231102T184903Z">
+        <seg>Comparar/contrastar BrAdministrivia/NenhumTropoEComumDemais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contrary to what some believe, Chaotic Evil does not have to mean wanton, meaningless slaughter and destruction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T210348Z" creationid="Luan" creationdate="20231103T210348Z">
+        <seg>Ao contrário do que alguns acreditam, o tipo Caótico e Mau não necessariamente significa matança e destruição exageradas e desnecessárias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contrast DarkerAndEdgier (where a work is changed to be darker and more serious in tone), BloodierAndGorier (where the work features more graphic violence than usual), CerebusSyndrome (where a work defaults to becoming darker in tone over time), AdaptationalAngstUpgrade (where an adaptation alters a character's history so their life is more miserable than it was in the source material) and HotterAndSexier (where a work increases the amount of nudity and sexual content).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T182305Z" creationid="Luan" creationdate="20231101T182305Z">
+        <seg>Contrastar com Br/MaisSombrioEPesado (quando uma obra é alterada para receber um tom mais pesado e sério), ??? BloodierAndGorier (quando a obra apresenta mais violência e detalhes gráficos que o usual), Br/SindromeDeCerebus (onde uma obra vai se tornando mais séria ao longo do tempo), ??? AdaptationalAngstUpgrade (onde uma adaptação altera a história do personagem para que sua vida passe a ser mais miserável do que antes) e Br/MaisAtraenteESexy (onde uma obra aumenta a quantidade de nudez e conteúdo sexual).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contrast MadeOfIron, where no explanation is given for an individual's incredible resilience.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T221802Z" creationid="Luan" creationdate="20231206T221802Z">
+        <seg>Contrastar com Br/FeitoDeFerro, onde nenhuma explicação é dada para a resiliência incrível de um indivíduo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cut them to pieces, and they [[PullingThemselvesTogether just reassemble themselves]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T200844Z" creationid="Luan" creationdate="20231206T200844Z">
+        <seg>Fatie em pedacinhos, e eles simplesmente se remontam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Doing good is more important than upholding the law, but law is not a bad thing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T203355Z" creationid="Luan" creationdate="20231103T203355Z">
+        <seg>Fazer o bem é mais importante do que seguir a lei, mas a lei não é má.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DoomedByCanon is a SubTrope of this, and deals with prequel characters and their attempts to either take out the main cast of the original story or survive to the end, attempts which we know are doomed because of the original story.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T232617Z" creationid="Luan" creationdate="20231206T232617Z">
+        <seg>Br/CondenadoPeloCanone é um Br/SubTropo disso que lida com personagens da prequência e suas tentativas de executar o elenco principal ou de sobreviver ao fim, tentativas essas que sabemos que vão falhar por causa da história original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EarnYourFun is a common argument for those who like such abusingly difficult games.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T224831Z" creationid="Luan" creationdate="20231101T224823Z">
+        <seg>Br/ConquisteSuaDiversao é um argumento comum para aqueles que gostam desses jogos abusivamente difíceis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Either one has to find their AchillesHeel, or else summon up a nuclear-bomb's worth of power in the last episode, either through ThePowerOfLove or KiManipulation or ''really'' heavy armaments (e.g. WhenAllYouHaveIsAHammer) and hope for VillainDecay.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T194513Z" creationid="Luan" creationdate="20231206T194513Z">
+        <seg>É necessário que se encontre o Br/CalcanharDeAquiles ou que se obtenha poder similar ao de uma bomba atômica no último episódio, seja por meio de Br/OPoderDoAmor, Br/ManipulacaoDeKi ou armamentos ''realmente'' pesados (e.g. Br/QuandoTudoQueSeTemEUmMartelo), e esperar que aconteça o Br/DecaimentoVilanico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Either they have the power of SuperSmoke or {{Intangibility}} completely at will so that you can't attack them, or they may exist in some form that makes direct confrontation just not possible (an AstralProjection, for example, or just a plain old [[OurGhostsAreDifferent ghost]]).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T195501Z" creationid="Luan" creationdate="20231206T195501Z">
+        <seg>Ou eles possuem o poder da Br/SuperFumaca ou Br/{{Intangibilidade}}, de modo que você não os consegue atacar, ou eles podem existir em alguma forma que torne o confronto direto simplesmente impossível (como, por exemplo, uma Br/ProjecaoAstral, ou apenas um [[Br/NossosFantasmasSaoDiferentes fantasma]] comum).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Even those that did allow difficulty changes featured EasyModeMockery, making it often not worth the time to even play on Easy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T222136Z" creationid="Luan" creationdate="20231101T222136Z">
+        <seg>Mesmo aqueles que permitiam a mudança de dificuldade apresentavam a Br/ZombariaDoModoFacil, o que fazia com que não valesse a pena jogar no modo fácil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Even when the goal is suicidally over-ambitious, they succeed with style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T141553Z" creationid="Luan" creationdate="20231103T141553Z">
+        <seg>Até mesmo quando o objetivo é ambicioso de maneira suicida, eles conseguem fazer isso com estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ever.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T141729Z" creationid="Luan" creationdate="20231103T141729Z">
+        <seg>Nunca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Everyone who heard Creator/{{Homer}} (no, the other one) sing already knew that Troy falls and Achilles and Hector both die; nobody walked out of Creator/{{Sophocles}}'s play saying, "Dude, he married his ''mom?''" There's a long, long tradition of retelling the story everyone knows.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T233421Z" creationid="Luan" creationdate="20231206T233421Z">
+        <seg>Qualquer um que tenha ouvido BrCriador/{{Homero}} cantar já sabia que Troia é derrotada e que Aquiles e Hector morrem; ninguém saiu da peça do BrCriador/{{Sofocles}} dizendo "cara, ele casou com ''a mãe dele?''" Existe uma longa tradição de se recontar uma história que todo mundo conheça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Examples must be games that, as a whole, are extremely difficult even by skilled players' standards.'''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T230217Z" creationid="Luan" creationdate="20231101T230217Z">
+        <seg>Exemplos devem ser jogos que, como um todo, são extremamente difíceis até para os padrões de jogadores habilidosos.'''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Examples of Nintendo Hard head-to-head fighters generally go under TheComputerIsACheatingBastard, since crazy-hard opponent AI is nigh-universally the culprit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T224752Z" creationid="Luan" creationdate="20231101T224752Z">
+        <seg>Exemplos de Dificuldade Nintendo em jogos de luta 1-contra-1 geralmente se encaixam em Br/OComputadorEUmCanalhaTrapaceiro, pois o oponente de IA muito difícil quase sempre é o culpado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ExecutiveMeddling may of course be at fault; "We gotta appeal to the kids!" But other reasons include trying to be more mainstream, to change an unpopular run, to appeal to another demographic, to recognize and dispel TooBleakStoppedCaring etc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180937Z" creationid="Luan" creationdate="20231101T180937Z">
+        <seg>A Br/InterferenciaExecutiva, pode, naturalmente, ter culpa nisso: "Precisamos que as crianças queiram ver isso!" Mas outros motivos incluem tentar se tornar mais populares, tentar alcançar outras demografias, reconhecer e tratar ??? TooBleakStoppedCaring, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expect a setting that uses Character Alignments to make frequent use of plots about OrderVersusChaos and BalanceBetweenGoodAndEvil.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T202050Z" creationid="Luan" creationdate="20231103T202050Z">
+        <seg>Espere que uma ambientação que usa Alinhamentos de Personagem faça uso frequente de tramas do tipo Br/OrdemContraCaos e Br/EquilibrioEntreOBemEOMal. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expect an OhCrap moment when paired with TheBerserker.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T215717Z" creationid="Luan" creationdate="20231206T215717Z">
+        <seg>Espere um momento de Br/VishFerrou quando em combinação com Br/OEnfurecido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expect plenty of SnarkToSnarkCombat if and when two of these meet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T141315Z" creationid="Luan" creationdate="20231029T141315Z">
+        <seg>Espere muito Br/CombateEntreSarcasticos se e quando dois deles se encontram.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expect them to resort frequently to BrutalHonesty.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140810Z" creationid="Luan" creationdate="20231029T140810Z">
+        <seg>Espere que eles façam uso frequente de Br/HonestidadeBrutal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finally, if an adult or more serious TV show or movie has a spin-off aimed at children, this can be the result.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T175745Z" creationid="Luan" creationdate="20231101T175745Z">
+        <seg>Por fim, se um show ou filme que é mais sério ou foi pensado para adultos recebe uma obra derivada que almeja crianças, este pode ser o resultado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For an example, if a pattern is only visible in [[UgandanMedia Ugandan literature]] in the 1970s, it's still a trope as long as it conveys some sort of message (even if that message is only understandable to readers of 1970s Ugandan literature), but a narrowly-defined TLP for which only two or three examples can be found is much more ''likely'' to be coincidences than those with a similar degree of specificity and many examples.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231102T183808Z" creationid="Luan" creationdate="20231102T183808Z">
+        <seg>Por exemplo, se um certo padrão só é reconhecível na literatura de Uganda dos anos 1970, ainda é um tropo desde que haja algum tipo de mensagem (mesmo que essa mensagem só seja compreensível para os leitores dessa literatura específica), mas um candidato a tropo no TLP que tenha uma definição muito estrita para a qual se podem encontrar apenas dois ou três exemplos tem muito mais chance de ser uma coincidência do que aqueles que possuem o mesmo nível de definição estrita, porém com muitos exemplos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For attempts to create a suspiciously-similar SisterTrope, instead of a hierarchical SubTrope, see Administrivia/RidiculouslySimilarTrope.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T010822Z" creationid="Luan" creationdate="20231103T010822Z">
+        <seg>Para tentativas de criar um Br/TropoIrmao similar demais, ao invés de um Br/SubTropo, consultar BrAdministrivia/TropoRidiculamenteSimilar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For instance, the BoardingSchoolOfHorrors in ''Radio/BleakExpectations'' would be abusive if the staff beat the students and deprived them of food.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163605Z" creationid="Luan" creationdate="20231029T163605Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For similar reasons, in any ScrapbookStory, you can safely assume that somebody must have been able to put together the scrapbook.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T233104Z" creationid="Luan" creationdate="20231206T233104Z">
+        <seg>Por motivos similares, em qualquer Br/HistoriaComRecortes você pode seguramente supor que alguém conseguiu reunir todos os recortes para contar a história.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the (mostly) non-vulgar variant, see OverlyLongGag.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163730Z" creationid="Luan" creationdate="20231029T163730Z">
+        <seg>Para a variante (geralmente) não vulgar, ver Br/PiadaExcessivamenteLonga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FramingDevice entails this to a certain extent, as any character alive to tell or hear the tale must have survived, and the setting may also hint.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T232744Z" creationid="Luan" creationdate="20231206T232744Z">
+        <seg>O Br/DispositivoDeEnquadramento se conecta a isso até certo ponto, pois qualquer personagem que esteja vivo para contar a história deve ter sobrevivido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Games that are rated 4.0 or above on that list represent the top 3% hardest video games ever released.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T225354Z" creationid="Luan" creationdate="20231101T225354Z">
+        <seg>Jogos que possuem nota acima de 4.0 na lista representam o top 3% de dificuldade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Good focuses on improving others' well-being; Evil focuses on the self, even at the expense of others; and Neutral serves a similar role as on the ethical axis, but tends to favor their friends and family.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T202723Z" creationid="Luan" creationdate="20231103T202723Z">
+        <seg>O Bom foca em melhorar o bem-estar de outros; o Mal foca em si próprio, mesmo que às custas dos outros; e o Neutro serve um papel similar ao do eixo ético, mas tende a favorecer amigos e família.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heroic types may stand up to fight for Truth, Justice and such, but the commonfolk just tend to pay their taxes, keep their word, and volunteer on weekends.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T203139Z" creationid="Luan" creationdate="20231103T203139Z">
+        <seg>Os tipos heroicos podem se levantar para lutar em nome da verdade e da justiça, enquanto o povo comum vai apenas pagar os impostos em dia, manter a palavra e fazer trabalho voluntário aos fins de semana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HilarityEnsues when the character is a MilesGloriosus who ''believes'' they are [[SuperToughness Made of Diamond]] but are actually this, or the {{Cloudcuckoolander}} leisurely strolls through BulletHell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T215325Z" creationid="Luan" creationdate="20231206T215325Z">
+        <seg>Br/HilariedadesSeguemSe o personagem acredita que é [[Br/SuperResistencia feito de diamante]] mas na verdade é pura sorte, ou se o personagem avoado passa despreocupado pelo tiroteio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HistoricalFiction is tied to this trope, since history isn't changing (unless the author pulls a WrittenByTheWinners and claim that the events as portrayed in his work is what "really" happened).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T231555Z" creationid="Luan" creationdate="20231206T231555Z">
+        <seg>Br/FiccaoHistorica é ligada a este tropo, pois a história não muda (a não ser que o autor use o argumento de Br/EscritoPelosVencedores e diga que os eventos conforme registrados na obra são o que "realmente" aconteceu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HistoricalInJoke is sometimes like this, but sometimes [[NotHisSled subverts it]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T233514Z" creationid="Luan" creationdate="20231206T233514Z">
+        <seg>Br/PiadaInternaHistorica às vezes é isso, mas às vezes [[Br/NaoEOTrenoDele subverte isso]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However [[TakesOneToKillOne other gods can sometimes kill gods]], so they do technically fit the "nigh" part.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T220636Z" creationid="Luan" creationdate="20231206T220636Z">
+        <seg>No entanto [[Br/ENecessarioUmParaMatarUm outros deuses às vezes podem matar deuses]], então eles se enquadram na parte do "praticamente".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, if a show goes far enough with its violence, it may end up crossing the line not once but ''twice'', as it goes around the planet and crosses it again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162011Z" creationid="Luan" creationdate="20231029T162011Z">
+        <seg>No entanto, se um show vai muito longe com a violência, ele pode passar do ponto não uma, mas ''duas'' vezes, como se desse a volta no planeta e passasse de novo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, if they have a HiveQueen, killing it may destroy the whole being.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T204304Z" creationid="Luan" creationdate="20231206T204304Z">
+        <seg>No entanto, se houver um ser que comanda a mente unificada, matá-lo pode destruir o aglomerado inteiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, that doesn't stop RPG fans from discussing what alignment characters in other works would be.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T211404Z" creationid="Luan" creationdate="20231103T211404Z">
+        <seg>No entanto, isso não impede os fãs de RPG de discutirem quais os alinhamentos de personagem em outras obras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'm 42 years old.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T225348Z" creationid="Luan" creationdate="20231206T225348Z">
+        <seg>Tenho 42 anos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If it shoehorns BlackAndWhiteMorality into the work and makes everyone clear heroes and villains, then expect people to complain about the loss of subtlety in the setting, or feel like the writers are talking down to them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180209Z" creationid="Luan" creationdate="20231101T180209Z">
+        <seg>Se a Br/MoralidadePretaEBranca for encaixada à força na obra para tornar todo mundo claramente um herói ou um vilão, pode esperar que as pessoas reclamem sobre a perda de sutilieza na ambientação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the added distinction is so narrow that the result fails to actually ''establish a pattern'', the trope is Administrivia/TooRareToTrope.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T010721Z" creationid="Luan" creationdate="20231103T010721Z">
+        <seg>Se a distinção acrescentada é tão restrita que o resultado falha em estabelecer um padrão, é um caso de BrAdministrivia/RaroDemaisParaSerUmTropo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the game reaches an obscene difficulty at a certain point and never looks back, look for DifficultySpike.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T224636Z" creationid="Luan" creationdate="20231101T224636Z">
+        <seg>Se o jogo alcança uma dificuldade ridícula em certo ponto e não volta atrás, é um caso de Br/SaltoNaDificuldade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the game teaches you any of the mechanics at all, it's through a WakeUpCallBoss or a [[DifficultySpike particularly nasty]] NoobBridge.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T224049Z" creationid="Luan" creationdate="20231101T224049Z">
+        <seg>Se o jogo te ensina alguma das mecânicas, é através de um Br/ChefeDeAlerta ou de uma [[Br/SaltoNaDificuldade ponte particularmente horrível]]. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the proxy is encountered often enough, it can give the ''semblance'' of invulnerability.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T203814Z" creationid="Luan" creationdate="20231206T203814Z">
+        <seg>Se o substituto for encontrado com frequência, ele pode passar a sensação de invulnerabilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If there are too many of these, you might be in a WorldOfSnark.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140839Z" creationid="Luan" creationdate="20231029T140839Z">
+        <seg>Se houverem muitos desses, pode ser que você esteja na Br/{{Sarcasmolandia}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If there was ever a villain that deserved to be called "Magnificent", that character ''is'' the Magnificent Bastard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T141141Z" creationid="Luan" creationdate="20231103T141141Z">
+        <seg>Se em algum momento houve um vilão que mereceu ser chamado de "magnífico", este personagem é o Canalha Magnífico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this happens completely by accident, that's SpringtimeForHitler.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163322Z" creationid="Luan" creationdate="20231029T163322Z">
+        <seg>Se isso acontecer completamente por acidente, então é Br/PrimaveraParaHitler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you're not sure whether your TLP falls into this category, try asking, "Administrivia/IsThisTropable"</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231102T184538Z" creationid="Luan" creationdate="20231102T184538Z">
+        <seg>Se você não tem certeza sobre se a sua submissão no TLP se encaixa nessa categoria, tente se perguntar: "BrAdministrivia/IssoETropavel?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In almost any story that has a {{narrator}}, you can safely assume the narrator will live.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T232820Z" creationid="Luan" creationdate="20231206T232820Z">
+        <seg>Em qualquer história que tenha um Br/{{Narrador}}, você pode seguramente supor que o narrador viverá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In fact, a [[MemeticMutation meme]] on the imageboard Website/FourChan is creating motivational posters of various characters from fiction and real life, with a caption explaining their alignment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T211815Z" creationid="Luan" creationdate="20231103T211815Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In fact, it was in 1933 that the word "wisecrack" (the Snarker's most trusted sidearm) entered English-language dictionaries.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140539Z" creationid="Luan" creationdate="20231029T135443Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In less than a year I'll be dead."''
+--&gt;-- '''OpeningNarration''', ''Film/AmericanBeauty''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T225444Z" creationid="Luan" creationdate="20231206T225444Z">
+        <seg>Em menos de um ano eu estarei morto."''
+--&gt;--'''Br/NarracaoDeAbertura''', ''BrFilme/BelezaAmericana''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In most cases, it is implied that the snarker would make a good leader, strategist, or consultant given their ability to [[GenreSavvy instantly see the flaws in a constructed plan]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T134717Z" creationid="Luan" creationdate="20231029T134717Z">
+        <seg>Na maioria dos casos, fica implícito que o sarcástico daria um bom líder, estrategista ou consultor, dada a habilidade dele de [[Br/LigadoNoGenero instantaneamente ver as falhas em um plano]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In music, this may result in an artist merely recording a SurprisinglyGentleSong, or it could lead to the artist having a complete GenreShift to a lighter genre.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180312Z" creationid="Luan" creationdate="20231101T180312Z">
+        <seg>Na música, isso pode resultar no artista meramente gravando uma Br/MusicaSurpreendentementeCalma ou no artista fazendo uma completa Br/MudancaDeGenero para algo mais leve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In other cases, the Deadpan Snarker resorts to sarcasm because they're the OnlySaneMan.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T134857Z" creationid="Luan" creationdate="20231029T134857Z">
+        <seg>Em outros casos, o Sarcástico Sério recorre ao sarcamos porque eles são o Br/UnicoHomemSao. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In particular, [[Administrivia/NoRealLifeExamplesPlease there will be no real-life examples under these circumstances]], except for descriptions of proposed systems like the [[FourTemperamentEnsemble four humours]] theory.'''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T212015Z" creationid="Luan" creationdate="20231103T212015Z">
+        <seg>Em particular, [[BrAdministrivia/SemExemplosDaVidaRealPorFavor não devem haver exemplos da vida real]].'''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In theory.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T201344Z" creationid="Luan" creationdate="20231103T201344Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Intelligent true neutrals are quite logical in how they go about things, including morals.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T205056Z" creationid="Luan" creationdate="20231103T205056Z">
+        <seg>Personagens inteligentes que são verdadeiramente neutros usam muito a lógica em relação às abordagens de vida, incluindo a moral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It could be a deliberate throwback to a pre-{{Cerebus Syndrome}} incarnation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T175618Z" creationid="Luan" creationdate="20231101T175618Z">
+        <seg>Pode também ser um retorno planejado para uma época de antes de uma Br/SindromeDeCerebus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It helps to think of it as a 3x3 square with the moral and ethical axes on each side, and all the possible alignments surrounding TrueNeutral, like so:\\
+\\</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T210803Z" creationid="Luan" creationdate="20231103T210803Z">
+        <seg>Pode ser conveniente pensar nos alinhamentos arranjados em uma tabela 3 x 3 com os eixos morais e éticos nas laterais e os possíveis alinhamentos ao redor de Br/VerdadeiroNeutro, assim: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It just depends on who's behind the product and how they execute it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T181011Z" creationid="Luan" creationdate="20231101T181011Z">
+        <seg>Apenas depende de quem está por trás do produto e como isso é executado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It usually depends on who creates/writes said material as well as how subtly they make the transition.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180806Z" creationid="Luan" creationdate="20231101T180806Z">
+        <seg>Isso depende de quem cria/escreve o material assim também como a sutileza com a qual se faz a transição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It was simply not possible to make very long games in the modern style that take hours to beat even if you are good.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T184746Z" creationid="Luan" creationdate="20231101T184746Z">
+        <seg>Simplesmente não era possível fazer jogos muito longos no estilo contemporâneo que levassem horas para finalizar ainda que você fosse bom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's also very common in well-established franchises especially [[{{Prequel}} prequels]] set before the events of another work such as Episodes I-III of ''Franchise/StarWars''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T231729Z" creationid="Luan" creationdate="20231206T231729Z">
+        <seg>Também é muito comum em franquias bem estabelecidas, especialmente com [[Br/{{Prequencia}} prequências]] que ocorrem antes dos eventos de outra obra, como com os Episódios I a III de ''BrFranquia/StarWars''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's common among narrators, making them into a LemonyNarrator.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T141435Z" creationid="Luan" creationdate="20231029T141435Z">
+        <seg>É comum entre narradores, e isso os torna um tipo de ??? LemonyNarrator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's even possible for tropes to eventually coalesce out of such intertextual references, reaching a tipping point where a TropeMaker or TropeCodifier emerges, at which point something that was ''previously'' Too Rare To Trope retroactively becomes an example of an UnbuiltTrope.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231102T184842Z" creationid="Luan" creationdate="20231102T184842Z">
+        <seg>É até possível que tropos eventualmente nasçam a partir dessas referências intertextuais, alcançando um ponto de virada em que um Br/CriadorDeTropo ou Br/CodificadorDeTropo emergem, e nesse momento algo que ''antes'' era Raro Demais Para Ser Um Tropo se torna retroativamente um exemplo de Br/TropoNaoConstruido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's physically and theologically impossible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T220559Z" creationid="Luan" creationdate="20231206T220559Z">
+        <seg>É fisicamente e teologicamente impossível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Just as often the bad guys as the good guys in an OrderVersusChaos situation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T205414Z" creationid="Luan" creationdate="20231103T205414Z">
+        <seg>Em uma situação de Br/OrdemContraCaos, podem ser os mocinhos ou os vilões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Just like its brother extreme, Lighter and Softer can leave just as bad of a taste in longtime fans' mouths as Darker and Edgier if handled poorly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T175834Z" creationid="Luan" creationdate="20231101T175834Z">
+        <seg>Assim como com seu irmão mais extremo, Mais Animado e Leve pode deixar um gosto ruim entre os fãs se for usado de maneira ruim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Just like with DarkerAndEdgier, please keep in mind that Administrivia/TropesAreTools.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180717Z" creationid="Luan" creationdate="20231101T180717Z">
+        <seg>Assim como em Br/MaisSombrioEPesado, tenha em mente que BrAdministrivia/TroposSaoFerramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Just pray that they don't have [[AdaptiveAbility the ability to adapt to whatever that managed to kill them before such that]] ItOnlyWorksOnce, and/or unlimited amount of extra life.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T204904Z" creationid="Luan" creationdate="20231206T204801Z">
+        <seg>Apenas reze para que eles não tenham a habilidade de se adaptar para o que quer que o tenha lhes matado de tal maneira que se torne um caso de Br/SoFuncionaUmaVez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keep in mind though, the difficulty of the game [[SurpriseDifficulty might have nothing to do with how the game looks aesthetically]], but [[WhatDoYouMeanItsNotForKids they're not tailored for young kids either]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T224433Z" creationid="Luan" creationdate="20231101T224433Z">
+        <seg>Tenha em mente, no entanto, que a dificuldade do jogo [[Br/DificuldadeSurpresa pode não ter nada a ver com a estética do jogo em si]], mas ainda assim [[Br/ComoAssimNaoEParaCriancas eles não serão adequados para crianças pequenas]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Killing its body in this dimensional plane is a mild setback... if at all, as it can grow that back very quickly or replace it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T221013Z" creationid="Luan" creationdate="20231206T221013Z">
+        <seg>Matar seu corpo nesta dimensão é uma mera inconveniência... caso de fato seja, pois é possível regenerar rápido ou substituir o corpo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lawful (Order) represents honor and obedience to the law; Chaotic (Chaos) leans toward personal freedom, without regards to the law; and Neutral (Balance) is an intermediate position that either doesn't care or seeks balance between the two ends.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T202451Z" creationid="Luan" creationdate="20231103T202451Z">
+        <seg>Ordeiro ou Leal (ordem) representa a honra e a obediência à lei: Caótico (caos) representa a liberdade pessoal sem consideração pela lei, e Neutro (equilíbrio) é uma posição intermediária que não se importa ou que busca um meio termo entre as duas pontas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lawful Neutral characters believe that order is more important than kindness, empathy and understanding.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T204024Z" creationid="Luan" creationdate="20231103T204024Z">
+        <seg>Personagens leais e neutros acreditam que ordem é mais importante que bondade, empatia e compreensão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's break it down:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T141337Z" creationid="Luan" creationdate="20231103T141337Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Many roleplaying games use some sort of alignment system as a KarmaMeter, an "ideal" for a character to live up to, or just a descriptive shorthand for characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T201814Z" creationid="Luan" creationdate="20231103T201814Z">
+        <seg>Muitos jogos de RPG usam algum tipo de sistema de alinhamento como um Br/MedidorDeKarma, um "ideal" que determinado personagem deve seguir, ou apenas uma descrição breve dos personagens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>May result in OffingTheMouth.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T141326Z" creationid="Luan" creationdate="20231029T141326Z">
+        <seg>Pode resultar em ??? OffingTheMouth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>May wear JadeColoredGlasses.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140750Z" creationid="Luan" creationdate="20231029T140750Z">
+        <seg>Pode usar Br/OculosCorDeJade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Meh, if it's too damaged to reattach, no big deal: it's replaceable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T202114Z" creationid="Luan" creationdate="20231206T202114Z">
+        <seg>Se estiver muito danificado para recolocar, não tem problema: só colocar um novo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Merely fighting them won't make them go away; if at all possible their defeat requires one to figure out ''how'', which is a legendary quest in and of itself.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T193929Z" creationid="Luan" creationdate="20231206T193929Z">
+        <seg>Simplesmente combatê-los não fará com que eles vão embora; se é possível derrotá-los, a derrota requer que se descubra ''como'', o que é uma jornada lendária por si só.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Missing examples.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T182329Z" creationid="Luan" creationdate="20231101T182329Z">
+        <seg>Br/ExemplosEmFalta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More often than not, their innate snarkiness is the only thing preventing the other characters from comprehending this for themselves.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T134806Z" creationid="Luan" creationdate="20231029T134806Z">
+        <seg>No entanto, o sarcasmo inerente a eles costuma ser a única coisa que impede os outros personagens de compreenderem isso por si mesmos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most common with [[EasilyDetachableRobotParts machines and]] {{cyborg}}s, but occasionally works for the undead or supernatural, and sometimes even a skilled {{Mad Doctor}} can pull this off with normal organisms.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T202049Z" creationid="Luan" creationdate="20231206T202049Z">
+        <seg>Mais comum com [[Br/PartesRoboticasQueDesencaixamFacil máquinas e]] Br/{{ciborgue}}s, mas ocasionalmente funciona com seres sobrenaturais ou mortos-vivos, e vez ou outra um Br/DoutorLouco consegue fazer isso com organismos normais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most dramatic tension in story-telling comes from the audience being ignorant of the work's ending.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T225506Z" creationid="Luan" creationdate="20231206T225506Z">
+        <seg>A maioria da tensão dramática na narrativa vem do público não saber como a obra termina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most games with this setup even denied you crouching to take out the enemies that crawled under your shots.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T223134Z" creationid="Luan" creationdate="20231101T223134Z">
+        <seg>A maioria dos jogos com esse traço até mesmo te negam a possibilidade de agachar para destruir os inimigos que se esgueiram por baixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NeutralGood states may be [[{{Utopia}} really nice places to live]], but depending on how idealistic or cynical the setting is, they may be deluding themselves into being too idealistic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T203537Z" creationid="Luan" creationdate="20231103T203537Z">
+        <seg>Locais do tipo Br/NeutroEBom podem ser locais ótimos para se viver, mas a depender do quão idealista ou cínica a ambientação, é, eles podem apenas estar se iludindo com excesso de idealismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Not too caught up in OrderVersusChaos; concerned with moral goodness, but often not willing to enforce it in others.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T203435Z" creationid="Luan" creationdate="20231103T203435Z">
+        <seg>Não é muito envolvido na disputa da Br/OrdemContraCaos; preocupa-se com a bondade moral mas não tem a disposição para impôr a moral sobre os outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note that due to the definition evolving, the "Deadpan" part of the title has gradually become TheArtifact and a deadpan delivery is no longer a necessary part of the trope.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T135144Z" creationid="Luan" creationdate="20231029T135144Z">
+        <seg>Devido à constante evolução da definição, a parte "séria" do título está gradualmente se tornando Br/OArtefato e uma fala séria já não é uma parte necessária do tropo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Of course, this form of the trope is just as subjective as the last, so be careful what you put down as an example.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163240Z" creationid="Luan" creationdate="20231029T163240Z">
+        <seg>É claro, esta forma de tropo é muito subjetiva, por isso atenção com o que você coloca nos exemplos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Often found alongside DenserAndWackier (when the work is made sillier and more gag-oriented than what came before), YoungerAndHipper (retooling a work so that the characters are younger to appeal to younger demographics) and KinderAndCleaner (where profanity is toned down if not removed outright).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180506Z" creationid="Luan" creationdate="20231101T180506Z">
+        <seg>Costuma ser encontrado junto com Br/MaisDensoEEstranho (quando a obra é tornada mais orientada à piadas aleatórias do que antes), Br/MaisJovemEManeiro (remodelando uma obra para que os personagens fiquem mais jovens, a fim de conseguir popularidade com um público mais novo) e Br/MaisGentilELimpo (quando as profanidades são reduzidas ou totalmente removidas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Often highly honorable, if they [[IGaveMyWord give their word]], they'll carry it out even if it makes things worse.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T204119Z" creationid="Luan" creationdate="20231103T204119Z">
+        <seg>Geralmente muito honrados, e se eles [[Br/EuDeiMinhaPalavra deram sua palavra]], eles vão seguir com a promessa mesmo que isso piore as coisas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Often members of TheEmpire, they use organization, rules and honor to their advantage, inflicting their will on others by achieving power within the system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T205649Z" creationid="Luan" creationdate="20231103T205649Z">
+        <seg>Costumam ser membros do [[Br/OImperio império]], usando a organização, regras e honra em própria vantagem e impondo as próprias vontades sobre os outros ao obter poder dentro do sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Often paired with TheDeterminator- not all of the bullets miss, [[OnlyAFleshWound just the lethal ones]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T215611Z" creationid="Luan" creationdate="20231206T215611Z">
+        <seg>Costuma ser combinado com Br/ODeterminado - nem todas as balas erram, apenas aquelas que seriam letais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OhAndXDies and DidYouDie are also subtropes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T233216Z" creationid="Luan" creationdate="20231206T233216Z">
+        <seg>Br/AhEXMorre e Br/VoceMorreu também são sub-tropos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the other hand, if the added qualification is clear enough that the result serves a distinct narrative function from the original--then it becomes a SubTrope.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T005944Z" creationid="Luan" creationdate="20231103T005944Z">
+        <seg>Por outro lado, se a qualificação adicionada é clara o suficiente para que o resultado sirva a um propósito narrativo diferente do original, então ele se torna um Br/SubTropo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only applies if the character retains their memories/personality from their prior life, and probably will want you dead for killing them the first time around.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T205107Z" creationid="Luan" creationdate="20231206T205107Z">
+        <seg>Aplicável somente se o personagem retém as memórias e personalidade da vida anterior, e se isso acontecer ele vai te querer morto por você ter o matado em primeiro lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Or the whole thing isn't about ''what'' happens at the end, but ''how'' it happens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T230951Z" creationid="Luan" creationdate="20231206T230951Z">
+        <seg>Ou então a premissa não é sobre ''o que'' acontece, mas sim ''como'' acontece.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overdoing it on one character may result in a {{Jerkass}}; even when done in sufficient moderation, however, the character still tends to rely on a certain amount of JerkassDissonance (since, well, the audience would probably be less amused by the Deadpan Snarker's biting wit if ''they'' were the ones on the receiving end of it).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T141107Z" creationid="Luan" creationdate="20231029T141107Z">
+        <seg>O excesso de sarcasmo em um único personagem pode resultar em um Br/{{Babaca}}; no entanto, mesmo que isso seja feito com moderação o personagem tende a se apoiar em uma certa quantidade de Br/DissonanciaDeBabaca (até porque o público acharia o sarcasmo menos interessante se eles estivessem no lugar de quem recebe os comentários). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Part of the SlidingScaleOfComedyAndHorror.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163327Z" creationid="Luan" creationdate="20231029T163327Z">
+        <seg>Parte da Br/EscalaMovelDeComediaETerror.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please [[https://tvtropes.org/pmwiki/tlp_activity.php consult your fellow Tropers first]] to get opinions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T010609Z" creationid="Luan" creationdate="20231103T010540Z">
+        <seg>Por favor [[https://tvtropes.org/pmwiki/tlp_activity.php consulte seus colegas tropoeiros antes]] para obter opiniões a respeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please try to avoid getting the two confused.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T010834Z" creationid="Luan" creationdate="20231103T010834Z">
+        <seg>Por favor tente não confundir os dois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rather than cross the line a second time, the show [[MemeticMutation makes a]] WrongTurnAtAlbuquerque and breaks the audience's WillingSuspensionOfDisbelief.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162539Z" creationid="Luan" creationdate="20231029T162539Z">
+        <seg>Ao invés de cruzar a linha uma segunda vez, o show faz uma Br/CurvaErradaEmAlbuquerque e quebra a Br/SuspensaoVoluntariaDaDescrenca do público. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rather, they usually consider what is practical in a particular situation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T210401Z" creationid="Luan" creationdate="20231103T210401Z">
+        <seg>Ao invés, eles usualmente consideram o que é mais prático em determinada situação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sadly, that's not the case.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T161725Z" creationid="Luan" creationdate="20231029T161725Z">
+        <seg>Infelizmente, não é esse o caso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See also BlackComedy, BloodyHilarious, RefugeInAudacity, VulgarHumor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163300Z" creationid="Luan" creationdate="20231029T163300Z">
+        <seg>Consultar também Br/HumorNegro, ??? BloodyHilarious, Br/RefugioNaAudacia, Br/HumorVulgar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See also ImmortalLifeIsCheap, which applies to such cases as Multiple Bodies or Regeneration; and {{Trainstopping}} which tends to have this as a requirement.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T221841Z" creationid="Luan" creationdate="20231206T221841Z">
+        <seg>Ver também Br/VidaImortalEBarata, que se aplica aos casos de Múltiplos Corpos ou Regeneração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See also NonActionSnarker, SnarkyNonhumanSidekick, CatsAreSnarkers, TallDarkAndSnarky, SurroundedByIdiots, SiliconSnarker, and SarcasticDevotee.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140629Z" creationid="Luan" creationdate="20231029T140528Z">
+        <seg>Consultar também ??? NonActionSnarker, ??? SnarkyNonHumanSidekick, Br/GatosSaoSarcasticos, Br/AltoTrevosoESarcastico, Br/CercadoPorIdiotas e Br/DevotoSarcastico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See also UnconventionalAlignment, LawfulStupid, ChaoticStupid, StupidGood, StupidEvil, StupidNeutral, AlwaysLawfulGood, AlwaysChaoticEvil, and GoodAndEvilForYourConvenience.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T212236Z" creationid="Luan" creationdate="20231103T212236Z">
+        <seg>Ver também Br/AlinhamentoNaoConvencional, Br/LealEEstupido, Br/CaoticoEEstupido, Br/EstupidoEBom, Br/EstupidoEMau, Br/EstupidoENeutro, Br/SempreLealEBom, Br/SempreCaoticoEMau e Br/BomEMauParaASuaConveniencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shows attempting to be DarkerAndEdgier with their humor this way straddle the line between sadism and comedy, and it's easy to make a mistake and fall on the wrong side of the S.S.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162257Z" creationid="Luan" creationdate="20231029T162257Z">
+        <seg>Shows que tentam se enquadrar como Br/MaisSombrioEPesado com seu humor podem ficar bem em cima do muro entre sadismo e comédia, e é muito fácil cometer um erro e cair do lado errado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Similar to SoBadItsGood, but done quite intentionally.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162050Z" creationid="Luan" creationdate="20231029T162050Z">
+        <seg>É similar a Br/TaoRuimQueEBom, só que feito de maneira intencional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Simple as that.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T220409Z" creationid="Luan" creationdate="20231206T220409Z">
+        <seg>Simples assim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since games cost a fair amount of money at the time, and could usually be beaten in 15 minutes if you knew what you were doing, a game that was easy had little value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T184712Z" creationid="Luan" creationdate="20231101T184712Z">
+        <seg>Como esses jogos custavam muito dinheiro para a época e poderiam ser fechados em 15 minutos se você soubesse o que estava fazendo, um jogo que fosse muito fácil tinha pouco valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since several tropes can twist into a {{Subverted|Trope}} example, ''tread carefully''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T233616Z" creationid="Luan" creationdate="20231206T233616Z">
+        <seg>Como muitos tropos podem ser um caso de Br/TropoSubvertido, ''ande cautelosamente''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So games had to be difficult so players would feel they got their money's worth.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T184807Z" creationid="Luan" creationdate="20231101T184807Z">
+        <seg>Por isso os jogos precisavam ser difíceis para que os jogadores sentissem que o jogo vale cada centavo gasto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So it's Administrivia/NotATrope, but because it's too rare to have [[Administrivia/ThreeRulesOfThree enough examples]] (at least at the moment).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231102T183521Z" creationid="Luan" creationdate="20231102T183521Z">
+        <seg>Então BrAdministrivia/NaoEUmTropo, mas apenas porque é raro demais para ter [[BrAdministrivia/TresRegrasDeTres exemplos suficientes]] (pelo menos no momento).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So what makes a character a Magnificent Bastard?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T141333Z" creationid="Luan" creationdate="20231103T141333Z">
+        <seg>Então, o que faz com que um personagem seja um Canalha Magnífico?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some gamers deride Character Alignments as crutches to "real roleplaying", so some systems accordingly have none at all.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T201911Z" creationid="Luan" creationdate="20231103T201911Z">
+        <seg>Alguns jogadores menosprezam o alinhamento de personagem por o considerarem como muletas para "interpretação real", e em acordo alguns sistemas não possuem alinhamentos de personagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Someone cannot be harmed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T193827Z" creationid="Luan" creationdate="20231206T193827Z">
+        <seg>Alguém não pode ser ferido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Something like "People Cutting Their Fingers With An 80s Nail Clipper" is an example of something that's both People Sit on Chairs ''and'' Too Rare to Trope at the same time, as it's not specific-to-fiction, doesn't convey any meaning and has practically no examples to speak of.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231102T184358Z" creationid="Luan" creationdate="20231102T184300Z">
+        <seg>Algo tipo "Pessoas Cortando Os Dedos Com Um Cortador De Unhas Dos Anos 80" é um exemplo de algo que é ao mesmo tempo Pessoas Sentam Em Cadeiras ''e'' Raro Demais Para Ser Um Tropo ao mesmo tempo, já que não é específico da ficção, não tem nenhum significado intrínseco e não tem exemplos para ilustrar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes a vaguely defined nigh-invulnerability is a way to make a hero [[StrongAsTheyNeedToBe only as tough as he needs to be to advance the plot]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T194610Z" creationid="Luan" creationdate="20231206T194610Z">
+        <seg>Às vezes, uma quase-invulnerabilidade vagamente definida é um jeito de tornar um herói Br/TaoForteQuantoNecessario apenas para que se avance a trama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes overlaps with GenreSavvy and NoSenseOfHumor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140652Z" creationid="Luan" creationdate="20231029T140652Z">
+        <seg>Às vezes se sobrepõe a Br/LigadoNoGenero e Br/SemSensoDeHumor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes the Deadpan Snarker is shown to be incapable of avoiding sarcasm, due to their insecurity about expressing any genuine thought or feeling, and their fear of withdrawing from the cynical position and protection.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T135248Z" creationid="Luan" creationdate="20231029T135248Z">
+        <seg>Às vezes o Sarcástico Sério é mostrado como incapaz de evitar sarcasmo devido à sua insegurança em expressar qualquer pensamento ou sentimento genuínos junto com o receio de sair de uma posição de proteção baseada no cinismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes they'll do so with an explicit statement (such as in a SpoilerOpening or HowWeGotHere), sometimes by writing a prequel that ends right where the original work begins.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T225730Z" creationid="Luan" creationdate="20231206T225730Z">
+        <seg>Às vezes eles fazem isso com uma declaração explícita (tal como uma Br/IntroducaoComSpoiler ou Br/ComoChegamosAqui), às vezes ao escrever uma prequência que termina onde a obra original começa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes you [[CompleteImmortality CAN'T]] [[KillTheGod kill a god]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T220549Z" creationid="Luan" creationdate="20231206T220549Z">
+        <seg>Às vezes você simplesmente [[Br/ImortalidadeCompleta NÃO PODE]] [[Br/MatarODeus matar um deus]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes, however, authors choose to go a different route.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T225546Z" creationid="Luan" creationdate="20231206T225546Z">
+        <seg>No entanto, às vezes os autores decidem ir por uma direção diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes, it can be combined with Administrivia/TheSameButMoreSpecific, when an existing trope has a specification so rare, that it can't be tropable beyond a few existing examples.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231102T184101Z" creationid="Luan" creationdate="20231102T184101Z">
+        <seg>Às vezes dá pra combinar isso com Administrivia/OMesmoSoQueMaisEspecifico, quando um tropo existente tem uma definição tão estrita que não é possível tropar mais que uns poucos exemplos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Still, others take the over-the-top so over the top that what was before unbelievable garbage is now heart-wrenching, adrenaline-rushing, undiluted '''[[SugarWiki/MomentOfAwesome AWESOME]]'''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163222Z" creationid="Luan" creationdate="20231029T163222Z">
+        <seg>Ainda assim, outros exageram tanto no exagero que aquilo que antes era só baboseira sem sentido agora causa uma onda de adrenalina em um puro momento de '''[[BrWikiAlegre/MomentoFantastico ISSO FOI DEMAIS]]'''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sufficiently strong characters ''might'' be able to [[BlownAcrossTheRoom knock them through a wall or mountain]], but just one hit like that won't have any lasting effect.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T195057Z" creationid="Luan" creationdate="20231206T195057Z">
+        <seg>Personagens suficientemente fortes ''talvez'' consigam [[Br/LancadoAtravesDaSala lançar eles através de uma parede ou montanha]], mas um único golpe como esse não terá efeito duradouro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Take action scenes, for example: some shows try to keep action scenes realistic in order to seem believable, while others go so far over the top that it breaks the audience's WillingSuspensionOfDisbelief.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163020Z" creationid="Luan" creationdate="20231029T162928Z">
+        <seg>Em cenas de ação, por exemplo, alguns shows tentam manter essas cenas realistas para passar credibilidade, enquanto outros exageram tanto nelas que acabam por quebrar a Br/SuspensaoVoluntariaDaDescrenca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Technically not that different from [[BackFromTheDead Resurrection]] from the mortals' point of view, but distinct in that the actual entity never died- only their current physical manifestation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T221057Z" creationid="Luan" creationdate="20231206T221057Z">
+        <seg>Tecnicamente não é tão diferente da [[Br/DeVoltaDosMortos ressurreição]] por um ponto de vista mortal, mas distintos pelo fato de que a entidade de fato nunca morreu -- apenas a manifestação física dela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tends to be shot a DeathGlare when they go too far (and probably isn't without one of their own, either).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T135013Z" creationid="Luan" creationdate="20231029T135013Z">
+        <seg>Tende a receber um Br/OlharDaMorte quando eles vão longe demais (e provavelmente possuem um para distribuir também).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That they use the boys as ammo for artillery practice and make them play a game where the smallest boy is chosen as the ball, kicked and punched across the field, and finally has his head shoved in a bucket of manure to score a goal is just silly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163602Z" creationid="Luan" creationdate="20231029T163602Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That's... brilliant]]." [[note]][[ComicallyMissingthePoint Shouldn't the planes be white though?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T161346Z" creationid="Luan" creationdate="20231029T161346Z">
+        <seg>Isso é... brilhante]]."[[note]][[Br/ComicamentePerdendoOPonto Os aviões não deveriam ser brancos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Deadpan Snarker exists to deflate pomposity, [[LampshadeHanging point out the unlikelihood of]] [[ZanyScheme certain]] [[GambitRoulette plans]], and deliver funny lines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T134302Z" creationid="Luan" creationdate="20231029T134302Z">
+        <seg>O Sarcástico Sério existe para acabar com a pomposidade, [[Br/LancandoLuz apontar a improbabilidade de]] certos [[Br/RoletaDeGambitos planos]] e dizer frases engraçadinhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The HilariouslyAbusiveChildhood depends on this trope, piling misfortune on misfortune until it becomes so ridiculous it's funny.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163559Z" creationid="Luan" creationdate="20231029T163559Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Lighter And Softer run can end up being positively remembered for years to come.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180957Z" creationid="Luan" creationdate="20231101T180957Z">
+        <seg>A versão Mais Animada e Leve pode acabar sendo lembrada positivamente por muitos anos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The MirrorMoralityMachine will invert any alignment... except for TrueNeutral; the opposite of zero is still zero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T212308Z" creationid="Luan" creationdate="20231103T212308Z">
+        <seg>A Br/MaquinaDeEspelhoDaMoralidade inverte qualquer alinhamento... exceto por Br/VerdadeiroNeutro: o oposto de zero sempre é zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The PhysicalGod, ImplacableMan, TheJuggernaut, BlobMonster, IronButtMonkey, TheChewToy, and anything MadeOfIndestructium all probably have some form of Nigh Invulnerability.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T221651Z" creationid="Luan" creationdate="20231206T221651Z">
+        <seg>O Br/DeusFisico, Br/OImplacavel, ??? TheJuggernaut, Br/MonstroDeGosma, ??? IronButtMonkey, ??? TheChewToy e qualquer objeto Br/FeitoDeIndestructium provavelmente possuem alguma forma de quase-invulnerabilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The UsefulNotes/NintendoEntertainmentSystem was known for two things: [[UsefulNotes/TheGreatVideoGameCrashOf1983 reviving home console gaming]] and having ridiculously difficult games.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T184042Z" creationid="Luan" creationdate="20231101T184042Z">
+        <seg>O BrNotasUteis/NintendoEntertainmentSystem se tornou conhecido por duas coisas: [[BrNotasUteis/CriseDosVideogamesDe1983 por reviver o mercado de videogames para sala de estar]] e por ter jogos ridiculamente difíceis. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Whodunnit becomes a [[ReverseWhodunnit Howdunnit]], and so on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T231227Z" creationid="Luan" creationdate="20231206T231227Z">
+        <seg>O Br/QuemFezIsso se torna um [[Br/QuemFezIssoReverso Como-fez-isso]], e assim em diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The [[https://gamefaqs.gamespot.com/games/rankings?platform=0&amp;genre=0&amp;list_type=diff&amp;view_type=0&amp;dlc=1&amp;min_votes=1 difficulty rankings]] section of [=GameFAQs=] is a good measure of a game's difficulty as long as it has a sufficiently large number (50+) of difficulty votes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T225319Z" creationid="Luan" creationdate="20231101T225213Z">
+        <seg>A seção [[https://gamefaqs.gamespot.com/games/rankings?platform=0&amp;genre=0&amp;list_type=diff&amp;view_type=0&amp;dlc=1&amp;min_votes=1 dos ranks de dificuldade]] do [=GameFAQs=] é uma boa medida da dificuldade de um jogo desde que tenha um número suficiente (pelo menos 50) de votos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The alignment any particular character falls under is mostly a matter of opinion in works other than TabletopGames, due to the large wiggle room for AlternateCharacterInterpretation, character development, and so on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T211214Z" creationid="Luan" creationdate="20231103T211214Z">
+        <seg>O alinhamento de qualquer personagem em particular é geralmente questão de opinião em obras que não sejam Br/JogosDeMesa, devido ao amplo espaço disponível para Br/InterpretacaoAlternativaDePersonagem, desenvolvimento de personagem, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The alignment system most roleplayers are familiar with is the one used in ''TabletopGame/DungeonsAndDragons'', which has appeared in a couple of different forms:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T202159Z" creationid="Luan" creationdate="20231103T202159Z">
+        <seg>O sistema de alinhamento/tendências que a maioria dos jogadores conhece é aquele usado em ''BrJogoDeMesa/DungeonsAndDragons'', que aparece com algumas variações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The arcade owners have to make money ''somehow'', you know.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T224941Z" creationid="Luan" creationdate="20231101T224941Z">
+        <seg>Afinal, os donos da casa de jogos precisam ''de algum modo'' conseguir dinheiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The balance-happy sort may sometimes be [[TheDitz characters just too dumb to know the difference]], but may also be a WildCard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T205016Z" creationid="Luan" creationdate="20231103T205016Z">
+        <seg>Esse tipo pode às vezes ser um personagem burro demais para fazer distinções, mas também pode ser Br/OCoringa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The contrapositive corollary is SequelDifficultyDrop.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T225651Z" creationid="Luan" creationdate="20231101T225651Z">
+        <seg>O corolário contrapositivo é a Br/QuedaDeDificuldadeDaSequencia. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The light twin of DarkerAndEdgier, when something is {{Tone Shift}}ed to be more family friendly and frothy than the original source.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T175424Z" creationid="Luan" creationdate="20231101T175424Z">
+        <seg>O gêmeo leve de Br/MaisSombrioEPesado, quando algo sofre uma Br/MudancaDeTom para se tornar mais fácil de assistir em família do que o material original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The line separating ''Film/TheThreeStooges''-style painful fun from outright villainous {{squick}}y sadism varies from person to person but is definitely there; crossing it makes one fan's ''[[TheChewToy "Nyuk nyuk!"]]'' another fan's GuiltyPleasures.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T161936Z" creationid="Luan" creationdate="20231029T161936Z">
+        <seg>A linha que separa o estilo "diversão com vergonha alheia" no estilo BrFilme/OsTresPatetas do sadismo vilanesco varia de pessoa pra pessoa, mas definitivamente está presente. Cruzar essa linha faz com que o saco de pancadas de um seja a satisfação de outro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The main difference between Chaotic Neutral and Chaotic Evil is a matter of execution.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T205456Z" creationid="Luan" creationdate="20231103T205456Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The most extreme examples act randomly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T205224Z" creationid="Luan" creationdate="20231103T205224Z">
+        <seg>Os exemplos mais extremos agem de maneira aleatória.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The original editions of ''TabletopGame/DungeonsAndDragons'' drew on the works of Creator/PoulAnderson and Creator/MichaelMoorcock to come up with two axes:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T202253Z" creationid="Luan" creationdate="20231103T202253Z">
+        <seg>As edições originais de ''BrJogoDeMesa/DungeonsAndDragons'' se basearam nos trabalhos de BrCriador/PoulAnderson e BrCriador/MichaelMoorcock para estabelecerem dois eixos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The proxy could take the form of a remote-control robot, [[ExpendableClone a cloned flesh puppet]], or a body double.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T203758Z" creationid="Luan" creationdate="20231206T203758Z">
+        <seg>O substituto pode ter a forma de um robô remotamente controlado, [[Br/CloneDescartavel um fantoche clonado]] ou um dublê de corpo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The really extreme types might run the risk of becoming a WideEyedIdealist.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T203214Z" creationid="Luan" creationdate="20231103T203214Z">
+        <seg>Os tipos realmente extremos correm o risco de se tornarem idealistas demais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Their free-spirited, easily bored nature means that if the local government isn't considered sufficiently oppressive, they might just go out and find one that is.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T203910Z" creationid="Luan" creationdate="20231103T203910Z">
+        <seg>Sua natureza livre e do tipo que fica entediado fácil significa que se o governo local não for considerado opressor o suficiente, eles podem simplesmente ir atrás de um lugar com um governo que é.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then why does no one feel like cheering?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231028T161632Z" creationid="Luan" creationdate="20231028T161632Z">
+        <seg>Então porque ninguém está comemorando?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are some deliberate subversions, of course, [[PosthumousNarration including ones where a ghost is narrating or scrapbooking]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T233140Z" creationid="Luan" creationdate="20231206T233140Z">
+        <seg>Existem algumas subversões deliberadas, é claro, [[Br/NarracaoPostuma incluindo aquelas em que um fantasma faz a narração]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is a way for an occurrence that is Too Rare To Trope to appear non-coincidentally in more than one work, and that's deliberate {{Shout Out}}s.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231102T184646Z" creationid="Luan" creationdate="20231102T184646Z">
+        <seg>Há uma circunstância em que uma ocorrência que é rara demais para ser um tropo pode aparecer em mais de uma obra sem que seja coincidência: quando se está Br/MandandoUmSalve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There's a number of ways one can have Nigh Invulnerability.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T194706Z" creationid="Luan" creationdate="20231206T194706Z">
+        <seg>Há diversos meios pelos quais se pode ser praticamente invulnerável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore, much of the feeling of accomplishment one could get from playing them was from overcoming the insane difficulty they provided, if only so that one could {{brag|gingRightsReward}} about it to their friends.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T184446Z" creationid="Luan" creationdate="20231101T184446Z">
+        <seg>Portanto, muito do sentimento de satisfação que se poderia esperar desses jogos vinha de superar a dificuldade apresentada por eles, ainda que servisse só para contar vantagem entre amigos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are also savvy and do not fall for obvious traps; bringing them down is no easy feat.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T141454Z" creationid="Luan" creationdate="20231103T141454Z">
+        <seg>Eles também são espertos e não caem em armadilhas óbvias; derrotá-los não é um feito fácil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are only interested in one thing: [[ItsAllAboutMe themselves]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T210114Z" creationid="Luan" creationdate="20231103T210114Z">
+        <seg>Eles só se interessam em uma coisa: [[Br/TudoGiraAoMeuRedor em si mesmos]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They must find some way to establish tension and doubt when everyone knows how the story is going to end.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T225808Z" creationid="Luan" creationdate="20231206T225808Z">
+        <seg>Eles devem encontrar um meio de estabelecer tensão e dúvida quando todo mundo já sabe como a história termina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They tend to believe that things like order, discipline, and [[HonorBeforeReason honor]] can get in the way of doing good.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T203835Z" creationid="Luan" creationdate="20231103T203835Z">
+        <seg>Eles tendem a acreditar que coisas como ordem, disciplina e [[Br/HonraAntesDaRazao honra]] podem ficar no caminho de fazer o bem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They will make known to the audience how their story ends before they even begin telling it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T225603Z" creationid="Luan" creationdate="20231206T225603Z">
+        <seg>Eles vão mostrar para o público como a história termina antes de começar a contá-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They'll do whatever is most prudent to get them to their desired destination, no matter whom they have to hurt along the way.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T210139Z" creationid="Luan" creationdate="20231103T210139Z">
+        <seg>Eles fazem o que quer que seja mais prudente para chegar ao objetivo desejado, não importa quem eles precisem machucar ao longo do caminho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They're wild, carefree and selfish, but not so callous or sadistic as to be actually evil.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T205215Z" creationid="Luan" creationdate="20231103T205215Z">
+        <seg>Eles são livres, descuidados e egoístas, mas não insensíveis ou sadistas a ponto de serem considerados maus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This can also apply to things other than violence for [[RuleOfFunny funny's sake]]; any time a little exaggeration would provoke a negative reaction, but exaggeration is fine, that's crossing the line twice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162918Z" creationid="Luan" creationdate="20231029T162918Z">
+        <seg>Isso pode se aplicar também a outras coisas que não sejam violência, mas que são feitas Br/PorqueEEngracado: sempre que um pouco de exagero poderia provocar uma reação negativa, mas o excesso dele é ok, então isso é passar do ponto duas vezes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This can be easily confused with several tropes:
+* ItWasHisSled deals with twists or endings that, thanks to their [[PopCulturalOsmosis assimilation into popular culture]], no longer surprise us, although the author originally did not intend for everyone to know the ending.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T230044Z" creationid="Luan" creationdate="20231206T225944Z">
+        <seg>Isso pode ser facilmente confundido com vários tropos:
+* Br/EraOTrenoDele lida com reviravoltas e finais que, graças à [[Br/OsmoseDeCulturaPop assimilação na cultura popular]], já não são mais surpreendentes, ainda que o autor não tenha pretendido que todo mundo soubesse o encerramento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This can either happen to a show over time, or it can be the result of deliberate {{Executive Meddling}}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T175459Z" creationid="Luan" creationdate="20231101T175459Z">
+        <seg>Isso pode acontecer com um show através do tempo ou pode ser um caso de Br/InterferenciaExecutiva deliberada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This character does evil in such an over-the-top, outrageous fashion that the audience stops feeling any moral qualms, because it's so over-the-top and out of line that it becomes ''hilarious'' instead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163621Z" creationid="Luan" creationdate="20231029T163621Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is OlderThanFeudalism.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T233229Z" creationid="Luan" creationdate="20231206T233229Z">
+        <seg>Isto é Br/MaisVelhoQueOFeudalismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is also the way the HeroicComedicSociopath holds the audience's hearts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163619Z" creationid="Luan" creationdate="20231029T163619Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is generally ''not'' a very good idea, since it can easily clutter the wiki with [[Administrivia/RidiculouslySimilarTrope nigh-indistinguishable trope variations]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T005855Z" creationid="Luan" creationdate="20231103T005855Z">
+        <seg>Esta geralmente ''não'' é uma boa ideia, pois isso pode encher a wiki com [[BrAdministrivia/TropoRidiculamenteSimilar variações de tropos praticamente indistinguíveis]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is generally what people first think of when referring to this trope.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T195114Z" creationid="Luan" creationdate="20231206T195114Z">
+        <seg>Isto é o que as pessoas geralmente pensam quando se fala neste tropo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is my neighborhood; this is my street; this is my life.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T225342Z" creationid="Luan" creationdate="20231206T225342Z">
+        <seg>Esta é a minha vizinhança; esta é minha rua; esta é minha vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is related to Administrivia/PeopleSitOnChairs, where there may be enough instances to establish a pattern, but the pattern isn't meaningful enough to be a {{trope}} on its own.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231102T184228Z" creationid="Luan" creationdate="20231102T184228Z">
+        <seg>Isso é relacionado a BrAdministrivia/PessoasSentamEmCadeiras, onde podem haver instâncias o suficiente para estabelecer um padrão, mas o padrão não é significativo o bastante para que ele seja um Br/{{tropo}} por si só.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is the form that X-Men's Blob benefits from.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T200219Z" creationid="Luan" creationdate="20231206T200219Z">
+        <seg>Esta é a forma usada por Blob, dos X-Men.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This isn't as easy as it sounds.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162058Z" creationid="Luan" creationdate="20231029T162058Z">
+        <seg>Isso não é tão fácil quanto parece.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This may be even nastier than any of the above, especially when it has no limitations on whom they can possess, although usually [[KillTheHostBody destroying the body]] when the consciousness is still inside will kill both the possessed and the possessing entity permanently.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T204604Z" creationid="Luan" creationdate="20231206T204604Z">
+        <seg>Isto pode ser ainda mais terrível que os exemplos anteriores, ainda mais quando não há limitações sobre quem pode ser possuído. [[Br/MateOHospedeiro Destruir o corpo]] quando a consciência está nele vai matar permanentemente o possuído e o possessor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This may turn them into a StepfordSnarker.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T135322Z" creationid="Luan" creationdate="20231029T135322Z">
+        <seg>Isso pode transformar eles em um ??? StepfordSnarker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This new body may be modified as necessary, and possibly have some form of invulnerabilities themselves.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T202323Z" creationid="Luan" creationdate="20231206T202323Z">
+        <seg>Esse novo corpo pode ser modificado conforme necessário e talvez até tenham eles próprios alguma forma de invulnerabilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This second crossing takes the violence from sick back to funny in its ridiculous extremes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162039Z" creationid="Luan" creationdate="20231029T162039Z">
+        <seg>Essa segunda passada de ponto faz a violência passar de repugnante para engraçada nos seus ridículos extremos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This usually means that even severe organ damage can just be ignored, though even such characters [[ChunkySalsaRule tend to have limits]] in how far this can be pushed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T205535Z" creationid="Luan" creationdate="20231206T205535Z">
+        <seg>Isso geralmente significa que mesmo dano severo aos órgãos pode ser simplesmente ignorado, mas mesmo esses personagens possuem limites sobre o quanto isso pode ser forçado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Though, contrary to the claims of some derisors, modern games can still be Nintendo Hard, it's just not as common.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T225723Z" creationid="Luan" creationdate="20231101T225723Z">
+        <seg>No entanto, ao contrário do que alguns podem argumentar, jogos modernos ainda podem ter a Dificuldade Nintendo, Apenas não é tão comum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus goes the logic in a lot of comedy shows and a few adult cartoons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T161719Z" creationid="Luan" creationdate="20231029T161719Z">
+        <seg>Essa é a lógica em muitos shows de comédia e de alguns desenhos animados para adultos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, a Lighter And Softer reboot may often follow an incarnation which made a point of being Darker and Edgier.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T175658Z" creationid="Luan" creationdate="20231101T175658Z">
+        <seg>Assim sendo, um recomeço Mais Animado E Leve pode se seguir a uma versão que foi um caso de Mais Sombrio  e Pesado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tightrope.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162301Z" creationid="Luan" creationdate="20231029T162301Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try not to confuse the dialogue with BuffySpeak.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T141349Z" creationid="Luan" creationdate="20231029T141349Z">
+        <seg>Tente não confundir o diálogo com Br/DialetoCoisado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Typically the [[SlidingScaleOfIdealismVersusCynicism most cynical]] [[SourSupporter supporting character]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T134514Z" creationid="Luan" creationdate="20231029T134514Z">
+        <seg>Tipicamente é o [[Br/EscalaMovelDeIdealismoVersusCinismo mais cínico]] [[Br/ApoiadorAcido personagem de apoio]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlike the former, usually they have some sort of weak spot.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T200550Z" creationid="Luan" creationdate="20231206T200550Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Usually applies to gods, demons, and perhaps [[EldritchAbomination Cosmic Horror]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T221137Z" creationid="Luan" creationdate="20231206T221137Z">
+        <seg>Costuma se aplicar a deuses, demônios e também a [[Br/AbominacaoSobrenatural horror cósmico]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Usually the ability of the BigBad in sci-fi and fantasy settings, few heroes get this one.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T194017Z" creationid="Luan" creationdate="20231206T194017Z">
+        <seg>Costuma ser uma habilidade do Br/GrandeMal em ambientações de fantasia e ficção científica. Poucos heróis a possuem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Very much DependingOnTheWriter, while a punch to the face will usually be ignored, chopping off a limb will presumably limit anyone's mobility regardless, though some authors raise this ability to superhuman levels.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T205411Z" creationid="Luan" creationdate="20231206T205411Z">
+        <seg>Costuma ser um caso de Br/DependendoDoEscritor: um soco na cara usualmente será ignorado, mas cortar um membro fora presumivelmente vai limitar as habilidades de locomoção de qualquer modo. No entanto, alguns autores elevam essa habilidade a níveis sobre-humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Victory, at last!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231028T161616Z" creationid="Luan" creationdate="20231028T161616Z">
+        <seg>Vitória, enfim!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whatever the case may be, the author has given themselves quite a task.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T225746Z" creationid="Luan" creationdate="20231206T225746Z">
+        <seg>Qualquer que seja o caso, o autor tem diante de si uma tarefa complicada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When Nintendo Hard is taken to its most sadistic extremes by deliberately adding cheap deaths and TrialAndErrorGameplay, you get PlatformHell and/or BulletHell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T224259Z" creationid="Luan" creationdate="20231101T224259Z">
+        <seg>Quando a Dificuldade Nintendo é levado aos extremos mais sadistas ao se adicionar mortes idiotas via Br/JogoDeTentativaEErro, você consegue ??? PlatformHell e ??? BulletHell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When evil alignments are unavailable, Chaotic Neutral is often used by players in TabletopGames to excuse doing anything they feel like, and as such is often prohibited by the sort of GameMaster who also prohibits evil characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T205356Z" creationid="Luan" creationdate="20231103T205356Z">
+        <seg>Quando alinhamentos do mal não são permitidos, o Caótico e Neutro costuma ser usado por jogadores em Br/JogosDeMesa como uma desculpa para fazerem o que quiserem, e por isso costumam ser proibidos pelo tipo de Br/MestreDoJogo que também proíbe alinhamentos do mal. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When it succeeds in being offensive but not so much at comedy, it's DudeNotFunny.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163418Z" creationid="Luan" creationdate="20231029T163418Z">
+        <seg>Quando ele consegue ser ofensivo mas não tão cômico assim, é Br/CaraNaoFoiLegal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When only one or few levels or areas of the game are Nintendo Hard, you're probably dealing with ThatOneLevel, BrutalBonusLevel, or SNKBoss if it's the end.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T224614Z" creationid="Luan" creationdate="20231101T224614Z">
+        <seg>Quando somente algumas (ou apenas uma) áreas do jogo são Dificuldade Nintendo, você provavelmente está lidando com Br/AquelaFase, Br/FaseBonusBrutal ou Br/ChefeSNK se for no fim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When someone is invulnerable to literally ''everything'', then it becomes CompleteImmortality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T221902Z" creationid="Luan" creationdate="20231206T221902Z">
+        <seg>Quando alguém é invulnerável a literalmente ''tudo'', então isso se torna Br/ImortalidadeCompleta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When someone wants to start a new article which can be summed up as "the same as Article X, only with &lt;specification&gt;"--or may alternately be phrased as "[[JustForFun/XMeetsY a combination of article X and article Y]]".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T005815Z" creationid="Luan" creationdate="20231103T005815Z">
+        <seg>Quando alguém quer criar um novo artigo que pode ser resumido como "É o mesmo que o artigo X, só que com &lt;diferenciação&gt;" -- ou, alternativamente, "[[BrApenasPorLazer/XEncontraY Uma combinação do artigo X e do artigo Y]]".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When something is lighter and softer than its initial source material, it doesn't mean it's automatically worse.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180738Z" creationid="Luan" creationdate="20231101T180738Z">
+        <seg>Quando algo é mais animado e leve em relação ao material original, isso não significa que é automaticamente pior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the added distinction is "the same, but played up to eleven," this is known simply as Administrivia/TheSameButMore since most instances are just an ExaggeratedTrope.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T010651Z" creationid="Luan" creationdate="20231103T010651Z">
+        <seg>Quando a distinção acrescentada é "o mesmo, só que aumentado até onze", isso é conhecido como BrAdministrivia/OMesmoSoQueMais, já que a maioria dos casos são meramente um Br/TropoExagerado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this trope ''isn't'' taken to extreme, over-the-top levels, it's mere ComedicSociopathy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163357Z" creationid="Luan" creationdate="20231029T163357Z">
+        <seg>Quando este tropo ''não é'' levado ao extremo exagerado, é apenas Br/SociopatiaComica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whether a given proposal qualifies as a SubTrope or The Same But More Specific can be [[Administrivia/LumperVsSplitter highly subjective]]; Administrivia/TropesAreFlexible, after all, but we don't need a new page for ''every last variation'' possible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T010537Z" creationid="Luan" creationdate="20231103T010537Z">
+        <seg>Uma dada proposta se encaixando melhor em um Br/SubTropo ou em O Mesmo Só Que Mais Específico é [[BrAdministrivia/AgregadorContraSeparador algo que varia conforme a subjetividade]]; afinal de contas, BrAdministrivia/TroposSaoFlexiveis, mas não precisamos de uma nova página para cada variante possível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whether the character can survive being [[DisintegratorRay utterly atomised]] varies from fiction to fiction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T201133Z" creationid="Luan" creationdate="20231206T201133Z">
+        <seg>A sobrevivência do personagem contra atomização completa ocasionada por um Br/RaioDesintegrador varia conforme a obra de ficção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While Nintendo products themselves are ''physically'' hard (to break, which is [[TantrumThrowing fortunate when playing games like this]]), that's not this trope but MadeOfIndestructium.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T225158Z" creationid="Luan" creationdate="20231101T225158Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While a Neutral Evil person would work within the system until it was convenient not to, a chaotic evil person would often work outside the system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T210256Z" creationid="Luan" creationdate="20231103T210256Z">
+        <seg>Enquanto uma pessoa do tipo Neutro e Mau trabalha dentro do sistema até o momento em que é conveniente não trabalhar, uma pessoa do tipo caótico com frequência trabalha por fora do sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While in real life diamonds have extreme hardness, they lack toughness and are brittle enough to be shattered by a hammer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T195158Z" creationid="Luan" creationdate="20231206T195158Z">
+        <seg>Apesar de na vida real os diamantes possuírem extrema dureza, eles não têm resistência e podem ser despedaçados por um martelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While sometimes mischaracterized as TheFundamentalist, Lawful Good is just as much Good as Lawful, so they'll resist efforts to let rules inflict harm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T203306Z" creationid="Luan" creationdate="20231103T203306Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While the Snarker has existed (in both fiction and RealLife) since time immemorial, its most contemporary incarnation emerged in the early 1930s with the new popularity of sound cinema and the rise of "zinger" comedy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T135436Z" creationid="Luan" creationdate="20231029T135436Z">
+        <seg>Apesar de o Sarcástico ter existido (tanto na ficção quanto na Br/VidaReal) desde tempos imemoriais, a versão contemporânea deles emergiu no começo dos anos 1930 com a popularidade do cinema com som. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While they don't try to use the system to exploit others, like Lawful Evil characters, they can be shockingly indifferent if people ''do'' get ground up by the cogs of justice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T204201Z" creationid="Luan" creationdate="20231103T204201Z">
+        <seg>Apesar de não tentarem usar o sistema para explorar outros, que nem personagens leais e maus, eles podem ser surpreendentemente indiferentes se as pessoas forem esmagadas pelas engrenagens da justiça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While they exist on the darker end of the moral spectrum, they never take disgusting actions that undermine their magnificence, leaving them diabolical but in a way the audience can't help but enjoy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T141721Z" creationid="Luan" creationdate="20231103T141721Z">
+        <seg>Apesar de eles existirem na ponta mais sombria do espectro moral, eles nunca optam por ações repugnantes que possam minar a magnificência, o que faz com que eles sejam diabólicos de um jeito que o público não consegue evitar de aproveitar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>White moves first.]][[/note]]]]
+-&gt;''"I may disapprove of a movie for going too far, and yet have a sneaky regard for a movie that goes much, much farther than merely too far."''
+--&gt;-- '''Creator/RogerEbert''' on ''Film/ShootEmUp''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T161618Z" creationid="Luan" creationdate="20231029T161352Z">
+        <seg>O branco se move antes.]][[/note]]]]
+-&gt;''"Eu posso reprovar um filme por ir longe demais, mas ainda assim tenho uma sutil consideração por um filme que vai muito, muito além do que apenas longe demais."''
+--&gt;-- '''BrCriador/RogerEbert''' sobre o filme ''BrFilme/MandandoBala''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why is the atmosphere so heavy with melancholy?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231028T161649Z" creationid="Luan" creationdate="20231028T161649Z">
+        <seg>Porque a atmosfera está tão pesada com melancolia?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[/index]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T210406Z" creationid="Luan" creationdate="20231103T210406Z">
+        <seg>[[/index]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[Administrivia/NoRealLifeExamplesPlease Now, as for real life examples... ]] [[SelfDemonstratingArticle Oh, yeah, right.]] '''[[SelfDemonstratingArticle Someone]]''' [[SelfDemonstratingArticle up there has got no sense of humour.]]
+[[noreallife]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T141730Z" creationid="Luan" creationdate="20231029T141730Z">
+        <seg>[[BrAdministrivia/SemExemplosDaVidaRealPorFavor Agora, quanto a exemplos da vida real... Ah é, né. '''Alguém''' por aqui não tem senso de humor.]][[noreallife]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[ChunkySalsaRule Blown into tiny chunks?]] That might take a little longer, but can sometimes still be fixed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T202144Z" creationid="Luan" creationdate="20231206T202144Z">
+        <seg>Explodido em pedacinhos? Isso pode levar mais tempo, mas às vezes dá pra ajeitar também.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[FlameBait But since it's so much fun to argue...]]]]-]
+%%</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T201411Z" creationid="Luan" creationdate="20231103T201411Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[GoddamnedBats A plethora of enemies]] and difficult jumps were not just the name of the game, they ''were'' the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T184543Z" creationid="Luan" creationdate="20231101T184543Z">
+        <seg>[[Br/MalditosMorcegos Um excesso de inimigos]] e de saltos difíceis não eram apenas o nome do jogo; essas características ''eram'' o jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[GuideDangIt Objectives are vague]], and [[TalkToEveryone you are expected to figure them out on your own]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T223247Z" creationid="Luan" creationdate="20231101T223247Z">
+        <seg>[[Br/MalditoGuia Os objetivos são vagos]] e [[Br/FaleComTodoMundo é esperado que você descubra eles sozinho]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[KillItWithFire Burn them to ashes]], and mail them to Mexico, Norway, and Hong Kong, and they'll rebuild themselves FromASingleCell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T200939Z" creationid="Luan" creationdate="20231206T200939Z">
+        <seg>[[Br/MateComFogo Queime até só restarem cinzas]] e atire os restos ao mar, e eles vão se reconstruir a partir Br/DeUmaUnicaCelula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[MoralGuardians Some people]] just don't have a second line to cross in their minds, and will [[DudeNotFunny dislike]] any turn into sadism or vulgarity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162642Z" creationid="Luan" creationdate="20231029T162642Z">
+        <seg>[[Br/GuardioesDaMoral Algumas pessoas]] simplesmente não possuem uma segunda linha a se cruzar em suas mentes, e vão [[Br/CaraNaoFoiLegal rejeitar]] qualquer curva em direção ao sadismo ou vulgaridade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[OffWithHisHead Cut off their head]], [[LosingYourHead and it grows back]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T200828Z" creationid="Luan" creationdate="20231206T200828Z">
+        <seg>[[Br/CortemLheACabeca Corte a cabeça]] [[Br/PerdendoACabeca e ela cresce de volta]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[Radio/TheFrantics Not a boot to the head]], or [[ImmuneToBullets a bullet to]] [[EyeScream the eye]], or [[DropTheHammer a sledgehammer to]] [[GroinAttack the groin]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T194956Z" creationid="Luan" creationdate="20231206T194956Z">
+        <seg>Nem um chute na cabeça, ou [[Br/ImuneABalas uma bala]] nos olhos, ou uma marreta [[Br/AtaqueNaVirilha na virilha]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[WMG:[[center:[-'''Character Alignment'''\\
+LawfulGood | NeutralGood | ChaoticGood\\
+LawfulNeutral | TrueNeutral | ChaoticNeutral\\
+LawfulEvil | NeutralEvil | ChaoticEvil-]]]]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T201320Z" creationid="Luan" creationdate="20231103T201320Z">
+        <seg>[[WMG:[[center:[-'''Character Alignment'''\\
+LawfulGood | NeutralGood | ChaoticGood\\
+LawfulNeutral | TrueNeutral | ChaoticNeutral\\
+LawfulEvil | NeutralEvil | ChaoticEvil-]]]]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[index]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T202804Z" creationid="Luan" creationdate="20231103T202804Z">
+        <seg>[[index]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[noreallife]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T141937Z" creationid="Luan" creationdate="20231103T141937Z">
+        <seg>[[noreallife]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[quoteright:250:https://static.tvtropes.org/pmwiki/pub/images/alignment_graph_3756.png]]
+[-[[caption-width-right:250:What it ultimately boils down to.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T201339Z" creationid="Luan" creationdate="20231103T201339Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[quoteright:260:[[VideoGame/{{Diablo}} https://static.tvtropes.org/pmwiki/pub/images/diablo_1_3.png]]]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T175318Z" creationid="Luan" creationdate="20231101T175256Z">
+        <seg>[[quoteright:260:[[BrVideoGame/{{Diablo}} https://static.tvtropes.org/pmwiki/pub/images/diablo_1_3.png]]]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[quoteright:350:[[TabletopGame/{{Chess}} https://static.tvtropes.org/pmwiki/pub/images/rsz_chess_set_2855.jpg]]]]
+[[caption-width-right:350:"[[UsefulNotes/TheWarOnTerror That's... wrong.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231029T161256Z" creationid="Luan" creationdate="20231029T161223Z">
+        <seg>[[quoteright:350:[[BrJogoDeMesa/{{Xadrez}} https://static.tvtropes.org/pmwiki/pub/images/rsz_chess_set_2855.jpg]]]]
+[[caption-width-right:350:"[[BrNotasUteis/AGuerraAoTerror Isso é... errado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[quoteright:350:[[UsefulNotes/RMSTitanic https://static.tvtropes.org/pmwiki/pub/images/titanic_2009.jpg]] ]]
+[[caption-width-right:350:Stop me if you've heard this one.]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231206T225310Z" creationid="Luan" creationdate="20231206T225224Z">
+        <seg>[[quoteright:350:[[BrDadosUteis/RMSTitanic https://static.tvtropes.org/pmwiki/pub/images/titanic_2009.jpg]] ]]
+[[caption-width-right:350:Aposto que você já ouviu sobre essa aqui.]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[quoteright:350:[[WesternAnimation/RickAndMorty https://static.tvtropes.org/pmwiki/pub/images/screenshot_142_3.png]]]]
+[[caption-width-right:350:Also known as "[[RussianReversal Chairs Sit On People]]"... [[VisualPun literally]].\\
+It's [[ExaggeratedTrope even more rare]] to use a slice of pizza as a phone to order phones to eat.[[note]]This does, however, fit tropes like JustTheIntroductionToTheOpposites and AnimateInanimateObject.[[/note]]]]
+%%
+This happens when a {{trope}} is so ridiculously specific that it would only really have an example from that one show, where it didn't have any real meaning anyway.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231102T183419Z" creationid="Luan" creationdate="20231102T182347Z">
+        <seg>[[quoteright:350:[[BrAnimacaoOcidental/RickEMorty https://static.tvtropes.org/pmwiki/pub/images/screenshot_142_3.png]]]]
+[[caption-width-right:350:Também conhecido como "[[Br/ReversalRussa Cadeiras Sentam Em Pessoas]]"... [[Br/TrocadalhoVisual literalmente]].\\
+É [[Br/TropoExagerado ainda mais raro]] usar uma fatia de pizza como telefone para pedir telefones para comer.[[note]]No entanto, isso se encaixa em tropos como ??? JustTheIntroductionToTheOpposites e Br/ObjetoInanimadoAnimado.[[/note]]]]
+%%
+Isso acontece quando um Br/{{tropo}} é tão ridiculamente específico que ele só tem um exemplo daquele único show onde ele não tinha um significado real.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Excuse Plot}}s were the norm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231101T184355Z" creationid="Luan" creationdate="20231101T184355Z">
+        <seg>Nesses casos, [[Br/OEnredoESoUmaDesculpa qualquer enredo que houvesse era só uma desculpa]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>||align=center border=1 width=75%
+|| '''''Alignment Chart''''' || ''Lawful'' || ''Neutral'' || ''Chaotic'' ||
+|| ''Good'' || Lawful Good || Neutral Good || Chaotic Good ||
+|| ''Neutral'' || Lawful Neutral || True Neutral || Chaotic Neutral ||
+|| ''Evil'' || Lawful Evil || Neutral Evil || Chaotic Evil ||</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20231103T211113Z" creationid="Luan" creationdate="20231103T210809Z">
+        <seg>||align=center border=1 width=75%
+|| '''''Alinhamento''''' || ''Leal'' || ''Neutro'' || ''Caótico'' ||
+|| ''Bom'' || Leal e Bom || Neutro e Bom || Caótico e Bom ||
+|| ''Neutro'' || Leal e Neutro || Neutro Neutro || Caótico e Neutro ||
+|| ''Mau'' || Leal e Mau || Neutro e Mau || Caótico e Mau ||</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

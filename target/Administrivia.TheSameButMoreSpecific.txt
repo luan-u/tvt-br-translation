@@ -1,0 +1,11 @@
+Quando alguém quer criar um novo artigo que pode ser resumido como "É o mesmo que o artigo X, só que com <diferenciação>" -- ou, alternativamente, "[[BrApenasPorLazer/XEncontraY Uma combinação do artigo X e do artigo Y]]".
+
+Esta geralmente ''não'' é uma boa ideia, pois isso pode encher a wiki com [[BrAdministrivia/TropoRidiculamenteSimilar variações de tropos praticamente indistinguíveis]]. Por outro lado, se a qualificação adicionada é clara o suficiente para que o resultado sirva a um propósito narrativo diferente do original, então ele se torna um Br/SubTropo.
+
+Uma dada proposta se encaixando melhor em um Br/SubTropo ou em O Mesmo Só Que Mais Específico é [[BrAdministrivia/AgregadorContraSeparador algo que varia conforme a subjetividade]]; afinal de contas, BrAdministrivia/TroposSaoFlexiveis, mas não precisamos de uma nova página para cada variante possível. Por favor [[https://tvtropes.org/pmwiki/tlp_activity.php consulte seus colegas tropoeiros antes]] para obter opiniões a respeito.
+
+Quando a distinção acrescentada é "o mesmo, só que aumentado até onze", isso é conhecido como BrAdministrivia/OMesmoSoQueMais, já que a maioria dos casos são meramente um Br/TropoExagerado.
+
+Se a distinção acrescentada é tão restrita que o resultado falha em estabelecer um padrão, é um caso de BrAdministrivia/RaroDemaisParaSerUmTropo.
+
+Para tentativas de criar um Br/TropoIrmao similar demais, ao invés de um Br/SubTropo, consultar BrAdministrivia/TropoRidiculamenteSimilar. Por favor tente não confundir os dois.

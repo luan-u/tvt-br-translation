@@ -1,0 +1,19 @@
+[[quoteright:350:[[WesternAnimation/RickAndMorty https://static.tvtropes.org/pmwiki/pub/images/screenshot_142_3.png]]]]
+[[caption-width-right:350:Also known as "[[RussianReversal Chairs Sit On People]]"... [[VisualPun literally]].\\
+It's [[ExaggeratedTrope even more rare]] to use a slice of pizza as a phone to order phones to eat.[[note]]This does, however, fit tropes like JustTheIntroductionToTheOpposites and AnimateInanimateObject.[[/note]]]]
+%%
+This happens when a {{trope}} is so ridiculously specific that it would only really have an example from that one show, where it didn't have any real meaning anyway. So it's Administrivia/NotATrope, but because it's too rare to have [[Administrivia/ThreeRulesOfThree enough examples]] (at least at the moment).
+
+A very rare trope is still a trope, but, by definition, a trope still needs to represent some sort of ''meaningful'' pattern (as opposed to a coincidence). For an example, if a pattern is only visible in [[UgandanMedia Ugandan literature]] in the 1970s, it's still a trope as long as it conveys some sort of message (even if that message is only understandable to readers of 1970s Ugandan literature), but a narrowly-defined TLP for which only two or three examples can be found is much more ''likely'' to be coincidences than those with a similar degree of specificity and many examples.
+
+"Middle Child Hates Tomato Sauce And Loves Disco", for example, would not be a trope even if three examples of it could be found.
+
+Sometimes, it can be combined with Administrivia/TheSameButMoreSpecific, when an existing trope has a specification so rare, that it can't be tropable beyond a few existing examples. "DroppedABridgeOnHim, But On A Thursday", is an example.
+
+This is related to Administrivia/PeopleSitOnChairs, where there may be enough instances to establish a pattern, but the pattern isn't meaningful enough to be a {{trope}} on its own. Something like "People Cutting Their Fingers With An 80s Nail Clipper" is an example of something that's both People Sit on Chairs ''and'' Too Rare to Trope at the same time, as it's not specific-to-fiction, doesn't convey any meaning and has practically no examples to speak of.
+
+If you're not sure whether your TLP falls into this category, try asking, "Administrivia/IsThisTropable"
+
+There is a way for an occurrence that is Too Rare To Trope to appear non-coincidentally in more than one work, and that's deliberate {{Shout Out}}s. It's even possible for tropes to eventually coalesce out of such intertextual references, reaching a tipping point where a TropeMaker or TropeCodifier emerges, at which point something that was ''previously'' Too Rare To Trope retroactively becomes an example of an UnbuiltTrope.
+
+Compare/contrast Administrivia/NoTropeIsTooCommon.

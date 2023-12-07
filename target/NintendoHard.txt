@@ -1,0 +1,46 @@
+
+[[quoteright:342:[[BrVideoGame/IWannaBeTheGuy https://static.tvtropes.org/pmwiki/pub/images/iwbtgscreen_1962.png]]]]
+[[caption-width-right:342:[[Br/PressioneXParaMorrer Esteja preparado para ver isso.]] '''[[Br/PontuadoParaEnfase Bas. Tan. TE!]]''']]
+
+O BrNotasUteis/NintendoEntertainmentSystem se tornou conhecido por duas coisas: [[BrNotasUteis/CriseDosVideogamesDe1983 por reviver o mercado de videogames para sala de estar]] e por ter jogos ridiculamente difíceis. 
+
+Lá nos Br/AnosOitenta, os videogames não tinham histórias sofisticadas como hoje em dia. Nesses casos, [[Br/OEnredoESoUmaDesculpa qualquer enredo que houvesse era só uma desculpa]]. Portanto, muito do sentimento de satisfação que se poderia esperar desses jogos vinha de superar a dificuldade apresentada por eles, ainda que servisse só para contar vantagem entre amigos. [[Br/MalditosMorcegos Um excesso de inimigos]] e de saltos difíceis não eram apenas o nome do jogo; essas características ''eram'' o jogo. E esses jogos não tinham uma dificuldade qualquer; eles tinham a [[Br/FalarONome Dificuldade Nintendo]]!
+
+Como esses jogos custavam muito dinheiro para a época e poderiam ser fechados em 15 minutos se você soubesse o que estava fazendo, um jogo que fosse muito fácil tinha pouco valor. Simplesmente não era possível fazer jogos muito longos no estilo contemporâneo que levassem horas para finalizar ainda que você fosse bom. Por isso os jogos precisavam ser difíceis para que os jogadores sentissem que o jogo vale cada centavo gasto.
+
+'''A dificuldade desses jogos geralmente surge a partir de uma combinação de fatores:'''
+* [[Br/MalditosMorcegos Muitos inimigos]] ou muitos projéteis que são difíceis de acertar ou desviar.
+* Ataques surpresa que podem ser evitados apenas por pura sorte ou [[Br/JogoDeTentativaEErro ao memorizar as localizações]].
+* Br/ArquiteturaMalevolente que apresenta um [[Br/TudoTentandoTeMatar constante risco de morte]] mesmo quando o jogador segue com tanta cautela quanto possível.
+* Um herói (ou heroína) que pode sobreviver a pouquíssimos ataques -- geralmente morrendo com o menor arranhão.
+** Mas se ele/ela consegue aguentar pelo menos um ataque sem repercussões sérias, cair no Br/FossoSemFundo ou ser esmagado ainda vai causar morte instantânea.
+* Poucos -- ou nenhum -- pontos para salvar o progresso.
+* Um número limitado de Br/{{vidas|DeVideogame}} ou ''continues'', ou nenhum deles.
+** Pior ainda, sem ''continues'' extras quando você chega na reta final.[[note]]Nos BrNotasUteis/JogosDeArcade, onde isso era visto, a ideia era impedir o uso de fichas em excesso, uma prática que era considerada pouco profissional (ao invés de memorizar os níveis e os chefes).[[/note]]
+* Sem meio para ajustar os Br/NiveisDeDificuldade, ou então o ajuste é superficial.  Mesmo aqueles que permitiam a mudança de dificuldade apresentavam a Br/ZombariaDoModoFacil, o que fazia com que não valesse a pena jogar no modo fácil.
+** Ou se os níveis de dificuldade na verdade são justos, pode ser que haja um nível de dificuldade opcional [[Br/MaisDificilQueODificil que faz com que os outros níveis, até o difícil, se pareçam com brincadeira de criança]].
+* [[Br/ContinuarEDolorido Perder a maioria (ou todas) das armas/melhorias ao morrer, ou ter a pontuação resetada para 0 sempre que você usa a opção de continuar]].
+* Controles estranhos e pouco responsivos (mas ''apenas'' quando aplicado às gerações em 8 bits, 16 bits e (em certa medida) 32 bits; nos jogos mais modernos, isso deixa de ser esperado e entra direto no território da Br/DificuldadeArtificial.
+** A Br/FisicaDeSalto inflexível faz com que seja impossível desviar de ataques no meio do ar, especialmente se a altura de pulo do personagem é pouca.
+** [[Br/NegacaoDeAtaqueDiagonal A incapacidade de atacar para qualquer direção que não seja esquerda ou direita]] enquanto os Br/MalditosMorcegos te atacam por cima ou por baixo. A maioria dos jogos com esse traço até mesmo te negam a possibilidade de agachar para destruir os inimigos que se esgueiram por baixo.
+* Pouca ou nenhuma orientação. [[Br/MalditoGuia Os objetivos são vagos]] e [[Br/FaleComTodoMundo é esperado que você descubra eles sozinho]]. Se o jogo te ensina alguma das mecânicas, é através de um Br/ChefeDeAlerta ou de uma [[Br/SaltoNaDificuldade ponte particularmente horrível]]. 
+* Br/MortePermanente para os membros da sua equipe e [[Br/ApagamentoComoPunicao ter todo o progresso apagado]] se você morrer.
+
+Quando a Dificuldade Nintendo é levado aos extremos mais sadistas ao se adicionar mortes idiotas via Br/JogoDeTentativaEErro, você consegue ??? PlatformHell e ??? BulletHell.
+
+Tenha em mente, no entanto, que a dificuldade do jogo [[Br/DificuldadeSurpresa pode não ter nada a ver com a estética do jogo em si]], mas ainda assim [[Br/ComoAssimNaoEParaCriancas eles não serão adequados para crianças pequenas]].
+
+Quando somente algumas (ou apenas uma) áreas do jogo são Dificuldade Nintendo, você provavelmente está lidando com Br/AquelaFase, Br/FaseBonusBrutal ou Br/ChefeSNK se for no fim. Se o jogo alcança uma dificuldade ridícula em certo ponto e não volta atrás, é um caso de Br/SaltoNaDificuldade. Exemplos de Dificuldade Nintendo em jogos de luta 1-contra-1 geralmente se encaixam em Br/OComputadorEUmCanalhaTrapaceiro, pois o oponente de IA muito difícil quase sempre é o culpado. Br/ConquisteSuaDiversao é um argumento comum para aqueles que gostam desses jogos abusivamente difíceis.
+
+Muitos jogos de arcade se encaixam na Dificuldade Nintendo para assegurar um fluxo constante de fichas para dentro da máquina.  Afinal, os donos da casa de jogos precisam ''de algum modo'' conseguir dinheiro.
+
+A seção [[https://gamefaqs.gamespot.com/games/rankings?platform=0&genre=0&list_type=diff&view_type=0&dlc=1&min_votes=1 dos ranks de dificuldade]] do [=GameFAQs=] é uma boa medida da dificuldade de um jogo desde que tenha um número suficiente (pelo menos 50) de votos. Jogos que possuem nota acima de 4.0 na lista representam o top 3% de dificuldade. (Nota: efetivamente é uma [[Br/EscalaDeQuatroPontos escala que varia entre 2.5 até 4.0]].)
+
+O corolário contrapositivo é a Br/QuedaDeDificuldadeDaSequencia.  No entanto, ao contrário do que alguns podem argumentar, jogos modernos ainda podem ter a Dificuldade Nintendo, Apenas não é tão comum.
+
+'''Ao adicionar exemplos, lembre:''' Se você está inclinado a adicionar as palavras ''para este tropoeiro'' ou ''poderia ser considerado'' e não consegue fazer uma declaração forte sobre a dificuldade universal do jogo em questão, '''[[BrAdministrivia/PorcaQuadradaTropoRedondo então não é um exemplo]].  Exemplos devem ser jogos que, como um todo, são extremamente difíceis até para os padrões de jogadores habilidosos.'''
+
+----
+!!Exemplos:
+
+Br/ExemplosEmFalta.

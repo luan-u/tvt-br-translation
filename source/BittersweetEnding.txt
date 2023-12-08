@@ -1,16 +1,5 @@
-%%
-%%
-%%
-%% Due to the nature of this trope, finding a proper image will be very tricky.
-%% DO NOT add an image to this page without discussing it in Image Pickin' first.
-%% IP thread for reference: https://tvtropes.org/pmwiki/posts.php?discussion=1548846470050407100
-%%
-%%
-%%
 ->''"This was a happy story. But... it could still be a whole lot happier..."''
 -->-- '''Kubo''', ''WesternAnimation/KuboAndTheTwoStrings''
-%%
-%% One quote is sufficient. Please place additional quotes on the quotes tab.
 
 Victory, at last! The BigBad has finally been vanquished, the day has been saved, all the [[DamselInDistress damsels in distress]] and {{innocent bystander}}s have been rescued and the heroes are ready to [[StandardHeroReward reap their reward]], kiss their LoveInterests and [[RidingIntoTheSunset walk away toward the setting sun]]...
 
@@ -51,3 +40,5 @@ Compare with PyrrhicVictory, where the day is carried, but the cost of winning i
 Compare and contrast with RayOfHopeEnding, where the villain prevails but not all is lost. Also with EsotericHappyEnding, where the author clearly ''meant'' it to be joyful, beautiful, and uplifting… but the readers don't see it that way. May overlap with TearDryer if more emphasis is placed on the "sweet" part.
 
 Note that as an ending trope, the following entries are riddled with unmarked '''spoilers'''.
+----
+!!Examples:

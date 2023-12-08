@@ -1,0 +1,46 @@
+A continuidade retroativa, ou ''retcon'', consiste em re-enquadrar ou acrescentar coisas em eventos passados para servir uma necessidade atual da trama. Tomemos como exemplo a imagem da página: um elevador espacial pré-existente está na cidade, mas ele aparenta não existir antes, apesar do fato de que a existência de uma construção que se eleva até o espaço sideral ficaria à vista em qualquer enquadramento panorâmico. No entanto, o momento atual da história requer um elevador espacial, por isso ele foi adicionado e tratado como se sempre estivesse lá.
+
+Na sua forma mais básica, um ''retcon'' é qualquer ponto de trama ou detalhe cuja existência não era pretendida no começo, mas que é tratado como se sempre estivesse lá (contrastar com Br/ARevelacao, onde o autor planeja acrescentar o elemento desde o começo). O uso ideal é quando não contradiz nada, mesmo que tenha sido alterado posteriormente. Um ''retcon'' bem feito esclarece uma questão existente sem adicionar muitas questões extras.
+
+O termo vem das [[Br/TroposDeHistoriasEmQuadrinhos histórias em quadrinhos]], tendo a origem rastreada para o ''BrQuadrinhos/AllStarSquadron'' #18 em 1983 e encurtado para "retcon" já no fim da década, mas a técnica em si é muito mais antiga. Isso geralmente é usado para atender a uma nova trama através da mudança de contexto ou expandindo uma ambientação pré existente; no entanto, também acontece quando os criadores estão escrevendo uma história que viola a continuidade e não é muito plausível.
+
+Na BrCriador/MarvelComics, a pessoa que apontou o problema e, ao mesmo tempo, forneceu uma explicação plausível recebeu um [[http://web.archive.org/web/20091022001346/http://geocities.com/mh_prime/8607.html não-prêmio]] do então editor BrCriador/StanLee, uma tradição que foi mantida viva por outros editores depois que ele se tornou publicador.
+
+Ver também Br/SolucaoTiradaDaBunda, que é algo que não foi adequadamente preparado antes de ser lançado para o público, e ??? CliffhangerCopout, em que uma situação perigosa é retroativamente alterada para permitir que os personagens escapem. Tem relação com Br/DeusExMachina. Alguns (mas [[BrAdministrivia/TroposSaoFerramentas não todos]]) ''retcons'' são tirados da bunda, e um ''retcon'' bem feito pode melhorar a narrativa atual. Um bom método para usar um ''retcon'' é revelar novas implicações ou motivações para eventos que já foram estabelecidos.
+
+Os melhores ''retcons'' nem sequer serão distinguíveis como tal, e podem transformar algo que inicialmente parece uma Br/SolucaoTiradaDaBunda em algo que decorreu Br/ExatamenteComoPlanejado. (Em outras palavras, trazer algo para o reino da plausibilidade e pra longe do improvável.)
+
+Muitos consideram que o ''retcon'' acontece quando os eventos atuais contradizem a continuidade prévia da série que é evidência de que há um Br/EscritorABordo. Mas mais frequentemente, o ''retcon'' não viola o Br/{{canone}}, mas sim o Br/{{fanone}}, o conjunto de [[Br/ArvoresEpileticas interpretações não declaradas que costuma ser feito pelo público]] (se uma interpretação é violada deste modo, então ela Br/CaiuPorTerra). Os escritores mais competentes conseguem fazer um ''retcon'' ao se basear em uma interpretação menos óbvia, porém perfeitamente válida, dos eventos que já se passaram.
+
+A medida em que o número de reviravoltas e desvios em uma história se acumula, fica mais difícil identificar se um evento é de fato um ''retcon'' (o que implica que os escritores mudaram de ideia) ou um desvio calculado (o que implica quue os escritores tinham em mente a versão ''do retcon'' o tempo todo e estavam deliberadamente atraindo o público para longe). Em alguns casos é impossível diferenciar, a não ser que fosse possível ler a mente do autor (e ainda assim talvez não ajudasse muito porque é totalmente possível que o autor fique indeciso sobre o que fazer).
+
+Um autor que esteja Br/ArmadoComOCanone pode usar o ''retcon'' como parte de uma ofensiva lançada contra outro autor do mesmo Br/UniversoCompartilhado. O excesso de ''retcons'' pode resultar em Br/RosnadoDeContinuidade. Isso também pode resultar nos leitores e fãs abordando a obra com um certo nível de [[Br/ReceioDeCompromisso ceticismo, cinismo ou até mesmo desinteresse]], principalmente se é feito de maneira muito óbvia e rápida um ''retcon'' para qualquer coisa que seja impopular ou que [[Br/StatusQuoEDeus altere drasticamente o status quo]] -- afinal, porque se comprometer com o seu mais novo Evento de Br/CruzamentoDeCrise que promete mudar tudo para sempre e que [[Br/NadaEMaisOMesmo nada mais será o mesmo]] se existe [[Br/AbrindoUmaLataDeClones uma boa chance de que tudo vai sofrer um retcon após um breve período de tempo]]?
+
+Às vezes os ''retcons'' envolvem pouco mais que alterar a cronologia dos eventos para que ocorram um pouco depois do originalmente declarado. Isto é comum em franquias de ficção científica que se passam em um futuro não muito distante. [[Br/PrevisaoErradaDoFuturo Quando a data futura se torna passado na realidade]], é necessário re-datar a obra para que ela permaneça no futuro. Isso acontece com muitas séries de longa duração que foram concebidas, por exemplo, nos Br/Anos60 e ambientadas nos Br/Anos90 ou no começo do século 21.
+
+Alguns ''retcons'' acontecem com o propósito de corrigir um [[Br/FuroNaTrama vacilo no roteiro]] que foi ao ar antes de se identificado. Isto costuma acontecer em séries que possuem Br/MuitosEMuitosEscritores, assim como muitos editores e revisores. Na época antes do [=VHS=], isso não era tão importante porque o mais provável era de que nenhum espectador fosse ver o episódio novamente. Por isso, eles também tinham uma boa chance de esquecer aqueles dois personagens que, na primeira temporada, disseram que se conhecem do tempo da faculdade, mas agora na terceira temporada dizem que eles cresceram na mesma rua. O processo de tentar conciliar estas duas afirmações costuma levar a muitas novas questões sem resposta e que agora precisam ser respondidas sem que haja muita contradição.
+
+Isto pode acontecer facilmente com [[Br/{{Prequencia}} prequências]] quando os escritores se descuidam. Por outro lado, BrAdministrivia/TroposNaoSaoRuins. É totalmente possível que um autor queira fazer um ''retcon'' na ''própria obra'' para corrigir um Br/RosnadoDeContinuidade ou até aplicar uma Br/JogadaDefensivaDoAutor se as coisas ficarem cabeludas. Às vezes, se as obras pré-retcon não são mais consideradas parte do cânone para o autor, essas obras são [[Br/DescontinuidadeDeCanone descontinuadas]] no cânone. Em Br/SeriesDeLongaDuracao, ''retcons'' costumam ser usados para corrigir Br/DissonanciaDeValores, para lidar com problemas que derivam das várias manifestações de Br/AMarchaDoTempo ou para alinhar partes prévias da história com outras mudanças.  E às vezes as pessoas gostam ''mais'' da parte com o ''retcon'' -- e por isso não consideram isso um problema.
+
+Comparar com Br/IndecisaoDeDeus. Tende a acompanhar Br/ARevelacao. Pode envolver Br/AbrirUmaLataDeClones. Às vezes também pode se qualificar como uma escolha de Br/DeixarAiMesmo. Às vezes é resultado de Br/DependeDoRoteirista ou Br/DependeDoArtista.
+
+'''Variantes específicas:'''
+* Br/DesenvolvimentoRetroativo: Quando a caracterização de alguém nas recordações é ajustada para lembrar a versão mais atual; é um retcon para lidar com Br/AMarchaDaCaracterizacao.
+* Br/DescontinuidadeDeCanone: Eventos prévios são tratados como se nunca tivessem acontecido.
+* Br/RetconDeCerebus: Costuma resultar de uma Br/SindromeDeCerebus que torna um evento anterior mais sério como parte de uma mudança para o drama.
+* Br/SindromeDeChuckCunningham: Um personagem some da narrativa sem explicação.
+* Br/RosnadoDeContinuidade: Em universos compartilhados que sofrem mudanças na direção (novas gerações de equipes criativas), os escritores contemporâneos são menos inclinados a aderir estritamente à consistência interna com tramas, eventos ou estilos visuais que foram pensados vinte, trinta ou mais de quarenta anos atrás, especialmente quando essas histórias antigas [[Br/FusoQuadrinhos estão desatualizadas em relação à apresentação original]].
+* Br/RetconCriminal: A personalidade ou os crimes de um vilão reintroduzido são ajustadas para que fique melhor ou pior do que o originalmente estabelecido.
+* Br/RetconDeSumico: Um personagem Br/InUniverso é removido e as memórias coletivas somem junto.
+* Br/{{Revisao}}: Uma alteração na continuidade que não contradiz diretamente o material anterior.
+* Br/{{Reescrita}}: Um retcon que altera abertamente os fatos da continuidade prévia.
+* Br/RetconOrwelliano: Os eventos prévios que contradizem a nova continuidade são reescritos.
+* Br/RetconCosmico: Um evento dentro da história altera a realidade e isso causa um retcon.
+** Br/{{Retconjuracao}}: Uma habilidade dentro da história altera a realidade e isso causa um retcon.
+* Br/LembraDoCaraNovo: Um novo personagem é introduzido, mas ele carrega um retcon junto para parecer como se ele sempre estivesse na história.
+
+Conceitos relacionados para explicar retcons podem incluir a Br/{{Pincelada}} ou Br/LancarLuzSobreOTropo; isso também pode envolver um Br/NarradorNaoConfiavel. Consultar também Br/RetconInterno, para retcons dentro de um universo fictício, ou Br/RetconExterno, para retcons na vida real.
+
+----
+!!Exemplos:
+Br/ExemplosEmFalta.

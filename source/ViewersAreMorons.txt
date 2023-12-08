@@ -1,0 +1,78 @@
+->''"No one in this world, so far as I know -- and I have researched the records for years, and employed agents to help me -- has ever lost money by underestimating the intelligence of the great masses of the plain people. Nor has anyone ever lost public office thereby."''
+-->-- '''Creator/HLMencken''', "Notes on Journalism"
+
+A common belief among film and TV executives is that everyone who watches media has the intellect of WesternAnimation/BeavisAndButtHead.
+
+This belief is a root cause of ExecutiveMeddling, especially common among shows intended for children. Kids can legitimately be said to be less knowledgeable than adults, though we all probably know a depressingly large number of exceptions.
+
+Of course, there ''is'' a "moron" demographic out there, and it has its members, but executives seem to believe that ''every'' person who watches TV belongs in it. This may be due to something known as the "80-20" rule in business — in this case, that market research shows that 80% of money spent on television-advertised products comes from the lowest 20% in terms of education and intelligence, so show-content is naturally geared towards them.
+
+On top of that, not only are viewers stupid, they are also intolerant of people and things unlike themselves, [[SmallReferencePools ignorant]], [[TheyChangedItNowItSucks hate change]], need to be instantly satisfied, and have the attention span of [[ViewersAreGoldfish a goldfish]].
+
+[[AC:Leads to:]]
+* AesopAmnesia: Character learns AnAesop but un-learns it between episodes.
+* AndKnowingIsHalfTheBattle: Kids' show episodes have a lesson in TheTag.
+* AnimationAgeGhetto: The belief that only children watch cartoons.
+* AntiIntellectualism: Poking fun at intellectuals.
+* AntiRoleModel: A character in a children's story who do the things the audience isn't meant to do, who's portrayed as obnoxious in some fashion.
+* {{Anvilicious}}: A not-subtle-at-all Aesop.
+* AsLongAsItSoundsForeign: Words that are not foreign, but are put in to "sound" foreign.
+* AudienceAlienatingEra: An era in a franchise that featured an unpopular change.
+* ButNotTooEvil: The villains can't do things that are too evil, lest the work be too shocking or controversial.
+* ButNotTooForeign: Someone is half-foreign.
+* ButWaitTheresMore: An ad tells the viewers to wait for more information.
+* CaptainObvious: Stating the obvious.
+* CaptainObviousReveal: Expecting the audience to be surprised by a twist that is made completely obvious by blatant telegraphing or something similar.
+* CharacterDerailment: Character changes personality with no explanation.
+* CallingYourAttacks: A character who's fighting yells out the name of their attack.
+* DepartmentOfRedundancyDepartment: Repeating things.
+* DontTryThisAtHome (considerably more appropriate than others on this list).
+* FalselyAdvertisedAccuracy: Claiming that you've done the research, then proving you really haven't and assuming that the audience will be too ignorant to notice.
+* FleetingDemographicRule: Reusing old storylines under the assumption that no one who saw it the first time is still watching.
+* {{Infodump}}: A really long session of {{exposition}}.
+* ItsNotSupposedToWinOscars: Creators often use this as an excuse when this mentality shows in their work.
+* LaughTrack: A show that puts recorded laughter at every joke.
+* LowestCommonDenominator: Trying to appeal to as many people as you can at once.
+* {{Macekre}}: A badly-done DubInducedPlotlineChange.
+* NarratingTheObvious: The narrator states the obvious.
+* NetworkDecay: A TV channel starts to show things that go outside what it's supposed to show (e.g. the nature channel starts showing shows that have nothing to do with nature).
+* ObviouslyEvil: A character's appearance and/or actions are blatantly evil, because viewers won't know who the good guys are if the bad guys are too subtle.
+** CardCarryingVillain: Believing that the audience can't tell if a character is evil unless they openly take pride in how evil they are and/or refer to themselves as evil.
+** ObviousJudas: Expecting the audience to be surprised when an ObviouslyEvil character turns out to be a villain.
+* OscarBait: The viewers in question are critics, and members of the Academy.
+* PaymentPlanPitch (in advertising)
+* PleaseSubscribeToOurChannel, in some cases.
+* PlotHole: An error in the writing.
+* RecycledScript: A TV show copies a script from another one.
+* ScriptWank: The creator explicitly spells out a work's message because they don't trust the audience to pick up on the subtext, goes hand in hand with...
+* ShowDontTell: A common bit of writing advice which says to imply or demonstrate that something is happening rather than to just say it is.
+* ThisLoserIsYou: Making the main character a "loser" in hopes they're relatable.
+* TooIncompetentToOperateABlanket: In an ad for a thing that already has a mundane counterpart (e.g. a fancy paper cutter vs. scissors) that tries to portray it as necessary by showing people failing miserably to do the thing the normal way.
+* TotallyRadical: Audiences already know that the work is up to date. Why bother?
+* Cynical appeals to TrueArt reactions (i.e., Show X had little effort put into it, but instead was made to superficially appear artsy in hopes that moronic viewers would watch it not for enjoyment, but rather to feel smart).
+* TVNeverLies: AnAesop about not trusting the media.
+* WriterCopOut: When the ending to a story is anticlimactic, has an unsatisfying climax, or isn't a proper ending.
+* ...and many, many others.
+
+Interestingly enough, though, this meta-trope sounds worse than it is, at least currently; actually comparing and contrasting the entertainment of today with the entertainment of the past will show that ''overall'', shows demand more of your mind than they used to, probably because we'd be bored if it didn't and partly because things like recorders or the Internet now [[BetterOnDVD make it possible to examine shows in more depth more easily]] than in the past (read Stephen Johnson's book ''Everything Bad Is Good For You'' for an eloquent explanation beyond the scope of this article).
+
+Of course, all that means is that the bar for entertainment is raised even higher, and that viewers will get annoyed more and more easily if things like {{Infodump}} happen a few times too many. Additionally, the caveat about this being what ''executives'' believe about viewers was, at least at one point, not particularly untrue. In the era of the "Big Three" networks (Creator/{{NBC}}, Creator/{{ABC}}, and Creator/{{CBS}}), before [=VCRs=] and the like, shows really ''were'' '''designed''' to be simple and supposedly "unobjectionable" narratives, for fear of making that one third of the entire TV viewing audience tune out and tune in to one of the competitors. This is why television quickly gained the nicknames Boob Tube and Idiot Box from intellectuals who found television pandering and simple.
+
+Note that this viewpoint is not particular to network executives. Question some point of continuity for a children's show with a sizable adult PeripheryDemographic, and you are pretty much guaranteed one of the periphery adult fans will insist that it's "because it's a kid's show and they don't expect kids to notice." Ironically, kids are often far ''more'' aware of such mistakes, not because kids are per se "smarter" than we expect, but because not having things like a job, spouse, or "real life" to distract them, they tend to watch their favorites much more obsessively and with more of their minds fully devoted to analysis. ([[MostTropersAreYoungNerds Which makes them]] [[FanDumb similar to others]] [[JustForFun/TVTropesWillRuinYourLife you may be]] [[ThisLoserIsYou familiar with.]]) Consequently, children can put even the strictest editors to shame with their awkward questions.
+
+Lastly, [[Administrivia/TropesAreTools this trope is not necessarily bad]]. Business administrators and anyone else whose job it is to explain things to others (like a coach or a presenter) know the "KISS" method ("'''K'''eep '''I'''t '''S'''hort and '''S'''imple", or "'''K'''eep '''I'''t '''S'''imple, '''S'''tupid) because of the fear that if something is ''[[ViewersAreGeniuses too complex]]'' then no one will understand it, which is certainly true of TV plots. Thus, it's not a bad idea for a writer to assume that their audience are not geniuses and write accordingly, as no one will be entertained if they can't follow along the story. Of course, great care needs to be taken, because if a writer makes their story too simple they also risk alienating the audience who will angrily invoke this trope.
+
+Some of it comes from ''how'' people use TV, too. In some households, the TV is just on. The background noise and familiar voices add a comfortable ambiance to a home. These people may prefer programs you can tune in and out of, and not miss much. Face it, not every viewer is like a [[Administrivia/TvTropesGlossary Troper]], analyzing character's actions, and picking apart the plot. This does not mean the person is a moron, but when it comes to explaining the show that they "watch", they may sound like it to a troper.
+
+Compare LowestCommonDenominator. For when the viewers really ''are'' morons, see FanDumb and HateDumb.
+
+For the less common polar-opposite, see ViewersAreGeniuses. When this trope and the latter trope conflict, however, you can wind up with an UnpleasableFanbase.
+
+For versions enforced by law (or out of fear of a potential lawsuit), see also OurLawyersAdvisedThisTrope.
+
+Not to be confused with HumansAreMorons.
+
+!!Administrivia/InUniverseExamplesOnly.
+
+----
+!!Examples:

@@ -1,0 +1,82 @@
+ 
+
+Em uma obra, particularmente em séries e franquias de longa duração, praticamente ''nada'' muda. Se algo muda, geralmente volta para o jeito que era antes bem rapidinho.
+
+Isto costuma acontecer em séries sem um conflito amplo acontecendo, mas também pode ser o estágio final do Br/AtrasoExponencialDeTrama, o fenômeno em que a trama de uma história serial desacelerou até parar. De qualquer modo, cada capítulo subsequente da série vai se iniciar em circunstâncias virtualmente idênticas ao capítulo anterior.
+
+Por que criar uma situação estática? Os criadores querem que o público esteja familiar com os personagens e a situação, sem ter que se incomodar com coisas do tipo "o que aconteceu no episódio passado".
+
+Este tropo é particularmente verdade para desenhos animados, pois as emissoras querem ficar livres para transmitir reprises em qualquer ordem conveniente (inclusive fora de ordem). Também é muito comum em sitcoms e em quadrinhos, e como resultado muita Br/AmnesiaDeEsopo é criada. Apesar de os personagens terem aprendido suas lições ou melhorado a si mesmos, nada realmente muda.
+
+Este tropo pode ser usado para evitar Br/BloqueioDeContinuidade, mas pode ser difícil lidar com uma situação inalterada por tanto tempo sem que o público fique gradualmente desinteressado; uma situação que nunca muda tende a ficar insípida e o público pode se cansar de ver o Br/BotaoDeReinicio ser apertado toda vez que algo surge para, aparentemente, mudar as coisas.
+
+Status Quo É Deus pode facilmente se opor a Br/FelizesParaSempre. Às vezes, uma história não pode ter um final que seja ao mesmo tempo feliz e que mantenha o status quo -- portanto estes tropos conflitam entre si. Quando isso ocorre, é provável que o status quo seja mantido e que o final seja menos feliz do que poderia ter sido se não fosse por Status Quo É Deus. Por exemplo, se um personagem principal encontra um interesse amoroso no começo do episódio, é praticamente certo de que eles vão se separar no fim, por [[Br/NaoEVoceSaoMeusInimigos um motivo]] ou [[Br/PequenasFalhasGrandesRompimentos outro]]. (Por outro lado, se a série ''como um todo'' tem data para terminar e os criadores estão confiantes de que nunca conseguirão fazer uma sequência, eles podem decidir se livrar deste tropo com um Br/GrandFinale que ajusta tudo de maneira permanente.)
+
+Status Quo É Deus costuma ser a justificativa para um Br/IoioDeTrama ou um ??? AgelessBirthdayEpisode. No entanto, não tem nada a ver com [[BrMusica/StatusQuo a divindade de uma certa banda de rock]].
+
+Br/ContinuidadeNegativa é o que acontece quando este tropo é exagerado -- não apenas nada nunca muda, como  também não requer uma explicação Br/InUniverso, o mundo apenas é redefinido no final de cada episódio. Ver também Br/ReedRichardsDoUniversoAlternativoEIncrivel, onde os personagens têm um vislumbre de um universo alternativo em que as coisas mudaram de fato.
+
+Relacionado a Br/ApenasSeLivreDeGilligan e Br/NaoConfissao. Br/ItemReservaImprovavel pode ser usado com esse efeito. Para o oposto, em que uma obra muda dramaticamente ao longo de sua exibição, ver Br/NadaEMaisOMesmo.
+
+[[noreallife]]
+----
+!!Sub-tropos:
+[[index]]
+* Br/AmnesiaDeEsopo: Ninguém aprende com seus erros e nem lembra de nenhuma lição.
+* ??? AgelessBirthdayEpisode: Um personagem faz aniversário mas a idade não muda.
+* Br/TramaAntiUniformeEscolar: O Br/UniformeEscolarSubito é tornado regra por um episódio antes de ser abolido.
+* Br/DogmatistaDoSistemaFalho: Um sistema é falho e corrupto além do reparável, mas esta pessoa quer mantê-lo mesmo assim.
+* Br/PrisaoDePapelao: Relacionado à Br/ImunidadeDeCoringa; nem mesmo a mais longa sentença prisional vai durar para um criminoso.
+* Br/MaldicaoDoCartwright: Relacionamentos que podem mudar a situação romântica de um personagem não duram.
+* Br/FusoQuadrinhos: O tempo congela in-universo, apesar da progressão dele no tempo real. Fica ainda mais confuso quando anos e eventos do mundo real são mencionados.
+* Br/ImortalidadeContratual: Quando o contrato do ator ainda está válido, por isso a morte presumida do personagem é rejeitada.
+* Br/NaoConseguiuAGarota: Não importa o que se faça ou o quanto tente, o personagem nunca vai conseguir ficar com o interesse romântico.
+* Br/DivorcioETemporario: Quando um casal casado não fica separado para sempre.
+* Br/CaraCadeMeuRespeito: Não importa quantas vezes os heróis atrapalhem os vilões para salvar o mundo, os transeuntes agirão como se fosse a primeira vez dos heróis fazendo isso e os civis não demonstrarão admiração nem darão tratamento especial.
+* Br/FalharEAUnicaOpcao: Se o sucesso do personagem implicar em uma alteração drástica no status quo da série ou do próprio personagem.
+* Br/OsBonzinhosSempreVencem: A regra quase universal de que os malvados sempre devem perder. [[note]]Bom, ''quase'' sempre; existem [[Br/OCaraMauVence raras exceções]].[[/note]]
+* Br/EpifaniaIgnorada: Quando um personagem mantém o status quo de maneira intencional.
+* Br/SempreEPrimavera: Sol e céu sem nuvens perpetuamente, porque qualquer outra coisa seria inconveniente.
+* Br/ImunidadeDeCoringa: Quando vilões também possuem o privilégio da imunidade contra morte.
+* Br/MantendoADeficiencia: Um personagem com alguma deficiência decide contra "corrigir" ela porque isso é o que faz eles serem quem são.
+* Br/ComoSeVoceRealmenteFosseFazerIsso: Quando o espectador pode facilmente prever que alguém não vai morrer devido à importância para a história.
+* Br/ContinuidadeNegativa: Levada ao extremo lógico, mudanças drásticas ocorrem mas são rapidamente revertidas na próxima ocasião e sem explicação nenhuma. Comum em obras surrealistas.
+* Br/SemInerciaOntologica: Por algum motivo, destruir a fonte de algo (como magia) vai instantaneamente negar qualquer mudança que aquilo causou.
+* Br/ArmaduraDeTrama: Personagens principais (geralmente os protagonistas, mas também os antagonistas) são considerados importantes demais para morrer.
+* Br/ReedRichardsEInutil: Tecnologia fantástica é usada somente como dispositivo de trama e praticamente não afeta a vida das massas sem nome.
+* Br/BotaoDeReinicio: O status quo é reforçado ao usar uma Br/{{Pincelada}} para reverter quaisquer mudanças.
+* Br/AcordarOBoiATiros: Que nem o botão de reinício, mas não apenas ativamente trágico como também negando qualquer conquista que tenha ocorrido na história.
+* ??? SnapBack: Algo acontece ao personagem ou à história, mas de algum modo é desfeito no próximo episódio sem explicação.
+* Br/PersonagemEstatico: Qualquer um que não passe por desenvolvimento de personagem.
+* Br/ProgramaDePalcoDoStatusQuo: Às vezes vencer um programa de auditório pode afetar o status quo do personagem, Br/EIssoETerrivel. 
+* Br/PermanecendoVivo: Um personagem ''nunca'' permanece morto.
+* Br/FormulaEstrita: Quando uma série raramente (ou nunca) desvia de uma fórmula padrão de trama.
+* Br/NaoMataras: Porque os heróis se recusam a eliminá-los de maneira permanente.
+* Br/BomDemaisParaAproveitadores: Não vamos descartar o sistema antigo por um novo porque estamos bem demais explorando o sistema antigo em nosso próprio benefício!
+* Br/AmorVerdadeiroEEntediante: Se o status quo do personagem força ele a se manter solteiro.
+* Br/DemissaoNaoProcessada: Um personagem larga o emprego, no entanto consegue recuperá-lo no final do episódio porque o chefe se recusou a processar a papelada requerida.
+* Br/EquilibrioInstavel: Competidores sempre terão os mesmos resultados se Br/ContinuarEDolorido para os perdedores. [[note]]Os vencedores sempre vencem, e os perdedores sempre perdem.[[/note]]
+* Br/VegetarianoPorUmDia: A dieta de um personagem muda devido a algum evento, mas será revertida no próximo episódio.
+* Br/InerciaDoPlanoDoMal: Você derrotou o vilão e espera que [[Br/SemInerciaOntologica a falta de inércia ontológica]] lide com o plano, os mísseis e o império do mal... Mas espere! Tudo ainda está indo de acordo com o plano! Parece que os heróis vão ter que fazer hora extra...
+* Br/QueremosNossoIdiotaDeVolta: Um personagem idiota fica mais esperto, mas volta para os níveis originais de inteligência porque outro personagem quer que ele permaneça assim.
+* Br/QueremosNossoBabacaDeVolta: Um personagem malvado fica mais gentil mas volta ao normal porque os outros personagens ''queriam'' isso.
+* Br/OndaDeCuraGlobal: Uma força mágica que restaura dano em escala global ou universal.
+
+!!Não é exatamente um sub-tropo, mas costuma se sobrepor:
+* Br/AtrairOCachorro: Às vezes, quando a exibição de um lado mais agradável de um personagem ruim poderia mudar o status quo, os escritores fazem esse lado bom desaparecer.
+* Br/{{Corinho}}: Às vezes, quando a situação inalterada de um personagem faz com que ele seja azarado. No entanto, esse não é o único motivo pelo qual um personagem possa ser azarado.
+* Br/AbortoEspontaneoConveniente: Se o motivo da conveniência é porque o bebê mudaria o status quo. Não é um exemplo se for conveniente para os ''personagens''.
+* Br/MorrerEBarato: Quando a mortalidade pode facilmente ser [[Br/DeVoltaDosMortos revertida]]. No entanto. não acontece sempre por causa dessa regra, e pode ser causada por outros motivos.
+* Br/MorteDisney: Mortes falsas são usadas no lugar de mortes reais. Nem sempre é um sub-tropo porque este é apenas um dos muitos motivos para uma morte falsa.
+* Br/FissaoMalha: Quando perder um jogo modificaria o status quo, isso é evitado com o jogo dando sequência, mas nem sempre é esse o caso.
+* Br/UmToloESeuDinheiroLogoSeSeparam: Um personagem subitamente fica rico e o dinheiro é rapidamente gasto, perdido ou furtado, especialmente se o personagem for estabelecido como [[Br/PobrezaPerpetua sempre precisando de dinheiro]].
+* Br/CorinhoDeFerro: Um Br/{{Corinho}} é exposto a extremo abuso físico, mas [[Br/PraticamenteInvulneravel ele nunca morre nem se machuca]]. Muito comum em comédias [[Br/{{Pastelao}} pastelão]].
+* Br/BabacaComUmCoracaoDeBabaca: Quando a história sugere que um Br/{{babaca}} talvez tenha um [[Br/BabacaComUmCoracaoDeOuro lado bom]] mas na verdade [[Br/TropoSubvertido não tem]] por causa do status quo.
+* Br/QueIssoNuncaAcontecaDeNovo: Se o motivo pelo qual há esforço pra não se repetir a história é porque uma repetição mudaria o status quo. Por outro lado, isso às vezes é uma '''inversão''' de Status Quo É Deus, já que em outras ocasiões as pessoas ''tentam'' mudar o status quo ao assegurar que o conflito não se repita.
+* Br/HistoriaPraBoiDormir: O desenrolar da história não tem um retorno.
+* Br/ExpulsarOCaraNovo: Um novo personagem se junta à equipe principal mas é rapidamente removido. No entanto, isso costuma ocorrer devido à [[Br/OOdiado recepção negativa]] do personagem.
+* Br/ElesMataramOKennyDeNovo: Um sub-tropo cômico de Br/MorrerEBarato e Br/ContinuidadeNegativa. Às vezes é feito para manter o status quo mas em outras vezes é usado puramente para Br/HumorNegro.
+* Br/AdocaoMalSucedidaDeAnimal: Alguém adota um animal de estimação, mas ele foge ou precisa ir embora. Manter o status quo é um dos motivos para este tropo, mas não o único.
+* Br/ViloesAgemHeroisReagem: Se o herói é a pessoa que tem o plano para mudar o mundo, um final feliz envolveria mudança do status quo. Por isso é o vilão que deseja mudar o mundo e o herói o impede para certificar que nada precise mudar.
+* Br/PuxarACorrenteDoCachorro: Às vezes, o motivo para o sumiço da sorte de um personagem azarado é porque a permanência dessa sorte alteraria o status quo, mas não sempre.
+[[/index]]

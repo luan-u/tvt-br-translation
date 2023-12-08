@@ -1,0 +1,45 @@
+Reframing or adding to past events to serve a current plot need. Take the page image: a pre-existing space elevator is in the city, but one did not appear to exist earlier in the work despite the fact that a building reaching up into space would be plain to see in any wide shot. However the current story requires a space elevator, so it's been added and treated as if it's always been there.
+
+In its most basic form, a retcon is any plot point or detail that was not intended from the beginning, but treated as if it always had been (contrast this with TheReveal, where the author usually intended such an addition from the beginning). The most preferred use is where it contradicts nothing, even though it was changed later on. An ''ideal'' retcon clarifies a question alluded to without adding excessive new questions.
+
+While the term comes from [[ComicBookTropes comic books]], dating to ''ComicBook/AllStarSquadron'' #18 in 1983 and shortened to "retcon" by the end of the decade, the technique is much older. Often, it's used to serve a new plot by changing its context or expanding an existing setting; however, it's also done when the creators are caught writing a story that violates continuity and isn't very plausible.
+
+In Creator/MarvelComics, the person who pointed out the problem and at the same time provided a plausible explanation was awarded a [[http://web.archive.org/web/20091022001346/http://geocities.com/mh_prime/8607.html Genuine Marvel Comics No-Prize]] by editor Creator/StanLee, a tradition that was kept alive by other editors after he became publisher.
+
+See also AssPull, which is something that was not properly set up before it is sprung on the audience, and CliffhangerCopout, in which a perilous situation is retroactively changed to allow the characters to escape. It is related to DeusExMachina. Some, but [[Administrivia/TropesAreTools not all]] retcons are {{Ass Pull}}s, and a good retcon can actually improve the current narrative. A good way to get away with a retcon is to reveal new implications or motivations for events that have already been established.
+
+Smoother retcons won't be distinguishable as such, and can even make what was initially an AssPull later look like everything was JustAsPlanned. (In other words, No Prize it into plausibility and away from the dizzying realm of the AssPull.)
+
+The retcon is considered by many to occur when current events contradict the past continuity of the series and is evidence of a WriterOnBoard. Perhaps more often, the retcon does not actually violate {{canon}}, but rather violates {{fanon}}, the set of [[EpilepticTree unstated interpretations usually made by the audience]] (an interpretation violated this way is said to be {{Jossed}}). Most competent writers achieve a retcon by relying on a less-obvious but still perfectly valid interpretation of what was previously seen.
+
+As the number of twists and misdirections in a story becomes higher, it becomes more difficult to tell whether an event actually is a retcon (which implies that the writers changed their minds), or a misdirection (which implies that the writers intended the "retconned" version all along, and had been deliberately misleading the audience before). In some cases, it is impossible to tell, short of reading the author's mind (even then, it might not helped, as it's entirely possible for an author to be on the fence about what they're planning to do).
+
+A retcon may be used as part of an ArmedWithCanon campaign launched by one author against the work of another author in the same SharedUniverse. Over-use of retcons can result in ContinuitySnarl. It can also result in your readers and fans approaching the work with a certain degree of [[CommitmentAnxiety skepticism, cynicism or even complete uninterest]], especially if you tend to obviously and quickly retcon away that which turns out to be unpopular or [[StatusQuoIsGod drastically challenges or changes the status quo]] -- after all, why get involved in your latest CrisisCrossover Event which promises to change everything forever and that [[NothingIsTheSameAnymore nothing will be the same again]] if there's [[OpeningACanOfClones a good chance it'll all just be retconned away after a short period of time]]?
+
+Sometimes retcons involve little more than altering the timeline of events to occur later than originally stated. This is common in science fiction franchises that are set in the not too distant future. [[FailedFutureForecast Once that future date becomes the past in reality]], this necesitates the re-dating of the work in order to keep it set in the future. This happens with a lot of long running sci-fi series that were conceived, for example, in TheSixties and set in TheNineties or early years of the twenty first century.
+
+Some retcons occur for no purpose other than to address a [[PlotHole "goof" in the scriptwriting]] that aired before it was spotted. This often occurs in series where you will constantly have LoadsAndLoadsOfWriters and often just as many different editors and script checkers. It wasn't too crucial in the days before home video when it was likely that viewers would never see an episode again. Thus, they were just as likely to forget that two character who, back in season one, say that they've known each other since law school, now claim in season three that they literally grew up together on the same street. In trying to reconcile these two claims, it often leads to a lot of other unanswered questions that now need to be addressed without contradicting or contriving too much.
+
+This happens very easily with prequels when the writers aren't being very careful. On the other hand, Administrivia/TropesAreNotBad. It's entirely possible that an author will retcon their ''own'' work to fix a ContinuitySnarl or even apply an AuthorsSavingThrow if things get really hairy. Sometimes, if the pre-retconned works are no longer considered canon by the author, those works are [[CanonDiscontinuity discontinued]] in canon. In LongRunners, retcons are often used to fix ValuesDissonance, to address problems stemming from the various manifestations of TimeMarchesOn, or to bring previous parts of the story in line with shifts resulting from things like DoingInTheWizard. Sometimes? People actually ''like'' the Retcon better - and thus, they don't take much of an issue with it.
+
+Compare FlipFlopOfGod. Tends to come in TheReveal format. May involve OpeningACanOfClones. Can at times also qualify as a ThrowItIn. Sometimes a result of DependingOnTheWriter or DependingOnTheArtist.
+
+'''Specific variants:'''
+* BackportedDevelopment: When someone's characterization in flashbacks is tweaked to more closely resemble their current self; a retcon to address CharacterizationMarchesOn.
+* CanonDiscontinuity: Previous events are treated as if they never happened.
+* CerebusRetcon: Sometimes a result of CerebusSyndrome that makes a past event more serious as part of a shift to drama.
+* ChuckCunninghamSyndrome: A character disappeared from the narrative without explanation.
+* ContinuitySnarl: In shared universes that undergo changes in management (new generations of creative teams), contemporary writers are less inclined to slavishly adhere to internal consistency with plots, events, or visual styles that were written twenty, thirty, forty or more years ago, especially when those older stories are [[Sandbox/FloatingTimeline now outdated as they were originally presented]].
+* HeinousnessRetcon: A returning villain's crimes or personality are retconned to make them better/worse than originally established.
+* {{Retgone}}: A character InUniverse is told to not exist.
+* {{Revision}}: A continuity alteration that doesn't directly contradict any previous material.
+* {{Rewrite}}: A retcon that openly overwrites the facts of the previous continuity.
+* OrwellianRetcon: The prior events that contradict the new continuity get rewritten.
+* CosmicRetcon: An in-story event alters reality, which causes a retcon.
+** {{Retconjuration}}: An in-story ability to alter reality, which causes a retcon.
+* RememberTheNewGuy: A new character is introduced, but is retconned to have been part of the story all along.
+
+Related concepts for explaining away retcons can include the HandWave or {{Lampshad|eHanging}}ing; can also involve an UnreliableNarrator. See also an InternalRetcon, for retcons within a fictional universe, or ExternalRetcon, for retcons in real life.
+
+----
+!!Examples:

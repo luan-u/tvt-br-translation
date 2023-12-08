@@ -1,4 +1,5 @@
 
+%%
 [[quoteright:342:[[BrVideoGame/IWannaBeTheGuy https://static.tvtropes.org/pmwiki/pub/images/iwbtgscreen_1962.png]]]]
 [[caption-width-right:342:[[Br/PressioneXParaMorrer Esteja preparado para ver isso.]] '''[[Br/PontuadoParaEnfase Bas. Tan. TE!]]''']]
 
@@ -33,6 +34,8 @@ Tenha em mente, no entanto, que a dificuldade do jogo [[Br/DificuldadeSurpresa p
 Quando somente algumas (ou apenas uma) áreas do jogo são Dificuldade Nintendo, você provavelmente está lidando com Br/AquelaFase, Br/FaseBonusBrutal ou Br/ChefeSNK se for no fim. Se o jogo alcança uma dificuldade ridícula em certo ponto e não volta atrás, é um caso de Br/SaltoNaDificuldade. Exemplos de Dificuldade Nintendo em jogos de luta 1-contra-1 geralmente se encaixam em Br/OComputadorEUmCanalhaTrapaceiro, pois o oponente de IA muito difícil quase sempre é o culpado. Br/ConquisteSuaDiversao é um argumento comum para aqueles que gostam desses jogos abusivamente difíceis.
 
 Muitos jogos de arcade se encaixam na Dificuldade Nintendo para assegurar um fluxo constante de fichas para dentro da máquina.  Afinal, os donos da casa de jogos precisam ''de algum modo'' conseguir dinheiro.
+
+  
 
 A seção [[https://gamefaqs.gamespot.com/games/rankings?platform=0&genre=0&list_type=diff&view_type=0&dlc=1&min_votes=1 dos ranks de dificuldade]] do [=GameFAQs=] é uma boa medida da dificuldade de um jogo desde que tenha um número suficiente (pelo menos 50) de votos. Jogos que possuem nota acima de 4.0 na lista representam o top 3% de dificuldade. (Nota: efetivamente é uma [[Br/EscalaDeQuatroPontos escala que varia entre 2.5 até 4.0]].)
 

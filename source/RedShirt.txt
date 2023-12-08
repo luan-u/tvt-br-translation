@@ -1,0 +1,26 @@
+[[quoteright:260:[[Series/StarTrekTheOriginalSeries https://static.tvtropes.org/pmwiki/pub/images/redshirt1.jpg]]]]
+[[caption-width-right:260:A Red Shirt in his natural state.]]
+
+->'''Kirk:''' All right, men, this is a dangerous mission. And it's likely one of us will be killed. The landing party will consist of myself, Mr. Spock, Dr. [=McCoy=], and Ensign Ricky.\\
+'''Ensign Ricky:''' Aw, crap.
+-->-- ''WesternAnimation/FamilyGuy''
+
+This is the [[EvilCounterpart Good Counterpart]] of EvilMinions and {{Mooks}} -- set filler for our heroes' side. Their purpose is almost exclusively to give the writers someone to kill [[SortingAlgorithmOfMortality who isn't a main character]], although they can also serve as {{Spear Carrier}}s. In a series where TheMainCharactersDoEverything, if you suddenly see someone else who you've never seen before involved in the main story, they are probably Redshirts.
+
+They are used [[MonsterMunch to show how the monster works]], and demonstrate that it is indeed a deadly menace, without having to lose anyone ''[[PlotArmor important]]''. Expect someone to say "HesDeadJim", lament this "valued crew member's [[WhatASenselessWasteOfHumanLife senseless death]]", and then [[ForgottenFallenFriend promptly forget him]]. Security personnel in general fall victim to the worst shade of this trope, as most of the time their deaths aren't even acknowledged at all; according to Hollywood, you could walk into a bank and shoot a security guard right in the face without anyone making a fuss. If you shot anyone else afterward, the headline would just read "Bank Customers Killed", and rarely is their death even considered much of a karmic strike against their killers (i.e. if the protagonists of a story are bank robbers, they can often kill plenty of security guards in highly dubious "self-defense" and still be treated sympathetically by the plot).
+
+Please note: this Trope is actually ''very'' inaccurate [[RealityIsUnrealistic when you compare it]] to RealLife. If you were to watch ''every'' episode of ''Series/StarTrekTheOriginalSeries'', count the number of casualties that the ''Enterprise'' had, and then compare that to an actual military, you'd see that Kirk's record as a leader in this regard is ''excellent'', far better than any general in U.S. history. Even war heroes like UsefulNotes/GeorgeWashington and UsefulNotes/DwightDEisenhower had proportionately more casualties among their troops.[[note]]It has been suggested that it would be more appropriate to compare Kirk's casualty rate to units on exploratory, rather than combat, missions. It must be remembered that the Enterprise under Kirk's command participated in multiple combat missions against warships with superior weaponry (such as in the episodes [[http://memory-alpha.wikia.com/wiki/Balance_of_Terror_(episode) "Balance of Terror"]] and [[http://memory-alpha.wikia.com/wiki/The_Doomsday_Machine_(episode) "The Doomsday Machine"]] to name a few). [[/note]]
+
+In mass quantities, they make up the RedShirtArmy.
+
+Finally, the problem with the Red Shirts is that they can be far too obvious. The death of an extra is used for a particular reason (see the choices just below) so it is shown with some emphasis; but background characters surviving isn't interesting at all, so when they do, it happens almost unnoticed, e.g. Recap/StarTrekS1E8Miri.
+
+Compare to TheWorfEffect (a strong character is defeated to show the enemy's strength), SacrificialLion (a strong and important character is killed to show the enemy's strength or seriousness), TheWorldsExpertOnGettingKilled, {{Retirony}}, MauveShirt, SacrificialLamb, DisposableSexWorker, AnyoneCanDie, LittleDeadRidingHood, CListFodder (who are pre-established named characters but are still much more disposable than main characters), AMillionIsAStatistic, and MonsterMunch.
+
+Contrast PlotArmor and RedHerringShirt. See also BringMyRedJacket, which is literal "wearing red is just asking to get hurt".
+
+For Creator/JohnScalzi's novel ''Redshirts'', which deconstructs this trope, go to Literature.{{Redshirts}}, and for the sci-fi social networking simulator, go to VideoGame.{{Redshirt}}.
+
+[[noreallife]]
+----
+!!Examples:

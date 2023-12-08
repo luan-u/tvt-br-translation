@@ -1,0 +1,83 @@
+->''"Looks like everything's back the way it was! Which is the only way it should ever be..."''
+-->-- '''Marge Simpson,''' ''WesternAnimation/TheSimpsons'' [[Recap/TheSimpsonsS15E8MargeVsSSCCATAG S15 E8 Marge Versus Singles, Seniors, Childless Couples and Teens and Gays]]
+
+Within a work, particularly long-running series and franchises, almost ''nothing'' changes. If something does change, it's generally reset back to the way it was before very quickly.
+
+This usually happens in a series with no overarching conflict or plot, although it is also the final stage of ExponentialPlotDelay, the phenomenon in which the plot of a serial story has totally ground to a halt. In either case, each installment of the series will open under virtually identical circumstances to the installment that came before.
+
+Why create a static situation? The creators want the audience to be familiar with the characters and situation, without having to bother with such things as "what happened last episode".
+
+This trope is especially true for cartoons, where networks want to be free to broadcast reruns in any convenient order or lack thereof. It's also very common in sitcoms and comics, and as a result, there is a lot of AesopAmnesia created. Although characters have learned their lessons or attempted to improve their predicaments, nothing ever really changes.
+
+While this trope can be used to help avoid ContinuityLockout, it also can be very difficult to juggle an unchanging status quo without gradually turning off your audience; characters and situations which never change tend to get stale after a while, and audiences can get a bit tired of seeing the ResetButton being pushed every time it looks like something might happen to change things.
+
+Status Quo Is God can easily collide with HappilyEverAfter. Sometimes, a story simply can't have an ending that is both happy and maintains the status quo--thus, these two powerful tropes are in conflict with each other. When this conflict occurs, it's likely that the status quo will be maintained, and the ending will be less happy than it might have been if not for Status Quo Is God. For example, if a main character gains a significant other at the beginning of the episode, it is almost certain that they will break up by the end, for [[ItsNotYouItsMyEnemies one reason]] or [[MinorFlawMajorBreakup another]]. (On the other hand, if the entire ''series'' is due to end and the creators feel confident that they'll never do a sequel, they may decide to break this trope with a GrandFinale that permanently fixes everything.)
+
+Status Quo Is God is usually the justification for a YoYoPlotPoint or an AgelessBirthdayEpisode. It has nothing to do with [[Music/StatusQuo the divinity of a certain rock band]], however.
+
+NegativeContinuity is what happens when this trope is exaggerated--not only does nothing ever change, it doesn't even require an explanation InUniverse, the world just resets at the end of every episode. See also, AlternateUniverseReedRichardsIsAwesome, in which characters get a glimpse of an alternative universe where things have, in fact, changed.
+
+Related to JustEatGilligan and UnConfession. UnlikelySpare may also be used to this effect. For the opposite, in which a work changes dramatically over the course of its run, see NothingIsTheSameAnymore.
+
+[[noreallife]]
+----
+!!Sub-tropes:
+[[index]]
+* AesopAmnesia: No one learns from their mistakes or remembers any lessons.
+* AgelessBirthdayEpisode: A character has a birthday, but their age doesn't change.
+* AntiSchoolUniformsPlot: {{Sudden School Uniform}}s is made the rule for one episode before being abolished.
+* BrokenSystemDogmatist: A system is broken and corrupt beyond redemption, but this person wants to keep it in place regardless.
+* CardboardPrison: Related to JokerImmunity described below; when not even a long prison sentence will last for a criminal.
+* CartwrightCurse: Relationships that might change a character's romantic status quo don't last.
+* ComicBookTime: Time stands still in-universe, despite the long progression of time in the real world. Gets extra confusing when real years and events are mentioned.
+* ContractualImmortality: When the actor's contract is still in effect so their character's presumed death gets refused.
+* DidNotGetTheGirl: No matter what they do or how hard they try, the character will never get the girl/boy.
+* DivorceIsTemporary: When a married couple will not be separated forever.
+* DudeWheresMyRespect: No matter how many times the heroes thwart villains and save the world, bystanders will act like it's the heroes' first time, and civilians won't display any admiration for them or give them any special treatment.
+* FailureIsTheOnlyOption: If the success of the character implies a drastic alteration of the status quo of the series and/or the character itself.
+* TheGoodGuysAlwaysWin: The near-universal rule that the bad guys must always lose. [[note]]Well, ''almost'' always; there are [[TheBadGuyWins rare exceptions]].[[/note]]
+* IgnoredEpiphany: Whenever a character intentionally maintains their status quo.
+* ItsAlwaysSpring: Perpetual sunshine and blue skies, because anything else would be inconvenient.
+* JokerImmunity: When villains have the privilege of immunity from death as well.
+* KeepingTheHandicap: A disabled character decides against "fixing" the disability because it makes them what they are.
+* LikeYouWouldReallyDoIt: When the viewer can easily predict that someone won't die due to their importance to the story.
+* NegativeContinuity: Taken to its logical extreme, drastic changes happen but are quickly reverted by next time, without any explanation. Common in surrealistic works.
+* NoOntologicalInertia: For some reason, destroying the source of something (like magic) will instantly negate any changes it made.
+* PlotArmor: Main characters (usually main protagonists, but also main antagonists) are deemed too important to die.
+* ReedRichardsIsUseless: Fantastic technology is only used as a plot device, and barely affects the lives of the unnamed masses.
+* ResetButton: The status quo is reinforced by reverting any changes with a {{handwave}}.
+* ShootTheShaggyDog: The same as above but not only actively tragic but rendering any-and-all accomplishments meaningless.
+* SnapBack: Something happens to the character or the story, but it is somehow undone by the next episode without any explanation.
+* StaticCharacter: Anyone who doesn't go through character development.
+* StatusQuoGameShow: Sometimes winning a game show might affect the character's status quo, AndThatsTerrible.
+* StayingAlive: A character ''never'' stays dead.
+* StrictlyFormula: When a series rarely (if ever) deviates from a standard plot formula.
+* ThouShaltNotKill: Because the heroes refuse to permanently eliminate them.
+* TooGoodForExploiters: We're not scrapping the old system for a new one because we're too happy exploiting the old system to our benefit!
+* TrueLoveIsBoring: If the status quo of the character forces them to remain single or without a couple.
+* UnprocessedResignation: A character quits their job, but manages to get it back by the end of the episode due to the boss refusing to process the necessary paperwork.
+* UnstableEquilibrium: Competitors will always end with their same results if ContinuingIsPainful for the losers. [[note]] The winners always win, and the losers always lose [[/note]]
+* VegetarianForADay: The diet of a character changes due to an event however they'll always go back by the next episode.
+* VillainousPlanInertia: You've defeated the villain, and expect NoOntologicalInertia to take care of his plan/missiles/evil empire... But wait! Everything's still proceeding... um... according to plan! Looks like the heroes are still on the clock for a little bit longer....
+* WeWantOurIdiotBack: An idiotic character becomes smarter, but goes back to their old intelligence level because other character want them to remain that way.
+* WeWantOurJerkBack: A mean character becomes nicer but goes back to normal because the other characters ''wanted'' it.
+* WorldHealingWave: A magical force that restores damage on a global or universal scale.
+
+!!Not quite a sub-trope but often overlaps with it:
+* BaitTheDog: Sometimes, when a bad character showing its likeable side would modify the status quo, the writers would make that disappear, but not always.
+* ButtMonkey: Sometimes, when a character's unchanging status quo makes them unlucky, however, this is not the only reason for a character to be unlucky.
+* ConvenientMiscarriage: If the reason it's convenient is because the baby would change the status quo, but not an example if it's convenient to the ''characters''.
+* DeathIsCheap: When mortality can easily be [[BackFromTheDead reversed]]. This is not always because of this rule, however, and may be played for other reasons.
+* DisneyDeath: Fake deaths are used in place of real deaths. Not always a sub-trope because this is only one of many reasons for a fake death.
+* FissionMailed: When losing a game sometimes modifies the status quo, it would subvert it into the game being continued, though it's not always the case.
+* AFoolAndHisNewMoneyAreSoonParted: A character suddenly comes into wealth and it is quickly lost, spent, or stolen, especially if the character is established as [[PerpetualPoverty always hard-up for money]].
+* IronButtMonkey: A ButtMonkey is exposed to extreme physical abuse, yet [[NighInvulnerability it never dies or gets hurt at all]]. Very common in {{Slapstick}} comedies.
+* JerkWithAHeartOfJerk: When the story suggests that a {{jerkass}} might have a [[JerkWithAHeartOfGold nicer side]] but then [[SubvertedTrope doesn’t]] because of the status quo.
+* MayItNeverHappenAgain: If the reason the effort is made not to repeat the story is because repeating the story would change the status quo. On the other hand, this is sometimes an '''inversion''' of Status Quo is God, since other times, people ''try'' to change the status quo by ensuring the conflict doesn't repeat.
+* ShaggyDogStory: A story's buildup has no payoff.
+* ShooOutTheNewGuy: A new character joins the main cast but is then promptly written out. However, this is often due to the [[TheScrappy negative reception]] of the character.
+* TheyKilledKennyAgain: A comedic sub-trope of DeathIsCheap and NegativeContinuity. Sometimes done to maintain the status quo but other times it's played purely for BlackComedy.
+* UnsuccessfulPetAdoption: Someone adopts a pet, but it runs away or has to go. Maintaining the status quo is one of the reasons to play this trope, but not the only one.
+* VillainsActHeroesReact: If the hero were the one with a plan to change the world, a happy ending would involve the status quo changing. So instead, the villain is the one who wants to change the world, and the hero stops him to make sure nothing has to change.
+* YankTheDogsChain: Sometimes, the reason for an unlucky character's luck disappearing is because having it stick around would shake up the status quo, but not always.
+[[/index]]

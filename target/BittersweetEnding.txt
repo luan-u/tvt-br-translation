@@ -1,53 +1,45 @@
-%%
-%%
-%%
-%% Due to the nature of this trope, finding a proper image will be very tricky.
-%% DO NOT add an image to this page without discussing it in Image Pickin' first.
-%% IP thread for reference: https://tvtropes.org/pmwiki/posts.php?discussion=1548846470050407100
-%%
-%%
-%%
-->''"This was a happy story. But... it could still be a whole lot happier..."''
--->-- '''Kubo''', ''WesternAnimation/KuboAndTheTwoStrings''
-%%
-%% One quote is sufficient. Please place additional quotes on the quotes tab.
+->''"Esta foi uma história feliz. Mas... poderia ter sido muito mais feliz..."''
+-->-- '''Kubo''', ''BrAnimacaoOcidental/KuboEAsCordasMagicas''
 
-Vitória, enfim! The BigBad has finally been vanquished, the day has been saved, all the [[DamselInDistress damsels in distress]] and {{innocent bystander}}s have been rescued and the heroes are ready to [[StandardHeroReward reap their reward]], kiss their LoveInterests and [[RidingIntoTheSunset walk away toward the setting sun]]...
+Vitória, enfim! O Br/GrandeMal foi derrotado, o dia foi salvo, a Br/DonzelaEmPerigo foi resgatada e o herói está pronto para receber a Br/RecompensaPadraoDoHeroi, beijar o Br/InteresseAmoroso e sair Br/CavalgandoParaOPorDoSol...
 
-...victory, really? Então porque ninguém está comemorando? Porque a atmosfera está tão pesada com melancolia? Why do you [[{{Denouement}} find yourself counting your losses as well as your gains]]?
+...mas será mesmo? Se é uma vitória, por que ninguém está comemorando? Por que a atmosfera está tão pesada com melancolia? Por que você está [[Br/{{Desfecho}} contabilizando as perdas junto com os ganhos]]?
 
-Somewhere between HappilyEverAfter and a DownerEnding, the Bittersweet Ending happens when victory came at a harsh price, when, for whatever reason, the heroes cannot fully enjoy the reward of their actions, when some irrevocable loss has happened during the course of the events, and nothing will ever be the same again. A Bittersweet Ending is still ending on a high note, but one that is mixed with sadness and nostalgia. Often, such endings are the result of the plot making a completely happy ending impossible. (Looked at objectively, some {{Happy Ending}}s have more things lost or irrevocably broken than some Bittersweet Endings. This trope relies more on the mood than on such objective weighing of matters.)
+Posicionado entre o Br/FelizesParaSempre e o Br/FinalDepressivo, o Final Agridoce ocorre quando a vitória vem com um custo alto, quando (por qualquer motivo que seja) os heróis não podem aproveitar plenamente a recompensa de suas ações ou quando alguma perda irrecuperável ocorreu durante o curso dos eventos, de maneira que nada mais será como antes. Um Final Agridoce ainda é um final bom, mas é um que vem junto com tristeza e nostalgia. Geralmente esses finais resultam de uma trama que torna impossível um final completamente feliz. (Por uma perspectiva mais objetiva, alguns dos [[Br/FinalFeliz finais felizes]] tiveram mais perdas que alguns dos finais agridoces. Este tropo é baseado na atmosfera geral ao invés do ponderamento objetivo da situação.)
 
-Some specific cases of Bittersweet Endings are:
-* DidNotGetTheGirl: When the OfficialCouple is [[BreakHisHeartToSaveHim broken for the right cause]].
-* When the hero [[TheGreatestStoryNeverTold fades into obscurity]], gaining nothing in exchange for everything they sacrificed.
-* The BigBad is defeated, but they and/or TheDragon ''survives'' the FinalBattle ''without pulling a HeelFaceTurn'' and there's no telling if, or more worryingly, ''when'' they'll come back to power.
-* EndOfAnAge: When an irrevocable loss happens, which removes the innocence of the hero or the world forever.
-* Bittersweet17: An ending of childhood, but a developing of selfhood at age seventeen.
-* [[PyrrhicVictory When the victory is only achieved]] at the [[HeroicSacrifice sacrifice]] of people dear to the heroes ([[TheHeroDies if not the heroes themselves]]) — or perhaps was [[SenselessSacrifice attempted to be won at this cost]], and the heroes had to soldier on to victory without any benefit from it.
-* When OnlyTheLeadsGetAHappyEnding, and everyone else is still in a state of despair.
-* The [[VillainExitStageLeft bad guys get away now]], but their current plans have fallen through. The heroes will have to face them again, and they know it.
-* The good guys feel unsatisfied and uneasy because they feel that they [[IdiotBall put on a poor showing]] and won by accident or dumb luck or realized that they unfairly misjudged a good person[[note]]in such cases, there is no reconciliation and the "good person" in question either dies or leaves before apologies can be delivered[[/note]]. Occasionally, this is when they are the intended recipient (as opposed to the [[PatrickStewartSpeech usual deliverer]]) of AnAesop.
-* Often the case in detective dramas where the mystery ends without the detective busting anyone. Instead, [[NonProtagonistResolver the crime has to be brought to them]].
-* The good guys accomplish what they set out to do, but at the price of [[WhatTheHellHero compromising their integrity]] to win.
-* Some endings include the normally BadassPacifist hero [[IDidWhatIHadToDo lamenting to the effect that they had no choice but to use violence or take life]] in order to get the job done. Also occurs in many cases of AlasPoorVillain.
-* The protagonist or protagonists are the [[SoleSurvivor only ones left alive at the end]]. [[EverybodysDeadDave Even the likable guest or supporting characters get mercilessly killed]].
-* And occasionally, you ''will'' get a [[PlayedStraight straight up]] HappilyEverAfter, but then the story will ''keep going'', which leads to the [[EverybodyDiesEnding inevitable conclusion of all the characters dying]]. Then GhostReunionEnding occurs.
-* Stories featuring a RestrictedRescueOperation often end like this.
-* A story in which a character becomes injured, sick, or traumatized, and ends with them improving, but not fully recovered.
-* Some stories end with the protagonist(s) coping with the fact that there's a problem, rather than actually solving the problem.
+Alguns casos específicos de finais agridoces são:
+* Br/NaoConseguiuAGarota: Quando o Br/CasalOficial é [[Br/PartaOCoracaoDeleParaOSalvar separado pelo bem maior]].
+* Quando o herói [[Br/AMaiorHistoriaJamaisContada cai na obscuridade]], ganhando nada em troca de tudo que foi sacrificado.
+* O Br/GrandeMal é derrotado, mas ele e/ou Br/ODragao ''sobrevivem'' à Br/BatalhaFinal ''sem Br/PassarParaOLadoDosMocinhos'' e não há como saber se (ou pior, ''quando'') eles voltarão ao poder.
+* Br/OFimDeUmaEra: Quando uma perda irreversível acontece, que tira para sempre a inocência do mundo ou do herói´.
+* Br/Inquietos17: O final da infância, com o desenvolvimento de um senso de personalidade aos dezessete.
+* [[Br/VitoriaPirrica Quando a vitória só é conquistada]] ao custo do [[Br/SacrificioHeroico sacrifício]] de pessoas queridas aos heróis ([[Br/OHeroiMorre ou dos próprios heróis]]) -- ou talvez tenha se tentado [[Br/SacrificioSemSentido a vitória a esse custo]], e os heróis tiveram que seguir sem obter benefício real.
+* Quando Br/SoOsProtagonistasRecebemOFinalFeliz e todos os demais continuam em estado de angústia. 
+* Os [[Br/SaidaDoVilaoPelaEsquerda caras maus fogem agora]], mas os planos falharam. Os heróis terão que enfrentá-los de novo e eles sabem.
+* Os mocinhos se sentem insatisfeitos e inquietos porque sentem que podem ter [[Br/BolaDeIdiotabol tido um desempenho ruim]] e vencido por acidente ou pura sorte, ou perceberam que julgaram injustamente uma pessoa boa.[[note]]Nestes casos, não há reconciliação e a "pessoa boa" em questão morre ou vai embora antes que possam haver desculpas.[[/note]] Ocasionalmente isso acontece quando eles são os receptores pretendidos (ao invés de serem os [[Br/DiscursoDoPatrickStewart entregadores usuais]]) de Br/UmEsopo.
+* Costuma ser o caso em dramas de detetive em que o mistério termina sem que o detetive consiga indiciar alguém. Ao invés, [[Br/SolucionadorNaoProtagonista o crime precisa ser levado até ele]].
+* Os mocinhos fazem o que queriam fazer, mas ao custo de [[Br/QueMerdaEEssaHeroi comprometer a própria integridade]] para vencer.
+* Alguns finais incluem um herói que costuma ser o Br/FodaoPacifista [[Br/EuFizOQueEuPrecisavaFazer lamentando que não teve escolha a não ser usar violência ou tirar vidas]] para fazer o serviço. Também ocorre em muitos casos de Br/InfelizmentePobreVilao.
+* Os protagonistas são os [[Br/UnicoSobrevivente únicos que restam vivos no final]]. [[Br/EstaoTodosMortosDave Até mesmo o convidado adorável e personagens de apoio são mortos sem escrúpulos]].
+* E, ocasionalmente, você ''terá'' um Br/FelizesParaSempre [[Br/UsoTipico típico]], mas a história vai ''continuar avançando'', o que leva à [[Br/TodoMundoMorre inevitável conclusão com a morte de todos os personagens]]. E então acontece um Br/FinalReuniaoFantasma.
+* Histórias com uma Br/OperacaoDeResgateRestrita costumam terminar assim.
+* Uma história em que um personagem fica ferido, doente ou traumatizado, e então a história termina com eles melhorando, mas não totalmente recuperados.
+* Algumas histórias terminam com os protagonistas aceitando o problema ao invés de resolver o problema.
 
-Bittersweet Endings can fall on either end of the SlidingScaleOfIdealismVersusCynicism. They come up frequently in HighFantasy, for obvious reasons — an epic that ends with the hero triumphing over the ultimate BigBad and bringing peace and prosperity to the land, but at the same time defeating the ultimate BigBad does not always come without sacrifices, whether it be most or all of the characters dying in the end or the characters are at a loss about [[SoWhatDoWeDoNow what to do now]]. Sometimes these are worlds and stories where you can EarnYourHappyEnding, though it won't be ExactlyWhatItSaysOnTheTin.\\
-Also shows where too many romantic interests are introduced for one hero are doomed to end in this way or with NoRomanticResolution, since painless resolution is mostly impossible.
+Finais Agridoces podem se encaixar em ambas as pontas da Br/EscalaMovelDeIdealismoVersusCinismo. Eles aparecem frequentemente em histórias de Br/AltaFantasia, por motivos óbvios: um épico que termina com o herói triunfando sobre o Br/GrandeMal e trazendo paz e prosperidade para a terra, mas ao mesmo tempo a derrota do Br/GrandeMal não vem sem sacrifícios, sejam eles a maioria dos personagens (ou todos) morrendo no fim ou os personagens confusos sobre [[Br/EntaoOQueFaremosAgora o que fazer agora]]. Às vezes esses são mundos e histórias em que você pode Br/ConquistarOFinalFeliz, mas não será sempre Br/ExatamenteOQueEstaEscrito.\\
+E shows onde muitos interesses românticos são apresentados ao herói são fadados a terminar desse jeito ou Br/SemResolucaoRomantica, pois a resolução indolor costuma ser impossível.
 
-Sometimes the story's {{A|nAesop}}esop requires a bittersweet ending in order to be effective. For certain issues, this is the only way to get the point across without the effect being undermined by other tropes such as the EverybodyLaughsEnding.
+Às vezes, o [[Br/UmEsopo Esopo]] da história requer um final agridoce para ser eficaz. Para determinadas questões, esse é o único jeito de ilustrar o argumento sem que o efeito seja minado por outros tropos tais como Br/FinalTodoMundoRindo.
 
-In short, if the characters are worse off than when they started, it's a DownerEnding. If they're better off (or at least status quo is preserved), but the work still ends on a melancholy note, it's a Bittersweet Ending. Another way to think of it is that if the story's main conflict is resolved in favor of the protagonists, but at great sacrifice, it's a Bittersweet Ending. A DownerEnding requires the heroes to fail, and the conflict resolving with nothing good happening in the end, if it's even resolved at all.
+Resumidamente, se os personagens estão piores do que quando começaram, é um Br/FinalDepressivo. Se eles estão melhores (ou, pelo menos, o status quo é preservado) mas a obra termina em tom de melancolia, é um Final Agridoce. Outro jeito de interpretar é que se o conflito da história é resolvido em favor dos protagonistas, mas com grande sacrifício, então é um Final Agridoce. Um Br/FinalDepressivo requer que os heróis falhem e que o conflito seja resolvido (isso se ele for resolvido) sem que nada de bom aconteça no final.
 
-Prone to {{Meaningful Funeral}}s, {{Wartime Wedding}}s, and ToAbsentFriends, and having BabiesEverAfter and SomeoneToRememberHimBy result in DeadGuyJunior.
+Propenso a Br/FuneralSignificativo, Br/CasamentoEmTemposDeGuerra e Br/AosAmigosAusentes. A existência de Br/BebesParaSempre e Br/AlguemParaSeLembrarDele resulta em Br/CaraMortoDaSilvaFilho.
 
-Compare with PyrrhicVictory, where the day is carried, but the cost of winning is crippling to the victors.
+Comparar com Br/VitoriaPirrica, onde o dia é vencido mas o custo da vitória é muito danoso aos vitoriosos.
 
-Compare and contrast with RayOfHopeEnding, where the villain prevails but not all is lost. Also with EsotericHappyEnding, where the author clearly ''meant'' it to be joyful, beautiful, and uplifting… but the readers don't see it that way. May overlap with TearDryer if more emphasis is placed on the "sweet" part.
+Comparar e contrastar com Br/FinalRaioDeEsperanca, onde o vilão prevalece mas nem tudo está perdido. Comparar também com Br/FinalFelizEsoterico, onde a ''intenção'' do autor foi de ser alegre e belo... mas os leitores não percebem desse jeito. Pode se sobrepor a Br/SecadorDeLagrimas se mais ênfase é colocada na parte ''alegre''.
 
-Note that as an ending trope, the following entries are riddled with unmarked '''spoilers'''.
+Tenha atenção que, como um tropo de encerramento, os exemplos estão infestados de '''spoilers''' não marcados.
+----
+!!Exemplos:
+Br/ExemplosEmFalta.

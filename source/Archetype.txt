@@ -1,0 +1,9 @@
+An archetype is a universal theme, story or character which is so fundamental that, regardless of how many times it is used (or misused), it never becomes stale, dated or {{Cliche}}. This is the opposite of [[DiscreditedTrope discredited tropes]], which started out as good ideas but were used so often they became cliché. A "pure" archetype is always a partial personality, rather than a rounded character. In fiction or life, an excessively archetypal character is likely to come across as two-dimensional, if not ''one-''dimensional. (And in real life, this sort of character may be mentally ill!)
+
+For example, ''Franchise/StarWars'' was purposefully built upon {{Archetypal Character}}s, to which it owes its longevity. The entire story hinges upon TheHerosJourney, which is an archetypical story.
+* Luke Skywalker (TheHero)
+* Obi-Wan Kenobi and Yoda (MentorArchetype)
+* Han Solo (TheLancer, LovableRogue)
+
+An interesting point is that many tropes could easily be considered archetypes in and of themselves.
+----

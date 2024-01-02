@@ -1660,3 +1660,9 @@ YourApprovalFillsMeWithShame	Br/SuaAprovacaoMeEncheDeVergonha
 YourMagicsNoGoodHere	Br/SuaMagiaNaoFuncionaNestasBandas
 YoureInsane	Br/VoceELouco
 ZerothLawRebellion	Br/RebeliaoDaLeiZero
+CurseCutShort	Br/XingamentoInterrompido
+DefrostingIceQueen	Br/DegeloDaRainhaDeGelo
+LooseLips	Br/LinguaSolta
+OnOneCondition	Br/ComUmaCondicao
+SmoochOfVictory	Br/BeijoDaVitoria
+SpiritAdvisor	Br/ConselheiroEspiritual

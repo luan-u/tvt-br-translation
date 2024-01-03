@@ -1696,3 +1696,6 @@ BreakTheCutie	Br/QuebreALindinha
 BeingGoodSucks	Br/SerBomEUmaDroga
 SlidingScaleOfAntiVillains	Br/EscalaMovelDeAntiViloes
 BeingEvilSucks	Br/SerMauEUmaDroga
+BetterToDieThanBeKilled	Br/MelhorMorrerDoQuePerderAVida
+TrueArtIsAngsty	Br/AVerdadeiraArteEAngustiante
+TraumaCongaLine	Br/FilaDaCongaTraumatica

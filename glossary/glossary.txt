@@ -1724,3 +1724,8 @@ KnightInSourArmor	Br/CavaleiroEmArmaduraAzeda
 CosmicHorrorStory	Br/HistoriaDeHorrorCosmico
 DeathWorld	Br/MundoMortal
 VillainWorld	Br/MundoVilanesco
+SugarBowl	Br/TigelaDeAcucar
+AWorldHalfFull	Br/MundoMeioCheio
+AfterTheEnd	Br/DepoisDoFim
+CityNoir	Br/CidadeNoir
+Administrivia/ComplainingAboutShowsYouDontLike	BrAdministrivia/ReclamandoDeShowsQueVoceNaoGosta

@@ -1749,3 +1749,4 @@ YouWouldNotWantToLiveInDex	Br/VoceNaoVaiQuererViverNesteIndice
 WorldOfBadass	Br/MundoDeFodoes
 DespairEventHorizon	Br/HorizonteDesesperadoDeEventos
 UnspokenPlanGuarantee	Br/GarantiaDoPlanoNaoDito
+GreyAndGrayMorality	Br/MoralidadeCinzaECinza

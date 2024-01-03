@@ -195,6 +195,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>%% Caption selected per most recent IP thread.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T215658Z" creationid="Luan" creationdate="20240103T215658Z">
+        <seg>%% Legenda escolhida em:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>%% Image selected per Image Pickin' thread: https://tvtropes.org/pmwiki/posts.php?discussion=1295097781009842100
 %% Please do not change or remove without starting a new thread.</seg>
       </tuv>
@@ -213,10 +221,27 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>%% Image selected per Image Pickin' thread: https://tvtropes.org/pmwiki/posts.php?discussion=16887701830.42422300
+%% Previous thread: https://tvtropes.org/pmwiki/posts.php?discussion=1367342083057580100</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T215723Z" creationid="Luan" creationdate="20240103T215712Z">
+        <seg>%% Imagem escolhida em: https://tvtropes.org/pmwiki/posts.php?discussion=16887701830.42422300</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>%% Leave image on right, please.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T163409Z" creationid="Luan" creationdate="20231208T163409Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>%% https://tvtropes.org/pmwiki/posts.php?discussion=1404492079030138900</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T215649Z" creationid="Luan" creationdate="20240103T215649Z">
+        <seg>%% https://tvtropes.org/pmwiki/posts.php?discussion=1404492079030138900</seg>
       </tuv>
     </tu>
     <tu>
@@ -3093,6 +3118,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>-&gt;''"The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T215846Z" creationid="Luan" creationdate="20240103T215813Z">
+        <seg>-&gt;''"A coisa mais misericordiosa do mundo é, segundo penso, a incapacidade da mente humana em correlacionar tudo o que sabe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>-&gt;''"The optimist thinks this is the best of all possible worlds; the pessimist fears it is true."''
 --&gt;-- '''Creator/JamesBranchCabell''', ''The Silver Stallion'', [[BeamMeUpScotty misattributed to]] '''Robert Oppenheimer'''</seg>
       </tuv>
@@ -5855,6 +5888,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231216T172737Z" creationid="Luan" creationdate="20231216T172737Z">
         <seg>Em vários outros países, não só praticamente inexistem restrições sobre onde se pode atravessar, como também a ideia de receber uma multa por atravessar a rua errado é muito estranha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In many stories, there are some experiences that are so horribly mind-shattering that the usual result is stark raving madness.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T220403Z" creationid="Luan" creationdate="20240103T220403Z">
+        <seg>Em muitas histórias, há algumas experiências tão horríveis mentalmente que o resultado comum é a insanidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9143,6 +9184,16 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The sciences, each straining in its own direction, have hitherto harmed us little; but some day the piecing together of dissociated knowledge will open up such terrifying vistas of reality, and of our frightful position therein, that we shall either [[Main/TropeNamers go mad from the revelation]] or flee from the light into the peace and safety of a new dark age."''
+--&gt;-- The opening lines of ''Literature/TheCallOfCthulhu''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T220204Z" creationid="Luan" creationdate="20240103T220057Z">
+        <seg>As ciências, cada uma empenhando-se em seus próprios desígnios, até agora nos prejudicaram pouco; mas um dia a compreensão ampla de todo esse conhecimento dissociado revelará terríveis panoramas da realidade e do pavoroso lugar que nela ocupamos, de modo que ou [[Br/NomeadorDeTropo enlouqueceremos com a revelação]] ou então fugiremos dessa luz fatal em direção à paz e ao sossego de uma nova idade das trevas."''
+--&gt;-- Introdução de ''BrLiteratura/OChamadoDeCthulhu''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The sergeants, drawn from the lower classes and so the majority, wore black habits and served as infantrymen or servants.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T030851Z" creationid="Luan" creationdate="20231221T030851Z">
@@ -10531,6 +10582,22 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T215840Z" creationid="Luan" creationdate="20240103T215840Z">
+        <seg>Vivemos em uma plácida ilha de ignorância em meio a mares negros de infinitude, e não fomos feitos para ir longe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We're not just talking about mundane {{Shell Shock|edVeteran}} here, that'd be the trope called HeroicBSOD.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T222426Z" creationid="Luan" creationdate="20240103T222426Z">
+        <seg>Não estamos falando do estado catatônico usual aqui -- isso seria a Br/TelaAzulHeroica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Well, in theory anyway.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T153951Z" creationid="Luan" creationdate="20231210T153951Z">
@@ -10892,6 +10959,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T153229Z" creationid="Luan" creationdate="20231214T153229Z">
         <seg>Quem sabe. Talvez eles estejam certos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whoa, when did that anti-halo get there?!"]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T220304Z" creationid="Luan" creationdate="20240103T220253Z">
+        <seg>Nossa, quando essa anti-auréola apareceu?!"]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -11486,6 +11561,16 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T225310Z" creationid="Luan" creationdate="20231206T225224Z">
         <seg>[[quoteright:350:[[BrDadosUteis/RMSTitanic https://static.tvtropes.org/pmwiki/pub/images/titanic_2009.jpg]] ]]
 [[caption-width-right:350:Aposto que você já ouviu sobre essa aqui.]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[quoteright:350:[[VideoGame/DarkestDungeon https://static.tvtropes.org/pmwiki/pub/images/unsettling_passage.png]]]]
+[[caption-width-right:350:"'Look up'?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T220248Z" creationid="Luan" creationdate="20240103T220227Z">
+        <seg>[[quoteright:350:[[BrVideoGame/DarkestDungeon https://static.tvtropes.org/pmwiki/pub/images/unsettling_passage.png]]]]
+[[caption-width-right:350:"'Olhar pra cima'?</seg>
       </tuv>
     </tu>
     <tu>

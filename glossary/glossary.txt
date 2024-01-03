@@ -1739,3 +1739,8 @@ TrueCompanions	Br/CompanheirosLeais
 Film	BrFilme
 Film/VForVendetta	BrFilme/VDeVinganca
 Dystopia	Br/{{Distopia}}
+HellOnEarth	Br/InfernoNaTerra
+DarkFantasy	Br/FantasiaSombria
+FalseUtopia	Br/FalsaUtopia
+BadFuture	Br/FuturoRuim
+DeathWorld	Br/MundoDeMorte

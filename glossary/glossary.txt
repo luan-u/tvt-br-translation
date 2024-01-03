@@ -1750,3 +1750,6 @@ WorldOfBadass	Br/MundoDeFodoes
 DespairEventHorizon	Br/HorizonteDesesperadoDeEventos
 UnspokenPlanGuarantee	Br/GarantiaDoPlanoNaoDito
 GreyAndGrayMorality	Br/MoralidadeCinzaECinza
+GreenEyedMonster	Br/MonstroDeOlhosVerdes
+GoMadFromTheRevelation	Br/EnlouquecerComARevelacao
+

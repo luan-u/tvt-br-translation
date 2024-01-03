@@ -41,7 +41,7 @@ AesopAmnesia	Br/AmnesiaDeEsopo
 AgainstMyReligion	Br/ContraAMinhaReligiao
 AgentMulder	Br/AgenteMulder
 AirVentPassageway	Br/PassagemPelosDutosDeAr
-AlasPoorVillain	Br/InfelizmentePobreVilao
+AlasPoorVillain	Br/AiDeMimPobreVilao
 AlbumTitleDrop	Br/FalarONomeDoAlbum
 AlienGeometries	Br/GeometriasAlien
 AllAccordingToPlan	Br/TudoDeAcordoComOPlano
@@ -963,6 +963,7 @@ ObscuredSpecialEffects	Br/EfeitosEspeciaisEncobertos
 ObviousJudas	Br/JudasObvio
 ObviousSecondChoice	Br/SegundaEscolhaObvia
 ObviouslyEvil	Br/ObviamenteDoMal
+ObliviouslyEvil	Br/AlheiamenteDoMal
 ObviouslyEvil	Br/ObviamenteMaligno
 OccamsRazor	Br/NavalhaDeOccam
 OffWithHisHead	Br/CortemLheACabeca
@@ -1752,4 +1753,4 @@ UnspokenPlanGuarantee	Br/GarantiaDoPlanoNaoDito
 GreyAndGrayMorality	Br/MoralidadeCinzaECinza
 GreenEyedMonster	Br/MonstroDeOlhosVerdes
 GoMadFromTheRevelation	Br/EnlouquecerComARevelacao
-
+PunchClockVillain	Br/VilaoBatedorDePonto

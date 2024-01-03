@@ -1768,3 +1768,17 @@ BoredWithInsanity	Br/EntediadoComAInsanidade
 DidYouJustPunchOutCthulhu	Br/VoceAcabouDeNocautearCthulhu
 LovecraftLite	Br/LovecraftLeve
 LudicrousSpeed	Br/VelocidadeAbsurda
+BrainBleach	Br/AguaSanitariaCerebral
+BrainFever	Br/FebreCerebral
+DrivenToMadness	Br/LevadoALoucura
+AFormYouAreComfortableWith	Br/UmaFormaQueLheEConfortavel
+MadGod	Br/DeusLouco
+GodOfEvil	Br/DeusDoMal
+GreaterScopeVillain	Br/VilaoDeMaiorEscopo
+GodOfChaos	Br/DeusDoCaos
+TheOldGods	Br/OsAntigosDeuses
+ParadoxPerson	Br/PessoaParadoxo
+BizarroApocalypse	Br/ApocalipseBizarro
+BodyOfBodies	Br/CorpoDeCorpos
+FleshGolem	Br/GolemDeCarne
+GeneticAbomination	Br/AbominacaoGenetica

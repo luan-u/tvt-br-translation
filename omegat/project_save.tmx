@@ -4701,6 +4701,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Examples: ''Literature/NineteenEightyFour'', ''Literature/Fahrenheit451'', ''TabletopGame/Warhammer40000'', ''Literature/XeeleeSequence'', ''Franchise/DeadSpace'', ''Manga/{{Berserk}}'', ''VideoGame/DarkSouls'', ''VideoGame/{{Drakengard}}'', ''Franchise/{{Devilman}}'', ''VideoGame/{{LISA}}'', ''Website/SCPFoundation'', ''VideoGame/LobotomyCorporation'', the ''Franchise/CthulhuMythos'', and any non-LovecraftLite [[CosmicHorrorStory Cosmic Horror Fiction]] in general.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T195815Z" creationid="Luan" creationdate="20240103T195815Z">
+        <seg>Exemplos: ''BrLiteratura/MilNovecentosEOitentaEQuatro'', ''BrLiteratura/Fahrenheit451'', ''BrJogoDeMesa/Warhammer40000'', ''BrLiteratura/XeeleeSequence'', ''BrFranquia/DeadSpace'', ''BrManga/{{Berserk}}'',</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Examples: ''{{VideoGame/Borderlands}}'', ''VisualNovel/AceAttorney'', ''Franchise/{{Danganronpa}}'', ''Series/TheGoodPlace'', ''WesternAnimation/InvaderZim'', ''WesternAnimation/TheBoondocks'', ''WesternAnimation/EdEddNEddy'', ''WesternAnimation/TheSimpsons'', ''WesternAnimation/FamilyGuy'', ''WesternAnimation/TheVentureBrothers'', ''WesternAnimation/SouthPark'', and ''WesternAnimation/InsideJob2021''.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T185449Z" creationid="Luan" creationdate="20240103T185449Z">

@@ -414,7 +414,9 @@ DungeonMastersGirlfriend	Br/NamoradaDoMestreDaMasmorra
 DyingMomentOfAwesome	Br/MomentoIncrivelDeMorte
 DysfunctionJunction	Br/JuncaoDisfuncional
 EarnYourFun	Br/ConquisteSuaDiversao
+EarnYourFun	Br/ConquistarADiversao
 EarnYourHappyEnding	Br/ConquistarOFinalFeliz
+EarnYourHappyEnding	Br/ConquisteSeuFinalFeliz
 EasilyDetachableRobotParts	Br/PartesRoboticasQueDesencaixamFacil
 EasingIntoTheAdventure	Br/AAventuraVemDeMansinho
 EasyModeMockery	Br/ZombariaDoModoFacil
@@ -1668,4 +1670,13 @@ SmoochOfVictory	Br/BeijoDaVitoria
 SpiritAdvisor	Br/ConselheiroEspiritual
 GoodIsNotSoft	Br/SerBomNaoESerMole
 RonTheDeathEater	Br/RonOComensalDaMorte
-
+RuleOfDrama	Br/RegraDoDrama
+RuleOfEmpathy	Br/RegraDaEmpatia
+RuleOfFun	Br/RegraDaDiversao
+RuleOfRomantic	Br/RegraDoRomance
+RuleOfScary	Br/RegraDoTerror
+RuleOfSymbolism	Br/RegraDoSimbolismo
+ArtisticLicense	Br/LicencaArtistica
+Spectacle	Br/{{Espetaculo}}
+Deconstruction	Br/{{Desconstrucao}}
+AvertedTrope	Br/TropoEvitado

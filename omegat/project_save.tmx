@@ -373,6 +373,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>''TabletopGame/{{Paranoia}}'' is [[BlatantLies not an example of this in the slightest.]]
+* An ''[[StatusQuoIsGod immutable]]'' Crapsack World has agony InherentInTheSystem, both physically and metaphysically, and cannot be saved or made a better place.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T185724Z" creationid="Luan" creationdate="20240103T185515Z">
+        <seg>''BrJogoDeMesa/{{Paranoia}}'' [[Br/MentirasDescaradas definitivamente não é um exemplo]].
+* Um mundo lixoso ''[[Br/StatusQuoEDeus imutável]]''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>''Usually''.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T204612Z" creationid="Luan" creationdate="20231206T204612Z">
@@ -4685,8 +4695,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>Examples: ''Anime/NeonGenesisEvangelion'', ''Franchise/PuellaMagiMadokaMagica'', ''TabletopGame/NewWorldOfDarkness'', ''TabletopGame/OldWorldOfDarkness'', ''ComicBook/SinCity'', ''Franchise/FarCry'', ''Manga/BlackLagoon'', ''VideoGame/DiscoElysium'', ''Literature/TheDresdenFiles'', ''Franchise/ShinMegamiTensei'', ''VideoGame/NieR'', ''Franchise/DragonAge'', and ''Literature/ASongOfIceAndFire''.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T183440Z" creationid="Luan" creationdate="20240103T183440Z">
-        <seg>Exemplos: ''BrAnime/NeonGenesisEvangelion'', ''BrFranquia/PuellaMagiMadokaMagica'', ''Br/JogosDeMesa/NewWorldOfDarkness'', ''Br/JogosDeMesa/OldWorldOfDarkness'', ''BrQuadrinhos/SinCity'', ''BrFranquia/FarCry'', ''BrManga/BlackLagoon'', ''BrVideoGame/DiscoElysium'', ''BrLiteratura/TheDresdenFiles'', ''BrFranquia/ShinMegamiTensei'', ''BrVideoGame/NieR'', ''BrFranquia/DragonAge'' e ''BrLiteratura/AsCronicasDeGeloEFogo''.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T185622Z" creationid="Luan" creationdate="20240103T183440Z">
+        <seg>Exemplos: ''BrAnime/NeonGenesisEvangelion'', ''BrFranquia/PuellaMagiMadokaMagica'', ''BrJogoDeMesa/NewWorldOfDarkness'', ''BrJogoDeMesa/OldWorldOfDarkness'', ''BrQuadrinhos/SinCity'', ''BrFranquia/FarCry'', ''BrManga/BlackLagoon'', ''BrVideoGame/DiscoElysium'', ''BrLiteratura/TheDresdenFiles'', ''BrFranquia/ShinMegamiTensei'', ''BrVideoGame/NieR'', ''BrFranquia/DragonAge'' e ''BrLiteratura/AsCronicasDeGeloEFogo''.</seg>
       </tuv>
     </tu>
     <tu>

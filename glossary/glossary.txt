@@ -1736,3 +1736,6 @@ Manga	BrManga
 VideoGame	BrVideoGame
 Franchise/CthulhuMythos	BrFranquia/MitosDeCthulhu
 TrueCompanions	Br/CompanheirosLeais
+Film	BrFilme
+Film/VForVendetta	BrFilme/VDeVinganca
+Dystopia	Br/{{Distopia}}

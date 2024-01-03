@@ -1666,3 +1666,6 @@ LooseLips	Br/LinguaSolta
 OnOneCondition	Br/ComUmaCondicao
 SmoochOfVictory	Br/BeijoDaVitoria
 SpiritAdvisor	Br/ConselheiroEspiritual
+GoodIsNotSoft	Br/SerBomNaoESerMole
+RonTheDeathEater	Br/RonOComensalDaMorte
+

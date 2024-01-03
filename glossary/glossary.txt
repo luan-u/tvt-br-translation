@@ -1712,3 +1712,4 @@ WesternAnimation/InvaderZim	BrAnimacaoOcidental/InvasorZim
 WesternAnimation/EdEddNEddy	BrAnimacaoOcidental/DuDuduEEdu
 WesternAnimation/TheVentureBrothers	BrAnimacaoOcidental/OsIrmaosAventura
 WesternAnimation/InsideJob2021	BrAnimacaoOcidental/DepartamentoDeConspiracoes
+TabletopGame	BrJogoDeMesa

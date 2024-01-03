@@ -1680,3 +1680,6 @@ ArtisticLicense	Br/LicencaArtistica
 Spectacle	Br/{{Espetaculo}}
 Deconstruction	Br/{{Desconstrucao}}
 AvertedTrope	Br/TropoEvitado
+RuleOfCreepy	Br/RegraDoRepugnante
+RuleOfGlamorous	Br/RegraDaBeleza
+RuleOfSexy	Br/RegraDoSexy

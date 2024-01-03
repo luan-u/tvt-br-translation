@@ -1842,6 +1842,102 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* RuleOfCool: If it's cool enough, it doesn't have to make sense.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T171119Z" creationid="Luan" creationdate="20240103T170902Z">
+        <seg>* Br/RegraDoLegal: Se for legal o suficiente, não precisa fazer sentido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RuleOfCreepy: If it's creepy enough, it doesn't have to make sense.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T171115Z" creationid="Luan" creationdate="20240103T170933Z">
+        <seg>* Br/RegraDoRepugnante: Se for repugnante o suficiente, não precisa fazer sentido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RuleOfCute: If it's adorable enough, it doesn't have to make sense.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T171112Z" creationid="Luan" creationdate="20240103T170953Z">
+        <seg>* Br/RegraDaFofura: Se for adorável o suficiente, não precisa fazer sentido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RuleOfDrama: If the potential for conflict is visible, then it will never be passed over.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T171108Z" creationid="Luan" creationdate="20240103T171011Z">
+        <seg>* Br/RegraDoDrama: Se o potencial para conflito é visível, ele não será ignorado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RuleOfEmpathy: A character's likelihood to survive is directly proportional to how much the audience can empathize with them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T171037Z" creationid="Luan" creationdate="20240103T171037Z">
+        <seg>* Br/RegraDaEmpatia: A probabilidade de um personagem sobreviver é diretamente proporcional ao quanto o público se conecta com ele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RuleOfFun: If a game is fun enough, all else can be excused.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T171104Z" creationid="Luan" creationdate="20240103T171104Z">
+        <seg>* Br/RegraDaDiversao: Se um jogo for divertido o suficiente, o restante pode ser aceito como está;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RuleOfFunny: If it's funny enough, it doesn't have to make sense.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T171140Z" creationid="Luan" creationdate="20240103T171140Z">
+        <seg>* Br/RegraDaGraca: Se for engraçado o suficiente, não precisa fazer sentido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RuleOfGlamorous: If it's pretty enough, it doesn't have to make sense.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T171330Z" creationid="Luan" creationdate="20240103T171330Z">
+        <seg>* Br/RegraDaBeleza: Se for belo o bastante, não precisa fazer sentido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RuleOfRomantic: If it's romantic enough, it doesn't have to make sense.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T171156Z" creationid="Luan" creationdate="20240103T171156Z">
+        <seg>* Br/RegraDoRomance: Se for romântico o suficiente, não precisa fazer sentido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RuleOfScary: If it's scary enough, it doesn't have to make sense.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T171211Z" creationid="Luan" creationdate="20240103T171211Z">
+        <seg>* Br/RegraDoTerror: Se for assustador o suficiente, não precisa fazer sentido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RuleOfSexy: If it's sexy enough, it doesn't have to make sense.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T171426Z" creationid="Luan" creationdate="20240103T171426Z">
+        <seg>* Br/RegraDoSexy: Se for sensual o bastante, não precisa fazer sentido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RuleOfSymbolism: If it's symbolic, it doesn't have to make sense.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T171229Z" creationid="Luan" creationdate="20240103T171229Z">
+        <seg>* Br/RegraDoSimbolismo: Se for simbólico, não precisa fazer sentido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ScriptWank: The creator explicitly spells out a work's message because they don't trust the audience to pick up on the subtext, goes hand in hand with...
 * ShowDontTell: A common bit of writing advice which says to imply or demonstrate that something is happening rather than to just say it is.</seg>
       </tuv>
@@ -2804,6 +2900,18 @@ Br/ExemplosEmFalta.</seg>
         <seg>----
 !!Exemplos:
 Br/ExemplosEmFalta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>----
+!!Tropes:
+[[index]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T170849Z" creationid="Luan" creationdate="20240103T170849Z">
+        <seg>----
+!!Tropos:
+[[index]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -10504,6 +10612,16 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231103T210406Z" creationid="Luan" creationdate="20231103T210406Z">
         <seg>[[/index]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[/index]]
+----</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T171458Z" creationid="Luan" creationdate="20240103T171234Z">
+        <seg>[[/index]]
+----</seg>
       </tuv>
     </tu>
     <tu>

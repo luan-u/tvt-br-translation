@@ -1763,3 +1763,8 @@ PsychoSerum	Br/SoroPsicotico
 MindRape	Br/EstuproMental
 BrownNote	Br/NotaMarrom
 HigherUnderstandingThroughDrugs	Br/CompreensaoSuperiorAtravesDeDrogas
+TruthInTelevision	Br/VerdadeNaTelevisao
+BoredWithInsanity	Br/EntediadoComAInsanidade
+DidYouJustPunchOutCthulhu	Br/VoceAcabouDeNocautearCthulhu
+LovecraftLite	Br/LovecraftLeve
+LudicrousSpeed	Br/VelocidadeAbsurda

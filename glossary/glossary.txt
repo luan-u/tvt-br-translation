@@ -1699,3 +1699,4 @@ BeingEvilSucks	Br/SerMauEUmaDroga
 BetterToDieThanBeKilled	Br/MelhorMorrerDoQuePerderAVida
 TrueArtIsAngsty	Br/AVerdadeiraArteEAngustiante
 TraumaCongaLine	Br/FilaDaCongaTraumatica
+LonelyAtTheTop	Br/SozinhoNoTopo

@@ -1757,3 +1757,9 @@ PunchClockVillain	Br/VilaoBatedorDePonto
 Literature/TheCallOfCthulhu	BrLiteratura/OChamadoDeCthulhu
 FreakOut	Br/{{Surto}}
 IdentityBreakdown	Br/ColapsoDeIdentidade
+TheseAreThingsManWasNotMeantToKnow	Br/EstasSaoCoisasQueOHomemNaoDeveriaSaber
+ChemicallyInducedInsanity	Br/InsanidadeQuimicamenteInduzida
+PsychoSerum	Br/SoroPsicotico
+MindRape	Br/EstuproMental
+BrownNote	Br/NotaMarrom
+HigherUnderstandingThroughDrugs	Br/CompreensaoSuperiorAtravesDeDrogas

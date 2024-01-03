@@ -1683,3 +1683,11 @@ AvertedTrope	Br/TropoEvitado
 RuleOfCreepy	Br/RegraDoRepugnante
 RuleOfGlamorous	Br/RegraDaBeleza
 RuleOfSexy	Br/RegraDoSexy
+ComicBook/JudgeDredd	BrQuadrinhos/JuizDredd
+TheCynic	Br/OCinico
+FinaglesLaw	Br/LeiDeFinagle
+HumansAreBastards	Br/HumanosSaoCanalhas
+CynicismTropes	Br/TroposDeCinismo
+GreyAndGrayMorality	Br/MoralidadeGrisECinza
+BlackAndGrayMorality	Br/MoralidadePretaECinza
+EightDeadlyWords	Br/OitoPalavrasMortais

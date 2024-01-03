@@ -1747,3 +1747,5 @@ DeathWorld	Br/MundoDeMorte
 VillainWorld	Br/MundoDeViloes
 YouWouldNotWantToLiveInDex	Br/VoceNaoVaiQuererViverNesteIndice
 WorldOfBadass	Br/MundoDeFodoes
+DespairEventHorizon	Br/HorizonteDesesperadoDeEventos
+UnspokenPlanGuarantee	Br/GarantiaDoPlanoNaoDito

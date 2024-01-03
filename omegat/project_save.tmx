@@ -4438,6 +4438,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Compare with BrainBleach (the character is afflicted by {{squick}}y mental images), BrainFever (the character is made ill by mental stress and trauma), DrivenToMadness (when this is deliberately inflicted by someone onto the character), MyGodWhatHaveIDone (the character is wracked with remorse), and MySkullRunnethOver (the character is overwhelmed by the sheer amount of information stuffed into his brain).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T225142Z" creationid="Luan" creationdate="20240103T225142Z">
+        <seg>Comparar com Br/AguaSanitariaCerebral (o personagem é afetado por imagens horríveis), Br/FebreCerebral (o personagem fica doente por causa do estresse e trauma mentais), Br/LevadoALoucura (quando isso é deliberadamente causado no personagem por alguém) e Br/MeuDeusOQueFoiQueEuFiz (o personagem fica arrasado com remorso).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Compare with PyrrhicVictory, where the day is carried, but the cost of winning is crippling to the victors.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231212T221018Z" creationid="Luan" creationdate="20231212T221018Z">
@@ -7351,6 +7359,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Often goes hand-in-hand with the DespairEventHorizon, to the point where a number of examples on this page can be found on the other as well.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T225249Z" creationid="Luan" creationdate="20240103T225249Z">
+        <seg>Costuma andar lado a lado com o Br/HorizonteDesesperadoDeEventos, ao ponto de que vários exemplos nesta página também podem ser encontrados na outra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Often highly honorable, if they [[IGaveMyWord give their word]], they'll carry it out even if it makes things worse.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231103T204119Z" creationid="Luan" creationdate="20231103T204119Z">
@@ -7804,6 +7820,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T211514Z" creationid="Luan" creationdate="20240103T211514Z">
         <seg>Ver Br/VoceNaoVaiQuererViverNesteIndice para outros ambientes hostis e, em um tom menos negativo, o Br/MundoDeFodoes, que tem elevadas chances de ter elementos do mundo lixoso para justificar a necessidade de chutar traseiros como elemento de sobrevivência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See also AFormYouAreComfortableWith for a way to avoid this.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T225226Z" creationid="Luan" creationdate="20240103T225226Z">
+        <seg>Ver também Br/UmaFormaQueLheEConfortavel para um jeito de evitar isso.</seg>
       </tuv>
     </tu>
     <tu>

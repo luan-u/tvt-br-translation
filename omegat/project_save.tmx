@@ -711,6 +711,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* A ''[[ScrewDestiny mutable]]'' Crapsack World simply ''starts out'' as crappy, but a determined protagonist and their TrueCompanions, be they the [[KnightInShiningArmor Knight In Shining]] (or in many of these cases, [[KnightInSourArmor Sour]]) [[KnightInShiningArmor Armor]] or a simple old PI, can actually cause some, but mostly few, [[EarnYourHappyEnding positive changes in the setting]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T203758Z" creationid="Luan" creationdate="20240103T203758Z">
+        <seg>* Um mundo lixoso ''[[Br/DaneSeODestino mutável]]'' simplesmente ''começa'' como lixoso, mas um protagonista determinado e seus Br/CompanheirosLeais, sejam eles cavaleiros em armadura [[Br/CavaleiroEmArmaduraReluzente reluzente]] ou [[Br/CavaleiroEmArmaduraAzeda azeda]], conseguem causar [[Br/ConquisteSeuFinalFeliz algumas mudanças positivas]] na ambientação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* A JerkWithAHeartOfGold degenerates into a straight {{Jerkass}}.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T221332Z" creationid="Luan" creationdate="20231208T221332Z">
@@ -4703,8 +4711,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>Examples: ''Literature/NineteenEightyFour'', ''Literature/Fahrenheit451'', ''TabletopGame/Warhammer40000'', ''Literature/XeeleeSequence'', ''Franchise/DeadSpace'', ''Manga/{{Berserk}}'', ''VideoGame/DarkSouls'', ''VideoGame/{{Drakengard}}'', ''Franchise/{{Devilman}}'', ''VideoGame/{{LISA}}'', ''Website/SCPFoundation'', ''VideoGame/LobotomyCorporation'', the ''Franchise/CthulhuMythos'', and any non-LovecraftLite [[CosmicHorrorStory Cosmic Horror Fiction]] in general.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T195815Z" creationid="Luan" creationdate="20240103T195815Z">
-        <seg>Exemplos: ''BrLiteratura/MilNovecentosEOitentaEQuatro'', ''BrLiteratura/Fahrenheit451'', ''BrJogoDeMesa/Warhammer40000'', ''BrLiteratura/XeeleeSequence'', ''BrFranquia/DeadSpace'', ''BrManga/{{Berserk}}'',</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T200350Z" creationid="Luan" creationdate="20240103T195815Z">
+        <seg>Exemplos: ''BrLiteratura/MilNovecentosEOitentaEQuatro'', ''BrLiteratura/Fahrenheit451'', ''BrJogoDeMesa/Warhammer40000'', ''BrLiteratura/XeeleeSequence'', ''BrFranquia/DeadSpace'', ''BrManga/{{Berserk}}'', ''BrVideoGame/DarkSouls'', ''BrVideoGame/{{Drakengard}}'', ''BrFranquia/{{Devilman}}'', ''BrVideoGame/{{LISA}}'', ''BrOriginalDaWeb/SCPFoundation'', ''BrVideoGame/LobotomyCorporation'', ''BrFranquia/MitosDeCthulhu'' e [[Br/HistoriaDeHorrorCosmico histórias de horror cósmico]] em geral.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1693,4 +1693,6 @@ BlackAndGrayMorality	Br/MoralidadePretaECinza
 EightDeadlyWords	Br/OitoPalavrasMortais
 CruelAndUnusualDeath	Br/MorteEstranhamenteCruel
 BreakTheCutie	Br/QuebreALindinha
-BreakTheCutie	Br/QuebrarALindinha
+BeingGoodSucks	Br/SerBomEUmaDroga
+SlidingScaleOfAntiVillains	Br/EscalaMovelDeAntiViloes
+BeingEvilSucks	Br/SerMauEUmaDroga

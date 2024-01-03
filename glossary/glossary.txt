@@ -1729,3 +1729,4 @@ AWorldHalfFull	Br/MundoMeioCheio
 AfterTheEnd	Br/DepoisDoFim
 CityNoir	Br/CidadeNoir
 Administrivia/ComplainingAboutShowsYouDontLike	BrAdministrivia/ReclamandoDeShowsQueVoceNaoGosta
+TheCorruption	Br/ACorrupcao

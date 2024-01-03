@@ -1700,3 +1700,7 @@ BetterToDieThanBeKilled	Br/MelhorMorrerDoQuePerderAVida
 TrueArtIsAngsty	Br/AVerdadeiraArteEAngustiante
 TraumaCongaLine	Br/FilaDaCongaTraumatica
 LonelyAtTheTop	Br/SozinhoNoTopo
+LethallyStupid	Br/LetalmenteEstupido
+TheChewToy	Br/BrinquedoDeMorder
+CrossesTheLineTwice	Br/PassouDoPontoDuasVezes
+SatireParodyPastiche	Br/SatiraParodiaPastiche

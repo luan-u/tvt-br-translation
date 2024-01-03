@@ -1730,3 +1730,6 @@ AfterTheEnd	Br/DepoisDoFim
 CityNoir	Br/CidadeNoir
 Administrivia/ComplainingAboutShowsYouDontLike	BrAdministrivia/ReclamandoDeShowsQueVoceNaoGosta
 TheCorruption	Br/ACorrupcao
+Literature/NineteenEightyFour	BrLiteratura/MilNovecentosEOitentaEQuatro
+Literature	BrLiteratura
+Manga	BrManga

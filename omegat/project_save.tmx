@@ -4675,6 +4675,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Examples: ''Anime/NeonGenesisEvangelion'', ''Franchise/PuellaMagiMadokaMagica'', ''TabletopGame/NewWorldOfDarkness'', ''TabletopGame/OldWorldOfDarkness'', ''ComicBook/SinCity'', ''Franchise/FarCry'', ''Manga/BlackLagoon'', ''VideoGame/DiscoElysium'', ''Literature/TheDresdenFiles'', ''Franchise/ShinMegamiTensei'', ''VideoGame/NieR'', ''Franchise/DragonAge'', and ''Literature/ASongOfIceAndFire''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T183440Z" creationid="Luan" creationdate="20240103T183440Z">
+        <seg>Exemplos: ''BrAnime/NeonGenesisEvangelion'', ''BrFranquia/PuellaMagiMadokaMagica'', ''Br/JogosDeMesa/NewWorldOfDarkness'', ''Br/JogosDeMesa/OldWorldOfDarkness'', ''BrQuadrinhos/SinCity'', ''BrFranquia/FarCry'', ''BrManga/BlackLagoon'', ''BrVideoGame/DiscoElysium'', ''BrLiteratura/TheDresdenFiles'', ''BrFranquia/ShinMegamiTensei'', ''BrVideoGame/NieR'', ''BrFranquia/DragonAge'' e ''BrLiteratura/AsCronicasDeGeloEFogo''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Exceptions may be made in cases where StatusQuoIsGod,[[note]]which is why you should not add this trope to the ThisImageIsNotAnExample index[[/note]] or when a character can be said to have permanently escaped, e.g. they died peacefully in their sleep at an old age.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T153528Z" creationid="Luan" creationdate="20231220T153440Z">
@@ -4711,6 +4719,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T215717Z" creationid="Luan" creationdate="20231206T215717Z">
         <seg>Espere um momento de Br/VishFerrou quando em combinação com Br/OEnfurecido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expect characters [[BeingGoodSucks who do the right thing]] to [[NoGoodDeedGoesUnpunished suffer for it]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T182024Z" creationid="Luan" creationdate="20240103T182024Z">
+        <seg>Personagens que [[Br/SerBomEUmaDroga fazem a coisa certa]] [[Br/NenhumaBoaAcaoFicaImpune vão sofrer por isso]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expect characters who do the wrong thing to prosper... and ''[[LonelyAtTheTop then]]'' [[PyrrhicVictory suffer]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240103T182119Z" creationid="Luan" creationdate="20240103T182119Z">
+        <seg>Espere que personagens que fazem a coisa errada prosperem... e ''[[Br/SozinhoNoTopo então]]'' [[Br/VitoriaPirrica sofram]] logo após.</seg>
       </tuv>
     </tu>
     <tu>

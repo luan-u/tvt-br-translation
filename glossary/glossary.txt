@@ -1704,3 +1704,11 @@ LethallyStupid	Br/LetalmenteEstupido
 TheChewToy	Br/BrinquedoDeMorder
 CrossesTheLineTwice	Br/PassouDoPontoDuasVezes
 SatireParodyPastiche	Br/SatiraParodiaPastiche
+SadistShow	Br/ShowSadista
+CrapsaccharineWorld	Br/MundoLixosoAdocicado
+WorldOfJerkass	Br/MundoDeBabacas
+Series/TheGoodPlace	BrSerie/OBomLugar
+WesternAnimation/InvaderZim	BrAnimacaoOcidental/InvasorZim
+WesternAnimation/EdEddNEddy	BrAnimacaoOcidental/DuDuduEEdu
+WesternAnimation/TheVentureBrothers	BrAnimacaoOcidental/OsIrmaosAventura
+WesternAnimation/InsideJob2021	BrAnimacaoOcidental/DepartamentoDeConspiracoes

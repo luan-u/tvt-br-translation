@@ -1718,3 +1718,9 @@ BrokeYourArmPunchingOutCthulhu	Br/QuebrouOBracoNocauteandoCthulhu
 AllForNothing	Br/TudoPorNada
 TheDungAges	Br/IdadeDasMerdas
 YouCannotGraspTheTrueForm	Br/VoceNaoConsegueEntenderAFormaReal
+ScrewDestiny	Br/DaneSeODestino
+KnightInShiningArmor	Br/CavaleiroEmArmaduraReluzente
+KnightInSourArmor	Br/CavaleiroEmArmaduraAzeda
+CosmicHorrorStory	Br/HistoriaDeHorrorCosmico
+DeathWorld	Br/MundoMortal
+VillainWorld	Br/MundoVilanesco

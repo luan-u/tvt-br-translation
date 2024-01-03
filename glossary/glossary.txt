@@ -1744,3 +1744,6 @@ DarkFantasy	Br/FantasiaSombria
 FalseUtopia	Br/FalsaUtopia
 BadFuture	Br/FuturoRuim
 DeathWorld	Br/MundoDeMorte
+VillainWorld	Br/MundoDeViloes
+YouWouldNotWantToLiveInDex	Br/VoceNaoVaiQuererViverNesteIndice
+WorldOfBadass	Br/MundoDeFodoes

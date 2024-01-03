@@ -1733,3 +1733,6 @@ TheCorruption	Br/ACorrupcao
 Literature/NineteenEightyFour	BrLiteratura/MilNovecentosEOitentaEQuatro
 Literature	BrLiteratura
 Manga	BrManga
+VideoGame	BrVideoGame
+Franchise/CthulhuMythos	BrFranquia/MitosDeCthulhu
+TrueCompanions	Br/CompanheirosLeais

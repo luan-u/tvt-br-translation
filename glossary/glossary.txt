@@ -1755,3 +1755,5 @@ GreenEyedMonster	Br/MonstroDeOlhosVerdes
 GoMadFromTheRevelation	Br/EnlouquecerComARevelacao
 PunchClockVillain	Br/VilaoBatedorDePonto
 Literature/TheCallOfCthulhu	BrLiteratura/OChamadoDeCthulhu
+FreakOut	Br/{{Surto}}
+IdentityBreakdown	Br/ColapsoDeIdentidade

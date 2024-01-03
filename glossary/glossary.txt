@@ -1691,3 +1691,6 @@ CynicismTropes	Br/TroposDeCinismo
 GreyAndGrayMorality	Br/MoralidadeGrisECinza
 BlackAndGrayMorality	Br/MoralidadePretaECinza
 EightDeadlyWords	Br/OitoPalavrasMortais
+CruelAndUnusualDeath	Br/MorteEstranhamenteCruel
+BreakTheCutie	Br/QuebreALindinha
+BreakTheCutie	Br/QuebrarALindinha

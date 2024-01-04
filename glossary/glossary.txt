@@ -650,6 +650,7 @@ HisNameIs	Br/ONomeDeleE
 HistoricalFiction	Br/FiccaoHistorica
 HistoricalInJoke	Br/PiadaInternaHistorica
 HiveMind	Br/MenteUnificada
+HiveMind	Br/MenteColetiva
 HoYay	Br/EntaoEleE
 HolierThanThou	Br/MaisSacroQueTu
 HolierThanThou	Br/SouMaisSantoQueVoce

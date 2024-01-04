@@ -1805,3 +1805,10 @@ MamaBear	Br/MamaeUrso
 PapaWolf	Br/PapaiLobo
 UsefulNotes/NaziGermany	BrNotasUteis/AlemanhaNazista
 NoHoldsBarredBeatdown	Br/EspancamentoSemRestricoes
+ThisIsUnforgivable	Br/IssoEImperdoavel
+CookingDuel	Br/DueloDeCulinaria
+RightMakesMight	Br/EstarCertoSignificaPoder
+DefeatMeansFriendship	Br/DerrotaSignificaAmizade
+GoodOldFisticuffs	Br/BoaEVelhaBrigaDeSoco
+FreudianExcuse	Br/DesculpaFreudiana
+FreudianExcuse	Br/FreudExplica

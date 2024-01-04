@@ -2092,6 +2092,38 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* RevengeByProxy: Getting back at those who wronged you by murdering, torturing, or otherwise doing harm to someone close to them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T142412Z" creationid="Luan" creationdate="20240104T142412Z">
+        <seg>* ??? RevengeByProxy: Retaliar contra alguém que lhe causou algo matando, torturando ou ferindo uma pessoa próxima a esse alguém.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RevengeMyopia: Someone tries to take revenge for something that they and/or their peers started.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T142541Z" creationid="Luan" creationdate="20240104T142541Z">
+        <seg>* Br/MiopiaDeVinganca: Alguém tenta se vingar por algo que ele (ou alguém próximo) começou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RevengeSVP: Ruining parties and other social gatherings for not being invited to them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T142600Z" creationid="Luan" creationdate="20240104T142600Z">
+        <seg>* ??? RevengeSVP: Arruinar festas e outros encontros sociais por não ter sido convidado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RonTheDeathEater: Fans depict a character as crueler, more spiteful, and otherwise worse than they are in canon simply for not liking them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T142628Z" creationid="Luan" creationdate="20240104T142628Z">
+        <seg>* Br/RonOComensalDaMorte: Fãs retratam um personagem como mais cruel e pior do que o cânone simplesmente por não gostarem dele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* RuleOfCool: If it's cool enough, it doesn't have to make sense.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T171119Z" creationid="Luan" creationdate="20240103T170902Z">
@@ -2226,6 +2258,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T150346Z" creationid="Luan" creationdate="20231208T150346Z">
         <seg>* Br/AcordarOBoiATiros: Que nem o botão de reinício, mas não apenas ativamente trágico como também negando qualquer conquista que tenha ocorrido na história.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ShopliftAndDie: Shopkeepers killing anyone who tries to make off with their wares without paying.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T142709Z" creationid="Luan" creationdate="20240104T142709Z">
+        <seg>* ??? ShopliftAndDie: Lojistas matam qualquer um que tenta fugir com os produtos sem pagar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5154,6 +5194,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T201223Z" creationid="Luan" creationdate="20231221T201223Z">
         <seg>Espere que alguém diga "Br/EleEstaMortoJim", lamente a "[[Br/QueDesperdicioInutilDeVidaHumana morte inútil]] deste valioso membro da tripulação", e então [[Br/AmigoFalecidoEsquecido prontamente se esqueça dele]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expect the character dishing this out to [[RationalizingTheOverkill justify this no matter what anyone speaks against it.]] Expect someone (doesn't needs be the OnlySaneMan) to be DisappointedByTheMotive if the retribution is just ''that'' absurdly disproportional to the reason.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T143203Z" creationid="Luan" creationdate="20240104T143203Z">
+        <seg>Espere que o personagem fazendo isso justifique isso, não importa o que qualquer um fale em contrário. Espere que alguém (não precisa ser o Br/UnicoHomemSao) fique Br/DesapontadoPeloMotivo se a retribuição é absurdamente desproporcional ''nesse nível''.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8250,6 +8298,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231213T202355Z" creationid="Luan" creationdate="20231213T202355Z">
         <seg>Consultar também Br/CanalhaOportunista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See also PayEvilUntoEvil, which is what this trope can result from when done wrong, and for more proportionate responses, LaserGuidedKarma.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T143255Z" creationid="Luan" creationdate="20240104T143255Z">
+        <seg>Ver também Br/PagarOMalComOMal, que se executado errado resulta neste tropo, e Br/KarmaGuiadoPorLaser para respostas mais proporcionais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11627,6 +11683,16 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T024234Z" creationid="Luan" creationdate="20231216T210748Z">
         <seg>[[AC:Este tropo leva a:]]
 * Br/AmnesiaDeEsopo: O personagem aprende Br/UmEsopo mas esquece dele entre os episódios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[AC:Other:]]
+Contrast with {{Unishment}} (a punishment that isn't a punishment at all) and RestrainedRevenge (paying back a slight with retribution that is less severe than what was intended before rather than forgive the person in question).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T143005Z" creationid="Luan" creationdate="20240104T143005Z">
+        <seg>[[AC:Outros:]]
+Contrastar com ??? {{Unishment}} (uma punição que não é realmente uma punição) e Br/VingancaComedida (uma retribuição que é menos severa do que é pretendida ao invés de apenas perdoar a pessoa em questão).</seg>
       </tuv>
     </tu>
     <tu>

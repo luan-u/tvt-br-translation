@@ -1646,6 +1646,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FrivolousLawsuit: Suing people over flagrantly trivial slights.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T141343Z" creationid="Luan" creationdate="20240104T141343Z">
+        <seg>* Br/ProcessoFutil: Processar pessoas por causa de questões flagrantemente triviais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GeorgeJetsonJobSecurity: Losing your job for a trivial reason or no reason at all.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T141854Z" creationid="Luan" creationdate="20240104T141854Z">
+        <seg>* Br/EmpregoEstavelDoGeorgeJetson: Perder o emprego por um motivo trivial (ou nenhum motivo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Governmental institutions sign in laws that outright ban the use of well-liked or even defining elements of the show (if the work isn't banned outright).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T230918Z" creationid="Luan" creationdate="20231210T230606Z">
@@ -1658,6 +1674,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T213134Z" creationid="Luan" creationdate="20231210T213134Z">
         <seg>* Efeitos gráficos como [=3D=] são usados para conter a falha no desenvolvimento de personagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HairTriggerTemper: A person that gets extremely angry at ''any'' perceived slight.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T141942Z" creationid="Luan" creationdate="20240104T141942Z">
+        <seg>* Br/PavioCurto: Uma pessoa que fica extremamente furiosa por ''qualquer'' inconveniência percebida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1710,6 +1734,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* IrrationalHatred: Having it in for someone when there's no rational reason to despise them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T141608Z" creationid="Luan" creationdate="20240104T141608Z">
+        <seg>* Br/OdioIrracional: Tê-lo por alguém quando não há motivo racional para isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* It's also possible for a character to simply be a BigEater who has their love of food upped over time to the point that they will [[ExtremeOmnivore eat literally anything happily, even inorganic/inedible items]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T231349Z" creationid="Luan" creationdate="20231208T231349Z">
@@ -1754,6 +1786,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231226T151119Z" creationid="Luan" creationdate="20231226T150753Z">
         <seg>* Simplesmente fazer algo excepcionalmente assustador e mostrar tudo com toda sua iluminação e glória -- o mais difícil de se conseguir, pois isso [[Br/ProvocarODestino arrisca]] realçar até mesmo o menor dos Br/DefeitosEspeciais a menos que seja feito com maestria, e com alguma frequência isso também precisa superar a falta de atmosfera ameaçadora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* KarmicOverkill: Fans feel that a character's fate is too severe for what they did.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T142010Z" creationid="Luan" creationdate="20240104T142010Z">
+        <seg>* ??? KarmicOverkill: Os fãs sentem que o destino de um personagem é severo demais para o que eles fizeram.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1806,6 +1846,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LostFoodGrievance: Intending to inflict violence on someone because they took, destroyed or ate food you were going to eat.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T142051Z" creationid="Luan" creationdate="20240104T142051Z">
+        <seg>* Br/DorPelaComidaPerdida: A intenção de levar violência a alguém porque levaram, destruíram ou comeram a comida que você pretendia comer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LowestCommonDenominator: Trying to appeal to as many people as you can at once.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231216T211936Z" creationid="Luan" creationdate="20231216T211936Z">
@@ -1822,6 +1870,14 @@ Br/ExemplosEmFalta.</seg>
         <seg>* Luke Skywalker (Br/OHeroi)
 * Obi-Wan Kenobi e Yoda (Br/ArquetipoMentor)
 * Han Solo (Br/OLanceiro, Br/RebeldeAdoravel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MakeAnExampleOfThem: Punishing someone to deter others.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T142137Z" creationid="Luan" creationdate="20240104T142137Z">
+        <seg>* Br/FazerDelesUmExemplo: Punir alguém para deter outros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1926,6 +1982,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T013600Z" creationid="Luan" creationdate="20231218T013600Z">
         <seg>* Br/ObviamenteDoMal: A aparência e/ou ações do personagem são abertamente más porque os espectadores não saberão quem são os bonzinhos se os malvados forem muito sutis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* OffingTheAnnoyance: Murdering someone for irritating you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T142310Z" creationid="Luan" creationdate="20240104T142310Z">
+        <seg>* Br/SilenciarOIncomodo: Matar alguém por te irritar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2130,6 +2194,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T015344Z" creationid="Luan" creationdate="20231218T014658Z">
         <seg>* ??? ScriptWank: O criador explicitamente fala a mensagem de uma obra porque ele não confia que o público vai conseguir interpretar o subtexto.
 * Br/MostreNaoConte: Uma dica comum de escrita que diz para implicar ou demonstrar que algo está acontecendo ao invés de dizer que está acontecendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SeriousBusiness: Treating something more seriously than necessary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T141519Z" creationid="Luan" creationdate="20240104T141519Z">
+        <seg>* Br/CoisaSeria: Tratar algo de maneira mais séria do que o necessário.</seg>
       </tuv>
     </tu>
     <tu>

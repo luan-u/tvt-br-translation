@@ -1917,3 +1917,5 @@ SturgeonsLaw	Br/LeiDeSturgeon
 TrilogyCreep	Br/ExpansaoDaTrilogia
 SequelReset	Br/ReinicioDeSequencia
 TwoPartTrilogy	Br/TrilogiaDeDuasPartes
+GrandFinale	Br/GranFinale
+LeftHanging	Br/FicarPendurado

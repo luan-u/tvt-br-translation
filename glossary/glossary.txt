@@ -1855,3 +1855,9 @@ MoralEventHorizon	Br/HorizonteMoralDeEventos
 FullCircleRevolution	Br/RevolucaoEmCircuitoFechado
 VillainHasAPoint	Br/OVilaoTemRazao
 PoorCommunicationKills	Br/ComunicacaoRuimMata
+UnwantedRescue	Br/ResgateIndesejado
+ItsAllMyFault	Br/ETudoMinhaCulpa
+YouAlreadyChangedThePast	Br/VoceJaMudouOPassado
+NiceJobBreakingItHerod	Br/BomTrabalhoEstragandoTudoHerodes
+NeverBeAHero	Br/NuncaSejaUmHeroi
+StupidityIsTheOnlyOption	Br/EstupidezEAUnicaOpcao

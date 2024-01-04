@@ -66,6 +66,7 @@ AmoralAttorney	Br/AdvogadoAmoral
 AnAesop	Br/UmEsopo
 AnIndexOfLadiesAndGentlemen	Br/UmIndiceDeDamasECavalheiros
 AnachronismStew	Br/SopaDeAnacronismo
+AnachronismStew	Br/MisturebaAnacronica
 AncientAstronauts	Br/AntigosAstronautas
 AncientConspiracy	Br/AntigaConspiracao
 AncientConspiracy	Br/ConspiracaoAntiga
@@ -722,7 +723,7 @@ InternalHomage	Br/HomenagemInterna
 InternalRetcon	Br/RetconInterno
 InvincibleHero	Br/HeroiInvencivel
 InvisibilityFlicker	Br/InvisibilidadeTremula
-IronButtMonkey	Br/CorinhoDeFerro
+IronButtMonkey	Br/CorinhoCalejado
 IronicEcho	Br/EcoIronico
 IronicEchoCut	Br/CorteDeEcoIronico
 Irony	Br/{{Ironia}}
@@ -1793,3 +1794,10 @@ AdorableEvilMinions	Br/AdoraveisLacaiosDoMal
 TheJoysOfTorturingMooks	Br/AsAlegriasDeTorturarCapangas
 MookMobile	Br/{{Capangamovel}}
 WhatMeasureIsAMook	Br/QuantoValeUmCapanga
+ColonelKilgore	Br/CoronelKilgore
+KickingAssInAllHerFinery	Br/ChutandoBundasEmTodaSuaFinesse
+Fiction500	Br/ForbesFiccional
+TheUtterlyAndCompletelyDefinitiveGuideToCool	BrApenasPorLazer/OGuiaTotalmenteCompletoEDefinitivoDoQueELegal
+KatanasAreJustBetter	Br/KatanasSimplesmenteSaoMelhores
+FauxSymbolism	Br/PseudoSimbolismo
+PlotPoweredStamina	Br/VigorBaseadoEmTrama

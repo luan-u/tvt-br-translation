@@ -1919,3 +1919,4 @@ SequelReset	Br/ReinicioDeSequencia
 TwoPartTrilogy	Br/TrilogiaDeDuasPartes
 GrandFinale	Br/GranFinale
 LeftHanging	Br/FicarPendurado
+SuddenSequelDeathSyndrome	Br/SindromeDeMorteSubitaNaSequencia

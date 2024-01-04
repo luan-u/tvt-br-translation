@@ -1801,3 +1801,7 @@ TheUtterlyAndCompletelyDefinitiveGuideToCool	BrApenasPorLazer/OGuiaTotalmenteCom
 KatanasAreJustBetter	Br/KatanasSimplesmenteSaoMelhores
 FauxSymbolism	Br/PseudoSimbolismo
 PlotPoweredStamina	Br/VigorBaseadoEmTrama
+MamaBear	Br/MamaeUrso
+PapaWolf	Br/PapaiLobo
+UsefulNotes/NaziGermany	BrNotasUteis/AlemanhaNazista
+NoHoldsBarredBeatdown	Br/EspancamentoSemRestricoes

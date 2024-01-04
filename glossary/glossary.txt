@@ -1834,3 +1834,5 @@ IrrationalHatred	Br/OdioIrracional
 GeorgeJetsonJobSecurity	Br/EmpregoEstavelDoGeorgeJetson
 MakeAnExampleOfThem	Br/FazerDelesUmExemplo
 OffingTheAnnoyance	Br/SilenciarOIncomodo
+RevengeMyopia	Br/MiopiaDeVinganca
+DisappointedByTheMotive	Br/DesapontadoPeloMotivo

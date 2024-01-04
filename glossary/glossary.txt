@@ -1812,3 +1812,10 @@ DefeatMeansFriendship	Br/DerrotaSignificaAmizade
 GoodOldFisticuffs	Br/BoaEVelhaBrigaDeSoco
 FreudianExcuse	Br/DesculpaFreudiana
 FreudianExcuse	Br/FreudExplica
+UngratefulBastard	Br/CanalhaIngrato
+EpiphanyTherapy	Br/TerapiaDaEpifania
+PsychoSupporter	Br/ApoiadorPsicotico
+KilledToUpholdTheMasquerade	Br/MortoParaManterOMascaramento
+HeKnowsTooMuch	Br/EleSabeDemais
+Masquerade	Br/{{Mascaramento}}
+Revenge	Br/{{Vinganca}}

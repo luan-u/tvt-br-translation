@@ -1915,3 +1915,5 @@ Film/TheSantaClause	BrFilme/MeuPapaiENoel
 Film/TheLostWorldJurassicPark	BrFilme/OMundoPerdidoJurassicPark
 SturgeonsLaw	Br/LeiDeSturgeon
 TrilogyCreep	Br/ExpansaoDaTrilogia
+SequelReset	Br/ReinicioDeSequencia
+TwoPartTrilogy	Br/TrilogiaDeDuasPartes

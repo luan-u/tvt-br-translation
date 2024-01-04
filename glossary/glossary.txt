@@ -1332,6 +1332,7 @@ TechnologyMarchesOn	Br/AMarchaDaTecnologia
 TemporarilyExaggeratedTrait	Br/AspectoTemporariamenteExagerado
 TemptingFate	Br/DesafiarODestino
 TemptingFate	Br/ProvocarODestino
+TemptingFate	Br/ProvocandoODestino
 TerribleTrio	Br/TrioTerrivel
 ThanatosGambit	Br/GambitoDeThanatos
 ThatCameOutWrong	Br/IssoSaiuErrado
@@ -1842,3 +1843,6 @@ RunningTheAsylum	Br/AdministrandoOAsilo
 BiasSteamroller	Br/RoloCompressorDeVies
 DaydreamBeliever	Br/CrenteLunatico
 DaydreamBeliever	Br/CrenteDevaneiante
+SarcasmMode	Br/ModoSarcastico
+YourPrincessIsInAnotherCastle	Br/SuaPrincesaEstaEmOutroCastelo
+SealedEvilInACan	Br/MalSeladoEmUmaGarrafa

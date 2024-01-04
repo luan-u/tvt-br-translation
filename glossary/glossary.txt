@@ -673,8 +673,7 @@ Hypochondria	Br/{{Hipocondria}}
 HypocriteHasAPoint	Br/OHipocritaTemRazao
 IAteWhat	Br/EuComiOQue
 ICantBelieveItsNotHeroin	Br/EuNaoAcreditoQueNaoEHeroina
-IDidWhatIHadToDo	Br/EuFizOQueEuPrecisavaFazer	Esta forma é preferida.
-IDidWhatIHadToDo	Br/EuFizOQueEuTinhaQueFazer
+IDidWhatIHadToDo	Br/EuFizOQueEuPrecisavaFazer
 IDieFree	Br/MorrereiLivre
 IGaveMyWord	Br/EuDeiMinhaPalavra
 IJustWantToBeSpecial	Br/EuSoQueriaSerEspecial
@@ -1854,3 +1853,5 @@ EvilPowerVacuum	Br/VacuoDePoderMaligno
 GodzillaThreshold	Br/LimiarDeGodzilla
 MoralEventHorizon	Br/HorizonteMoralDeEventos
 FullCircleRevolution	Br/RevolucaoEmCircuitoFechado
+VillainHasAPoint	Br/OVilaoTemRazao
+PoorCommunicationKills	Br/ComunicacaoRuimMata

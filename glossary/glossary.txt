@@ -1861,3 +1861,9 @@ YouAlreadyChangedThePast	Br/VoceJaMudouOPassado
 NiceJobBreakingItHerod	Br/BomTrabalhoEstragandoTudoHerodes
 NeverBeAHero	Br/NuncaSejaUmHeroi
 StupidityIsTheOnlyOption	Br/EstupidezEAUnicaOpcao
+PyrrhicVictory	Br/VitoriaDePirro
+PlayerCharacter	Br/PersonagemDoJogador
+SmallStepsHero	Br/HeroiDePassosPequenos
+CreateYourOwnVillain	Br/CriarOSeuProprioVilao
+TwoRightsMakeAWrong	Br/DoisAcertosCausamUmErro
+NiceJobFixingItVillain	Br/BomTrabalhoConsertandoTudoVilao

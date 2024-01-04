@@ -1829,3 +1829,8 @@ BerserkButton	Br/BotaoDaFuria
 CycleOfRevenge	Br/CicloDeVinganca
 FeudingFamilies	Br/FamiliasRivais
 EvilIsPetty	Br/OMalEMesquinho
+FrivolousLawsuit	Br/ProcessoFutil
+IrrationalHatred	Br/OdioIrracional
+GeorgeJetsonJobSecurity	Br/EmpregoEstavelDoGeorgeJetson
+MakeAnExampleOfThem	Br/FazerDelesUmExemplo
+OffingTheAnnoyance	Br/SilenciarOIncomodo

@@ -1819,3 +1819,13 @@ KilledToUpholdTheMasquerade	Br/MortoParaManterOMascaramento
 HeKnowsTooMuch	Br/EleSabeDemais
 Masquerade	Br/{{Mascaramento}}
 Revenge	Br/{{Vinganca}}
+CruelMercy	Br/MisericordiaCruel
+RestrainedRevenge	Br/VingancaComedida
+DisproportionateRestitution	Br/RestituicaoDesproporcional
+DisproportionateReward	Br/RecompensaDesproporcional
+LawOfDisproportionateResponse	Br/LeiDaRespostaDesproporcional
+MisplacedRetribution	Br/RetribuicaoMalDirecionada
+BerserkButton	Br/BotaoDaFuria
+CycleOfRevenge	Br/CicloDeVinganca
+FeudingFamilies	Br/FamiliasRivais
+EvilIsPetty	Br/OMalEMesquinho

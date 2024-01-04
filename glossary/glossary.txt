@@ -64,6 +64,7 @@ Americanization	Br/{{Americanizacao}}
 AmmunitionConservation	Br/ConservacaoDeMunicao
 AmoralAttorney	Br/AdvogadoAmoral
 AnAesop	Br/UmEsopo
+AnIndexOfLadiesAndGentlemen	Br/UmIndiceDeSenhorasESenhores
 AnIndexOfLadiesAndGentlemen	Br/UmIndiceDeDamasECavalheiros
 AnachronismStew	Br/SopaDeAnacronismo
 AnachronismStew	Br/MisturebaAnacronica
@@ -1836,3 +1837,8 @@ MakeAnExampleOfThem	Br/FazerDelesUmExemplo
 OffingTheAnnoyance	Br/SilenciarOIncomodo
 RevengeMyopia	Br/MiopiaDeVinganca
 DisappointedByTheMotive	Br/DesapontadoPeloMotivo
+NoNameGiven	Br/SemNomeDado
+RunningTheAsylum	Br/AdministrandoOAsilo
+BiasSteamroller	Br/RoloCompressorDeVies
+DaydreamBeliever	Br/CrenteLunatico
+DaydreamBeliever	Br/CrenteDevaneiante

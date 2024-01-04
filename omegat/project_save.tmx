@@ -3341,8 +3341,8 @@ Br/ExemplosEmFalta.</seg>
         <seg>-&gt;''"Revenge is a dish best served with an extra helping."''
 --&gt;-- '''[[ColonelKilgore Captain Young]]''', ''Webcomic/TroopsOfDoom''</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T133251Z" creationid="Luan" creationdate="20240104T133211Z">
-        <seg>-&gt;''"A vingança é um prato melhor servido com uma porção extra."''
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T143403Z" creationid="Luan" creationdate="20240104T133211Z">
+        <seg>-&gt;''"A vingança é um prato que se serve com uma porção extra."''
 --&gt;-- '''[[Br/CoronelKilgore Capitão Young]]''', ''BrQuadrinhosWeb/TroopsOfDoom''</seg>
       </tuv>
     </tu>
@@ -11693,6 +11693,14 @@ Contrast with {{Unishment}} (a punishment that isn't a punishment at all) and Re
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T143005Z" creationid="Luan" creationdate="20240104T143005Z">
         <seg>[[AC:Outros:]]
 Contrastar com ??? {{Unishment}} (uma punição que não é realmente uma punição) e Br/VingancaComedida (uma retribuição que é menos severa do que é pretendida ao invés de apenas perdoar a pessoa em questão).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[Administrivia/NoRealLifeExamplesPlease Any real life examples]], [[SelfDemonstratingArticle and we'll put your fingers through a meat grinder.]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T143331Z" creationid="Luan" creationdate="20240104T143331Z">
+        <seg>[[BrAdministrivia/SemExemplosDaVidaRealPorFavor Se você colocar exemplos da vida real aqui]], [[Br/ArtigoAutoDemonstrativo vamos colocar os seus dedos em um moedor de carne]].</seg>
       </tuv>
     </tu>
     <tu>

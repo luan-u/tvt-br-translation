@@ -140,6 +140,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>!!Trope relations:
+[[AC:A SisterTrope to:]]
+* DisproportionateRestitution: A means of apology doesn't come close to making up for what the person has done.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140551Z" creationid="Luan" creationdate="20240104T140551Z">
+        <seg>!!Tropos relacionados:
+[[AC:Um Br/TropoIrmao para:]]
+* Br/RestituicaoDesproporcional: Uma tentativa de desculpa não chega nem perto de compensar o que a pessoa fez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>"DroppedABridgeOnHim, But On A Thursday", is an example.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231102T184305Z" creationid="Luan" creationdate="20231102T184117Z">
@@ -1410,6 +1422,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ComedicSociopathy: If the retribution is PlayedForLaughs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140943Z" creationid="Luan" creationdate="20240104T140943Z">
+        <seg>* Br/SociopatiaComica: Se o retorno a isto é Br/UsadoParaHumor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ComicBookTime: Time stands still in-universe, despite the long progression of time in the real world.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T143842Z" creationid="Luan" creationdate="20231208T143842Z">
@@ -1466,6 +1486,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* CycleOfRevenge: Where two parties endlessly invoke Disproportionate Retribution toward each other.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T141019Z" creationid="Luan" creationdate="20240104T141019Z">
+        <seg>* Br/CicloDeVinganca: Quando duas partes invocam a Retribuição Desproporcional entre si de maneira incessante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Cynical appeals to TrueArt reactions (i.e., Show X had little effort put into it, but instead was made to superficially appear artsy in hopes that moronic viewers would watch it not for enjoyment, but rather to feel smart).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T015752Z" creationid="Luan" creationdate="20231218T015752Z">
@@ -1498,10 +1526,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* DieForOurShip: Fans bash characters solely for interfering with their preferred shipping.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T141154Z" creationid="Luan" creationdate="20240104T141154Z">
+        <seg>* ??? DieForOurShip: Os fãs atacam personagens simplesmente por interferirem com o casal predileot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* DisneyDeath: Fake deaths are used in place of real deaths.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T154128Z" creationid="Luan" creationdate="20231208T154128Z">
         <seg>* Br/MorteDisney: Mortes falsas são usadas no lugar de mortes reais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DisproportionateReward: A minor or major act of kindness is reacted to in this way.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140619Z" creationid="Luan" creationdate="20240104T140619Z">
+        <seg>* Br/RecompensaDesproporcional: Um ato de bondade, pequeno ou grande, recebe esta reação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1538,10 +1582,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* EasyRoadToHell: Doing just one bad deed is heinous enough to condemn you to Hell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T141216Z" creationid="Luan" creationdate="20240104T141216Z">
+        <seg>* Br/ViaExpressaParaOInferno: Cometer uma única ação ruim é hediondo o bastante para te condenar ao inferno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* EndOfAnAge: When an irrevocable loss happens, which removes the innocence of the hero or the world forever.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231212T011040Z" creationid="Luan" creationdate="20231212T011040Z">
         <seg>* Br/OFimDeUmaEra: Quando uma perda irreversível acontece, que tira para sempre a inocência do mundo ou do herói´.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* EvilIsPetty: Villains doing assholish and cruel things just because they can.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T141250Z" creationid="Luan" creationdate="20240104T141250Z">
+        <seg>* Br/OMalEMesquinho: Vilões fazem coisas mesquinhas e cruéis apenas porque podem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1558,6 +1618,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T004050Z" creationid="Luan" creationdate="20231218T004050Z">
         <seg>* Br/ExatidaoFalsamenteAnunciada: Dizer que fez a pesquisa, provar que ''na verdade'' você não fez e supôr que o público será ignorante demais para perceber.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FelonyMisdemeanor: Treating a relatively harmless misdeed as if it were a serious crime.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140640Z" creationid="Luan" creationdate="20240104T140640Z">
+        <seg>* Br/CrimeDeMauComportamento: tratar uma ação relativamente inócua como um crime sério.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1714,6 +1782,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LawOfDisproportionateResponse: Reacting to serious matters like they aren't that important and vice versa.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140730Z" creationid="Luan" creationdate="20240104T140730Z">
+        <seg>* Br/LeiDaRespostaDesproporcional: Reagir a questões sérias como se não fossem importantes, e vice-versa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LikeYouWouldReallyDoIt: When the viewer can easily predict that someone won't die due to their importance to the story.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T145519Z" creationid="Luan" creationdate="20231208T145519Z">
@@ -1762,6 +1838,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T155722Z" creationid="Luan" creationdate="20231208T155722Z">
         <seg>* Br/QueIssoNuncaAcontecaDeNovo: Se o motivo pelo qual há esforço pra não se repetir a história é porque uma repetição mudaria o status quo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MisplacedRetribution: The punishment is inflicted on the wrong people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140755Z" creationid="Luan" creationdate="20240104T140755Z">
+        <seg>* Br/RetribuicaoMalDirecionada: A punição é causada nas pessoas erradas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2482,6 +2566,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ThereIsNoKillLikeOverkill: The avenger won't let up even after the victim has stopped breathing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140825Z" creationid="Luan" creationdate="20240104T140825Z">
+        <seg>* ??? ThereIsNoKillLikeOverkill: A pessoa que se vinga persiste mesmo depois que a vítima parou de respirar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* They are charismatic, often [[TheCharmer charming]], their personality is like a physical force.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231103T141632Z" creationid="Luan" creationdate="20231103T141632Z">
@@ -2919,6 +3011,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T222000Z" creationid="Luan" creationdate="20231101T222000Z">
         <seg>** Pior ainda, sem ''continues'' extras quando você chega na reta final.[[note]]Nos BrNotasUteis/JogosDeArcade, onde isso era visto, a ideia era impedir o uso de fichas em excesso, uma prática que era considerada pouco profissional (ao invés de memorizar os níveis e os chefes).[[/note]]
 * Sem meio para ajustar os Br/NiveisDeDificuldade, ou então o ajuste é superficial. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** FeudingFamilies: Two families ''loathe'' one another to the point of being openly at war with each other.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T141123Z" creationid="Luan" creationdate="20240104T141123Z">
+        <seg>** Br/FamiliasRivais: Duas famílias ''se desprezam'' a ponto de abertamente guerrearem entre si.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3384,6 +3484,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T152036Z" creationid="Luan" creationdate="20231214T152036Z">
         <seg>Uma reclamação comum de pessoas que fazem cursos como o de Cinema é que eles nunca mais olham para um programa de TV, anúncio ou filme como costumava ser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A common habit for LawfulStupid characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140305Z" creationid="Luan" creationdate="20240104T140305Z">
+        <seg>É um hábito comum para personagens do tipo Br/LealEEstupido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6270,6 +6378,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Intriguingly, while disproportionate can possibly mean [[RestrainedRevenge underdoing it]], you'll almost never see that happen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140449Z" creationid="Luan" creationdate="20240104T140449Z">
+        <seg>Interessantemente, apesar de "desproporcional" também significar que [[Br/VingancaComedida é feito em pouca intensidade]], você quase nunca vai ver isso acontecer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Invoking actual goodness and decency will have no effect, besides making Knights Templar hate you and [[{{Demonization}} demonize]] your cause as the work of [[{{Satan}} The Devil]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T171113Z" creationid="Luan" creationdate="20231220T171036Z">
@@ -6955,6 +7071,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T184122Z" creationid="Luan" creationdate="20240103T184122Z">
         <seg>Pode ser um Br/MundoLixosoAdocicado, um Br/MundoDeBabacas ou um Br/MundoMaluco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>May be used as part of CruelMercy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140247Z" creationid="Luan" creationdate="20240104T140247Z">
+        <seg>Pode ser usado como parte da Br/MisericordiaCruel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11411,6 +11535,16 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T150958Z" creationid="Luan" creationdate="20231221T150958Z">
         <seg>[[/note]] Isto, junto com a associação ao Templo de Salomão e um grande depósito de riquezas deu impulso para incontáveis teorias de Br/ConspiracaoAntiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[AC:Compare:]]
+* BerserkButton: An insignificant slight causes a person to become extremely pissed off.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140914Z" creationid="Luan" creationdate="20240104T140914Z">
+        <seg>[[AC:Comparar:]]
+* Br/BotaoDaFuria: Um evento insignificante faz alguém ficar extremamente irritado.</seg>
       </tuv>
     </tu>
     <tu>

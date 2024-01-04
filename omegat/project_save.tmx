@@ -238,6 +238,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>%% Only one quote is allowed on the main page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T133311Z" creationid="Luan" creationdate="20240104T133311Z">
+        <seg>%% Apenas uma citação é permitida na página principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>%% This quote was chosen in a TRS-thread https://tvtropes.org/pmwiki/posts.php?discussion=1326228136099502600</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T133334Z" creationid="Luan" creationdate="20240104T133325Z">
+        <seg>%% Esta citação foi escolhida aqui: https://tvtropes.org/pmwiki/posts.php?discussion=1326228136099502600</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>%% https://tvtropes.org/pmwiki/posts.php?discussion=1404492079030138900</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T215649Z" creationid="Luan" creationdate="20240103T215649Z">
@@ -3110,6 +3126,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>-&gt;''"Revenge is a dish best served with an extra helping."''
+--&gt;-- '''[[ColonelKilgore Captain Young]]''', ''Webcomic/TroopsOfDoom''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T133251Z" creationid="Luan" creationdate="20240104T133211Z">
+        <seg>-&gt;''"A vingança é um prato melhor servido com uma porção extra."''
+--&gt;-- '''[[Br/CoronelKilgore Capitão Young]]''', ''BrQuadrinhosWeb/TroopsOfDoom''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>-&gt;''"That was necessary.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231226T020514Z" creationid="Luan" creationdate="20231226T020514Z">
@@ -3560,6 +3586,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T150504Z" creationid="Luan" creationdate="20231221T150504Z">
         <seg>Todos esses pontos foram usados contra eles durante o julgamento feito por Filipe IV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All other quotes go to the quotes page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T133318Z" creationid="Luan" creationdate="20240104T133318Z">
+        <seg>Todas as outras vão para a página de citações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5714,6 +5748,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you have tried an eye for an eye and it really didn't do anything except help sell eyepatches, the only way to stay alive is to be drastic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T133932Z" creationid="Luan" creationdate="20240104T133932Z">
+        <seg>Se você já tentou a regra do olho por olho e isso não mudou muita coisa, exceto por um aumento na venda de tapa-olhos, o único jeito de permanecer vivo é ser drástico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you shot anyone else afterward, the headline would just read "Bank Customers Killed", and rarely is their death even considered much of a karmic strike against their killers (i.e. if the protagonists of a story are bank robbers, they can often kill plenty of security guards in highly dubious "self-defense" and still be treated sympathetically by the plot).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T201641Z" creationid="Luan" creationdate="20231221T201641Z">
@@ -6008,6 +6050,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T023032Z" creationid="Luan" creationdate="20231218T023032Z">
         <seg>Em algumas residências, a TV simplesmente fica ligada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In some situations, it makes sense to let the opponent know that if they so much as sneeze on [[MamaBear someone]] [[PapaWolf you]] {{protect|orate}}, it will cost them a limb.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T133505Z" creationid="Luan" creationdate="20240104T133505Z">
+        <seg>Em algumas situações, faz sentido deixar o oponente ciente de que se fizer algo tão pequeno quanto espirrar em [[Br/MamaeUrso alguém]] [[Br/PapaiLobo que você]] protege, isso custará a eles um braço.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7623,6 +7673,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pay back any offense tenfold, or even a hundredfold if necessary, until the survivors learn to stay away and/or do everything in their power to keep you in a good mood.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T134040Z" creationid="Luan" creationdate="20240104T134040Z">
+        <seg>Retribua qualquer ofensa em intensidade dez vezes maior, ou até cem vezes se for necessário, até que os sobreviventes aprendam a ficar longe e/ou fazer tudo ao alcance para lhe manter bem-humorado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>People actually ''like'' the Retcon better - and thus, they don't take much of an issue with it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T200329Z" creationid="Luan" creationdate="20231215T200329Z">
@@ -8560,6 +8618,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T151211Z" creationid="Luan" creationdate="20231221T151211Z">
         <seg>O fato de muitos dos membros da Ordem na França terem sido presos, torturados até confessarem e então queimados na fogueira em uma sexta-feira 13 (de outubro de 1307, mais precisamente) costuma ser erroneamente citado como a origem da crença de que o Br/TrezeSignificaAzar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That said, the "Justice" these rivals have in mind is more akin to a brutal beatdown... well, most of the time it ''is'' an actual brutal NoHoldsBarredBeatdown, supposed to culminate in the receiver's humiliation or death.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T134420Z" creationid="Luan" creationdate="20240104T134420Z">
+        <seg>Dito isso, a "justiça" que esses rivais têm em mente é mais como um espancamento brutal... e, de fato, na maior parte das vezes ''é realmente'' um Br/EspancamentoSemRestricoes que vai culminar na humilhação completa ou morte de quem o recebe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11453,6 +11519,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T233626Z" creationid="Luan" creationdate="20231210T170107Z">
         <seg>[[Br/NomeadorDeTropo A expressão vem de]] um episódio da série de TV ''BrSerie/DiasFelizes'', onde Fonzie, vestindo sua característica jaqueta de couro, literalmente salta sobre um tubarão enquanto em um esqui aquático -- uma mudança busca na abordagem prévia do show, focada na Br/VidaCotidiana americana nos anos 1950. Olhando para trás, aquele foi o momento em que Fonzie passou a receber mais foco, sofrendo Br/{{Flanderizacao}} e se transformando em um super humano impossivelmente estiloso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[TruthInTelevision It's a common tactic of militaries the world over]], with some regimes (such as UsefulNotes/NaziGermany) being ''infamous'' for it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T134138Z" creationid="Luan" creationdate="20240104T134138Z">
+        <seg>[[Br/VerdadeNaTelevisao Essa é uma tática comum de forças militares através do mundo]], com alguns regimes (tais como a BrNotasUteis/AlemanhaNazista) se tornando ''infames'' por isso.</seg>
       </tuv>
     </tu>
     <tu>

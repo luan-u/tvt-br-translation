@@ -1911,3 +1911,7 @@ LeakingCanOfEvil	Br/GarrafaDoMalVazando
 EvilRedeemedInACan	Br/OMalRedimidoEmUmaGarrafa
 PutOnAPrisonBus	Br/PostoEmUmOnibusPenitenciario
 TrappedInTheHost	Br/PresoNoHospedeiro
+Film/TheSantaClause	BrFilme/MeuPapaiENoel
+Film/TheLostWorldJurassicPark	BrFilme/OMundoPerdidoJurassicPark
+SturgeonsLaw	Br/LeiDeSturgeon
+TrilogyCreep	Br/ExpansaoDaTrilogia

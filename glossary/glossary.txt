@@ -1782,3 +1782,14 @@ BizarroApocalypse	Br/ApocalipseBizarro
 BodyOfBodies	Br/CorpoDeCorpos
 FleshGolem	Br/GolemDeCarne
 GeneticAbomination	Br/AbominacaoGenetica
+SignedUpForTheDental	Br/AceiteiPeloPlanoDeSaude
+BadBoss	Br/ChefeMau
+IControlMyMinionsThrough	Br/EuControloMeusLacaiosCom
+VanillaUnit	Br/UnidadePadrao
+MeatPuppet	Br/FantocheDeCarne
+MookDebutCutscene	Br/CinematicaDeIntroducaoDoCapanga
+ConservationOfNinjutsu	Br/ConservacaoDeNinjutsu
+AdorableEvilMinions	Br/AdoraveisLacaiosDoMal
+TheJoysOfTorturingMooks	Br/AsAlegriasDeTorturarCapangas
+MookMobile	Br/{{Capangamovel}}
+WhatMeasureIsAMook	Br/QuantoValeUmCapanga

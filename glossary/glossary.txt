@@ -1867,3 +1867,4 @@ SmallStepsHero	Br/HeroiDePassosPequenos
 CreateYourOwnVillain	Br/CriarOSeuProprioVilao
 TwoRightsMakeAWrong	Br/DoisAcertosCausamUmErro
 NiceJobFixingItVillain	Br/BomTrabalhoConsertandoTudoVilao
+BetterTheDevilYouKnow	Br/MelhorODiaboQueVoceConhece

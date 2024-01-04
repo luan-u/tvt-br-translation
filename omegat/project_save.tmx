@@ -5416,6 +5416,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For whatever reason, the hero's victory over death and destruction directly or indirectly leads to an even greater wave of death and destruction, or something else that puts a DownerEnding spin on everything.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T184208Z" creationid="Luan" creationdate="20240104T184208Z">
+        <seg>Por qualquer motivo que seja, o triunfo do herói sobre a morte e a destruição leva, direta ou indiretamente, para uma onda ''ainda maior'' de morte e destruição, ou algo que instala um Br/FinalDepressivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For when the viewers really ''are'' morons, see FanDumb and HateDumb.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T023347Z" creationid="Luan" creationdate="20231218T023347Z">
@@ -7333,6 +7341,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maybe the villain themselves [[VillainHasAPoint will warn the hero about the possible consequences]], as a last-ditch attempt to save their own skin, or as a bitter "parting shot" to ruin the hero's victory ("You fools... do you even know what you've done?").</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T184324Z" creationid="Luan" creationdate="20240104T184324Z">
+        <seg>Talvez o próprio vilão [[Br/OVilaoTemRazao alerte o herói sobre as possíveis consequências]], em uma última tentativa de salvar a própria pele, ou como um comentário ácido para arruinar a vitória do herói ("Tolos... vocês fazem ideia do que acabaram de fazer?").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Maybe the villain, despite their villainy, was serving some other greater good — keeping the world/universe/nature/whatever politically or literally {{balance|BetweenGoodAndEvil}}d — and their demise throws things into chaos.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T183008Z" creationid="Luan" creationdate="20240104T183008Z">
@@ -7823,6 +7839,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oh dear.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T184210Z" creationid="Luan" creationdate="20240104T184210Z">
+        <seg>Que puxa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OhAndXDies and DidYouDie are also subtropes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T233216Z" creationid="Luan" creationdate="20231206T233216Z">
@@ -7835,6 +7859,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T190555Z" creationid="Luan" creationdate="20231210T190555Z">
         <seg>Ok, isso não é realmente justo, mas Jon Hein notou a tendência dele de interpretar personagens nesse estilo e o chamou de "santo padroeiro do pulo sobre tubarão" -- a aparição dele em uma série significou a ruína desta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the ''other'' other hand, a clear warning might be taken as CassandraTruth anyway.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T184726Z" creationid="Luan" creationdate="20240104T184726Z">
+        <seg>Por ''outro'' lado, um aviso claro pode ser interpretado como Br/VerdadeDeCassandra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7967,10 +7999,18 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Or maybe the villain will just lament over how the hero defeated them despite all their efforts - it wasn't some sort of {{plan}} of ''theirs'' for the hero to "win" and thus make things worse (if it was, that'd be MyDeathIsJustTheBeginning).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T184535Z" creationid="Luan" creationdate="20240104T184535Z">
+        <seg>Ou talvez o vilão apenas lamente o fato de ter sido derrotado pelo herói apesar de todos os esforços -- isso não era algum tipo de Br/{{plano}} ''dele'' para que o herói "vencesse" e então tornasse as coisas piores (se foi, então é Br/MinhaMorteESoOComeco).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Or perhaps [[IDidWhatIHadToDo the only means]] of foiling the villain involves [[GodzillaThreshold questionably massive "collateral damage"]] and is [[MoralEventHorizon so extreme]] that the hero is now the worst example of HeWhoFightsMonsters, MyGodWhatHaveIDone, or FullCircleRevolution.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T183925Z" creationid="Luan" creationdate="20240104T183925Z">
-        <seg>Ou talvez [[Br/EuFizOQueEuPrecisavaFazer o único jeito]] </seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T184126Z" creationid="Luan" creationdate="20240104T183925Z">
+        <seg>Ou talvez [[Br/EuFizOQueEuPrecisavaFazer o único jeito]] de estragar os planos do vilão envolve [[Br/LimiarDeGodzilla dano colateral massivo e questionável]] e é [[Br/HorizonteMoralDeEventos tão extremo]] que o herói agora é o pior exemplo de Br/AqueleQueLutaComMonstros, Br/MeuDeusOQueFoiQueEuFiz ou Br/RevolucaoEmCircuitoFechado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9882,6 +9922,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then again, PoorCommunicationKills often comes into play as the villain will usually be uselessly vague and give no concrete reason for why foiling him would be bad.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T184711Z" creationid="Luan" creationdate="20240104T184711Z">
+        <seg>Nesse caso, costuma ser um caso de Br/ComunicacaoRuimMata, já que o vilão costumeiramente fala de maneira vaga e não dá nenhum motivo concreto sobre porque derrotar ele seria ruim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then again, many foreign languages do not even have a translation for the word 'tropes'.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T150859Z" creationid="Luan" creationdate="20231214T150859Z">
@@ -11210,6 +11258,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231028T161616Z" creationid="Luan" creationdate="20231028T161616Z">
         <seg>Vitória, enfim!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Villains being villains, this may just be a bluff.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T184344Z" creationid="Luan" creationdate="20240104T184344Z">
+        <seg>Ora, vilões são vilões e isso pode ser apenas um blefe.</seg>
       </tuv>
     </tu>
     <tu>

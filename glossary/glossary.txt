@@ -673,7 +673,7 @@ Hypochondria	Br/{{Hipocondria}}
 HypocriteHasAPoint	Br/OHipocritaTemRazao
 IAteWhat	Br/EuComiOQue
 ICantBelieveItsNotHeroin	Br/EuNaoAcreditoQueNaoEHeroina
-IDidWhatIHadToDo	Br/EuFizOQueEuPrecisavaFazer
+IDidWhatIHadToDo	Br/EuFizOQueEuPrecisavaFazer	Esta forma é preferida.
 IDidWhatIHadToDo	Br/EuFizOQueEuTinhaQueFazer
 IDieFree	Br/MorrereiLivre
 IGaveMyWord	Br/EuDeiMinhaPalavra
@@ -1846,3 +1846,11 @@ DaydreamBeliever	Br/CrenteDevaneiante
 SarcasmMode	Br/ModoSarcastico
 YourPrincessIsInAnotherCastle	Br/SuaPrincesaEstaEmOutroCastelo
 SealedEvilInACan	Br/MalSeladoEmUmaGarrafa
+OneWingedAngel	Br/FormaFinal
+TorturedMonster	Br/MonstroTorturado
+SaveThePrincess	Br/SalvarAPrincesa
+DecoyDamsel	Br/DonzelaIsca
+EvilPowerVacuum	Br/VacuoDePoderMaligno
+GodzillaThreshold	Br/LimiarDeGodzilla
+MoralEventHorizon	Br/HorizonteMoralDeEventos
+FullCircleRevolution	Br/RevolucaoEmCircuitoFechado

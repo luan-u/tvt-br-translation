@@ -3256,6 +3256,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>-&gt;"''How kind of you to open that lock for me.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T182052Z" creationid="Luan" creationdate="20240104T182052Z">
+        <seg>-&gt;''"Que gentil da sua parte em abrir essa tranca pra mim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>-&gt;''"Come.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231207T141628Z" creationid="Luan" creationdate="20231207T141628Z">
@@ -3404,6 +3412,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T153945Z" creationid="Luan" creationdate="20231210T153945Z">
         <seg>...E, desse modo, conseguimos algo ''incrível''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>...but [[YourPrincessIsInAnotherCastle not so fast]]!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T182312Z" creationid="Luan" creationdate="20240104T182312Z">
+        <seg>...mas [[Br/SuaPrincesaEstaEmOutroCastelo não tão rápido]]!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5062,6 +5078,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Every time I wonder if it was wise to let you live, you do something like this and show me you're worth keeping around.''"
+--&gt;-- '''[[CardCarryingVillain Thot Trel]]''', ''VideoGame/StarTrekOnline''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T182150Z" creationid="Luan" creationdate="20240104T182150Z">
+        <seg>Sempre que eu me pergunto se foi uma sábia decisão te deixar viver, você faz algo desse tipo e me mostra que vale a pena te deixar vivo."''
+--&gt;-- '''[[Br/VilaoDeCrachaETudo Thot Trel]]''', ''BrVideoGame/StarTrekOnline''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Everyone who heard Creator/{{Homer}} (no, the other one) sing already knew that Troy falls and Achilles and Hector both die; nobody walked out of Creator/{{Sophocles}}'s play saying, "Dude, he married his ''mom?''" There's a long, long tradition of retelling the story everyone knows.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T233421Z" creationid="Luan" creationdate="20231206T233421Z">
@@ -6707,6 +6733,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It turns out that by the very act of success, they've unwittingly [[FromBadToWorse made things worse]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T182346Z" creationid="Luan" creationdate="20240104T182346Z">
+        <seg>Na verdade, pelo seu ato de sucesso o herói involuntariamente [[Br/DeMalAPior tornou as coisas piores]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It usually depends on who creates/writes said material as well as how subtly they make the transition.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180806Z" creationid="Luan" creationdate="20231101T180806Z">
@@ -7271,6 +7305,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231207T142149Z" creationid="Luan" creationdate="20231207T142149Z">
         <seg>Talvez ele era um Br/AntiHeroi que cometeu um erro e caiu da colina escorregadia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maybe the now-dead antagonist was actually holding back an [[SealedEvilInACan even greater evil]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T182714Z" creationid="Luan" creationdate="20240104T182714Z">
+        <seg>Talvez o agora-morto antagonista estivesse suprimindo um [[Br/MalSeladoEmUmaGarrafa mal ainda maior]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -9362,6 +9404,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The hero has accomplished their goal; they've killed the BigBad, or defeated them forever, or at least scored a major blow against the antagonist.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T182240Z" creationid="Luan" creationdate="20240104T182240Z">
+        <seg>O herói alcançou o objetivo; eles mataram o Br/Malvadao, ou o derrotaram para sempre, ou no mínimo causaram um grande revés para o antagonista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The hero may attempt to invoke IDidWhatIHadToDo as their justification, though this does not always succeed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T005605Z" creationid="Luan" creationdate="20231215T005605Z">
@@ -10158,6 +10208,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231103T205215Z" creationid="Luan" creationdate="20231103T205215Z">
         <seg>Eles são livres, descuidados e egoístas, mas não insensíveis ou sadistas a ponto de serem considerados maus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They've done what they set out to do...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T182248Z" creationid="Luan" creationdate="20240104T182248Z">
+        <seg>Eles fizeram o que se propuseram a fazer...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12157,6 +12215,18 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T220248Z" creationid="Luan" creationdate="20240103T220227Z">
         <seg>[[quoteright:350:[[BrVideoGame/DarkestDungeon https://static.tvtropes.org/pmwiki/pub/images/unsettling_passage.png]]]]
 [[caption-width-right:350:"'Olhar pra cima'?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[quoteright:350:[[VideoGame/EpicMickey https://static.tvtropes.org/pmwiki/pub/images/mickey_45.png]]]]
+[[caption-width-right:350:[[SarcasmMode Congratulations]], [[WesternAnimation/MickeyMouse Mickey]]; you've just created [[EldritchAbomination The Blot]]!\\
+[[FromBadToWorse Now just wait until you try to fix your mistake]].]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240104T182031Z" creationid="Luan" creationdate="20240104T181826Z">
+        <seg>[[quoteright:350:[[BrVideoGame/EpicMickey https://static.tvtropes.org/pmwiki/pub/images/mickey_45.png]]]]
+[[caption-width-right:350:[[Br/ModoSarcastico Parabéns]], [[BrAnimacaoOcidental/MickeyMouse Mickey]]; você acabou de criar [[Br/AbominacaoSobrenatural o Blot]]!\\
+[[Br/DeMalAPior Agora espera só até você tentar consertar seu erro]].]]</seg>
       </tuv>
     </tu>
     <tu>

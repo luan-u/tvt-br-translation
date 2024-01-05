@@ -1927,3 +1927,8 @@ SamePlotSequel	Br/SequenciaComAMesmaTrama
 FollowTheLeader	Br/SeguirOLider
 WackyWaysideTribe	Br/EstradaComUmaTriboEstranha
 PanderingToTheBase	Br/BajularOFaClube
+WanderingCulture	Br/CulturaNomade
+ContinuityPorn	Br/PornoDeContinuidade
+TheDitz	Br/OIdiota
+TheFool	Br/OTolo
+TheKlutz	Br/ODesastrado

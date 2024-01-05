@@ -1983,3 +1983,4 @@ AlternateContinuity	Br/ContinuidadeAlternativa
 ChangingOfTheGuard	Br/TrocaDeTurno
 Cliffhanger	Br/NaBeiraDoPenhasco
 CliffhangerWall	Br/ContornandoOPenhasco
+FanSequel	Br/SequenciaDosFas

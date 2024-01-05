@@ -1973,3 +1973,13 @@ EvilEvolves	Br/OMalEvolui
 SoLastSeason	Br/IssoETaoTemporadaPassada
 LensmanArmsRace	Br/CorridaArmamentistaDeLensman
 RecycledPremise	Br/PremissaReciclada
+SeriesTropes	Br/TroposDeSeries
+ActionizedSequel	Br/SequenciaComMaisAcao
+ArtShiftedSequel	Br/SequenciaComMudancaArtistica
+BTeamSequel	Br/SequenciaClasseB
+BreatherEpisode	Br/EpisodioDeRespiro
+AlternateTimeline	Br/LinhaDoTempoAlternativa
+AlternateContinuity	Br/ContinuidadeAlternativa
+ChangingOfTheGuard	Br/TrocaDeTurno
+Cliffhanger	Br/NaBeiraDoPenhasco
+CliffhangerWall	Br/ContornandoOPenhasco

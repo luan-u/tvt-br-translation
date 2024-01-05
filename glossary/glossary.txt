@@ -1987,3 +1987,6 @@ FanSequel	Br/SequenciaDosFas
 ImmediateSequel	Br/SequenciaImediata
 LetteredSequel	Br/SequenciaComLetras
 SequelHook	Br/GanchoParaASequencia
+ContrastingSequelAntagonist	Br/AntagonistaContrastanteDaSequencia
+DistantSequel	Br/SequenciaDistante
+DividedForAdaptation	Br/DivididoParaAAdaptacao

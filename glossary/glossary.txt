@@ -2005,3 +2005,4 @@ OddballInTheSeries	Br/OEstranhoNaSerie
 RefittedForSequel	Br/ReadequadoParaASequencia
 RidiculousFutureSequelisation	Br/SequenciamentoFuturoRidiculo
 SalvagedGameplayMechanic	Br/MecanicaDeJogoRestaurada
+SecondChapterCliffhanger	Br/PenhascoDoSegundoCapitulo

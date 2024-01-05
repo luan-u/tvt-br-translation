@@ -1940,3 +1940,9 @@ PublicDomainCharacter	Br/PersonagemDeDominioPublico
 OddlyNamedSequel2ElectricBoogaloo	Br/SequenciaComNomeEstranho2BoogalooEletrico
 FirstInstallmentWins	Br/APrimeiraEntradaVence
 EvenBetterSequel	Br/SequenciaAindaMelhor
+ContestedSequel	Br/SequenciaContestada
+VillainBasedFranchise	Br/FranquiaBaseadaEmViloes
+CapcomSequelStagnation	Br/EstagnacaoDeSequenciaDaCapcom
+FranchiseZombie	Br/FranquiaZumbi
+SequelEscalation	Br/EscaladaDaSequencia
+PostScriptSeason	Br/TemporadaPosRoteiro

@@ -1984,3 +1984,6 @@ ChangingOfTheGuard	Br/TrocaDeTurno
 Cliffhanger	Br/NaBeiraDoPenhasco
 CliffhangerWall	Br/ContornandoOPenhasco
 FanSequel	Br/SequenciaDosFas
+ImmediateSequel	Br/SequenciaImediata
+LetteredSequel	Br/SequenciaComLetras
+SequelHook	Br/GanchoParaASequencia

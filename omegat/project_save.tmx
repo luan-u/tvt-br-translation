@@ -1590,6 +1590,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ContrastingSequelAntagonist: A villain from a sequel who's a replacement to another from the predecessor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T151529Z" creationid="Luan" creationdate="20240105T151529Z">
+        <seg>* Br/AntagonistaContrastanteDaSequencia: Um vilão de uma sequência que está lá para substituir o vilão do antecessor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ConvenientMiscarriage: If the reason it's convenient is because the baby would change the status quo, but not an example if it's convenient to the ''characters''.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T153953Z" creationid="Luan" creationdate="20231208T153953Z">
@@ -1618,6 +1626,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T204032Z" creationid="Luan" creationdate="20231215T204032Z">
         <seg>* Br/RetconCosmico: Um evento dentro da história altera a realidade e isso causa um retcon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CreatorDrivenSuccessor
+* DistantSequel: A sequel that takes place decades, centuries, or even ''millennia'' after the original.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T151649Z" creationid="Luan" creationdate="20240105T151649Z">
+        <seg>* ??? CreatorDrivenSuccessor
+* Br/SequenciaDistante: Uma sequência que se passa décadas, séculos ou até ''milênios'' após o original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1686,6 +1704,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* DividedForAdaptation: A singular work is adapted into several planned installments (such as movies).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T151738Z" creationid="Luan" creationdate="20240105T151738Z">
+        <seg>* Br/DivididoParaAAdaptacao: Uma obra singular é adaptada para múltiplas entradas planejadas (tal como filmes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* DivorceIsTemporary: When a married couple will not be separated forever.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T144253Z" creationid="Luan" creationdate="20231208T144253Z">
@@ -1698,6 +1724,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T161226Z" creationid="Luan" creationdate="20231214T161226Z">
         <seg>* Não fique ''a noite inteira'' editando páginas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DolledUpInstallment: Practice of inserting a work into a franchise which it was not originally intended for.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T151926Z" creationid="Luan" creationdate="20240105T151926Z">
+        <seg>* ??? DolledUpInstallment: A prática de inserir em uma franquia uma obra que não é pertencente a ela.</seg>
       </tuv>
     </tu>
     <tu>

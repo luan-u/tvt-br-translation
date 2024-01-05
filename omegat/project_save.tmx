@@ -2660,6 +2660,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SecondChapterCliffhanger: The second installment of a trilogy ends on a {{cliffhanger}} with several {{Plot Thread}}s still unresolved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T160352Z" creationid="Luan" creationdate="20240105T160352Z">
+        <seg>* Br/PenhascoDoSegundoCapitulo: A segunda entrada de uma trilogia termina Br/NaBeiraDoPenhasco com muitas [[Br/LinhaDeTrama linhas de trama]] pendentes de resolver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SequelHook: A hint at a future installment.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145508Z" creationid="Luan" creationdate="20240105T145508Z">

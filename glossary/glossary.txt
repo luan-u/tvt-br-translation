@@ -1951,3 +1951,6 @@ RidiculousFutureSequelisation	Br/SequenciaFuturaRidicula
 UnpleasableFanbase	Br/FaClubeIngrato
 Film/ThePhantomMenace	BrFilme/AAmeacaFantasma
 OriginsEpisode	Br/EpisodioDeOrigem
+WholeEpisodeFlashback	Br/EpisodioDeRecordacao
+SortingAlgorithmOfEvil	Br/AlgoritmoOrdenadorDeMaldade
+ExpansionPackWorld	Br/PacoteDeExpansaoMundial

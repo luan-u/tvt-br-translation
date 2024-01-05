@@ -2884,6 +2884,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SoftReboot: Both a sequel/prequel or some extension of canon and a partial reboot intended to jumpstart a series anew with maybe a {{retcon}} or two.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203403Z" creationid="Luan" creationdate="20240105T203403Z">
+        <seg>* Br/ReinicioBrando: Ao mesmo tempo uma sequência/prequência ou extensão do cânone e um reinício parcial para dar uma nova roupagem em uma série e talvez colocar um Br/{{retcon}} ou dois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Some endings include the normally BadassPacifist hero [[IDidWhatIHadToDo lamenting to the effect that they had no choice but to use violence or take life]] in order to get the job done.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231212T015559Z" creationid="Luan" creationdate="20231212T015559Z">

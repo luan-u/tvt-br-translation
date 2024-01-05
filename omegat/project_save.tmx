@@ -2472,6 +2472,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ProlongedVideoGameSequel: Sequel to a video game that is much longer than the previous game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T192428Z" creationid="Luan" creationdate="20240105T192428Z">
+        <seg>* Br/SequenciaProlongadaDeVideogame: Uma sequência para um jogo que é muito mais longa que o jogo anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* RecycledScript: A TV show copies a script from another one.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231216T212006Z" creationid="Luan" creationdate="20231216T212006Z">
@@ -2492,6 +2500,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T155341Z" creationid="Luan" creationdate="20240105T155341Z">
         <seg>* Br/ReadequadoParaASequencia: Uma cena que deveria estar no original é movida para a sequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RefusalOfTheSecondCall: The hero of the original is available to save the day again in the sequel but refuses to help.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T192650Z" creationid="Luan" creationdate="20240105T192650Z">
+        <seg>* Br/RecusouOSegundoChamado: O herói da história original está disponível para ajudar a salvar o dia, mas se recusa a ajudar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2692,10 +2708,122 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SequelAdaptationIconicVillain: In an adapted work, an iconic villain from the source material is saved for the sequel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T192749Z" creationid="Luan" creationdate="20240105T192749Z">
+        <seg>* Br/VilaoIconicoDaAdaptacaoNaSequencia: Em uma obra adaptada, um vilão icônico do material fonte é guardado para a sequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SequelDifficultyDrop: Sequel is easier than its predecessor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T193031Z" creationid="Luan" creationdate="20240105T193031Z">
+        <seg>* Br/QuedaDeDificuldadeDaSequencia: A sequência é mais fácil que a anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SequelDifficultySpike: Sequel is harder than its predecessor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T193100Z" creationid="Luan" creationdate="20240105T193100Z">
+        <seg>* Br/AumentoDeDificuldadeDaSequencia: A sequência é mais difícil que a anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SequelDisplacement: When the original installment of a series is less known than the most popular one.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T193019Z" creationid="Luan" creationdate="20240105T192825Z">
+        <seg>* Br/DeslocadoPelaSequencia: Quando a obra original de uma série é menos conhecida que a mais popular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SequelEpisode: The plot or resolution of a StandAloneEpisode in a series gets revisited in a later episode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T193232Z" creationid="Luan" creationdate="20240105T193232Z">
+        <seg>* Br/EpisodioSequencia: A trama ou resolução de um Br/EpisodioAutoContido de uma série é revisada em um episódio posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SequelEscalation: Attempts to make a sequel to have elements of the previous installment, but more of them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T193253Z" creationid="Luan" creationdate="20240105T193253Z">
+        <seg>* Br/EscaladaDaSequencia: Tentativas de se fazer uma sequência ter elementos da obra anterior, mas em maior quantidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SequelFirst: A sequel is released in a foreign market before the first installment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T193317Z" creationid="Luan" creationdate="20240105T193317Z">
+        <seg>* Br/PrimeiroASequencia: Uma sequência é lançada no mercado estrangeiro antes da primeira obra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SequelGap: A fairly long time passes between when an installment comes out and when its sequel does.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T193450Z" creationid="Luan" creationdate="20240105T193450Z">
+        <seg>* Br/VaoNaSequencia: muito tempo se passa entre o lançamento de uma obra e da sua sequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SequelGoesForeign: The sequel is set in a foreign country.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T193525Z" creationid="Luan" creationdate="20240105T193525Z">
+        <seg>* Br/ASequenciaViajaParaFora: A sequência se passa em um país estrangeiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SequelHook: A hint at a future installment.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145508Z" creationid="Luan" creationdate="20240105T145508Z">
         <seg>* Br/GanchoParaASequencia: Um ponto de engate para uma obra futura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SequelInAnotherMedium: Sequels that continue in different media such as the story of a movie continuing in a television show or video game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T193605Z" creationid="Luan" creationdate="20240105T193605Z">
+        <seg>* Br/SequenciaEmOutraMidia: Sequências que continuam em uma mídia diferente, tal como a história de um filme prosseguindo em um show de TV ou videogame.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SequelNonEntity: Hey, they reduced the FiveManBand to a PowerTrio!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T193655Z" creationid="Luan" creationdate="20240105T193655Z">
+        <seg>* Br/NaoEntidadeDaSequencia: Olha só, eles reduziram o Br/GrupoDeCincoCaras para um Br/TrioPoderoso!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SequelReset: The resolution from the first story is undone for the sequel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T193719Z" creationid="Luan" creationdate="20240105T193719Z">
+        <seg>* Br/ReinicioDeSequencia: A resolução da primeira história é desfeita na sequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SequelSeries: A series that takes place after or before the original.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T193759Z" creationid="Luan" creationdate="20240105T193759Z">
+        <seg>* Br/SerieDeSequencia: Uma série que se passa antes ou depois do original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SequelSnark: A joke mocking the idea of a sequel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T193811Z" creationid="Luan" creationdate="20240105T193811Z">
+        <seg>* Br/SequenciaSarcastica: Uma piada que zomba da ideia de uma sequência.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3667,6 +3795,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* {{Sequelitis}}: As the number of franchise installments goes up, the quality of them goes down.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T193733Z" creationid="Luan" creationdate="20240105T193733Z">
+        <seg>* Br/{{Sequelite}}: A media que o número de entradas na franquia sobe, a qualidade delas desce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* {{Wacky Wayside Tribe}}s begin choking the plot to conceal the fact that the writers have basically run out of story.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T001644Z" creationid="Luan" creationdate="20240105T001644Z">
@@ -3849,6 +3985,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T222259Z" creationid="Luan" creationdate="20231101T222259Z">
         <seg>** Ou se os níveis de dificuldade na verdade são justos, pode ser que haja um nível de dificuldade opcional [[Br/MaisDificilQueODificil que faz com que os outros níveis, até o difícil, se pareçam com brincadeira de criança]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** SequelNumberSnarl: When the numbering of sequels gets... odd.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T192328Z" creationid="Luan" creationdate="20240105T192328Z">
+        <seg>** Br/EmaranhadoDeNumeroDaSequencia: Quando a numeração das sequências começa a ficar... estranha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12998,6 +13142,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T153951Z" creationid="Luan" creationdate="20231210T153951Z">
         <seg>Bom, pelo menos em teoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What happened to the other two characters?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T193703Z" creationid="Luan" creationdate="20240105T193703Z">
+        <seg>O que aconteceu com os outros dois?</seg>
       </tuv>
     </tu>
     <tu>

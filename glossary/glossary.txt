@@ -1920,3 +1920,4 @@ TwoPartTrilogy	Br/TrilogiaDeDuasPartes
 GrandFinale	Br/GranFinale
 LeftHanging	Br/FicarPendurado
 SuddenSequelDeathSyndrome	Br/SindromeDeMorteSubitaNaSequencia
+InNameOnly	Br/SomenteNoNome

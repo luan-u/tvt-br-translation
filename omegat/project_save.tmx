@@ -4822,6 +4822,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Can be caused by a poor choice in SequelEscalation, and lead up to FranchiseZombie if a sequel that should have been a FranchiseKiller doesn't destroy the series.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T012935Z" creationid="Luan" creationdate="20240105T012935Z">
+        <seg>Pode ser causado por uma escolha ruim no processo de Br/EscaladaDaSequencia e levar à Br/FranquiaZumbi se uma sequência que deveria ter sido [[Br/MatadorDeFranquia matadora de franquia]] não destrói a série.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can come right off the heels of a SadisticChoice foisted on the player in a video game.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T005510Z" creationid="Luan" creationdate="20231215T005510Z">
@@ -4954,6 +4962,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231213T202212Z" creationid="Luan" creationdate="20231213T202212Z">
         <seg>Comparar com Br/ReiRelogio, que faz a mesma coisa, só que com os compromissos e horários das pessoas ao invés de emoções e mentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compare ContestedSequel (when there is considerable division about the sequel's quality), InNameOnly (when a sequel is strangely divergent from its predecessor), VillainBasedFranchise (when a sequel retains the monster or villain but features none of the original heroes) and CapcomSequelStagnation (Where it's the ''same'' game, with minor tweaks and additions, re-released over and over like string of mediocre sequels).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T012736Z" creationid="Luan" creationdate="20240105T012736Z">
+        <seg>Comparar com Br/SequenciaContestada (quando há divisão considerável sobre a qualidade da sequência), Br/SomenteNoNome (quando uma sequência é estranhamente divergente do predecessor), Br/FranquiaBaseadaEmViloes (quando uma sequência mantém o monstro ou vilão, mas nenhum dos heróis originais) e Br/EstagnacaoDeSequenciaDaCapcom (quando é o ''mesmo'' jogo, com pequenos ajustes e acréscimos, re-lançado repetidas vezes).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5670,6 +5686,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231222T023459Z" creationid="Luan" creationdate="20231222T023459Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For TV series, this can sometimes be a result of a PostScriptSeason.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T013058Z" creationid="Luan" creationdate="20240105T013058Z">
+        <seg>Para séries de TV, isso às vezes é o resultado de uma Br/TemporadaPosRoteiro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9026,6 +9050,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See also SophomoreSlump, TheProblemWithLicensedGames, and SeasonalRot.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T013001Z" creationid="Luan" creationdate="20240105T013001Z">
+        <seg>Ver também Br/CriseDoSegundoAno, Br/OProblemaComJogosLicenciados e Br/PodridaoSazonal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See also SpeaksInShoutOuts.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T151401Z" creationid="Luan" creationdate="20231214T151401Z">
@@ -9198,6 +9230,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T161728Z" creationid="Luan" creationdate="20231214T161010Z">
         <seg>Alguns editores passam ''[[Br/SoMaisUmaFase muitas horas]]'' simplesmente [[Br/MaratonaDeArquivo lendo as várias páginas]], desfrutando de um Br/WikiPasseio estendido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some fans treat such sequels with FanonDiscontinuity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T012949Z" creationid="Luan" creationdate="20240105T012949Z">
+        <seg>Alguns fãs tratam tais sequências com a Br/DescontinuidadeDeFanone.</seg>
       </tuv>
     </tu>
     <tu>

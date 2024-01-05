@@ -2908,6 +2908,38 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SophomoreSlump: The first sequel sucks, but the next one makes up for it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203423Z" creationid="Luan" creationdate="20240105T203423Z">
+        <seg>* Br/CriseDoSegundoAno: A primeira sequência é uma droga, mas na segunda fica melhor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SpinOff: A subsequent installment that is set in the same universe of a work, but focuses on characters other than the protagonist(s) of the previous entry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203455Z" creationid="Luan" creationdate="20240105T203455Z">
+        <seg>* Br/{{Derivado}}: Uma entrada subsequente que é ambientada no mesmo universo de uma obra, mas dá foco em personagens que não são os protagonistas da obra anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SpiritualSuccessor: A sequel "in spirit" that is similar to a previous work.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203628Z" creationid="Luan" creationdate="20240105T203628Z">
+        <seg>* Br/SucessorEspiritual: Uma sequência "em espírito" que é similar a um trabalho anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* StandAloneEpisode: A sequel that is in itself its own self-contained story that doesn't require previous material for context nor is it a continuation of certain plot elements from a preceding entry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203741Z" creationid="Luan" creationdate="20240105T203741Z">
+        <seg>* Br/EpisodioAutoContido: Uma sequência que é por si só a sua própria história completa que não requer material prévio para contexto e nem é uma continuação de certos elementos de trama de uma obra anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* StaticCharacter: Anyone who doesn't go through character development.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T150558Z" creationid="Luan" creationdate="20231208T150558Z">
@@ -2936,6 +2968,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T150829Z" creationid="Luan" creationdate="20231208T150829Z">
         <seg>* Br/PermanecendoVivo: Um personagem ''nunca'' permanece morto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* StealthSequel: It seems like a stand-alone work in the same universe, but it's actually a sequel or prequel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203916Z" creationid="Luan" creationdate="20240105T203916Z">
+        <seg>* Br/SequenciaSorrateira: Parece com uma obra separada no mesmo universo, mas na verdade é uma sequência ou prequência.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3949,6 +3989,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** FromTheAshes: A fictional work's ending is the starting point of a SpinOff.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203516Z" creationid="Luan" creationdate="20240105T203516Z">
+        <seg>** Br/DasCinzas: O fim de uma obra ficcional é o ponto de entrada para um Br/{{Derivado}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>** Inflexible JumpPhysics render it impossible to accurately dodge attacks in midair, especially if your character's jump height is less than half that of Mario's or Luigi's.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T222939Z" creationid="Luan" creationdate="20231101T222932Z">
@@ -4009,6 +4057,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231209T141957Z" creationid="Luan" creationdate="20231209T141957Z">
         <seg>** Similarmente, um personagem que [[Br/PorQueTinhaQueSerCobras tem medo de algo]], mas que consegue lidar com isso, mas eventualmente o medo se torna incapacitante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** SpinOffBabies: Characters being made into radically younger versions of themselves in a subsequent work.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203534Z" creationid="Luan" creationdate="20240105T203534Z">
+        <seg>** Br/DerivadoComBebes: Personagens sendo transformados em versões radicalmente mais jovens de si mesmas em uma obra posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** SpinOffspring: A Spin-Off focusing on the descendant(s) of a character.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203612Z" creationid="Luan" creationdate="20240105T203612Z">
+        <seg>** Br/DerivadoComFilhos: Um derivado que foca nos descendentes dos personagens.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8643,6 +8707,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T200641Z" creationid="Luan" creationdate="20231215T200641Z">
         <seg>Pode envolver Br/AbrirUmaLataDeClones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>May or may not act as a prequel to the original.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203544Z" creationid="Luan" creationdate="20240105T203544Z">
+        <seg>Pode ou não agir como uma prequência para o original.</seg>
       </tuv>
     </tu>
     <tu>

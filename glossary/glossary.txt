@@ -1998,3 +1998,7 @@ LegendaryInTheSequel	Br/LendarioNaSequencia
 LegendFadesToMyth	Br/ALendaSeTransformaEmMito
 MeetingTheParentsSequel	Br/SequenciaQueApresentaOsPais
 MetaSequel	Br/MetaSequencia
+MoreDiverseSequel	Br/SequenciaMaisDiversa
+POVSequel	Br/SequenciaEmPontoDeVista
+ThirdIs3D	Br/OTerceiroEEm3D
+VideoGame3DLeap	Br/SaltoDeVideogameParaO3D

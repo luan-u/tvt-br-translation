@@ -14,7 +14,7 @@ AchillesHeel	Br/CalcanharDeAquiles
 ActuallyIAmHim	Br/NaVerdadeEuSouEle
 ActuallyPrettyFunny	Br/NaVerdadeFoiBemEngracado
 AdaptationDecay	Br/DecaimentoAdaptativo
-AdaptationDisplacement	Br/DeslocamentoDaAdaptacao
+AdaptationDisplacement	Br/DeslocadoPelaAdaptacao
 AdaptationExpansion	Br/AdaptacaoExpansiva
 AdaptationalVillainy	Br/VilaniaInduzidaPorAdaptacao
 Administrivia/InUniverseExamplesOnly	BrAdministrivia/SomenteExemplosInUniverso
@@ -281,7 +281,7 @@ ContinuityCavalcade	Br/CavalgadaDeReferencias
 ContinuityDrift	Br/DesvioDeContinuidade
 ContinuityLockout	Br/BloqueioDeContinuidade
 ContinuityNod	Br/AcenoParaAContinuidade
-ContinuitySnarl	Br/RosnadoDeContinuidade
+ContinuitySnarl	Br/EmaranhadoDeContinuidade
 ContractualImmortality	Br/ImortalidadeContratual
 ContrivedCoincidence	Br/CoincidenciaConveniente
 ContrivedStupidityTropes	Br/TroposDeEstupidezConveniente
@@ -1183,7 +1183,7 @@ SelfDeprecating	Br/{{Autodepreciativo}}
 SelfFulfillingProphecy	Br/ProfeciaAutorrealizavel
 SenselessSacrifice	Br/SacrificioSemSentido
 SequelDifficultyDrop	Br/QuedaDeDificuldadeDaSequencia
-SequelDisplacement	Br/DeslocamentoDaSequencia
+SequelDisplacement	Br/DeslocadoPelaSequencia
 Sequelitis	Br/SequeliteCronica
 Sequelitis	Br/{{Sequelite}}
 SerialKiller	Br/AssassinoEmSerie
@@ -2010,3 +2010,17 @@ NonLinearSequel	Br/SequenciaNaoLinear
 MissionPackSequel	Br/SequenciaDePacoteDeMissoes
 NamedAfterFirstInstallment	Br/RecebeuONomeDaPrimeiraObra
 NPlusOneSequelTitle	Br/TituloDaSequenciaNMaisUm
+SequelNumberSnarl	Br/EmaranhadoDeNumeroDaSequencia
+ProlongedVideoGameSequel	Br/SequenciaProlongadaDeVideogame
+RefusalOfTheSecondCall	Br/RecusouOSegundoChamado
+SequelAdaptationIconicVillain	Br/VilaoIconicoDaAdaptacaoNaSequencia
+SequelDifficultySpike	Br/AumentoDeDificuldadeDaSequencia
+SequelEpisode	Br/EpisodioSequencia
+StandAloneEpisode	Br/EpisodioAutoContido
+SequelFirst	Br/PrimeiroASequencia
+SequelGap	Br/VaoNaSequencia
+SequelGoesForeign	Br/ASequenciaViajaParaFora
+SequelInAnotherMedium	Br/SequenciaEmOutraMidia
+SequelNonEntity	Br/NaoEntidadeDaSequencia
+SequelSeries	Br/SerieDeSequencia
+SpinOff	Br/{{Derivado}}

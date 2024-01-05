@@ -2027,3 +2027,5 @@ SpinOff	Br/{{Derivado}}
 FromTheAshes	Br/DasCinzas
 SpinOffBabies	Br/DerivadoComBebes
 SoftReboot	Br/ReinicioBrando
+SpinOffspring	Br/DerivadoComFilhos
+StealthSequel	Br/SequenciaSorrateira

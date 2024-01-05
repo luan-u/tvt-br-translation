@@ -351,6 +351,8 @@ Demonization	Br/{{Demonizacao}}
 DenialOfDiagonalAttack	Br/NegacaoDeAtaqueDiagonal
 Denouement	Br/{{Desfecho}}
 DenserAndWackier	Br/MaisDensoEEstranho
+BloodierAndGorier	Br/MaisSangrentoEViolento
+RuderAndCruder	Br/MaisRudeEBruto
 DepartmentOfRedundancyDepartment	Br/DepartamentoDeRedundanciaRedundante
 DependingOnTheArtist	Br/DependeDoArtista
 DependingOnTheWriter	Br/DependeDoRoteirista
@@ -1662,7 +1664,7 @@ YouHaveGotToBeKiddingMe	Br/VoceSoPodeEstarDeBrincadeira
 YouJustToldMe	Br/VoceAcabouDeMeDizer
 YouWatchTooMuchX	Br/VoceEstaVendoMuitoX
 YouWouldntLikeMeWhenImAngry	Br/VoceNaoVaiQuererMeVerFurioso
-YoungerAndHipper	Br/MaisJovemEManeiro
+YoungerAndHipper	Br/MaisJovemEDescolado
 YourApprovalFillsMeWithShame	Br/SuaAprovacaoMeEncheDeVergonha
 YourMagicsNoGoodHere	Br/SuaMagiaNaoFuncionaNestasBandas
 YoureInsane	Br/VoceELouco
@@ -2029,3 +2031,9 @@ SpinOffBabies	Br/DerivadoComBebes
 SoftReboot	Br/ReinicioBrando
 SpinOffspring	Br/DerivadoComFilhos
 StealthSequel	Br/SequenciaSorrateira
+ThematicSeries	Br/SerieTematica
+ThematicSequelLogoChange	Br/SequenciaTematicaComLogotipoDiferente
+SequelLogoInRuins	Br/LogotipoDaSequenciaEmRuinas
+Title1	Br/Titulo1
+Title1	Br/TituloUm
+WordSequel	Br/SequenciaComPalavra

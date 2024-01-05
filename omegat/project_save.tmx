@@ -1768,6 +1768,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* EvenBetterSequel: When a sequel is widely considered superior to the original, or at least to the immediately preceding installment(s) which themselves were already beloved and considered good.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T152012Z" creationid="Luan" creationdate="20240105T152012Z">
+        <seg>* Br/SequenciaAindaMelhor: Quando uma sequência é amplamente considerada como superior ao original, ou pelo menos às entradas imediatamente anteriores que, por si só, já eram consideradas boas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* EvilIsPetty: Villains doing assholish and cruel things just because they can.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T141250Z" creationid="Luan" creationdate="20240104T141250Z">
@@ -1828,6 +1836,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T011127Z" creationid="Luan" creationdate="20231218T011127Z">
         <seg>* Br/RegraDaDemografiaPassageira: Reutilizar histórias antigas com base na suposição de que ninguém que esteja vendo agora tenha visto na primeira vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FranchiseDrivenRetitling: When an earlier installment in a series is given a new name based on what the overall franchise comes to be called through sequels.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T152155Z" creationid="Luan" creationdate="20240105T152155Z">
+        <seg>* Br/RetronimoBaseadoEmFranquia: Quando uma entrada anterior em uma série recebe um novo nome com base no que a franquia passa a ser chamada através das sequências.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1912,10 +1928,34 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* IconicSequelCharacter: A character introduced in the sequel rises to become iconic to the franchise.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T152224Z" creationid="Luan" creationdate="20240105T152224Z">
+        <seg>* Br/PersonagemIconicoDaSequencia: Um personagem introduzido na sequência se torna proeminente na franquia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* IconicSequelSong: A song introduced in the sequel rises to become iconic to the franchise.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T152251Z" creationid="Luan" creationdate="20240105T152251Z">
+        <seg>* Br/MusicaIconicaDaSequencia: Uma música apresentada na sequência se torna icônica na franquia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ImmediateSequel: A sequel where the plot picks up immediately after the previous part.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145228Z" creationid="Luan" creationdate="20240105T145228Z">
         <seg>* Br/SequenciaImediata: Uma sequência em que a trama continua imediatamente no ponto onde a obra anterior termina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ImprovedSecondAttempt: A sequel is perceived as handling certain plot developments, character arcs etc. better the second time around.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T152340Z" creationid="Luan" creationdate="20240105T152340Z">
+        <seg>* Br/SegundaTentativaMelhorada: Uma sequência é percebida como lidando melhor com certos desenvolvimentos de trama, arcos de personagem, etc., do que o antecessor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2064,6 +2104,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LegendFadesToMyth: People having a skewed memory of a previous installment in the sequel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T152455Z" creationid="Luan" creationdate="20240105T152455Z">
+        <seg>* Br/ALendaSeTransformaEmMito: A percepção enevoada das pessoas na sequência de uma obra anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* LegendaryInTheSequel: When the main character from a prior work is made into an in-universe legend.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T152411Z" creationid="Luan" creationdate="20240105T152411Z">
+        <seg>* Br/LendarioNaSequencia: Quando o personagem principal em uma obra anterior se transforma em uma lenda in-universo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LikeYouWouldReallyDoIt: When the viewer can easily predict that someone won't die due to their importance to the story.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T145519Z" creationid="Luan" creationdate="20231208T145519Z">
@@ -2144,6 +2200,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T155722Z" creationid="Luan" creationdate="20231208T155722Z">
         <seg>* Br/QueIssoNuncaAcontecaDeNovo: Se o motivo pelo qual há esforço pra não se repetir a história é porque uma repetição mudaria o status quo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MeetingTheParentsSequel: A sequel where one of the protagonist's mommy and daddy are introduced.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T152524Z" creationid="Luan" creationdate="20240105T152524Z">
+        <seg>* Br/SequenciaQueApresentaOsPais: Uma sequência em que os pais de um dos protagonistas são apresentados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MetaSequel: The sequel is set in a world where the original work is entirely fictional.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T152547Z" creationid="Luan" creationdate="20240105T152547Z">
+        <seg>* Br/MetaSequencia: A sequência se passa em um mundo onde a obra original é fictícia.</seg>
       </tuv>
     </tu>
     <tu>

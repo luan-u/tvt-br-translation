@@ -1932,3 +1932,6 @@ ContinuityPorn	Br/PornoDeContinuidade
 TheDitz	Br/OIdiota
 TheFool	Br/OTolo
 TheKlutz	Br/ODesastrado
+TheyWastedAPerfectlyGoodCharacter	Br/ElesDesperdicaramUmPersonagemPerfeitamenteBom
+NumberedSequels	Br/SequenciasNumeradas
+StoppedNumberingSequels	Br/PararamDeNumerarAsSequencias

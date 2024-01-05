@@ -2024,3 +2024,6 @@ SequelInAnotherMedium	Br/SequenciaEmOutraMidia
 SequelNonEntity	Br/NaoEntidadeDaSequencia
 SequelSeries	Br/SerieDeSequencia
 SpinOff	Br/{{Derivado}}
+FromTheAshes	Br/DasCinzas
+SpinOffBabies	Br/DerivadoComBebes
+SoftReboot	Br/ReinicioBrando

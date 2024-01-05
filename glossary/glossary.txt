@@ -1921,3 +1921,8 @@ GrandFinale	Br/GranFinale
 LeftHanging	Br/FicarPendurado
 SuddenSequelDeathSyndrome	Br/SindromeDeMorteSubitaNaSequencia
 InNameOnly	Br/SomenteNoNome
+TheProblemWithLicensedGames	Br/OProblemaComJogosLicenciados
+AudienceShift	Br/MudancaDePublico
+SamePlotSequel	Br/SequenciaComAMesmaTrama
+FollowTheLeader	Br/SeguirOLider
+WackyWaysideTribe	Br/EstradaComUmaTriboEstranha

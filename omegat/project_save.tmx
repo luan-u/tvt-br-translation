@@ -382,6 +382,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>'''Remember that a work must be produced ''after'' its related installment to be considered a prequel; previous installments do not qualify for the definition.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T132931Z" creationid="Luan" creationdate="20240105T132931Z">
+        <seg>'''Lembre que uma obra deve ser produzida ''após'' a entrada relacionada para ser considerada uma prequência; obras anteriores não encaixam na definição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>'''Specific variants:'''
 * BackportedDevelopment: When someone's characterization in flashbacks is tweaked to more closely resemble their current self; a retcon to address CharacterizationMarchesOn.</seg>
       </tuv>
@@ -5182,6 +5190,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Compare {{Backstory}}, {{Flashback}} and {{Interquel}}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T133054Z" creationid="Luan" creationdate="20240105T133054Z">
+        <seg>Comparar com Br/HistoriaDeFundo, Br/{{Recordacao}} e Br/{{Interquencia}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Compare {{Bowdlerise}} (where a work is edited to remove material that can be considered questionable), {{Disneyfication}} (making a story more suitable for children by toning down the darker elements), MenaceDecay (where a bratty child character becomes less of a troublemaker over time), BadassDecay (where audiences see a cool character as becoming not as impressive and formidable as they used to be), ReverseCerebusSyndrome (where an initially dark work becomes lighter in tone over time), SugarWiki/{{WAFF}} (when a work's whole purpose is to appeal to the audience by being cute and endearing), AdaptationalAngstDowngrade (where an adaptation changes a character's backstory to remove the tragic parts), TamerAndChaster (where a work reduces the amount of nudity and sexual content) and PacifiedAdaptation (where the adaptation has less violence).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T182601Z" creationid="Luan" creationdate="20231101T182005Z">
@@ -5354,6 +5370,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T185517Z" creationid="Luan" creationdate="20240104T185517Z">
         <seg>Tramas mais sombrias podem [[Br/FinalDepressivo encerrar a história ali mesmo]] ao invés, e sempre é possível que a morte do vilão resulte na destruição irreversívelou [[Br/OFimDoMundoComoNosConhecemos mudança horripilante]] do mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Depending on the series, and the circumstances surrounding it, this can be overlooked, or jarring.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T132851Z" creationid="Luan" creationdate="20240105T132851Z">
+        <seg>Dependendo da série e das circunstâncias, isso pode ser ignorado ou dar na vista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5808,6 +5832,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231212T215722Z" creationid="Luan" creationdate="20231212T215722Z">
         <seg>Para determinadas questões, esse é o único jeito de ilustrar o argumento sem que o efeito seja minado por outros tropos tais como Br/FinalTodoMundoRindo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, ''Film/{{Rocky}}'' is not a prequel to ''Film/RockyII'', because ''Rocky II'' was both produced and set after the first.'''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T133009Z" creationid="Luan" creationdate="20240105T133009Z">
+        <seg>Por exemplo, ''BrFilme/{{Rocky}}'' não é uma prequência para ''BrFilme/RockyII'' porque ''Rocky II'' foi produzida e ambientada após o primeiro filme.'''</seg>
       </tuv>
     </tu>
     <tu>
@@ -6314,6 +6346,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T160211Z" creationid="Luan" creationdate="20231220T160211Z">
         <seg>Se um personagem, por exemplo, mata alguém e nunca é pego, mas [[Br/RaioDaDivinaRetribuicao um raio o mata]], [[Br/MorteKarmica eles ainda tiveram a punição ainda que o raio não tenha conexão com o crime]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a genuine sequel or interquel is released after the prequel, then it's AnachronicOrder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T133231Z" creationid="Luan" creationdate="20240105T133231Z">
+        <seg>Se uma sequência ou interquência genuína é lançada após a prequência, então é Br/OrdemAnacronica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7164,6 +7204,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T150128Z" creationid="Luan" creationdate="20231221T150128Z">
         <seg>Ironicamente, foi apenas em seus primeiros dias que eles se encaixavam no tropo de Br/CavaleiroTemplario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Is often, but not always, an OriginsEpisode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T133022Z" creationid="Luan" creationdate="20240105T133022Z">
+        <seg>Costuma ser um Br/EpisodioDeOrigem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8347,6 +8395,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Occasionally said ultimate evil can get their own prequel with a StartOfDarkness.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T132436Z" creationid="Luan" creationdate="20240105T132436Z">
+        <seg>Vez ou outra o dito mal supremo pode receber a própria prequência com o Br/ComecoDasTrevas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Occasionally, an author will drop some black into their otherwise flawlessly good guy hero... and have others, particularly TheHeart (and ''especially'' TheMcCoy), ''notice.'' This can add guilt and remorse to a character as they [[KickTheMoralityPet feel shame for their evil actions]], and legitimately have to fight to [[ClearMyName restore their name]], [[MustMakeAmends undo the harm]], or simply live with the guilt and shame of it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T230044Z" creationid="Luan" creationdate="20231214T230044Z">
@@ -8659,6 +8715,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One issue with prequels in electronic media is that if they come out years after the original, you have the problem of technology in RealLife advancing to the point that special effects, graphics, etc. make the prequel look more advanced than the original, which ends up with a CosmeticallyAdvancedPrequel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T132822Z" creationid="Luan" creationdate="20240105T132822Z">
+        <seg>Um problema com prequências em mídia eletrônica é que se elas saem muitos anos após o original, a tecnologia da Br/VidaReal avança ao ponto de os efeitos especiais, gráficos, etc., fazerem a prequência parecer mais avançada que o original, o que resulta em uma Br/PrequenciaCosmeticamenteAvancada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>One of the few ways to actually change a Knight Templar's mind is to kick their ass down to the ground.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T171919Z" creationid="Luan" creationdate="20231220T171919Z">
@@ -8896,6 +8960,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T145620Z" creationid="Luan" creationdate="20231220T145620Z">
         <seg>Previsivelmente, costuma ser chocante ou até mesmo ''irritante'' ver esses sujeitos desviarem da [[Br/NaoDaPraSeSafarDeNada punição cármica instantânea]] para saírem vitoriosos no fim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PrequelInTheLostAge is a subtrope set in a bygone era mentioned in-universe.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T133146Z" creationid="Luan" creationdate="20240105T133146Z">
+        <seg>Br/PrequenciaNaIdadePerdida é um subtropo que se posiciona em uma era no passado distante mencionada in-universo.</seg>
       </tuv>
     </tu>
     <tu>

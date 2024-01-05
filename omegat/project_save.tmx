@@ -2228,6 +2228,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MissionPackSequel: Same game, different levels.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T191718Z" creationid="Luan" creationdate="20240105T191718Z">
+        <seg>* Br/SequenciaDePacoteDeMissoes: Mesmo jogo, fases diferentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Mixing the paranormal or abnormal with the mundane and familiar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231226T020913Z" creationid="Luan" creationdate="20231226T020913Z">
@@ -2248,6 +2256,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T230355Z" creationid="Luan" creationdate="20231206T230355Z">
         <seg>* Filmes ou shows que, pela sua [[Br/StatusQuoEDeus natureza previsível]], indicam como a obra termina, também não contam: o público já sabe que os bonzinhos vencem e que o BrPersonagens/{{Batman|OPersonagem}} vai viver para lutar outro dia, na mesma bat-hora e no mesmo bat-canal, mas o final não é canonicamente estabelecido; teoricamente, o BrCriador/AdamWest poderia morrer no final de um episódio, mas realisticamente [[Br/ComoSeVoceRealmenteFosseFazerIsso a gente sabe que isso não vai acontecer]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* NamedAfterFirstInstallment: A series's title is based on that of its first installment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T191746Z" creationid="Luan" creationdate="20240105T191746Z">
+        <seg>* Br/RecebeuONomeDaPrimeiraObra: O título de uma série é baseado no título da primeira obra da série.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2288,6 +2304,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T221951Z" creationid="Luan" creationdate="20231210T221951Z">
         <seg>* Produções não estadunidenses mirando [[Br/Americanizacao nos padrões de Hollywood]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* NonLinearSequel: The sequel doesn't take place after the first story.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T191642Z" creationid="Luan" creationdate="20240105T191642Z">
+        <seg>* Br/SequenciaNaoLinear: A sequência não acontece após a primeira história.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3801,6 +3825,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145314Z" creationid="Luan" creationdate="20240105T145314Z">
         <seg>** Br/SequenciaComLetras: Quando o título da sequência tem uma letra no lugar de um número.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** NPlusOneSequelTitle: When the second title in a series doesn't include the number 2, but instead adds one to a number found in the first title.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T191918Z" creationid="Luan" creationdate="20240105T191918Z">
+        <seg>** Br/TituloDaSequenciaNMaisUm: Quando o segundo título da sequência não leva o número 2, mas ao invés acrescenta 1 a um número que está no primeiro título.</seg>
       </tuv>
     </tu>
     <tu>

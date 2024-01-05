@@ -1566,6 +1566,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ContestedSequel: When fans disagree among themselves about the quality and/or canon status of a sequel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T144658Z" creationid="Luan" creationdate="20240105T144658Z">
+        <seg>* Br/SequenciaContestada: Quando fãs discordam entre si sobre a qualidade e/ou canonicidade de uma sequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ContinuitySnarl: In shared universes that undergo changes in management (new generations of creative teams), contemporary writers are less inclined to slavishly adhere to internal consistency with plots, events, or visual styles that were written twenty, thirty, forty or more years ago, especially when those older stories are [[Sandbox/FloatingTimeline now outdated as they were originally presented]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T203400Z" creationid="Luan" creationdate="20231215T203400Z">
@@ -1750,6 +1758,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FanSequel: When fans decide to make a sequel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T144737Z" creationid="Luan" creationdate="20240105T144737Z">
+        <seg>* Br/SequenciaDosFas: Quando fãs decidem produzir uma sequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* FelonyMisdemeanor: Treating a relatively harmless misdeed as if it were a serious crime.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140640Z" creationid="Luan" creationdate="20240104T140640Z">
@@ -1778,6 +1794,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T224824Z" creationid="Luan" creationdate="20240104T224824Z">
         <seg>* O Br/PecadoOriginalDaFranquia: No começo da franquia há pequenas falhas, mas à medida que novas obras chegam essas falhas saem do controle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FranchiseZombie: Franchise lasts longer than the author intended for.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T144751Z" creationid="Luan" creationdate="20240105T144751Z">
+        <seg>* Br/FranquiaZumbi: A franquia dura mais tempo do que o autor pretendia.</seg>
       </tuv>
     </tu>
     <tu>

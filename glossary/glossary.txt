@@ -1949,3 +1949,5 @@ PostScriptSeason	Br/TemporadaPosRoteiro
 SequelSnark	Br/SequenciaSarcastica
 RidiculousFutureSequelisation	Br/SequenciaFuturaRidicula
 UnpleasableFanbase	Br/FaClubeIngrato
+Film/ThePhantomMenace	BrFilme/AAmeacaFantasma
+OriginsEpisode	Br/EpisodioDeOrigem

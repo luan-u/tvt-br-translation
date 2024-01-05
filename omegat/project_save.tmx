@@ -2324,6 +2324,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* OddballInTheSeries: An episode in franchise that noticeably deviates from the others thematically or tonally.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T155159Z" creationid="Luan" creationdate="20240105T155159Z">
+        <seg>* Br/OEstranhoNaSerie: Um episódio em uma franquia que desvia notavelmente dos demais em termos de tema ou tom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* OddlyNamedSequel2ElectricBoogaloo: Weird sequel title or subtitle.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T155241Z" creationid="Luan" creationdate="20240105T155241Z">
+        <seg>* Br/SequenciaComNomeEstranho2BoogalooEletrico: Um título ou subtítulo excêntrico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* OffingTheAnnoyance: Murdering someone for irritating you.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T142310Z" creationid="Luan" creationdate="20240104T142310Z">
@@ -2390,6 +2406,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* PanderingToTheBase: Doing what fans want instead of what the creators and executives want.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T155259Z" creationid="Luan" creationdate="20240105T155259Z">
+        <seg>* Br/BajularOFaClube: Fazer o que os fãs querem ao invés do que os criadores e executivos querem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* PaymentPlanPitch (in advertising)
 * PleaseSubscribeToOurChannel, in some cases.</seg>
       </tuv>
@@ -2440,6 +2464,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* RefittedForSequel: Scene intended to be in the original is moved to the sequel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T155341Z" creationid="Luan" creationdate="20240105T155341Z">
+        <seg>* Br/ReadequadoParaASequencia: Uma cena que deveria estar no original é movida para a sequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* RememberTheNewGuy: A new character is introduced, but is retconned to have been part of the story all along.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T204154Z" creationid="Luan" creationdate="20231215T204154Z">
@@ -2476,6 +2508,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T142600Z" creationid="Luan" creationdate="20240104T142600Z">
         <seg>* ??? RevengeSVP: Arruinar festas e outros encontros sociais por não ter sido convidado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RidiculousFutureSequelisation: In the future, fictional works have a ''lot'' of sequels.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T155505Z" creationid="Luan" creationdate="20240105T155442Z">
+        <seg>* Br/SequenciamentoFuturoRidiculo: No futuro, obras fictícias possuem ''muitas'' sequências.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2588,6 +2628,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145415Z" creationid="Luan" creationdate="20240105T145415Z">
         <seg>* Br/AdministrandoOAsilo: Os fãs contratados transformam o fânone em cânone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SamePlotSequel: When a sequel is basically a retelling of the original
+* SalvagedGameplayMechanic: When a video game sequel fixes a disliked mechanic in the previous entry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T155951Z" creationid="Luan" creationdate="20240105T155951Z">
+        <seg>* Br/SequenciaComAMesmaTrama: Quando uma sequência é basicamente uma recontagem do original.
+* Br/MecanicaDeJogoRestaurada: Quando uma sequência de videogame corrige uma mecânica controversa do jogo anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3856,6 +3906,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>--&gt;-- '''WebVideo/ScreenRantPitchMeetings''' for ''WesternAnimation/FrozenII''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T155045Z" creationid="Luan" creationdate="20240105T155045Z">
+        <seg>--&gt;-- '''Screen Rant Pitch Meetings''' para ''BrAnimacaoOcidental/FrozenII''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>--&gt;-- ''Series/{{Lost}}''</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231212T222450Z" creationid="Luan" creationdate="20231212T222450Z">
@@ -4046,6 +4104,18 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T194624Z" creationid="Luan" creationdate="20231221T194624Z">
         <seg>-&gt;'''Kirk:''' Pessoal, esta é uma missão perigosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>-&gt;'''Screenwriter:''' The first movie was supposed to be a one time thing and pretty much ended with, "And then they live happily ever after."\\
+'''Producer:''' Right, but then money happened.\\
+'''Screenwriter:''' But then money happened.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T155014Z" creationid="Luan" creationdate="20240105T155014Z">
+        <seg>-&gt;'''Roteirista:''' O primeiro filme deveria ter sido uma coisa de uma vez só e até mesmo terminou com "E eles viveram felizes para sempre."\\
+'''Produtor:''' É, mas aí entrou o dinheiro.\\
+'''Roteirista:''' Mas aí entrou o dinheiro.</seg>
       </tuv>
     </tu>
     <tu>

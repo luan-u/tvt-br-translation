@@ -1774,6 +1774,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FirstInstallmentWins: A piece of media receives one or many sequels, but the original is the one everybody loves and remembers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145555Z" creationid="Luan" creationdate="20240105T145555Z">
+        <seg>* Br/APrimeiraEntradaVence: Certa obra recebe uma ou mais sequências, mas o original é aquele que todo mundo lembra e ama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* FissionMailed: When losing a game sometimes modifies the status quo, it would subvert it into the game being continued, though it's not always the case.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T154343Z" creationid="Luan" creationdate="20231208T154343Z">
@@ -1846,6 +1854,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HappyEndingOverride: Sequel starts out with a previous victory negated and things much worse than when they began.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145157Z" creationid="Luan" creationdate="20240105T145157Z">
+        <seg>* Br/PassarPorCimaDoFinalFeliz: A sequência começa com a negação de uma vitória prévia e as coisas muito piores em relação ao começo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HeinousnessRetcon: A returning villain's crimes or personality are retconned to make them better/worse than originally established.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T203603Z" creationid="Luan" creationdate="20231215T203603Z">
@@ -1858,6 +1874,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T230101Z" creationid="Luan" creationdate="20231206T230101Z">
         <seg>* Br/ComoChegamosAqui e Br/InMediasRes são relacionados, mas não idênticos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ImmediateSequel: A sequel where the plot picks up immediately after the previous part.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145228Z" creationid="Luan" creationdate="20240105T145228Z">
+        <seg>* Br/SequenciaImediata: Uma sequência em que a trama continua imediatamente no ponto onde a obra anterior termina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2162,6 +2186,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* NumberedSequels: When a sequel title has a number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145246Z" creationid="Luan" creationdate="20240105T145246Z">
+        <seg>* Br/SequenciasNumeradas: Quando o título de uma sequência tem um número.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Obvious lack of investment in the production.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T204345Z" creationid="Luan" creationdate="20231210T204345Z">
@@ -2258,6 +2290,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231216T211953Z" creationid="Luan" creationdate="20231216T211953Z">
         <seg>* Br/FuroNaTrama: Um erro na escrita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* PrequelInTheLostAge: Sequel set in the time the original says has long passed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145355Z" creationid="Luan" creationdate="20240105T145355Z">
+        <seg>* Br/PrequenciaNaIdadePerdida: Uma sequência ambientada em uma era que no original é tida como muito antiga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2422,12 +2462,36 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* RunningTheAsylum: Hired fans turn fanon into canon.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145415Z" creationid="Luan" creationdate="20240105T145415Z">
+        <seg>* Br/AdministrandoOAsilo: Os fãs contratados transformam o fânone em cânone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SavedForTheSequel: Plot element left to be developed in the sequel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145435Z" creationid="Luan" creationdate="20240105T145435Z">
+        <seg>* Br/GuardadoParaASequencia: Um elemento de trama conservado para ser desenvolvido na sequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ScriptWank: The creator explicitly spells out a work's message because they don't trust the audience to pick up on the subtext, goes hand in hand with...
 * ShowDontTell: A common bit of writing advice which says to imply or demonstrate that something is happening rather than to just say it is.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T015344Z" creationid="Luan" creationdate="20231218T014658Z">
         <seg>* ??? ScriptWank: O criador explicitamente fala a mensagem de uma obra porque ele não confia que o público vai conseguir interpretar o subtexto.
 * Br/MostreNaoConte: Uma dica comum de escrita que diz para implicar ou demonstrar que algo está acontecendo ao invés de dizer que está acontecendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SequelHook: A hint at a future installment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145508Z" creationid="Luan" creationdate="20240105T145508Z">
+        <seg>* Br/GanchoParaASequencia: Um ponto de engate para uma obra futura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3303,6 +3367,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* {{Interquel}}: A sequel set ''between'' two previous installments; also sometimes used for a sequel that takes place ''during'' a previous installment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145627Z" creationid="Luan" creationdate="20240105T145627Z">
+        <seg>* Br/{{Interquencia}}: Uma sequência que fica ''entre'' duas entradas anteriores; às vezes também usado para uma sequência que se passa ''durante'' uma entrada anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* {{Kevlard}}: Similar to made of rubber, but with protective blubber instead.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T200139Z" creationid="Luan" creationdate="20231206T200139Z">
@@ -3315,6 +3387,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T013231Z" creationid="Luan" creationdate="20231218T013231Z">
         <seg>* ??? {{Macekre}}: Uma Br/MudancaDeTramaInduzidaPorDublagem que foi mal-feita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* {{Prequel}}: Sequel chronologically set before the original.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145329Z" creationid="Luan" creationdate="20240105T145329Z">
+        <seg>* Br/{{Prequencia}}: Uma sequência que cronologicamente fica antes do original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3501,6 +3581,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T195132Z" creationid="Luan" creationdate="20231206T195132Z">
         <seg>** Ironicamente, o título não é exatamente adequado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** LetteredSequel: When a sequel title has a letter instead of number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145314Z" creationid="Luan" creationdate="20240105T145314Z">
+        <seg>** Br/SequenciaComLetras: Quando o título da sequência tem uma letra no lugar de um número.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8139,6 +8227,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T200641Z" creationid="Luan" creationdate="20231215T200641Z">
         <seg>Pode envolver Br/AbrirUmaLataDeClones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>May or may not be fulfilled.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145512Z" creationid="Luan" creationdate="20240105T145512Z">
+        <seg>Pode ou não ser utilizado.</seg>
       </tuv>
     </tu>
     <tu>

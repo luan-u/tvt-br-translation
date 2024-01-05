@@ -1294,6 +1294,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ArtShiftedSequel: A sequel or new installment for a work uses a different art style than the original did.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143232Z" creationid="Luan" creationdate="20240105T143232Z">
+        <seg>* Br/SequenciaComMudancaArtistica: Uma sequência usa um estilo de arte diferente do original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ArtifactTitle: When a title relates to the first story, but not to the sequels.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143309Z" creationid="Luan" creationdate="20240105T143309Z">
+        <seg>* Br/NomeArtefato: Quando o nome tem conexão com a primeira história, mas não com as sequências.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AsLongAsItSoundsForeign: Words that are not foreign, but are put in to "sound" foreign.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231216T210905Z" creationid="Luan" creationdate="20231216T210905Z">
@@ -1306,6 +1322,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231216T211333Z" creationid="Luan" creationdate="20231216T211333Z">
         <seg>* Br/EraDeAlienacaoDoPublico: Um momento em uma série que trouxe uma mudança impopular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BTeamSequel: A lesser team takes over production of the sequel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143344Z" creationid="Luan" creationdate="20240105T143344Z">
+        <seg>* Br/SequenciaClasseB: Uma equipe menor cuida da produção da sequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BagOfSpilling: In a video game sequel, a character won't keep what they collected in the previous game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143408Z" creationid="Luan" creationdate="20240105T143408Z">
+        <seg>* ??? BagOfSpilling: Em uma sequência de videogame, o personagem não retém os itens coletados no jogo anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1338,6 +1370,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231212T011523Z" creationid="Luan" creationdate="20231212T011523Z">
         <seg>* Br/Inquietos17: O final da infância, com o desenvolvimento de um senso de personalidade aos dezessete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BreatherEpisode: An installment that goes LighterAndSofter or even DenserAndWackier, especially when following a WhamEpisode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143459Z" creationid="Luan" creationdate="20240105T143459Z">
+        <seg>* Br/EpisodioDeRespiro: Uma novo episódio que é Br/MaisAnimadoELeve ou até Br/MaisDensoEEstranho, especialmente logo após Br/AqueleEpisodio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1394,6 +1434,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T202430Z" creationid="Luan" creationdate="20231215T202430Z">
         <seg>* Br/DescontinuidadeDeCanone: Eventos prévios são tratados como se nunca tivessem acontecido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CanonDiscontinuity: When an entry ignores the canon of at least one previous episode forming an AlternateContinuity or [[AlternateTimeline Timeline]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143604Z" creationid="Luan" creationdate="20240105T143604Z">
+        <seg>* Br/DescontinuidadeDeCanone: Quando uma entrada ignora o cânone de pelo menos um episódio anterior, formando assim uma Br/ContinuidadeAlternativa ou uma Br/LinhaDoTempoAlternativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CapcomSequelStagnation: When a game gets released many times with small changes between versions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143516Z" creationid="Luan" creationdate="20240105T143516Z">
+        <seg>* Br/EstagnacaoDeSequenciaDaCapcom: Quando um jogo é relançado muitas vezes com pequenas mudanças entre as versões.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1462,6 +1518,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ChangingOfTheGuard: A sequel which features or focuses on different characters from the original work.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143725Z" creationid="Luan" creationdate="20240105T143725Z">
+        <seg>* Br/TrocaDeTurno: Uma sequência que apresenta ou foca em personagens que não são os da obra original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* CharacterDerailment: Character changes personality with no explanation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231216T211840Z" creationid="Luan" creationdate="20231216T211840Z">
@@ -1474,6 +1538,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T202734Z" creationid="Luan" creationdate="20231215T202734Z">
         <seg>* Br/SindromeDeChuckCunningham: Um personagem some da narrativa sem explicação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CliffhangerWall: Instead of moving forward in the timeline, a series/franchise spends a few entries doing interquels and prequels instead (usually disregarding a sequel hook in the process).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T144633Z" creationid="Luan" creationdate="20240105T144633Z">
+        <seg>* Br/ContornandoOPenhasco: Ao invés de avançar a história, uma série ou franquia gasta algumas entradas fazendo interquências e prequências, desconsiderando no processo um gancho de sequência.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3488,6 +3560,20 @@ Br/ExemplosEmFalta.</seg>
         <seg>----
 !!Exemplos:
 Br/ExemplosEmFalta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>----
+!!Tropes related to sequels:
+[[index]]
+* ActionizedSequel: The sequel is more action-packed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143155Z" creationid="Luan" creationdate="20240105T143155Z">
+        <seg>----
+!!Tropos relacionados à sequências:
+[[index]]
+* Br/SequenciaComMaisAcao: A sequência é mais carregada com ação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5512,6 +5598,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Essentially, all prequels are sequels of a sort.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T142844Z" creationid="Luan" creationdate="20240105T142844Z">
+        <seg>De certo modo, toda prequência é também uma sequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>EtTuBrute may also counts as this when a hero does not make a full FaceHeelTurn, but gets called out for nearly betraying their allies.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T010630Z" creationid="Luan" creationdate="20231215T010630Z">
@@ -5896,6 +5990,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163605Z" creationid="Luan" creationdate="20231029T163605Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For much the same reason Hollywood likes to make [[TheFilmOfTheBook adaptations of existing works from other media]] or {{Remake}}s of older films, big film studios would ''love'' for every film they have to become a series and earn lots of cash.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T142945Z" creationid="Luan" creationdate="20240105T142945Z">
+        <seg>Esses também são os motivos pelos quais Hollywood gosta de fazer [[Br/OFilmeDoLivro adaptações de trabalhos existentes para outras mídias]] ou refazer filmes antigos. Estúdios grandes ''adorariam'' que cada filme se tornasse uma série que rendesse montanhas de dinheiro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6430,6 +6532,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If it's a planned sequel then the savvy author will have at least a rough draft or idea of what happens in the sequel(s), what happened in the prequel, and leave in various {{Sequel Hook}}s and {{Schrodingers Gun}}s in the original to later link it with any following stories.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T142748Z" creationid="Luan" creationdate="20240105T142748Z">
+        <seg>Se for uma sequência planejada então o autor experiente vai ter no mínimo um rascunho do que acontece na(s) sequência(s) e também do que aconteceu antes, deixando assim vários [[Br/GanchoParaASequencia ganchos para sequências]] e [[Br/ArmaDeSchrodinger armas de Schrodinger]] no trabalho original para conectar depois com histórias posteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If it's a two-person show, with one person playing the Only Sane Man to the other's wackiness, it's a StraightManAndWiseGuy scenario.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T003632Z" creationid="Luan" creationdate="20231220T003615Z">
@@ -6690,6 +6800,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231226T151553Z" creationid="Luan" creationdate="20231226T151553Z">
         <seg>Este tropo costuma ser majoritariamente um tropo de Br/{{filme}}s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you ever run into a film that has an unusual, [[WhatHappenedToTheMouse niggling plot detail that is never solved]], it may well be because the author hoped for a sequel that never happened.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T142811Z" creationid="Luan" creationdate="20240105T142811Z">
+        <seg>Se em algum momento você passar por um filme que tem um [[Br/MasOQueHouveComORato detalhe incomum que nunca foi resolvido]], provavelmente é porque o autor esperava uma sequência que nunca aconteceu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7837,6 +7955,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231226T020758Z" creationid="Luan" creationdate="20231226T020758Z">
         <seg>Assim como na Br/RegraDoLegal e na Br/RegraDaGraca, a Regra do Terror diz que se for assustador o bastante, não importa o quão ilógico possa ser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Like the sequel, the prequel is by definition made after the original has been released, but takes an earlier place chronologically inside the same story while the sequel takes place after.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T142838Z" creationid="Luan" creationdate="20240105T142838Z">
+        <seg>Tal como a sequência, a prequência é feita depois que a obra original foi lançada, mas acontece antes cronologicamente na histórias dos fatos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9300,6 +9426,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See also SeriesTropes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143106Z" creationid="Luan" creationdate="20240105T143106Z">
+        <seg>Ver também Br/TroposDeSeries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See also SophomoreSlump, TheProblemWithLicensedGames, and SeasonalRot.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T013001Z" creationid="Luan" creationdate="20240105T013001Z">
@@ -10748,6 +10882,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The relationship between a sequel and {{Prequel}} is a close one.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T142826Z" creationid="Luan" creationdate="20240105T142826Z">
+        <seg>A relação entre uma sequência e uma Br/{{Prequencia}} é estreita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The retcon is considered by many to occur when current events contradict the past continuity of the series and is evidence of a WriterOnBoard.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T171434Z" creationid="Luan" creationdate="20231215T171434Z">
@@ -10942,6 +11084,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are a lot of marketing advantages to this: a pre-existing fan base, is easier to write (especially if the film series is going on a novel-per-film rate) and the actors likely had a popularity boost from the original, bringing more viewers in.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143050Z" creationid="Luan" creationdate="20240105T143050Z">
+        <seg>Existem muitas vantagens de marketing nisso: uma base de fãs pré estabelecida, é mais fácil de escrever e os atores provavelmente tiveram ganho de popularidade, o que vai atrair mais espectadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are basically two kinds of sequels, planned and unplanned.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T142505Z" creationid="Luan" creationdate="20240105T142505Z">
@@ -11060,6 +11210,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T023119Z" creationid="Luan" creationdate="20231218T023119Z">
         <seg>Essas pessoas talvez prefiram programas que dê para começar a qualquer momento sem perder muito conteúdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These plot hooks will likely be vague enough that the sequel(s) aren't constrained to go in one specific direction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T142758Z" creationid="Luan" creationdate="20240105T142758Z">
+        <seg>Esses ganchos serão vagos o suficiente para que a(s) sequência(s) não fiquem restritas a uma única direção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12246,6 +12404,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T170942Z" creationid="Luan" creationdate="20231220T170942Z">
         <seg>Tentar argumentar com um deles também não ajuda, pois muitos Cavaleiros Templários acreditam que [[Br/ConoscoOuContraNos se você não está com eles, então está contra eles]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Typically done to works that were poorly received.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143616Z" creationid="Luan" creationdate="20240105T143616Z">
+        <seg>Costuma ser feito com obras que não foram bem recebidas.</seg>
       </tuv>
     </tu>
     <tu>

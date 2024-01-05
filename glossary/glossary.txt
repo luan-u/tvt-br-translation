@@ -1926,3 +1926,4 @@ AudienceShift	Br/MudancaDePublico
 SamePlotSequel	Br/SequenciaComAMesmaTrama
 FollowTheLeader	Br/SeguirOLider
 WackyWaysideTribe	Br/EstradaComUmaTriboEstranha
+PanderingToTheBase	Br/BajularOFaClube

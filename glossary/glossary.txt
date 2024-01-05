@@ -1946,3 +1946,6 @@ CapcomSequelStagnation	Br/EstagnacaoDeSequenciaDaCapcom
 FranchiseZombie	Br/FranquiaZumbi
 SequelEscalation	Br/EscaladaDaSequencia
 PostScriptSeason	Br/TemporadaPosRoteiro
+SequelSnark	Br/SequenciaSarcastica
+RidiculousFutureSequelisation	Br/SequenciaFuturaRidicula
+UnpleasableFanbase	Br/FaClubeIngrato

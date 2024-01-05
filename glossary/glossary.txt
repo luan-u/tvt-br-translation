@@ -1972,3 +1972,4 @@ AlwaysABiggerFish	Br/SempreHaUmPeixeMaior
 EvilEvolves	Br/OMalEvolui
 SoLastSeason	Br/IssoETaoTemporadaPassada
 LensmanArmsRace	Br/CorridaArmamentistaDeLensman
+RecycledPremise	Br/PremissaReciclada

@@ -1936,3 +1936,7 @@ TheyWastedAPerfectlyGoodCharacter	Br/ElesDesperdicaramUmPersonagemPerfeitamenteB
 NumberedSequels	Br/SequenciasNumeradas
 StoppedNumberingSequels	Br/PararamDeNumerarAsSequencias
 TheRemake	Br/{{Refilmagem}}
+PublicDomainCharacter	Br/PersonagemDeDominioPublico
+OddlyNamedSequel2ElectricBoogaloo	Br/SequenciaComNomeEstranho2BoogalooEletrico
+FirstInstallmentWins	Br/APrimeiraEntradaVence
+EvenBetterSequel	Br/SequenciaAindaMelhor

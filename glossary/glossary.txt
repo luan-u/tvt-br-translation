@@ -1322,7 +1322,7 @@ TakingTheBullet	Br/LevandoOTiro
 TalkToEveryone	Br/FaleComTodoMundo
 TallDarkAndSnarky	Br/AltoTrevosoESarcastico
 TamerAndChaster	Br/MaisMansoECasto
-TaughtByExperience	Br/AprendeuPelaExperiencia
+TaughtByExperience	Br/EnsinadoPelaExperiencia
 TautologicalTemplar	Br/TemplarioTautologico
 TearDryer	Br/SecadorDeLagrimas
 TearJerker	Br/ArrancadorDeLagrimas
@@ -1729,7 +1729,7 @@ ScrewDestiny	Br/DaneSeODestino
 KnightInShiningArmor	Br/CavaleiroEmArmaduraReluzente
 KnightInSourArmor	Br/CavaleiroEmArmaduraAzeda
 CosmicHorrorStory	Br/HistoriaDeHorrorCosmico
-DeathWorld	Br/MundoMortal
+DeathWorld	Br/MundoDeMorte
 VillainWorld	Br/MundoVilanesco
 SugarBowl	Br/TigelaDeAcucar
 AWorldHalfFull	Br/MundoMeioCheio
@@ -1868,7 +1868,7 @@ NeverBeAHero	Br/NuncaSejaUmHeroi
 StupidityIsTheOnlyOption	Br/EstupidezEAUnicaOpcao
 PyrrhicVictory	Br/VitoriaDePirro
 PlayerCharacter	Br/PersonagemDoJogador
-SmallStepsHero	Br/HeroiDePassosPequenos
+SmallStepsHero	Br/HeroiDePequenosPassos
 CreateYourOwnVillain	Br/CriarOSeuProprioVilao
 TwoRightsMakeAWrong	Br/DoisAcertosCausamUmErro
 NiceJobFixingItVillain	Br/BomTrabalhoConsertandoTudoVilao
@@ -1959,3 +1959,16 @@ Flashback	Br/{{Recordacao}}
 Interquel	Br/{{Interquencia}}
 PrequelInTheLostAge	Br/PrequenciaNaIdadePerdida
 AnachronicOrder	Br/OrdemAnacronica
+TwentyBearAsses	Br/VinteBundasDeUrso
+SuperWeight	Br/SuperPeso
+ConvenientQuesting	Br/MissoesConvenientes
+DeathMountain	Br/MontanhaDaMorte
+TheLostWoods	Br/FlorestaPerdida
+GhibliHills	Br/ColinasGhibli
+MonsterThreatExpiration	Br/VencimentoDaAmeacaDeMonstro
+SealedCastInAMultipack	Br/ElencoSeladoEmUmaMochila
+NotSoHarmlessVillain	Br/VilaoNaoTaoInofensivo
+AlwaysABiggerFish	Br/SempreHaUmPeixeMaior
+EvilEvolves	Br/OMalEvolui
+SoLastSeason	Br/IssoETaoTemporadaPassada
+LensmanArmsRace	Br/CorridaArmamentistaDeLensman

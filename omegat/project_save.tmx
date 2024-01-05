@@ -2988,6 +2988,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* StillbornFranchise: Sequels were planned but never made thanks to a commercial failure.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203932Z" creationid="Luan" creationdate="20240105T203932Z">
+        <seg>* Br/FranquiaNatimorta: Sequências foram planejadas mas nunca foram feitas por causa de uma falha comercial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* StoppedNumberingSequels: First, sequels of the series had numbers, but then not.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203947Z" creationid="Luan" creationdate="20240105T203947Z">
+        <seg>* Br/PararamDeNumerarAsSequencias: No começo as sequências tinham números, mas agora não mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Stories featuring a RestrictedRescueOperation often end like this.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231212T214908Z" creationid="Luan" creationdate="20231212T214908Z">
@@ -3004,10 +3020,34 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SuddenSequelDeathSyndrome: People who survived the original don't make it through the sequel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T204000Z" creationid="Luan" creationdate="20240105T204000Z">
+        <seg>* Br/SindromeDeMorteSubitaNaSequencia: Pessoas que sobreviveram ao original não aparecem na sequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SuddenSequelHeelSyndrome: Someone who was good in the original [[FaceHeelTurn suddenly becomes evil or antagonistic]] in the sequel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T204106Z" creationid="Luan" creationdate="20240105T204106Z">
+        <seg>* ??? SuddenSequelHeelSyndrome: Alguém que era do bem na obra original [[Br/PassarParaOLadoDosViloes se torna antagonista ou vilão]] na sequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Surprise attacks that can only be avoided by sheerest luck or [[TrialAndErrorGameplay memorizing their locations]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T184947Z" creationid="Luan" creationdate="20231101T184947Z">
         <seg>* Ataques surpresa que podem ser evitados apenas por pura sorte ou [[Br/JogoDeTentativaEErro ao memorizar as localizações]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SurprisinglyImprovedSequel: When EvenBetterSequel happens in circumstances where it's even more unexpected than usual.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T204131Z" creationid="Luan" creationdate="20240105T204131Z">
+        <seg>* Br/SequenciaSurpreendentementeMelhor: Quando uma Br/SequenciaAindaMelhor acontece em circunstâncias em que isso era inesperado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3428,6 +3468,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ThematicSequelLogoChange: A sequel to a work changes the logo to match its plot and/or themes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T204540Z" creationid="Luan" creationdate="20240105T204540Z">
+        <seg>* Br/SequenciaTematicaComLogotipoDiferente: Uma sequência muda o logotipo para combinar com a trama e/ou com os temas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ThematicSeries: Sequels that don't necessarily follow the same continuity or characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T204228Z" creationid="Luan" creationdate="20240105T204228Z">
+        <seg>* Br/SerieTematica: Sequências que não necessariamente acompanham os mesmos personagens ou continuidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ThereIsNoKillLikeOverkill: The avenger won't let up even after the victim has stopped breathing.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140825Z" creationid="Luan" creationdate="20240104T140825Z">
@@ -3532,6 +3588,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* UnInstallment: A work that doesn't actually exist nevertheless has a sequel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T204819Z" creationid="Luan" creationdate="20240105T204819Z">
+        <seg>* ??? UnInstallment: Uma obra que não existe de verdade recebe uma sequência mesmo assim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* UnprocessedResignation: A character quits their job, but manages to get it back by the end of the episode due to the boss refusing to process the necessary paperwork.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T151318Z" creationid="Luan" creationdate="20231208T151318Z">
@@ -3624,6 +3688,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T010927Z" creationid="Luan" creationdate="20240105T010927Z">
         <seg>* Acontece com adaptações ou [[Br/{{Refilmagem}} refilmagens]] quando todo o material fonte já foi utilizado no filme (ou filmes) anterior e então [[Br/AdaptacaoExpansiva se continua a produção de sequências com histórias originais]] -- principalmente quando o autor do material original não está disponível para ajudar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* WordSequel: The sequels follow this pattern: ''Name, Name II, Name III, Name: Word''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T204859Z" creationid="Luan" creationdate="20240105T204859Z">
+        <seg>* Br/SequenciaComPalavra: As sequências seguem o padrão: ''Nome, Nome II, Nome III, Nome: Palavra''.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3759,6 +3831,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T214702Z" creationid="Luan" creationdate="20231210T214702Z">
         <seg>* [[Br/SequeliteCronica Excesso de sequências e trabalhos derivados]], um menos criativo que o outro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* [[{{Title1}} Title 1]]: The first in the series has an indication in the title that it's the first, however, a sequel might not come.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T204756Z" creationid="Luan" creationdate="20240105T204756Z">
+        <seg>* Br/TituloUm: O primeiro de uma série tem uma indicação no título de que é o primeiro. No entanto, uma sequência pode não vir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4041,6 +4121,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T222259Z" creationid="Luan" creationdate="20231101T222259Z">
         <seg>** Ou se os níveis de dificuldade na verdade são justos, pode ser que haja um nível de dificuldade opcional [[Br/MaisDificilQueODificil que faz com que os outros níveis, até o difícil, se pareçam com brincadeira de criança]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** SequelLogoInRuins: The logo for a future title is more ruined than the original to reflect its darker nature.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T204625Z" creationid="Luan" creationdate="20240105T204625Z">
+        <seg>** Br/LogotipoDaSequenciaEmRuinas: O logotipo de um título posterior está mais arruinado que o original para refletir sua atmosfera mais sombria.</seg>
       </tuv>
     </tu>
     <tu>

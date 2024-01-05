@@ -3546,6 +3546,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>-&gt;''"Every generation has a legend.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T130417Z" creationid="Luan" creationdate="20240105T130358Z">
+        <seg>-&gt;''"Toda geração tem uma lenda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>-&gt;''"I think Homer gets stupider every year."''
 --&gt;-- '''Professor Lawrence Pierce''', ''WesternAnimation/TheSimpsons'', "[[Recap/TheSimpsonsS7E10TheSimpsons138thEpisodeSpectacular The Simpsons 138th Episode Spectacular]]"</seg>
       </tuv>
@@ -4022,6 +4030,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231102T183556Z" creationid="Luan" creationdate="20231102T183556Z">
         <seg>Um tropo muito raro ainda é um tropo, mas, por definição, um tropo ainda precisa representar algum tipo de padrão com sentido intrínseco (ao contrário de uma coincidência).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A work that is produced ''after'' one installment in a series but, internally, is chronologically set ''prior'' to it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T130534Z" creationid="Luan" creationdate="20240105T130534Z">
+        <seg>Uma obra que é produzida ''depois'' de uma entrada em uma série mas que, internamente, fica cronologicamente ''antes'' dela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4536,6 +4552,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T171957Z" creationid="Luan" creationdate="20231215T171957Z">
         <seg>A medida em que o número de reviravoltas e desvios em uma história se acumula, fica mais difícil identificar se um evento é de fato um ''retcon'' (o que implica que os escritores mudaram de ideia) ou um desvio calculado (o que implica quue os escritores tinham em mente a versão ''do retcon'' o tempo todo e estavam deliberadamente atraindo o público para longe).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As they might say, sometimes it's not about the destination...but the journey.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T130709Z" creationid="Luan" creationdate="20240105T130709Z">
+        <seg>Como dizem, às vezes não é o destino, mas sim a jornada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5416,6 +5440,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Either way, it may be time for a Prequel (a {{portmanteau}} of "pre-" and "{{sequel}}"): a sequel that is set chronologically ''before'' the previous work.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T131022Z" creationid="Luan" creationdate="20240105T131022Z">
+        <seg>Nesse caso, é tempo de produzir uma Prequência (um [[Br/{{amalgama}} amálgama]] de "pré-" e "[[Br/{{sequencia}} sequência]]"[[note]]também conhecido como ''prequel'', termo emprestado do inglês que ''também'' é um amálgama[[/note]]): uma sequência que se passa cronologicamente ''antes'' da obra anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enjoyment comes from a balance of Recognition and Surprise -- we enjoy things that we can relate to and have seen before, but we also like to be surprised.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T152924Z" creationid="Luan" creationdate="20231214T152924Z">
@@ -5492,6 +5524,24 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231103T141729Z" creationid="Luan" creationdate="20231103T141729Z">
         <seg>Nunca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Every journey has a first step.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T130419Z" creationid="Luan" creationdate="20240105T130405Z">
+        <seg>Toda jornada tem um primeiro passo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Every saga has a beginning."''
+--&gt;-- ''Film/ThePhantomMenace'' {{tagline}}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T130500Z" creationid="Luan" creationdate="20240105T130500Z">
+        <seg>Toda saga tem um começo."''
+--&gt;--Chamada para ''BrFilme/AAmeacaFantasma''</seg>
       </tuv>
     </tu>
     <tu>
@@ -5758,6 +5808,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T140636Z" creationid="Luan" creationdate="20231208T140636Z">
         <seg>Por exemplo, se um personagem principal encontra um interesse amoroso no começo do episódio, é praticamente certo de que eles vão se separar no fim, por [[Br/NaoEVoceSaoMeusInimigos um motivo]] ou [[Br/PequenasFalhasGrandesRompimentos outro]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, in the ''Franchise/StarWars'' prequel trilogy, various characters interact with others they would meet again in the original ''Star Wars'' trilogy, but in that film they show no evidence of recognizing them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T131324Z" creationid="Luan" creationdate="20240105T131324Z">
+        <seg>Por exemplo, na trilogia prequência de ''BrFranquia/StarWars'', muitos personagens interagem com outros personagens que são encontrados novamente na trilogia original de ''Star Wars'', mas no filme eles não mostram evidência de que os tenham reconhecido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7895,6 +7953,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maybe the last entry in the series left no room for a sequel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T130546Z" creationid="Luan" creationdate="20240105T130546Z">
+        <seg>Talvez a última entrada na série não tenha dado margem para uma sequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Maybe the now-dead antagonist was actually holding back an [[SealedEvilInACan even greater evil]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T182714Z" creationid="Luan" creationdate="20240104T182714Z">
@@ -7931,6 +7997,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T182851Z" creationid="Luan" creationdate="20240104T182851Z">
         <seg>Talvez o vilão, tendo sido derrotado ou ferido, está agora [[Br/FormaFinal transformado em uma nova forma suprema, imparável, invencível e furiosa]], geralmente [[Br/MonstroTorturado contra a vontade do vilão]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maybe the writers just want to explore the {{backstory}}, OriginsEpisode, StartOfDarkness or what have you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T130638Z" creationid="Luan" creationdate="20240105T130638Z">
+        <seg>Talvez os escritores simplesmente queiram explorar a Br/HistoriaDeFundo, o Br/EpisodioDeOrigem ou o Br/ComecoDasTrevas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maybe they want to provide more context to certain elements of previous installments.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T130652Z" creationid="Luan" creationdate="20240105T130652Z">
+        <seg>Talvez eles queiram dar mais contexto para certos elementos das obras anteriores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8457,6 +8539,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On one hand, this allows for {{Call Forward}}s as well as an opportunity to [[ExpandedUniverse further expand the universe]] of a work.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T131115Z" creationid="Luan" creationdate="20240105T131115Z">
+        <seg>Por um lado, isso dá muita margem para referências a itens futuros assim como uma oportunidade para [[Br/UniversoExpandido expandir o universo]] de uma obra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the ''other'' other hand, a clear warning might be taken as CassandraTruth anyway.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T184726Z" creationid="Luan" creationdate="20240104T184726Z">
@@ -8501,6 +8591,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T155828Z" creationid="Luan" creationdate="20231208T155828Z">
         <seg>Por outro lado, isso às vezes é uma '''inversão''' de Status Quo É Deus, já que em outras ocasiões as pessoas ''tentam'' mudar o status quo ao assegurar que o conflito não se repita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the other, the prequel often heavily {{retcon}}s the backstory, it can have consequences that should have been mentioned in the original story, and it's difficult to keep up the tension when [[ForegoneConclusion the audience knows how it ends]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T131221Z" creationid="Luan" creationdate="20240105T131221Z">
+        <seg>Por outro, a prequência costuma usar muita Br/ContinuidadeRetroativa para emendar as histórias de fundo, pode ter consequências que deveriam ter sido mencionadas na história original e também é difícil manter a tensão quando o público [[Br/ConclusaoConhecida já sabe como termina]].</seg>
       </tuv>
     </tu>
     <tu>

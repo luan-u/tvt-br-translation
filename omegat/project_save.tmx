@@ -4348,6 +4348,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An unplanned sequel is often the result of an author discovering, much to their delight, that the original did well and readers want more stories with their favorite dashing hero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T142512Z" creationid="Luan" creationdate="20240105T142512Z">
+        <seg>ma sequência não planejada é comumente o resultado do autor descobrindo (com satisfação) que o trabalho original foi bem recebido e os leitores querem mais histórias com o seu herói predileto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analyzing a medium in depth and pulling it apart by the [[{{Tropes}} seams]] teaches you to watch things critically -- analyzing every aspect and codifying them inside your mind.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T152356Z" creationid="Luan" creationdate="20231214T152356Z">
@@ -4576,6 +4584,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T130709Z" creationid="Luan" creationdate="20240105T130709Z">
         <seg>Como dizem, às vezes não é o destino, mas sim a jornada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As you [[ItsTheSameNowItSucks can]] [[TheyChangedItNowItSucks tell]], these are [[UnpleasableFanbase foolproof]] choices.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T142732Z" creationid="Luan" creationdate="20240105T142732Z">
+        <seg>Como você [[Br/ElesMudaramPorIssoEUmaDroga pode]] [[Br/NaoMudouNadaPorIssoEUmaDroga imaginar]], estas são escolhas [[Br/FaClubeIngrato à prova de idiotas]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -6366,6 +6382,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a work gets enough sequels, it becomes a FilmSerial or SerialNovel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T142452Z" creationid="Luan" creationdate="20240105T142452Z">
+        <seg>Se uma obra receber sequências suficientes, pode se tornar um Br/FilmeSeriado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If all the other characters are otherwise sane, and really should see something, but only one guy does, he's an EinsteinSue.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T002532Z" creationid="Luan" creationdate="20231220T002532Z">
@@ -6610,6 +6634,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T174336Z" creationid="Luan" creationdate="20231220T174336Z">
         <seg>Se ainda assim ele é nominalmente bom, então ele é um Br/HeroiAntagonista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If they turn out to be bad, it's because of {{Sequelitis}}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T142458Z" creationid="Luan" creationdate="20240105T142458Z">
+        <seg>Se a sequência ficar ruim, é por causa da Br/SequeliteCronica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7060,6 +7092,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231103T201344Z" creationid="Luan" creationdate="20231103T201344Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In these cases the original is very likely a self contained stand alone story that does not require having read a {{Prequel}} to understand, often leaving no hints at what a sequel may have in store (or that there would even ''be'' one).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T142533Z" creationid="Luan" creationdate="20240105T142533Z">
+        <seg>Nestes casos o original é geralmente uma história completa por si só que não requer a leitura de alguma obra anterior para compreender, geralmente sem deixar pistas para o que a sequência pode trazer de novo (ou sem implicar que haverá uma).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9340,6 +9380,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sequels are stories that take place after the original, often with most if not all of the same cast and frequently in the same setting if not the same location.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T142433Z" creationid="Luan" creationdate="20240105T142433Z">
+        <seg>Sequências são histórias que ocorrem após a história original, geralmente com a maior parte do elenco, se não ele inteiro, e em ambientação similar, se não igual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sequels made to sell toys instead of trying to tell a story can [[Analysis/MerchandiseDriven warp the script in ways]], almost none for the best (e.g. making the movie more "kid-friendly", introducing/focusing on cute/marketable characters, or even [[ChuckCunninghamSyndrome completely ditching]] characters who can't sell toys).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T005732Z" creationid="Luan" creationdate="20240105T005732Z">
@@ -10894,6 +10942,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are basically two kinds of sequels, planned and unplanned.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T142505Z" creationid="Luan" creationdate="20240105T142505Z">
+        <seg>Há dois tipos de sequências: as planejadas e as não-planejadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are some deliberate subversions, of course, [[PosthumousNarration including ones where a ghost is narrating or scrapbooking]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T233140Z" creationid="Luan" creationdate="20231206T233140Z">
@@ -11506,6 +11562,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This gives the author two choices for where to take the sequel: [[RecycledPremise a simple rehash of the last adventure, with new locales and villains but with the same characters]] (plus a new SideKick or LoveInterest as an AudienceSurrogate for those who didn't see the original), or try to go for [[SequelEscalation a more epic arcing story]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T142619Z" creationid="Luan" creationdate="20240105T142619Z">
+        <seg>Isso dá ao autor duas escolhas para o rumo da sequência: [[Br/PremissaReciclada uma simples releitura da aventura anterior, com novos locais e novos vilões mas os mesmos personagens]] (com um novo parceiro ou Br/InteresseAmoroso para fazer o papel de Br/SuplenteDaPlateia para aqueles que não viram o trabalho original), ou tentar [[Br/EscaladaDaSequencia uma história ainda mais épica]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This happens much less often nowadays in movies, since just about everyone in the movie industry is aware of this trope, and almost all blockbuster movies are already made with sequels at least on the table, if not outright planned from the start.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T223355Z" creationid="Luan" creationdate="20240104T223355Z">
@@ -11590,6 +11654,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T183056Z" creationid="Luan" creationdate="20231215T183056Z">
         <seg>Isto é comum em franquias de ficção científica que se passam em um futuro não muito distante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is done by exploring the existing mythology and {{backstory}} that the original establishes (or weaving one in wholecloth if the original didn't have one).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240105T142645Z" creationid="Luan" creationdate="20240105T142645Z">
+        <seg>Isso é feito ao explorar a mitologia e a Br/HistoriaDeFundo que o original estabelece (ou entremeá-los se o original não tinha um).</seg>
       </tuv>
     </tu>
     <tu>

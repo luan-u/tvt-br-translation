@@ -1947,7 +1947,6 @@ FranchiseZombie	Br/FranquiaZumbi
 SequelEscalation	Br/EscaladaDaSequencia
 PostScriptSeason	Br/TemporadaPosRoteiro
 SequelSnark	Br/SequenciaSarcastica
-RidiculousFutureSequelisation	Br/SequenciaFuturaRidicula
 UnpleasableFanbase	Br/FaClubeIngrato
 Film/ThePhantomMenace	BrFilme/AAmeacaFantasma
 OriginsEpisode	Br/EpisodioDeOrigem
@@ -2002,3 +2001,7 @@ MoreDiverseSequel	Br/SequenciaMaisDiversa
 POVSequel	Br/SequenciaEmPontoDeVista
 ThirdIs3D	Br/OTerceiroEEm3D
 VideoGame3DLeap	Br/SaltoDeVideogameParaO3D
+OddballInTheSeries	Br/OEstranhoNaSerie
+RefittedForSequel	Br/ReadequadoParaASequencia
+RidiculousFutureSequelisation	Br/SequenciamentoFuturoRidiculo
+SalvagedGameplayMechanic	Br/MecanicaDeJogoRestaurada

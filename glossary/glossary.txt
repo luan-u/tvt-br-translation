@@ -1954,3 +1954,8 @@ OriginsEpisode	Br/EpisodioDeOrigem
 WholeEpisodeFlashback	Br/EpisodioDeRecordacao
 SortingAlgorithmOfEvil	Br/AlgoritmoOrdenadorDeMaldade
 ExpansionPackWorld	Br/PacoteDeExpansaoMundial
+CosmeticallyAdvancedPrequel	Br/PrequenciaCosmeticamenteAvancada
+Flashback	Br/{{Recordacao}}
+Interquel	Br/{{Interquencia}}
+PrequelInTheLostAge	Br/PrequenciaNaIdadePerdida
+AnachronicOrder	Br/OrdemAnacronica

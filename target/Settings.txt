@@ -1,0 +1,703 @@
+[[quoteright:300:[[BrLiteratura/FinistOFalcaoDaPenaMagica https://static.tvtropes.org/pmwiki/pub/images/bilbin_settings_1646.JPG]]]]
+[[caption-width-right:300:Escolher uma época e um local é importante para uma história.]]
+
+A ambientação é o conjunto composto pela ''época, local geográfico e circunstâncias da narrativa''.
+
+A ambientação provê o plano de fundo para a história. Ela costuma incluir contexto para além das salas e prédios que vemos na história. Por exemplo, a história pode nos falar sobre a cultura, costumes e crenças dos personagens.
+A ambientação pode mostrar um instante naquela época, ou ilustrar a passagem do tempo (ao mostrar a mudança das estações, por exemplo).
+
+Há muitas ambientações possíveis, tais como ambientações externas, históricas, ou simplesmente descrever a casa de alguém.
+----
+!!Tropos:
+[[index]]
+[[foldercontrol]]
+
+[[folder:'''Categorias''']]
+* Br/LugarAbandonado: Locais em ruínas que não são mais usados por pessoas.
+* Br/AmbientacoesDeAnime: Lugares que costumam ser encontrados em histórias de Br/{{anime}} e Br/{{manga}}.
+* Br/IndiceApocaliptico: Ambientações que foram devastadas por desastres de escala mundial.
+* Br/TroposDePraia: Tudo sobre terras costais que se encontram com o mar.
+* Br/TroposDeConstrucao: Todos os tipos de estruturas artificiais.
+** Br/TroposDeBanheiro: Lugares onde pessoas se lavam com propósitos higiênicos.
+** Br/TroposDeCastelo: Castelos e fortes.
+** Br/EstabelecimentosDeAlimentacao: Restaurantes, lanchonetes e outros locais em que se costuma comer.
+** Br/IndiceDaMercearia: Locais onde se pode comprar comida e outros itens para o dia-a-dia doméstico.
+** Br/TroposDeHospital: Um lugar que você talvez tenha que visitar se você não está se sentindo bem.
+** Br/TroposDeHotel: Alojamento temporário para viajantes.
+** Br/TroposDeCasa: Todo tipo de construção que pelo menos uma pessoa chama de lar.
+** Br/MuseuDeTropos: Locais onde artefatos ficam em exibição para propósitos educacionais.
+** Br/TroposDePrisao: Construções projetadas para manter pessoas em cativeiro.
+** Br/TroposDeEscola: Prédios educacionais.
+** Br/ATorre: Construções que são muito altas verticalmente.
+* Br/IndiceDoCirco
+* Br/ACidade: Assentamentos urbanos grandes e subúrbios adjacentes à áreas metropolitanas.
+* Br/IndiceInteriorano: Regiões rurais distantes de áreas urbanas, onde costuma-se viver próximo à fazendas e vegetação nativa.
+* Br/TroposDeDeserto: Regiões áridas e secas que recebem pouquíssima chuva.
+* Br/TroposDeCulturasENacoesFicticias: Países e civilizações fictícios, junto com as pessoas que vivem neles.
+* Br/AtlasHollywoodiano: A geografia geral da Terra.
+** Br/IndiceNacional: Países soberanos e nações-estado através do globo.
+* Br/HistoriaHollywoodiana: Ambientações inspiradas na longa história do mundo real.
+** Br/TroposDeHistoriaAlternativa: Ambientações que são inspiradas em períodos do nosso passado histórico, mas que se desviam dele de forma intencional.
+* ??? HomeBase: O quartel-general e/ou residência dos personagens principais.
+* Br/UmaMontanhaDeTropos: Tudo que é relacionado a montanhas e colinas.
+* Br/TroposDeOutroMundo: Reinos paralelos separados deste em que vivemos.
+** Br/UniversoAlternativo
+** Br/OutraDimensao
+** Br/PoucoTempoDeTelaParaARealidade
+* Br/PunkPunk
+* Br/ArtificiosDeAmbientacao
+* Br/PequenaVila: Assentamentos rurais ou suburbanos que são muito menores que cidades grandes.
+* Br/TroposDeEsgoto: Instalações subterrâneas para manuseio de rejeitos.
+* Br/TroposAoMar: O grande oceano azul.
+* Br/TroposNoEspaco: O vasto universo além do nosso planeta Terra.
+* Br/TroposDaSelva: Florestas verdejantes em regiões (semi)tropicais.
+* Br/AmbientacoesDeVideogame: Níveis, mapas, estágios e outros locais que geralmente são encontrados em videogames.
+* Br/NoFuturoNosNaoUsaremosEsteIndice: Todos os tropos que envolvem Br/OFuturo e o mundo de amanhã. 
+* Br/VoceNaoVaiQuererViverNesteIndice: Várias ambientações nada agradáveis em que ninguém ficaria se fosse possível sair.
+[[/folder]]
+
+[[folder:Tropos de Tempo]]
+* Br/VinteMinutosNoFuturo: No futuro próximo todo mundo é robótico e fala 10 idiomas.
+* Br/VinteMinutosNoPassado: Não é uma Br/ObraDeEpoca, mas também não está no tempo presente.
+* Br/DepoisDoFim: Uma catástrofe -- natural ou causada pela humanidade -- varreu uma larga porção da civilização humana. Aqueles que restaram lutam pela sobrevivência em um mundo pós-apocalíptico.
+* Br/IdadeDosRepteis: Um período primordial onde os répteis dominavam a Terra.
+* Br/AgroMundo: Um planeta, que geralmente é um Br/PlanetaComUmUnicoBioma, dedicado à agricultura.
+* Br/InvasaoAlienigena: Eles não vem em paz.
+* Br/CalendarioAlternativo: Se o final da Br/CalendarioAlternativo fosse usado como era, seria o ano 75 ao invés do ano 2020.
+* Br/OrfanatoAnacronico: Um orfanato tradicional em uma ambientação de primeiro mundo.
+* Br/MisturebaAnacronica: É impressão minha ou esse sujeito está vestindo uma toga, empunhando uma [[Br/KatanasSimplesmenteSaoMelhores katana]] e escutando música em um iPod?
+* Br/AnimalEONovoHomem: Os animais tomam o controle depois da queda da humanidade.
+* Br/OApunkalipse: Os punks emergem no colapso da civilização; o apocalipse emerge na era dos punks. É tudo mais do mesmo, e os punks vieram para ficar.
+* Br/TemposBiblicos: As eras históricas onde BrLiteratura/ABiblia se passa.
+* Br/FuturoGrandeEGordo: No futuro, obeso é o novo magro.
+* Br/GuerraDeInsetos: Humanos contra aliens insectóides.
+* Br/FuturismoCassete: O começo da era digital que surgiu na segunda metade dos anos 1970, mas extrapolado para o futuro. 
+* ??? ChandlerAmericanTime: Um parente mais repugnante de ??? GenteelInterbellumSetting.
+* Br/BaratasVaoDominarATerra: Pequenos vermes se tornam a forma de vida dominante.
+* Br/EraDasTrevas: Entre os dinossauros e as primeiras civilizações humanas haviam dragões, magos e maldade além da imaginação.
+* Br/AlvoradaDoVelhoOeste: Logo antes do Br/VelhoOeste, e o começo deste.
+* ??? DayOfTheJackboot: A guerra acabou. Nós perdemos.
+* Br/DiasDeUmPassadoFuturo: Idade Média + Espaçonaves = ''BrFranquia/StarWars''.
+* Br/IdadeDasMerdas: Acontece durante a Grã-Bretanha da Idade das Trevas.
+* Br/DuranteAGuerra
+* Br/ATerraEJovem: Apesar de os eventos se passarem na Terra seguindo os registros da história humana, a idade do planeta é de alguns milhares de anos ao invés de bilhões de anos.
+* Br/EraEdwardiana: De 1901 até 1910, entre a morte da BrNotasUteis/RainhaVictoria até o estouro da BrNotasUteis/PrimeiraGuerraMundial.
+* Br/NiveisImpostosDeTecnologia: Apenas certos tipos de tecnologia (ou certos níveis de tecnologia) são permitidos. Por lei, feito pela humanidade ou natural.
+* Br/ReservaFlorestalFantastica: Um zoológico, reserva de vida selvagem ou outra casa para criaturas míticas ou supostamente extintas.
+* Br/FantasiaAmericana: Magia, criaturas fantásticas e seres folclóricos habitam nas matas da América do Norte, além do alcance da civilização.
+* Br/FuturoFeudal: Uma subcategoria dos Dias de Um Passado Futuro.
+* Br/MundoFuturoInundado: No futuro, o mundo se torna praticamente ou completamente coberto por água.
+* Br/OFuturo: De 100 a 200 anos no futuro. Pense em como se parecem as casas em ''BrAnimacaoOcidental/OsJetsons''.
+* Br/OFuturoENoir: No futuro ninguém usa iluminação o bastante.
+* ??? GenteelInterbellumSetting: Em algum momento entre 1918 e 1939.
+* Br/CirculosCelestiaisConcentricos: Planos ou seres celestiais são retratados como círculos concêntricos no céu.
+* Br/AquiHaviamDragoes: Era uma vez um tempo em que reis tinham magos como cortesãos e cavaleiros matavam dragões.
+* Br/PreHistoriaHollywoodiana: A Idade da Pedra em Hollywood. Todos os homens das cavernas possuem traços neandertais e vivem em harmonia com os dinossauros.
+* Br/LogoAntesDoFim: Estamos a apenas alguns dias do extermínio.
+* Br/ForaDeSincroniaEmUmSegundo: Um tempo além do lugar.
+* Br/HaMuitoTempoAtrasEmUmaGalaxiaMuitoDistante: Muito distante no espaço, no tempo ou em ambos. Eles provavelmente nunca sequer ouviram falar da Terra.
+* Br/GuerraDaMagiaContraTecnologia: Os feiticeiros lutam contra os cientistas.
+* Br/FantasiaMedievalEuropeia: Espadas, reis e narrativa [[BrCriador/JRRTolkien tolkieniana]].
+* Br/PreHistoriaMedieval: A sociedade humana pré-industrial em uma ambientação pré-histórica.
+* Br/EstaseMedieval: A tecnologia não mudou desde 1250.
+* Br/EstaseModerna: 4000 anos se passaram e nada de [[Br/EuQueroMinhaMochilaAJato mochila a jato]].
+* Br/NovoVelhoOeste: Caubóis, mas agora.
+* Br/DomingoQueVemDC: À frente do presente só um pouquinho. É por isso que você não percebeu a Br/InvasaoAlienigena.
+* Br/CriseDaSuperpopulacao: Onde quer que você esteja, há gente demais para que seja sustentável.
+* Br/LugarAlemDoTempo: Um lugar além do tempo.
+* Br/HistoriaPopular: Quando filmes ambientados em 1968 se parecem como se estivessem em 1968.
+* Br/DiasAtuais: Quando um show se passa no mesmo ano em que é produzido.
+* Br/PassadoDoDiaPresente: A cidade não permitiu que a produção interditasse ruas, por isso nosso filme que se passa cinco anos atrás está cheio de anúncios e carros recentes.
+* ??? RaygunGothic: Espaçonaves brilhantes, armas de raios artisticamente desenhadas, robôs de lata e mochilas a jato, tudo feito em estilo Art Deco. É a ambientação principal de histórias futuristas da Era Dourada da Ficção Científica.
+* Br/ReivindicadoPelaNatureza: A natureza toma pra si o que sobrou da infraestrutura da humanidade.
+* Br/GuerraRobotica: Robôs que [[Br/VoltadosContraSeusMestres se rebelaram contra seus criadores]].
+* Br/RuinasDaEraModerna: O prédio Empire State criou musgo e a maioria do concreto está rachando.
+* Br/MundoDeCatadores: O mundo foi arruinado e as pessoas dependem do que elas conseguem coletar para sobreviver.
+* Br/EstaseDaEraEspacial: Você tem as mochilas a jato, mas elas são do mesmo modelo que se fazia mil anos atrás.
+* Br/VelhoOesteEspacial: Caubóis no espaço.
+* Br/AmbientacaoPosApocalipticaPadrao: Um cenário pós-apocalíptico com muitos mutantes, cidades arruinadas e tons de marrom.
+* Br/HistoriaSciFiPadrao: O futuro distante da Ópera Espacial.
+* Br/IdadeDosMitos: A mitologia antiga (Grécia na Idade do Bronze e etc) não apenas é real como também foi mesclada em uma única era.
+* Br/CrepusculoDoVelhoOeste: O Br/VelhoOeste gradualmente dá espaço para o Br/NovoVelhoOeste.
+* Br/VelhoOeste: Um espaguete de caubóis, indígenas, cavalos, carruagens, duelos, brigas de bar e outros mais.
+* Br/NaviosDeMadeiraEHomensDeFerro: A Era das Navegações.
+* Br/ObrasAmbientadasNaPrimeiraGuerraMundial: 1914 -- 1918 
+* Br/ObrasAmbientadasNaSegundaGuerraMundial: 1939 -- 1945
+** Br/ObrasSobreOHolocausto: 1941 -- 1945
+[[/folder]]
+
+[[folder:Tipos de Perspectiva]]
+* Br/PerspectivaDaAlturaDoJoelho: Os personagens são crianças, bebês, pequenos animais, seres místicos diminutos ou brinquedos, e os adultos são visualizados da cintura, joelho ou calcanhar pra baixo.
+[[/folder]]
+
+[[folder:Dimensões e Universos]]
+* Br/MorcegosAliensDoEspaco
+* Br/TodosOsMitosSaoReais
+* Br/MapaMundiAlternativo: Quando um RPG possui mundos alternativos.
+* Br/UniversoBizarro
+* Br/EntranhasSangrentasDoInferno
+* Br/MundoConstruido
+* Br/{{Ciberespaco}}
+* Br/MundoDasTrevas
+* Br/TerraDosSonhos
+* Br/VilaDosSonhos
+* Br/EmOutroMundo
+* Br/InfernoDeFogoEEnxofre: O inferno convencional.
+* Br/CeuDeNuvensFofas
+* Br/ComidaGigante
+* Br/{{Ceu}}
+* Br/{{Inferno}}
+* Br/InfernoEGuerra: O inferno é dedicado aos aspectos da guerra.
+* Br/InfernoIronico
+* Br/TerraDasFadas
+* Br/TerraMagica
+* Br/MundoMental
+* Br/OMetaverso
+* Br/UniversoEspelhado
+* Br/SomenteUmaVidaAposAMorte
+* Br/ZonaFantasma
+* Br/LugarAlemDoTempo
+* Br/CavernaDoPlatao
+* Br/DimensaoDeBolso
+* Br/UniversoDeRPG
+* Br/RetroUniverso
+* Br/UniversoComMecanicasDeRPG
+* Br/MundoEspiritual
+* Br/OSubmundo
+* Br/{{Bizarrolandia}}
+* Br/CeuDosGuerreiros: É para onde vai o Br/CaraDeUmaRacaGuerreiraOrgulhosa depois que ele morre.
+* Br/ParaOndeFoiAMagia
+* Br/MundoDeCaos: Um mundo onde as leis da física foram atiradas pela janela e nada faz sentido.
+* ??? WorldOfHam: Quando uma conversa simples é falada TODA EM MAIÚSCULAS e [[Br/PontuadoParaEnfase PONTUADA! PARA! ÊNFASE!]]
+[[/folder]]
+
+[[folder:Outros / Múltiplos]]
+* Br/MundoAmigavelAAventuras
+* ??? CaliforniaDoubling
+* Br/ViagemCasualNoTempo
+* Br/TerraDeLunaticos
+* Br/MundoLixosoAdocicado
+* Br/LixosoSomenteEmComparacao
+* Br/MundoLixoso
+* Br/MexidaoDeCulturas
+* Br/EnquadramentoDaDesolacao
+* Br/EstadosDivididosDaAmerica
+* ??? DoublingForLondon
+* Br/EsferaDeDyson
+* Br/{{Distopia}}
+* Br/DistopiaEDificil
+* Br/DistanciamentoDaTerra
+* Br/{{Egopolis}}
+* Br/EmocoesVersusEstoicismo
+* Br/SimbolismoAmbiental
+* Br/TodoMundoEUmSuper
+* Br/AmbientacaoExoticaDeFundo
+* Br/EstadosExpandidosDaAmerica
+* Br/UniversoExpandido
+* Br/PacoteDeExpansaoMundial
+* Br/EstadosCaidosDaAmerica
+* Br/FalsaUtopia
+* Br/ContraparteCulturalNaFantasia
+* ??? FilmingLocationCameo
+* Br/ReiPescador
+* Br/ReinoDoPescador
+* Br/MundoPlano
+* Br/LamentoDeGaia
+* Br/{{Gotterdammerung}}
+* Br/InfernoNaTerra
+* Br/MundoOco
+* Br/EstadosInvadidosDaAmerica
+* Br/LegiaoDeAlmasPerdidas
+* Br/CancaoDeUmLugar
+* Br/ColoniaPerdida
+* Br/{{Matriarcado}}
+* Br/SubmundoEspecificoDeMetropole
+* Br/DogmaticoMundano
+* Br/NuncaRecicleUmaConstrucao
+* Br/{{Omegaverso}}
+* Br/UmGrauDeSeparacao
+* Br/OMundoExterior
+* Br/OPassadoEAgora: Quando algo que definitivamente é do passado é encontrado nos tempos atuais, seja por preservação ou recriação.
+* Br/LugarPiorQueAMorte
+* Br/PlanetaDeChapeus
+* Br/{{Planetopolis}}
+* Br/AmbientacaoComPontosDeLuz
+* Br/ReuniaoPosSovietica
+* BrApenasPorLazer/RecicladoNoEspaco: Uma história existente recebe uma ambientação nova.
+* ??? RingWorldPlanet
+* Br/EsquizoTech
+* Br/ACienciaDestroiAMagia
+* Br/TerraDasSombras
+* Br/UniversoCompartilhado
+* Br/PlanetaComUmUnicoBioma: Um planeta desértico, ou um planeta de gelo, ou um planeta oceânico.
+* Br/EscalaMovelDePolidoVersusAspero
+* Br/PequenoEIsoladoMundo
+* Br/CancaoDeEmAlgumLugar
+* Br/BibliotecaSilenciosaAssustadora
+* Br/AmbientacaoPadraoDeFantasia
+** Br/AmbientacaoPadraoDeFantasiaJaponesa
+* Br/AmbientacaoPadraoDeSciFi
+* Br/AmbientacaoPadraoDeSuperHeroi
+* Br/TigelaDeAcucar: Um mundo brilhante, colorido e feliz.
+* Br/TecnoDistopia
+* Br/GeografiaDeTelevisao
+* Br/SociedadeTerminalmenteDependente
+* Br/NaoExistemBonsExecutivos
+* Br/OMundoDesmascarado
+* Br/RuinasUrbanas
+* Br/{{Utopia}}
+* Br/OVerso
+* Br/SociedadeLambril: A ambientação pode se parecer com o nosso mundo comum para a maioria de seus moradores, mas existe uma sociedade secundária inteira que fica oculta.
+* Br/NoFuturoNosUsaremosLasers: Uma ambientação onde [[Br/ArmaDeEnergia armas de energia]] são retratadas como superiores à armas cinéticas.
+* Br/OndeRaiosFicaSpringfield
+* Br/PaisDasMaravilhas: Um lugar estranho e fantástico que segue regras diferentes das nossas.
+* Br/MundoEnlouquecido
+* Br/MundoMeioCheio
+* Br/MundoDeFodoes: ''Todo mundo'' é um fodão.
+* ??? WorldOfHam: ''Todo mundo'' é um ??? LargeHam.
+* Br/OMundoComoMito
+* Br/MundoDeTrocadilhos
+* Br/MundoDeSimbolismo
+* Br/MundoDeEsquisitice: O mundano é misturado com o sobrenatural e ninguém liga.
+* Br/FormasDeMundo
+* Br/TurneMundial: Quando a história se passa em locais diferentes em torno da Terra.
+* ??? WretchedHive
+* Br/VoceNaoVaiQuererViverNesteIndice
+[[/folder]]
+
+!!Espaço e Lugar
+
+[[folder:A-Z]]
+* Br/EsgotoAbsurdamenteEspacoso: Esgotos com tetos altos o bastante para que se possa andar no interior e espaço suficiente para abrigar um castelo inteiro.
+* Br/EscolaDeAventuras: Nas aulas, você aprende a voar e disparar feixes laser pelos olhos.
+* Br/EsferaAdministrativa: O escritório de onde a organização é gerenciada. Provavelmente é totalmente alheia ao que acontece na linha de frente do negócio.
+* Br/AcropoleAntigaAvancada: Br/ExatamenteOQueEstaEscrito. Costuma ser encontrada em uma selva densa. Pode se sobrepor a Br/CidadeDeOuro.
+* Br/CidadesDeAventura: Viaje entre cidades para obter novas missões.
+* Br/ClubeDeAventureiros: Quando o herói mundial não está fazendo suas atividades interessantes, ele pode relaxar no clube e trocar histórias com outras pessoas parecidas.
+* Br/{{Afrofuturismo}}: África como um lugar de maravilhas tecnológicas e modernidade, ao invés de uma [[Br/AAfricaMaisEscura terra primitiva e selvagem]] ou um punhado de [[Br/{{Bulungi}} países pobres de terceiro mundo]].
+* Br/AgroMundo: Um planeta de produto único que é dedicado à agricultura.
+* Br/PistaDePousoUm: Br/OImperio remove a identidade de uma nação conquistada e atribui a ela um número.
+* Br/AAlcatraz: Uma prisão de segurança máxima onde o oceano é lava e os guardas são robôs enormes.
+* Br/AliensEmCardiff: Para variar um pouco o clima, a Br/InvasaoAlienigena troca a rota turística usual composta por Tóquio-Nova Iorque-Los Angeles-Londres para um lugar mais afastado, tipo Pindamonhangaba.
+* Br/EscolaDeMonstros: Para onde vão aqueles com garras, asas e presas.
+* Br/IncrivelMundoEmTechnicolor: Um mundo colorido.
+* Br/ParqueDeDiversoes: Costuma estar fechado e a ação ocorre durante a noite.
+* Br/ParqueDeDiversoesDaMorte: Faz muito tempo que ninguém entra lá, e por causa disso o local está repleto de [[Br/ArmadilhaMortalDuradoura armadilhas]] que vão te matar.
+* Br/AntigaTumba: Tumbas, sepulcros, mausoléus, funerárias, ossuários, catacumbas, criptas e às vezes até mesmo masmorras.
+* Br/CondominioDeHorrores: Um local com apartamentos terríveis e infestados de horrores que vão desde vizinhos irritantes até ratos e fantasmas.
+* Br/{{Arcadia}}: A vida quieta no campo.
+* Br/Area51: Uma instalação de pesquisa ultra-secreta no deserto.
+* Br/EsteticaAscetica: Nesta ambientação, menos é mais.
+* Br/FaseDeArenaAtletica: Futebol e vôlei e basquete, que maravilha! E todos eles estão acontecendo ao mesmo tempo.
+* Br/{{Atlantida}}: O mundo perfeito perdido.
+* Br/NaEncruzilhada: Onde se cruzam os caminhos de dois destinos.
+* Br/BarDosMalvados: Todo mundo que está lá é um brigador ''muy macho'' com uma expressão maligna no rosto.
+* Br/BarRepletoDeAliens: A clientela deste lugar é meio... alien.
+* Br/{{Barsetshire}}: Um interior bucólico e frequentemente inglês onde histórias pessoais de comédia e drama se desenrolam.
+* Br/BaseSobreRodas: Como é possível manter sobre rodas uma cidade inteira que pode ser pilotada para qualquer lugar e até mesmo submergir? Vai saber.
+* Br/BazarDoBizarro: Uma feira no Oriente Médio. Lá você vai encontrar todo tipo de coisas.
+* Br/PedreiraBBC: O palco para planetas aliens homologado pelos órgãos normativos. Uma pedreira abandonada ou alugada repleta de rochas enfadonhas e cenário monótono; é a paisagem alien perfeita para quando o orçamento é baixo.
+* Br/TroposDePraia
+* Br/BeloVazio: Pacífico, mas estranhamente vazio.
+* Br/CasaBedlam: Um asilo com anabolizantes.
+* Br/AbaixoDaTerra: Pessoas que vivem sob a crosta terrestre. A tecnologia deles é primitiva e eles temem os forasteiros.
+* Br/TrianguloDasBermudas: Onde aviões e navios vão para passar por fendas interdimensionais (talvez).
+* ??? BigApplesauce: Porque Nova Iorque é a única cidade que os aliens e monstros gostam de destruir.
+* Br/GrandeCasteloChique: É como a Grande Casa Chique, mas com mais torres. E passagens secretas. E masmorras.
+* Br/GrandeCasaChique: Uma casa no topo de uma colina. Não está suja. E tem mais quartos do que qualquer outra casa no entorno.
+* Br/EMaiorPorDentro: Uma construção que parece pequena (possivelmente ridiculamente pequena) mas se abre em uma grande mansão ou outra área.
+* Br/GrandeConstrucaoLabirintina: Uma construção que nada mais é que um labirinto.
+* ??? TheBigRottenApple: Onde Nova Iorque é uma cidade decrépita, decadente e repleta de crime; o inferno na Terra. 
+* Br/{{Bizzarquitetura}}: Arquitetura bizarra, ridícula e implausível.
+* Br/InternatoDeHorrores: O local onde se proliferam [[Br/ProfessorSadista professores sadistas]] e batalhas por dominância social.
+* ??? BoomTown: Nossa, esse pessoal cresce rápido.
+* Br/APonte: Onde o pessoal de uma obra sci-fi se junta para [[Br/TodosEncontramATodos se conhecerem entre si]].
+* Br/CasteloReluzente: Um belo castelo de contos de fadas.
+* Br/CavernasECanionDeBronson: Uma área rochosa no Parque Griffith em Los Angeles, cuja localização relativamente conveniente e aparência desolada e remota a tornou um local muito popular para filmes, em especial para obras de Br/FiccaoCientifica e de Velho Oeste.
+* Br/ConstrucaoDaAventura: Uma única construção é a ambientação.
+* Br/UniversidadeCalifornia: Quando os garotos de um drama de Br/EscolaDeEnsinoMedio ficam velhos demais para transmitirem credibilidade, a maioria deles vem estudar aqui.
+* Br/CampbellRural: Br/LovecraftRural, mas na Inglaterra.
+* Br/OCanadaNaoExiste: O que você faz quando você tem vergonha de filmar o seu programa no Canadá, mas não pode ambientar ele na América?
+* Br/PrisaoDePapelao: Uma prisão da qual é muito fácil escapar para que os vilões possam ser reutilizados.
+* Br/OCassino: Um lugar ótimo para apostar.
+* Br/ChezRestaurant: Espere encontrar caramujos, pernas de sapo, chefs temperamentais e garçons esnobes com sotaque engraçado.
+* Br/CidadeDoNatal: A casa do Br/PapaiNoel, dos Br/ElfosNatalinos e da Magia do Natal!
+* Br/CirculoDePedrasVerticais: Uma área circundada por pedras gigantes onde eventos importantes costumam ocorrer.
+* Br/CidadeEmUmaGarrafa: Nunca nada jamais ocorreu fora [[Br/ACidade da cidade]]. Além de seus muros [[Br/MundoLixosoAdocicado muito bem vigiados]] existem terras sombrias desconhecidas.
+* Br/CidadeDeOuro: Um país repleto de riquezas e esplendor.
+* Br/BecosEscurosDaCidade: Basicamente é o [[Br/LadoErradoDosTrilhos típico subúrbio da cidade]], porém muito mais perigoso.
+* Br/CidadeNoir: Como uma cidade normal, porém sempre escura, sempre chovendo, crime ocorre e nada acontece porque Br/APoliciaEInutil ou [[Br/BrutalidadePolicial ainda pior]].
+* Br/CidadeDeAventuras: Toda a aventura que você poderia desejar está convenientemente localizada em uma única cidade.
+* Br/CidadeDeCanais: Uma cidade onde vias aquáticas são usadas como ruas. Costuma espelhar Veneza.
+* Br/CidadeDeTodoLugar: A BrArte/EstatuaDaLiberdade fica a poucos quarteirões do Louvre.
+* Br/CidadeDeEspioes: Uma cidade. Com espiões. Sacou?
+* Br/CidadeSemNome: Os escritores estavam com preguiça na hora de escolher o local, ou queriam que fosse em qualquer lugar.
+* Br/EscalarAsFalesiasDaInsanidade: Muros altos de rocha sólida te impedem de alcançar o destino.
+* Br/TorreDoRelogio: O relógio da cidade, aquele que todo mundo usa como referencial. Pode ser uma torre com um sino que você [[Br/ClimaxDeEscalada tenha que escalar]].
+* Br/ComunidadeUnida: Seja rural, urbana ou suburbana, é um lugar onde todos se conhecem e se cuidame entre si.
+* Br/SelvaDeTeias: Um local assustador e abandonado onde há muitas teias de aranha.
+* Br/{{Comuna}}: Um lugar onde todos vivem juntos em uma comunidade autossuficiente. Pode ou não ser parte de um Br/FuturoDeAmorLivre, pode ou não incluir o Br/RetroHippieDaNovaEra.
+* Br/CidadeCorporativa: Uma cidade criada por uma empresa para os seus funcionários. Para propósitos práticos, a empresa é a lei.
+* Br/LabirintoDeConteineres: Um labirinto de caixas ou contêineres em um depósito ou doca.
+* Br/LugarDeContemplacao: Um lugar para onde um personagem vai para pensar ou meditar.
+* Br/AmbientacaoContrastanteDaSequencia
+* Br/DirigivelIrado: Um dirigível, porém com lasers.
+* Br/BarcoIrado: Um barco, porém com lasers.
+* Br/GaragemIrada: Uma garagem, porém com lasers.
+* Br/CasaIrada: Uma casa, porém com lasers.
+* Br/NaveIrada: Qualquer coisa que seja chamada de nave e tenha lasers.
+* Br/EspaconaveIrada: Uma espaçonave, mas com ''ainda'' mais lasers que o normal.
+* Br/OClubeMaisIradoDeTodos: É tão irado que tá sempre cheio. (E se tocar techno, pode até ser que hajam lasers!)
+* Br/TerraDeCadaveres: Um local devastado aonde ninguém foi para limpar os corpos dos caídos (e talvez ninguém nunca irá).
+* Br/OSofa: É muito macio e fica sempre no centro do palco.
+* Br/FestivalPodre: Como a Disneylândia se o Mickey fosse [[Br/OTrambiqueiro um trambiqueiro]] sujo.
+* Br/ProvincialismoDoCriador: Se o criador mora no local X, a ambientação da obra vai ser X.
+* Br/PoraoAssustador: É como um porão normal, mas com mais aranhas.
+* Br/CatedralAssustadora: Os sinos são assombrosos à meia-noite.
+* Br/CavernaAssustadora: Cuidado com os [[Br/VampirosSugadoresDeSangue morcegos vampiros]]! E com os vampiros normais também.
+* Br/CemiterioAssustador: O lugar com a reputação de ser uma linha de produção de mortos-vivos.
+* Br/ConvencaoCriminal
+* Br/PaisagemDeCristal: Uma ambientação repleta de cristais e pedras preciosas.
+* Br/ColoniaCultista: Um grupo isolado de colonizadores religiosos.
+* Br/PeriferiaDeCopiaECola: Ei, acho que eu já vi essa casa antes. E essa aqui também!
+* Br/CidadeComNomeFofo
+* Br/DancasEBailes: A Inglaterra entre 1700 e 1900.
+* Br/PerigoNoNucleoGalactico: O incrível centro da galáxia.
+* Br/AmbienteDeTrabalhoPerigoso: Pegar água do bebedouro vai fazer o prédio pegar fogo.
+* Br/AAfricaMaisEscura: Todos na África usam um osso atravessado no nariz e no cabelo, dançam em volta de uma fogueira e vivem em ocas de palha. Tarzan e seus amigos podem estar presentes.
+* Br/CrechePesadelo: Uma creche para onde você não vai querer mandar os seus filhos.
+* Br/CorteDecadente: Os líderes conduzem operações de guerra em um campo de batalha ostensivamente civilizado e polido.
+* Br/MundoDeMorte: Cuidado com a grama!
+
+* Br/CovilDeIniquidade: Onde os Br/{{capangas}} e lacaios dão uma relaxada.
+* Br/CemiterioDeNaviosAbandonados
+* Br/IlhaDeserta: Ninguém mora lá. Ótimo lugar para parar após um naufrágio. Br/SelvaTropical abundante.
+* Br/CidadeEmUmaRedoma: Uma cidade sob um domo. Opcionalmente, ela pode ficar embaixo da água.
+* ??? DownInTheDumps: Aquilo é um prédio feito com sucata de carro?
+* ??? DownLADrain: A rede de drenagem de Los Angeles é usada como ambientação para um filme ou programa de TV, geralmente uma perseguição de carro.
+* Br/CinemaDriveIn: Sente no carro e aproveite o show.
+* Br/EconomiaBaseadaEmMasmorras: Explorar masmorras é a principal atividade econômica local.
+* Br/CidadeEmDeclinio: Tendo perdido sua razão de existir, a cidade foi abandonada pela maior parte dos moradores, sendo lar apenas daqueles que não podem se mudar.
+* Br/MundoFacilmenteConquistado: [[Br/NosTornamosComplacentes Nada]] [[Br/TodaSuaBaseEPertenceANos de mal]] poderia ter nos acontecido.
+* Br/EstacaoSinistraDePesquisaNoArtico: Um laboratório remoto em um local gélido e carregado de tensão.
+* Br/BaseSubterraneaElaborada: Uma base que tem várias instalações tais como um hangar, um silo e um laboratório.
+* Br/LugarAlienigena: Projetos euclidianos são para fracassados!
+* Br/CemiterioDeElefantes: Um lugar secreto para onde elefantes vão para morrer.
+* Br/FlorestaEncantada: Uma floresta grande e antiga na qual a natureza (e, geralmente, a magia) reinam supremas.
+* Br/EspacoFechado: Espero que você não tenha claustrofobia!
+* Br/CorredorInterminavel: Continue andando para sempre.
+* Br/PrisaoEpifanica: Para sair, tenha uma epifania.
+* Br/OMalContaminouOLugar: Um local que foi corrompido para sempre porque um dia ele foi casa de uma entidade maligna.
+* Br/OminosaTorreMaligna: Aquela torre ali que é mais alta que as montanhas? Definitivamente não é o covil do Soberano do Mal!
+* Br/OCentroExatoDeTudo: O núcleo galáctico ou centro do universo é um Br/LugarMacGuffin.
+* ??? ExclusiveCliqueClubhouse: Certos grupos estudantis recebem seus próprios alojamentos e esconderijos.
+* Br/InstitutoExtranormal: Super tropo de todas as escolas para pessoas com habilidades e poderes estranhos.
+* Br/CasaExtremamentePoeirenta: Uma casa abandonada com camadas e mais camadas de teias e pó.
+* Br/ConvencaoDeFas: Lugares onde fãs se juntam para seus hobbies.
+* Br/IlhaTaoTaoDistante: Uma ilha minúscula no meio do nada que possui uma única palmeira.
+* Br/AcampamentoDeGordos: Um acampamento de verão para onde os pais mandam seus filhos para fazerem dieta e tirarem o traseiro da cadeira.
+* Br/CidadeFalsa: Uma cidade ou povoado falsos construídos para se parecerem com um de verdade.
+* Br/PaisFicticio: Consultar também Br/TroposDeCulturasENacoesFicticias.
+* Br/ProvinciaFicticia: Um subconjunto ficcional de um país real.
+* Br/ContinenteFlutuante: Uma massa de terra flutuante como um lugar exótico.
+
+* Br/ZonaProibida: Um lugar perigoso aonde ninguém quer ir (exceto os heróis, obviamente).
+* ??? FoulBallPit: Um playground nojento e/ou perigoso de restaurante.
+* ??? FriendlyLocalChinatown: Seções de grandes cidades americanas onde é possível encontra facilmente a cultura chinesa.
+* Br/CasaDoInventor: Um inventor mora nela e por isso tudo é automatizado e há várias traquitanas.
+* Br/JardimDoMal: Um lugar onde a maioria das plantas (ou todas) são venenosas, carnívoras ou perigosas de outras maneiras.
+
+* Br/GeniusLoci: Um lugar senciente que controla a si mesmo e as coisas que lá vivem.
+* Br/FlexibilidadeGeografica: Quando a ambientação cresce, encolhe, acrescenta e perde características conforme exigido pela trama.
+* Br/ColinasGhibli: Locais selvagens intocados e pristinos, geralmente com acesso fácil.
+* Br/MundoDeCadaverGigante: Uma ambientação em que as pessoas vivem sobre (ou dentro de) um cadáver gigante em decomposição.
+* Br/GaiolaDourada: Um lugar confortável que mantém um personagem isolado do mundo real.
+* Br/CasaDeGengibre: Uma casa ou outra construção feita de comida, geralmente adocicada. Costuma ser uma ambientação de contos de fadas.
+* Br/CidadeFantasma: Uma cidade abandonada.
+* Br/BarDosMocinhos: Onde os heróis se juntam após o expediente. Vilões podem entrar se eles se comportarem.
+* Br/OBomReino: Onde monarcas bondosos reinam. Geralmente pequenos, agradáveis e um azarão contra Br/OImperio.
+
+* Br/AGramaEMaisVerde: Um local idealizado para onde uma pessoa deseja muito ir.
+* Br/ColherSebosa: Uma lanchonete à beira da estrada, costumeiramente parada nos anos 1950 americanos e servindo comida anti-diet.
+* Br/GrandeEVastaBibliotecaDeTudo: Uma biblioteca absurdamente enorme e bem estocada.
+* Br/TocaHacker: Um cômodo bagunçado com computadores e monitores e outras coisas geek, onde hackers de algum modo conduzem seu trabalho.
+* Br/CidadeDoHalloween: Uma ambientação com um tema assustador e gótico muito baseado no Halloween.
+* Br/CasteloAssombrado: Um castelo assustador onde há monstros.
+* Br/QuartelGeneralAssombrado: Um lugar assustador onde há monstros e você está preso lá vivendo ou trabalhando.
+* Br/CasaAssombrada: Uma casa assustadora onde há monstros.
+* Br/LabirintoDeCercaViva: Um labirinto feito de sebes e arbustos, geralmente encontrado em um lugar extravagante e rico.
+* Br/CercaDeEspinhos: Uma barreira feita com plantas bem pontiagudas, geralmente em um lugar onde fadas ou feiticeiros malignos desejam bloquear a passagem. 
+* ??? HeelFaceTown: Uma cidade horrível que se tornou um lugar melhor para viver.
+* Br/HotelInfernal: Um hotel assustador onde coisas terríveis ocorrem.
+* Br/EsseCeuEUmInferno: Quando o Céu é uma droga, mas só para você.
+* Br/VilaDeElfosOculta: Um lugar seguro e secreto longe da interferência de outras nações.
+* Br/EscolaDeEnsinoMedio: Uma escola para adolescentes.
+* Br/SoloSagrado 
+* Br/LarDeMonstros: Qualquer lugar que os monstros considerem como casa, seja esse lugar um covil, uma Br/CidadeMonstro, uma Br/IlhaDeMisterio ou uma dimensão inteira.
+* Br/HospitalParadiso: Um hospital ou outro local de trabalho aparentemente perfeito. Costuma ser rejeitado por um herói que deseja focar nos desamparados ao invés das pessoas que podem se consultar lá.
+* Br/CasaDeEspelhosQuebrados: Onde alguém que ficou muito irritado por causa da aparência quebrou todos os espelhos e foi embora.
+* Br/SelvaVoraz: A selva vai tentar te matar.
+* Br/PalacioDeGelo: Um castelo feito de gelo, ou um que congelou completamente.
+* Br/EuNaoGostoDoSomDesteLugar: Um lugar com um nome sinistro.
+* Br/IdilicaVilaInglesa: Uma quintessencial vila inglesa repleta de delicadas cabanas com tetos de palha.
+* Br/CampoDeImortalidade: Um lugar que funciona como um Br/IndutorDeImortalidade.
+* Br/IncompetenciaLtda: Uma cultura corporativa onde nada de valor é feito. Como eles conseguem se manter nos negócios é um mistério.
+* Br/CemiterioIndigena: Um lugar onde alguém profanou os túmulos de nativos ao construir alguma coisa em cima. Espere encontrar fantasmas.
+* Br/GuetoIndustrial: Um subúrbio próximo a uma área industrial (ou dentro desta), geralmente composto por sucata e repleto de crime e poluição.
+* Br/MundoIndustrial: Um planeta de produto único que é dedicado à produção de materiais.
+* Br/MercurioIndustrializado: O planeta BrNotasUteis/{{Mercurio}} é usado como rota industrial para um Br/SistemaSolarColonizado.
+* Br/LocalInformado: O local de uma ambientação é especificado mesmo que não seja relevante para a história.
+
+* Br/HotelEntreMundos: Um pub que se conecta com múltiplos mundos, onde pessoas de ''todos'' os tipos podem relaxar e trocar histórias.
+* Br/HotelDeNaoRetorno: Um hotel ou pousada onde os proprietários matam e roubam ou comem seus clientes. Costuma ser um Br/HotelInfernal.
+* Br/EscolaDePeriferia: Uma escola pobre onde os professores já desistiram de qualquer coisa e os estudantes estão em uma via expressa para a prisão.
+* Br/DentroDeUmSistemaDeComputador: Dentro de um mundo virtual auto-contido (diferente do Br/{{Ciberespaco}}, em que as localizações possuem correspondência com o mundo real).
+* Br/NoMarasmo: Um lugar sem nada de interessante, geralmente um plano vazio. Mais do que simplesmente um lugar entediante.
+* Br/BaseNaIlha: O Br/CovilDoSuperVilao em uma ilha isolada.
+* ??? IslandOfMisfitsEverything: Um paraíso para os desajustados e rejeitados.
+* Br/IlhaDeMisterio: Uma ilha com vários elementos incomuns nela.
+* Br/IlhaDeHorroresGigantes: Uma ilha habitada por criaturas gigantescas.
+* Br/VeioDeBeverlyHills: Se passa em Beverly Hills, Califórnia.
+* Br/RochaDeKirk: Um conjunto distinto de formações rochosas pontiagudas que fica localizado a convenientes 50 quilômetros de Hollywood.
+* Br/ConhecidoPeloEnderecoPostal: O endereço exato de um lugar é mencionado em uma obra.
+* Br/TerraDeMulheres: Onde as mulheres dominam e os homens são inexistentes ou subservientes.
+* Br/AterroAlemDasEstrelas: Um mundo cheio de lixo.
+* ??? LandmarkingTheHiddenBase: Uma base secreta escondida abaixo ou dentro de um local famoso.
+* Br/UltimaRegiaoFertil: O último pedaço de natureza em uma distopia pós apocalíptica.
+* Br/CavernasVulcanicasDeNovaIorque: Lava ou magma em locais que geralmente não apresentam atividade vulcânica.
+* Br/MetropoleEstratificada: Uma cidade com múltiplos níveis, verticalmente separada e com os ricos geralmente morando no topo.
+* Br/MundoEmCamadas: Um mundo com múltiplas dimensões, onde os lugares em cada dimensão são mapeados através delas, criando assim "camadas" de realidade.
+* Br/MalLegalizado: Onde atos de transgressão entre a população são legalmente permitidos pela autoridade dominante.
+* Br/CulinariaLetal: Um restaurante que viola o regulamento sanitário de maneiras assombrosas. Costuma ser usado para humor.
+* Br/FaseComestivel: Uma fase de videogame que é feita de comida.
+* Br/FaseNasNuvens: Um mundo de videogame que se passa nos céus.
+* ??? LighthousePoint: Um farol costeiro atmosférico.
+* Br/PequenaLojaQueNaoExistiaOntem: Uma loja mágica que surge do nada para vender um Br/MacGuffin e desaparece depois que isso causa problema.
+* Br/DistracaoLocal: Onde o elenco passa a maior parte do tempo para se distrair e divertir. Os ingleses podem usar o Br/MeuLocal (um pub) ao invés.
+* Br/TrancadoNaMasmorra: Uma prisão / sala de tortura subterrânea estilo medieval.
+* Br/FaseDeLocomotiva: Uma fase de videogame que se passa em um trem.
+* Br/MundoPerdido: Um lugar misterioso e isolado que não é encontrado em nenhum mapa e onde aventuras exóticas acontecem.
+* Br/LovecraftRural: Uma versão aterrorizante da Nova Inglaterra rutal, onde moradores corruptos conspiram com forças das trevas.
+* Br/PeitorilDoAmante: O peitoril de uma janela externa onde Br/OCasanova se pendura para evitar ser pego após a Br/IntimidadeInterrompida.
+* Br/LugarMacGuffin: Quando o MacGuffin pelo qual todo mundo está brigando é um lugar.
+* Br/FeiraDeCienciaMaluca: Um concurso ou convenção envolvendo cientistas loucos e seus experimentos insanos.
+* Br/TorreDoMago: Br/ATorre onde um bruxo faz seus experimentos (ou esquemas) acima e longe de todos. Costuma conter telescópios, planetários, [[Br/BauDeTesouroInexplicavel artefatos ocultos]], [[Br/PassagemSecreta passagens secretas]], [[Br/TomoDeConhecimentoAlien tomos de conhecimento alien]], entre outros.
+* Br/BibliotecaMagica: Uma biblioteca com livros mágicos, geralmente encantada e protegendo artefatos mágicos.
+* BrNotasUteisUteis/GrandesCidadesDoMundo: Um índice com as maiores e mais importantes cidades do mundo utilizadas na ficção.
+* ??? MakeOutPoint: Um lugar afastado, geralmente com uma bela vista, onde adolescentes vão para curtir um momento Br/AutoErotica. Coisas ruins costumam acontecer lá.
+* Br/OShopping: Um centro de compras moderno e fechado. É o reduto da Br/GarotaDoVale e do Br/PapaiNoelDeShopping.
+* Br/LojaDeMalte: Um ponto de encontro popular para adolescentes americanos nos Br/Anos50, onde hambúrgueres, cachorros-quentes e milkshakes maltados são servidos enquanto uma caixa de som toca música.
+* Br/CulturaDoMartirio: Uma cultura que [[Br/BuscadorDaMorte glorifica a morte]] em nome de uma causa ou crença.
+* Br/BaileDeMascaras: Uma [[Br/DancasEBailes dança elaborada de época]] onde todos os presentes usam máscaras. Duplicidade costuma ocorrer.
+* Br/OLabirinto
+* Br/EcossistemaMecanico: Uma réplica mecanizada de um ambiente natural.
+* Br/MegaCidade: Uma cidade com o tamanho ou população de um país.
+* Br/MegaMasmorra: Um calabouço tão grande que dá pra passar a história inteira nele.
+* Br/MuseuAmeacador: Um museu retratado como ominoso, perigoso ou simplesmente do mal.
+* Br/CidadeMercantil: Uma cidade baseada em comércio, dominada ou amplamente populada por comerciantes, banqueiros e vendedores.
+* Br/BaseMercurial: Uma base em um planeta próximo à uma estrela que fica fora do sol ao seguir a noite planetária.
+* Br/PlanetaPobreEmMetais: Um planeta onde os ingredientes chave para uma civilização tecnológica estão ausentes.
+* Br/MicroMonarquia: Uma nação moderna e minúscula dominada por uma família real. Geralmente é uma mistura eclética de tradição com modernidade.
+* ??? MiddleOfNowhereStreet: Um local muito pequeno que é um Br/ImaDeEsquisitice e ninguém de fora percebe ou se importa.
+* ??? MishmashMuseum: Um museu sem nenhuma lógica aparente para a ordem em que os itens em exposição são exibidos.
+* Br/VidaSelvagemMalPosicionada: Um lugar onde há animais que não pertencem a ele, geralmente devido à [[Br/LicencaArtisticaBiologia erro do criador]].
+* Br/AndarAusente: Um andar secreto em um prédio de múltiplos andares. Costuma ser pulado pelos botões no elevador.
+* Br/LabirintoMovel: Um labirinto que muda ([[Br/GeniusLoci a si mesmo]]) para que seja difícil ou impossível de escapar.
+* Br/MontanhaEmFormaDeMonstro: Um terreno rochoso lembra (ou é) uma criatura gigante ou parte de uma.
+* Br/CidadeMonstro: Uma cidade que é populada inteiramente por monstros. Podem ter uma cultura alien alternativa ou uma que é similar à nossa.
+* Br/BatalhaMonumental: Batalhas dramáticas parece sempre acontecerem no entorno de paisagens notáveis.
+* Br/VistaMonumental: Um lugar com uma vista muito bela (geralmente, uma paisagem) que está bem além das possibilidades do proprietário.
+* Br/ClinicaMontanhesa: Instalações médicas especializadas construídas em uma montanha bela e inacessível.
+* Br/{{Mordor}}: Uma Br/TerraDasSombras onde o Br/Malzao envenena o local e o torna totalmente hostil à vida e Br/ObviamenteDoMal.
+* Br/MuseuDoTedio: Um museu chato (e geralmente de nicho) em que (quase) ninguém do elenco tem interesse.
+* Br/MuseuDoEstranhoEIncomum: Um museu eclético com um acervo de coisas muito interessantes e ''bizarras''.
+* Br/MeuLocal: Um pub onde o elenco principal passa o tempo. É uma Br/DistracaoLocal específica dos britânicos.
+* Br/AntartidaMisteriosa: Um dos últimos lugares a serem explorados na superfície da Terra. Local popular para civilizações perdidas e [[Br/AquelesNazistasMalucos bases nazistas secretas]].
+* Br/HollywoodMistica: Hollywood apresentada como um Br/LugarAlienigena ou ponto de atividades sobrenaturais.
+
+
+* Br/ZonaNeutra: Território entre nações em uma BrNotasUteis/GuerraFria que fica fora dos limites para impedir que uma guerra recomece. O oposto da Br/ZonaDeTregua.
+* Br/TerraDoNunca: Uma ambientação em que toda a população vive em uma [[Br/NuncaCresceu infância eterna]].
+* Br/NovosVizinhosConformeATramaExige: "Br/LembraDoCaraNovo", mas aplicado a uma ambientação de cidade pequena.
+* Br/BercarioDoMal: Um local com crianças, tal como um berçário ou parquinho, que é usado para terror ou suspense.
+* Br/NenhumaComunidadeFoiFerida: O equivalente geográfico de um ??? BlandNameProduct ou de um Br/CapitaoErsatz.
+* Br/SociedadeNaoHeteronormativa: Onde ser queer é visto como normal.
+* Br/ResidenciaNaoResidencial: Uma construção ou local em que alguém vive e que não era originalmente uma residência.
+* ??? NonSequiturEnvironment: Uma ambientação que subitamente aparece do nada sem explicação ou transição lógica.
+* ??? NoTellMotel: Um hotel barato que atende a uma clientela de classe baixa.
+* Br/NadaDeInteressanteAconteceAqui: A ambientação é tão normal que é entediante... até que surge algo que quebra essa normalidade.
+* Br/PortoNaoTaoSeguro: Um reduto de vilania marítima.
+* ??? OceanPunk: Pegue a [[Br/PunkPunk ambientação punk]] padrão e [[Br/IndiceInstantaneoBastaAcrescentarAgua acrescente água]].
+* Br/OlhaSoMaisQuartos: Um lugar parece relativamente normal por fora, mas cada porta leva para mais cômodos do que deveriam haver dado o tamanho do lugar.
+* Br/CasaEscuraEVelha: A ambientação clássica para Br/OCasoDosDezNegrinhos. É uma Br/CasaAssombrada sem a assombração de fato.
+* Br/OVelhoSiloNuclear: No futuro, silos nucleares abandonados servirão como bases subterrâneas elaboradas que já vêm prontas.
+* Br/OminosoCasteloFlutuante
+* Br/VizinhancaDeUmSoVizinho: A Br/LeiDaConservacaoDeDetalhes aplicada a uma vizinhança de televisão, geralmente para economizar no orçamento com atores e palcos.
+* Br/AntroDoOpio: Uma casa do século 19 para consumo de drogas, geralmente mais romantizada que seus equivalentes modernos. Costuma ser associada com a China e o Império Britânico.
+* Br/EscolaDeUmSoGenero: Educação para um único sexo. Em [[Br/GeneroYuri obras]] [[Br/GeneroYaoi modernas]], espere Br/SexualidadeSituacional.
+* Br/PlanetaDeUmSoProduto: Em nome da simplicidade, um planeta na ficção científica é conhecido por causa de um único item ou serviço.
+* Br/UnicaLojaNaCidade: Vilarejos (ou, em videogames, cidades de qualquer tamanho) possuem uma única loja em que o balconista é também o proprietário.
+* Br/EstadosOpressivosDaAmerica: Uma versão dos Estados Unidos na ficção em que a democracia não existe mais.
+* Br/OrfanatoDoMedo
+* Br/OrfanatoDoAmor
+* Br/RefugioDeParias: Um local onde pessoas oprimidas e exiladas podem viver em relativa segurança.
+* Br/CidadeSemLei: Uma cidade que é gerida em benefício dos criminosos ou que é populada totalmente por criminosos.
+* Br/OMundoExterior: Qualquer lugar que fica fora de um local de confinamento, isolamento ou contenção.
+* Br/SociedadesSobrepostas: Duas ou mais comunidades que ocupam o mesmo espaço. Elas podem interagir entre si ou não estar cientes da existência uma da outra.
+* Br/OsPampas: As planícies gramadas da América do Sul e lar dos gaúchos. Muito comum na Br/LiteraturaLatinoAmericana, em especial a Br/LiteraturaArgentina.
+* Br/PlanetaParaiso: O mundo mais belo e desejável na galáxia.
+* Br/GaragemDeEstacionamento: Nada de bom acontece em uma garagem de estacionamento.
+* Br/MundoDeRetalhos: Um mundo construído a partir de múltiplos outros mundos ou fontes. Pode resultar em um Br/MapaDeRetalhos se for feito de qualquer jeito.
+* Br/ColoniaPenal: Uma terra remota para exilar criminosos e se certificar que ele não poderão escapar (em teoria). Habitado apenas por vigaristas e vigilantes. Às vezes é usado para despejar os pobres e outras pessoas indesejadas.
+* Br/ZoologicoDeGente: Um zoológico alienígena contendo humanos e outras formas de vida inteligente como parte das exibições.
+* Br/CeuFisico: O Céu na Terra... literalmente.
+* Br/InfernoFisico: Um inferno literal na terra.
+* Br/LugarDePoder
+* Br/PlanetaInglaterra: Uma série que começa em um local nomeado pequeno de um mundo maior vai usar esse nome para o mundo maior quando você for apresentado a ele.
+* ??? PlanetOfCopyhats: Escritores utilizam as peculiaridades de um único personagem como o [[Br/PlanetaDeChapeus "chapéu"]] para todo o seu povo. (''e.g.'' quando você visita a terra natal do bêbado, descobre que lá todo mundo é um alcoólatra.)
+* Br/PlanetaDeChapeus: Todas as culturas alienígenas ou estrangeiras são homogêneas e um único estereótipo ou traço se aplica a todo mundo desse lugar.
+* Br/PlanetaDosPrazeres: Um planeta inteiro que é dedicado a ser o local perfeito para lazer. Pode ser uma [[Br/ParaisoPossessivo armadilha]] ou não.
+* ??? PollutedWasteland: Uma terra destruída pela poluição. São os equivalentes de Br/{{Mordor}} em obras modernas e de ficção científica. Não espere [[Br/SemInerciaOntologica soluções simples]].
+* Br/CidadePortuaria: Uma cidade que fica às margens do mar.
+* Br/MundoEncruzilhada: O mundo a partir do qual se pode viajar facilmente para muitos outros mundos.
+* Br/ParaisoPossessivo: Um local paradisíaco com uma tendência em não querer te deixar sair.
+* Br/CampoDeConcentracao: Populado por soldados que foram capturados no campo de batalha pelos seus inimigos.
+* Br/{{Premissopolis}}: O nome do lugar [[Br/ExatamenteOQueEstaEscrito estabelece a premissa da ambientação]].
+* Br/{{Prisao}}
+* Br/SociedadeDaPropriedadePrivada: Tudo pertence a indivíduos, nada é gerido pelo governo (pelo menos não de maneira eficaz).
+* Br/TerraPrometida: O lugar que tem a promessa de ser ''melhor'' do que este em que estamos. É onde Br/AGramaEMaisVerde.
+* Br/CidadePeculiar: Uma cidadela repleta de personagens peculiares e adoráveis.
+* Br/FerroviaParaOHorizonte: Uma ferrovia que some no horizonte como uma metáfora para a jornada à frente.
+* Br/DistritoDaLuzVermelha: A parte da cidade onde todos os bares, bordéis e outros locais de entretenimento noturno podem ser encontrados.
+* Br/ReinoDoRicoRecluso: Um domínio privado comprado/construído por um super rico que vive em reclusão.
+* Br/RotaRidiculamenteDificil: Quando uma rota quase nunca é usada porque a travessia é muito difícil ou existem outros caminhos mais fáceis.
+* Br/RioDaInsanidade: Pessoas que embarcam em uma jornada pelas águas proverbiais do desconhecido não retornarão sem que tenham mudado.
+* Br/PlanetaErrante: Um planeta que viaja pelo espaço sem uma estrela para chamar de lar.
+* Br/EsconderijoDoFugitivo: Onde Br/OFugitivo se esconde.
+* Br/NaveSapiente: A sua espaçonave tem uma mente própria e se pilota sozinha.
+* ??? ScavengedPunk: Pessoas dependem de sucatas e outras tecnologias "encontradas" ao invés da manufatura convencional, seja porque a ambientação se dá Br/DepoisDoFim, seja porque elas vivem às sombras da sociedade humana.
+* Br/BarometroSocietalBaseadoEmCenario: Um único local recorrente é usado para medir as condições de uma ambientação maior.
+* Br/EscolaSignificaMorte: Uma escola com um Br/ImaDeEsquisitice que resulta em uma taxa de mortalidade estudantil elevada.
+* ??? {{Scienceville}}: Uma vila, bairro ou cidade que é bem-conhecida por seus pensadores profissionais.
+* Br/RaloMarinho: E você achava que cair da borda da terra plana não seria um problema.
+* Br/HistoriasDoMar: Qualquer história que acontece tendo o oceano como ambientação.
+* Br/DepositoSecretoDoGoverno: O lugar onde o governo esconde todas as coisas que é melhor que as pessoas não saibam a respeito.
+* Br/HistoriaSecreta: A obra alega que ela se passou na Br/VidaReal, mas o público nunca ouviu falar dos eventos porque os atores Br/InUniverso [[Br/{{Mascaramento}} mantiveram isso em segredo]].
+* Br/SalaSecreta: Um cômodo escondido em uma construção.
+* Br/LojaSecreta: Uma loja cujo modelo de negócio de algum modo gira em torno de ter itens incríveis e não falar pra ninguém a respeito deles.
+* Br/PassagemSecretaSubterranea
+* Br/InfernoAutoInfligido: Um personagem sofre no pós-vida apenas por acreditar que eles merecem.
+* Br/AmbientadoPorTrasDasCenas: Quando a história se passa nos bastidores da história.
+* Br/AmbientacaoComoPersonagem: A ambientação é tão importante para avançar a história quanto qualquer outro personagem, mas o local não é um ser inteligente por mérito próprio como em uma Br/NaveSapiente ou um Br/GeniusLoci.
+* Br/ColonizarAFronteira: Pode servir como ambientação ou como Br/{{Trama}} para uma história.
+* Br/LojaExtremamenteEspecializada: Nós vendemos ''uma'' coisa, e somente uma.
+* Br/OShangriLa: Um paraíso localizado no alto das montanhas.
+* Br/ParecidoComOQueVende: A fachada de uma loja (ou a construção inteira) tem o formato de acordo com o produto vendido
+* Br/MundoDespedacado: Um planeta quebrado em pedaços e flutuando no espaço, mas ainda assim habitado.
+* Br/CidadeReluzente: A maior e mais bela cidade no mundo. Lar da justiça, civilização, moral e bons costumes.
+* Br/SantuarioASiProprio: Quando um narcisista exagera o tropo.
+* Br/AreaDeCombateUrbanaSimulada
+* Br/SudoesteSinistro: O sudoeste dos Estados Unidos é basicamente uma armadilha mortal.
+* Br/MetroSinistro: A contraparte mais realista e assustadora do Br/EsgotoAbsurdamenteEspacoso.
+* Br/PequenoEIsoladoMundo: Aqui pode ser seguro, mas certamente lá fora, para além dos [[Br/MuroAtravesDoMundo muros]], deve existir um lugar maior...
+* Br/CidadeDeArranhaCeus: No futuro, os arranha-céus serão ''altos''. É uma cidade repleta de [[Br/ArranhaEstrela arranha-estrelas]].
+* ??? SmallTownBigHell: Uma cidadela onde não há segredos entre seus habitantes. Se algo te acontecer, ''todo mundo'' vai ficar sabendo.
+* Br/TedioDeCidadePequena
+* Br/RivalidadeDeCidadePequena: Duas cidades pequenas que ficam próximas e que se odeiam intensamente.
+* Br/CasaInteligente: Uma Br/CasaIrada com uma IA embutida. Que a sorte esteja sempre a seu favor.
+* Br/SociedadeDosCavalheirosDeTerno: Onde os ricos estereotípicos socializam, longe de suas esposas, servos e outras pessoas comuns.
+* ??? SoapboxSquare: Uma praça ou parque público onde agitadores fazem discursos inflamados para multidões que o saúdam ou o vaiam.
+* Br/CidadeEncardida: As ruínas de uma Br/CidadeReluzente em decadência.
+* Br/NuvensSolidas: Nuvens onde é possível andar sobre, ou até mesmo construir. Comumente vistas no Br/CeuDeNuvensFofas.
+* Br/EmpregoPessimoDeEscritorio: Um emprego de escritório que é chato e maçante.
+* Br/QuartoSemAlma: Alguém que não tem emoções possui um quarto estranhamente limpo, com poucos objetos pessoais ou nenhum.
+* Br/EmpregoPessimoDeAtendimentoAoPublico: Uma Br/ParodiaPronta de grandes lojas varejistas.
+
+* Br/TerraDasLembrancinhas: Um [[Br/ParquesTematicos parque temático]] desapontador que tenta (e falha em) pegar carona na popularidade de parques de renome como a Disneylândia.
+* Br/AmishEspacial: Uma colônia espacial que abandona o uso de tecnologias avançadas após a viagem inicial.
+* Br/BrasiliaEspacial: Tudo se parece com torres de concreto esbranquiçadas com os mesmos ângulos estranhos.
+* Br/AcademiaDeCadetesEspaciais: O equivalente sci-fi de uma Br/EscolaDeMagia.
+* Br/SetorEspacial: Regiões específicas do espaço são descritas como "setor algo".
+* Br/EstacaoEspacial
+* Br/EscolaDeEspioes
+* Br/AmbientacaoPadraoDeEscritorio
+* Br/CorteRealPadrao: Uma explicação da estrutura de uma típica corte real fictícia.
+* Br/ArranhaEstrela: Um arranha-céu mais alto do que a tecnologia moderna pode construir.
+* Br/{{Aciaria}}: Muito maquinário pesado, fornalhas escaldantes, metal líquido e objetos pesados caindo do alto. Geralmente é um lugar [[Br/SemConformidadeComANR12 sem conformidade com a NR-12]].
+* Br/EstacaoEstelar
+* Br/SistemasEstelaresProntos: Sistemas estelares (tais como Betelgeuse, Arcturus ou Alpha Centauri) que são amplamente conhecidos pelo público e pelos autores.
+ 
+* Br/TramaDePresosNoAeroporto: Por algum motivo os personagens ficam presos em uma estação ou terminal, sem conseguir sair.
+* Br/SubHistoria: Uma história que se passa em um submarino.
+* Br/GoticoSuburbano: Algo sinistro está acontecendo nos subúrbios.
+
+* ??? SuckECheeses: Uma Br/ParodiaPronta da onda de restaurantes americanos dos Br/Anos80 com áreas de arcade e shows com animatrônicos, alguns dos quais já estavam bem desgastados na altura dos Br/Anos90.
+* Br/CidadeSubitamenteImportante: Uma cidade do mundo real se torna subitamente mais importante na história. * ??? SummerCampy: O acampamento de verão, mas Br/UsadoParaHumor.
+* Br/EscolaDeSuperHerois Para onde as crianças com super poderes vão para aprender a serem super heróis (e talvez aprender as matérias do ensino regular).
+* Br/EstanteDeTrofeusDoSuperHeroi: Quando um super herói exagera este tropo de um jeito diferente.
+* Br/SuperSalaMultiproposito: Uma sala que pode ser transformada em um instante para se adequar a outra finalidade.
+* Br/SuperMarDosSargacos: Onde todas as coisas perdidas param.
+* Br/CapitalMundialDeSuperHerois: Um local com uma oferta muito elevada de super heróis.
+* Br/CovilDoSuperVilao: O prédio cliché e surpreendentemente elaborado onde um super vilão planeja a sua vilania.
+* Br/PantanosSaoDoMal: Os pântanos existem para te matar.
+
+* Br/PrisaoFeitaSobMedida: Uma prisão construída especialmente para aprisionar um indivíduo que uma prisão normal não dá conta. Frequentemente falha mesmo assim.
+* Br/AqueleShowNostalgico: Nosso mundo como você lembra como era entre 20 a 50 anos atrás.
+* Br/PaisagemDeParqueTematico: A terra de montanhas russas e toboáguas naturais.
+* Br/DesertoVoraz: Os desertos vão te matar.
+* Br/PlanetaComTravaDeMare: Um corpo celeste em que um lado está sempre voltado para o corpo orbitado e o outro está sempre voltado para fora.
+* Br/CidadeFantasmaProspera: Cidades em [=RPGs=] e outros videogames com populações impossivelmente baixas.
+* Br/TorreDeToquio: Uma torre de transmissão localizada em Tóquio que é o ponto de referência mais azarado na mídia japonesa.
+* Br/TerraDoAmanha: Uma região muito mais avançada tecnologicamente em relação aos seus vizinhos, geralmente sem explicação nenhuma.
+* Br/PoraoDaTortura: A sala em que coisas indizíveis são feitas aos cativos. É o equivalente moderno de Br/TrancadoNaMasmorra.
+* Br/DefinitivamenteNaoEUmaEmpresaDeFachada: Um lugar onde bandidos se juntam para planejar seus crimes, mas negam que esse seja o caso.
+* Br/CidadeComUmSegredoSombrio: Todos na cidade sabem de algum segredo que o herói desconhece.
+
+* Br/ArmadilhaDeTuristas: Atrações de beira de estrada com qualidade variada e questionável.
+* ??? TrashyTrailerHome: O "pior" lugar para se viver, de acordo com a ficção, é dentro de um trailer.
+* Br/MassaViajanteDeTerra: Faz com que seja difícil de encontrar no mapa. Pode servir como uma Br/BaseSobreRodas.
+* Br/SalaDoTesouro: Aqui haverá dragões! [[Br/MortePorMaterialismo E também dificuldade em sair com o tesouro]].
+* Br/DivertidaCasaNaArvore: Um local popular para crianças passarem tempo com seus amigos próximos.
+* Br/CidadeDossel: Quando adultos criam uma cidade inteira baseada em [[Br/DivertidaCasaNaArvore divertidas casas na árvore]]. [[Br/SemConformidadeComANR12 Não espere a presença de grades de segurança]].
+* Br/MundoDossel: Quando uma ambientação inteira existe no interior das copas de árvores titânicas.
+* Br/IlhaTropicalDeAventuras: Uma ilha tropical.
+* Br/SalaDeTrofeus: Onde um personagem guarda recordações de suas maiores aventuras.
+* Br/ZonaDeTregua: Território neutro entre duas nações hostis onde a população é encorajada a se misturar para propiciar relações mais pacíficas. O oposto da Br/ZonaNeutra.
+* Br/RedeDeTuneis
+* Br/IlhaTartaruga: Uma tartaruga, baleia ou outra criatura grande e velha o suficiente para abrigar um ecossistema inteiro nas costas.
+* Br/AtmosferaSinistra: Uma sensação vaga de que ''tem algo errado'' deixa os heróis em alerta.
+* Br/VilaSinistra: Uma pequena cidade aparentemente idílica que não é exatamente o que aparenta ser. Os habitantes podem ou não fazer parte do esquema.
+* Br/PequenaVilaInvencivel: Uma pequena comunidade unida consegue, de algum modo, repelir repetidas vezes um poder inimigo muito mais forte que ela.
+* Br/CidadeSobACidade: Uma cidade que sofreu alguma calamidade e que foi reconstruída por cima, sendo esquecida com o tempo -- mas ela ainda está lá.
+* Br/CidadeNoSubsolo: Uma cidade Br/AbaixoDaTerra que pode ter sido soterrada, construída por não-humanos ou pensada como um bunker para resistir ao apocalipse.
+* Br/BaseSubaquatica: O Br/CovilDoSuperVilao, mas embaixo da água.
+* Br/SoloProfano
+* Br/EuropaUnida: A Europa é uma potência única e unificada, agindo como uma unidade.
+* ??? UnnaturallyLoopingLocation: Um lugar que continua se repetindo.
+* Br/InteriorDesnecessariamenteGrande: Construções com tetos altos e salas cavernosas pouco práticas. Arquiteturalmente, acontece Br/PorqueELegal.
+* Br/InfernoUrbano: Uma espiadinha Br/VinteMinutosNoFuturo, onde a cidade está infestada com criminosos violentos e a polícia é ineficaz em impedi-los, ou só consegue fazê-lo sendo ainda mais brutal.
+* Br/SegregacaoUrbana: As cidades na ficção são claramente divididas em partes ricas e partes pobres, sem áreas mistas.
+* Br/{{Veganopia}}: Sociedades pacíficas não comem carne.
+* Br/ImperioResidual: Os restos corruptos e decadentes de um império outrora poderoso.
+* Br/CidadeDosVicios: Uma ambientação urbana repleta de crime que ainda não decaiu totalmente para o caos. É a ambientação padrão de muitos jogos do tipo ''sandbox''.
+* Br/MundoDeViloes
+* Br/DesolacaoVilanicaArcadiaHeroica: Os heróis vivem em locais idílicos (ou pelo menos cosmeticamente belos) enquanto os vilões vivem em locais arruinados.
+* Br/CovilVulcanico: O Br/CovilDoSuperVilao em um vulcão (geralmente inativo). É bom que economiza no escavamento. [[Br/CovilEmColapso Cuidado com a vitória]].
+* Br/SalaDeAulaMaluca: Uma ambientação cômica de Br/EscolaDeEnsinoMedio, focada em uma turma de alunos excêntricos que compartilham uma sala.
+* Br/AmbienteMalucoDeStartup: Um escritório que é divertido e cheio de comodidades.
+* Br/SalaDeGuerra: A versão de Hollywood de um centro de comando e controle. Raramente a iluminação é boa.
+* Br/ACasaBranca: Lar e escritório do Presidente dos Estados Unidos.
+
+* Br/SalaVaziaBranca: Um local ''branco'' sem características marcantes, geralmente um plano vazio. Às vezes é feito para parecer futurista.
+* Br/SelvaSelvagem: A natureza intocada é um lugar de aventura e é tratada como um mundo totalmente distinto.
+* Br/PaisagemComMoinhosDeVento: Muitos moinhos de vento decorativos e espalhados pela relva.
+* Br/EscolaDeMagia: Para onde as crianças com talento mágico vão para aprender a conjurar magias (e talvez aprender as matérias do ensino regular).
+* Br/HorroresNoLocalDeTrabalho: Monstruosidades e assassinos contumazes aparecendo em locais mundanos de trabalho.
+* Br/MundoNoCeu: Toda a civilização vive no céu.
+* ??? WretchedHive: Uma terra sem lei, habitada por todo tipo de bandidos e malfeitores.
+* Br/LadoErradoDosTrilhos: Os lugares ruins para se estar em uma ambientação de Br/SegregacaoUrbana.
+[[/folder]]
+
+[[/index]]
+
+----

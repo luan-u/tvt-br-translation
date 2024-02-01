@@ -1,0 +1,27 @@
+Filmmakers and playwrights use the term [[https://en.wikipedia.org/wiki/Beat_%28filmmaking%29 "beat"]] to describe moments in the screenplay that should [[EmotionalTorque evoke particular emotional reactions]] in the audience. Although derived from [[https://en.wikipedia.org/wiki/Beat_%28music%29 musical beats,]] this term is less about timing and much more about ''pacing'' -- the cyclic shifts in emotional direction and intensity that keep the audience engaged with the story. Narrative beats therefore don't have any specific duration, and can, in fact, be found as often as at every line of dialogue or as rarely as at the key turning points of the plot. In movies, beats tend to be spaced apart regularly; a string of scenes between two beats is known as a [[https://en.wikipedia.org/wiki/Sequence_%28filmmaking%29 "sequence."]]
+
+Narrative beats are not the same as {{Beat}}s and {{Beat Panel}}s, which are presentation techniques of pausing the dialogue/action to let something important sink in with the audience (although that "something" is often an underlying narrative beat).
+
+!!Resolution
+Each narrative beat can resolve either positively, i.e. towards hope (that TheProtagonist reaches their goal, does the right thing, resolves their internal strife, or simply looks awesome), or negatively, i.e. towards fear (that the protagonist fails, succumbs to their demons, makes a bad call, etc.). A plot with too many positive resolutions often results in SweetnessAversion, while too many negative ones can lead to TooBleakStoppedCaring.
+
+The trick to keeping the audiences on the edge of their seats throughout the whole story is a varied progression that generally slopes downward (towards fear) but intersperses negative beat resolutions with hopeful ones at just the right times. Not all beats have to resolve positively or negatively, however: neutral or ambiguous resolutions can be used effectively to maintain tension, but too many of them result in indecisive and forgettable narratives.
+
+!!Types
+Creator/RobinLaws in ''Literature/HamletsHitPoints'' identifies two elementary and seven specialized types of narrative beats (without claiming this model to be complete or universal):
+
+* '''Procedural''' beats revolve around the protagonist's external or practical goals and evoke a sense of suspense, advancing the overall plot with little personal investment from the characters. For example, the hero may be [[ChaseScene giving chase]] to the villain to stop his [[EvilPlan nefarious plans]]: in a positive resolution, he is able to intercept the bad guy; in a negative one, he loses track of him.
+* '''Dramatic''' beats are the opposite of Procedural ones: instead of moving the external plot along, they concern personal aspirations and relationships between characters. For example, the hero may seek [[WellDoneSonGuy his father figure's approval]] for his actions: in a positive resolution, his father supports him; in a negative one, he is not impressed at all.
+* '''Commentary''' beats inject the author's own voice into the narrative, e.g. as a GreekChorus or as an AuthorFilibuster, and are often (but [[Administrivia/TropesAreTools not always]]) a [[ShowDontTell sign of bad writing]].
+* '''Anticipation''' beats create expectation of incoming awesomeness. Any HellYesMoment is essentially this. They resolve positively by definition.
+* '''Gratification''' beats consist of various forms of {{Fanservice}} (not necessarily sexual, e.g. a ContinuityNod is also a form of fanservice) and/or AuthorAppeal and serve to resolve positively without adding anything of consequence to the story.
+* '''Bringdown''' beats are Gratification's EvilTwin, rubbing salt into the wounds without technically making the situation any worse -- for instance, an EmpathyDollShot. Naturally, they always resolve negatively.
+* '''Pipe''' beats lay subtle {{Foreshadowing}} groundwork for upcoming events or reveals. Well-written pipes resolve neutrally, as the audience [[InnocuouslyImportantEpisode doesn't normally register them as important]].
+* '''Question''' beats pique the audience's curiosity about something that's happening or already happened. Because no one likes being kept in the dark, they usually resolve negatively.
+* '''Reveal''' beats do just that: cash in the suspense built up by earlier Question and Pipe beats by [[TheReveal revealing]] something surprising or important. They typically resolve positively.
+
+Procedural and Dramatic beats are the two main workhorses of fiction: 80% of any narrative consists of them, with the exact ratio between the two determining its place on the SlidingScaleOfPlotVersusCharacters. Pipe, Question, and Reveal are collectively known as "informational beats". The Question-Reveal combo is a particular darling of LitFic, whose authors use it to maintain narrative suspense in lieu of jeopardy-inducing Procedural beats preferred by adventure and genre fiction.
+
+!No examples, please; this merely [[Administrivia/DefinitionOnlyPages defines the term]].
+
+----

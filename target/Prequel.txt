@@ -1,0 +1,20 @@
+->''"Toda geração tem uma lenda. Toda jornada tem um primeiro passo. Toda saga tem um começo."''
+-->--Chamada para ''BrFilme/AAmeacaFantasma''
+
+Uma obra que é produzida ''depois'' de uma entrada em uma série mas que, internamente, fica cronologicamente ''antes'' dela.
+
+Talvez a última entrada na série não tenha dado margem para uma sequência. Talvez os escritores simplesmente queiram explorar a Br/HistoriaDeFundo, o Br/EpisodioDeOrigem ou o Br/ComecoDasTrevas. Talvez eles queiram dar mais contexto para certos elementos das obras anteriores. Como dizem, às vezes não é o destino, mas sim a jornada.
+
+Nesse caso, é tempo de produzir uma Prequência (um [[Br/{{amalgama}} amálgama]] de "pré-" e "[[Br/{{sequencia}} sequência]]")[[note]]também conhecido como ''prequel'', termo emprestado do inglês que ''também'' é um amálgama[[/note]]: uma sequência que se passa cronologicamente ''antes'' da obra anterior. Por um lado, isso dá muita margem para referências a itens futuros assim como uma oportunidade para [[Br/UniversoExpandido expandir o universo]] de uma obra. Por outro, a prequência costuma usar muita Br/ContinuidadeRetroativa para emendar as histórias de fundo, pode ter consequências que deveriam ter sido mencionadas na história original e também é difícil manter a tensão quando o público [[Br/ConclusaoConhecida já sabe como termina]]. Por exemplo, na trilogia prequência de ''BrFranquia/StarWars'', muitos personagens interagem com outros personagens que são encontrados novamente na trilogia original de ''Star Wars'', mas no filme eles não mostram evidência de que os tenham reconhecido. O segundo filme de ''BrFranquia/IndianaJones'' foi uma prequência, e por isso o público já sabia que ele iria sobreviver e não ficaria com a garota. Isso, no entanto, não significa que uma prequência não pode ter grandes reviravoltas ou [[Br/ARevelacao revelações]] próprias, e ela pode também lançar nova luz sobre alguns aspectos da obra original, ou até sobre a totalidade desta.
+
+Séries para TV costumam enfiar uma prequência em um Br/EpisodioDeRecordacao. Um filme pode receber uma série prequência produzida para a TV. Às vezes os escritores espremem uma história entre entradas existentes, o que faz com que seja uma sequência e uma prequência ao mesmo tempo. Prequências também são uma boa ocasião para se usar um Br/PacoteDeExpansaoMundial e introduzir novos conflitos sem minar a resolução do trabalho prévio ao se introduzir um [[Br/AlgoritmoOrdenadorDeMaldade mal ainda mais maléfico]]. Vez ou outra o dito mal supremo pode receber a própria prequência com o Br/ComecoDasTrevas.
+
+Um problema com prequências em mídia eletrônica é que se elas saem muitos anos após o original, a tecnologia da Br/VidaReal avança ao ponto de os efeitos especiais, gráficos, etc., fazerem a prequência parecer mais avançada que o original, o que resulta em uma Br/PrequenciaCosmeticamenteAvancada. Dependendo da série e das circunstâncias, isso pode ser ignorado ou dar na vista.
+
+'''Lembre que uma obra deve ser produzida ''após'' a entrada relacionada para ser considerada uma prequência; obras anteriores não encaixam na definição. Por exemplo, ''BrFilme/{{Rocky}}'' não é uma prequência para ''BrFilme/RockyII'' porque ''Rocky II'' foi produzida e ambientada após o primeiro filme.'''
+
+Costuma ser um Br/EpisodioDeOrigem. Comparar com Br/HistoriaDeFundo, Br/{{Recordacao}} e Br/{{Interquencia}}. Br/PrequenciaNaIdadePerdida é um subtropo que se posiciona em uma era no passado distante mencionada in-universo. Se uma sequência ou interquência genuína é lançada após a prequência, então é Br/OrdemAnacronica.
+
+----
+!!Exemplos:
+Br/ExemplosEmFalta.

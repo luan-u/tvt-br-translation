@@ -1,0 +1,710 @@
+[[quoteright:300:[[Literature/TheFeatherOfFinistTheFalcon https://static.tvtropes.org/pmwiki/pub/images/bilbin_settings_1646.JPG]]]]
+[[caption-width-right:300:Picking the time and place is important for a story.]]
+
+A setting is the ''time, geographic place and circumstances of the narrative.''
+
+The setting provides the main backdrop for a story. It often includes context beyond the rooms or buildings we see in the story. For example, the story may tell us about the culture, social customs or beliefs of the characters.
+The setting may show only one point in time, or it may depict time passing (by showing changing seasons).
+
+There are many types of settings, such as natural outdoor settings, historical settings, or depicting a person's home.
+----
+!!Tropes:
+[[index]]
+[[foldercontrol]]
+
+[[folder:'''Categories''']]
++ AbandonedArea: Derelict places that are no longer used or inhabited by any people.
++ AnimeSettings: Places which are often found in {{anime}} and {{manga}} stories.
++ ApocalypticIndex: Settings which have been devastated by world-ending disasters.
++ BeachTropes: Everything about coastal lands directly touching the sea.
++ BuildingTropes: All types of artificial structures.
+++ BathroomTropes: Places where one washes themselves for hygienic purposes.
+++ CastleTropes: Castles and fortresses.
+++ EatingEstablishments: Restaurants and other dining areas.
+++ GroceryStoreIndex: Shops where one may buy food and other home necessities.
+++ HospitalTropes: A place you may need to visit if you're not feeling well.
+++ HotelTropes: Temporary lodging for travelers on the go.
+++ HouseTropes: All kinds of buildings which at least someone calls their home.
+++ MuseumOfTropes: Places where artifacts are on display for educational purposes.
+++ PrisonTropes: Buildings designed to lock up people in captivity.
+++ SchoolTropes: Educational facilities.
+++ TheTower: Buildings that are very vertically tall.
++ CircusIndex
++ TheCity: Large urban settlements and adjacent suburbs of a metropolitan area.
++ CountrysideIndex: Rural regions away from urban areas, where one gets closer to farmlands and the natural wilderness.
++ DesertTropes: Arid, dry regions which receive very little rainfall.
++ FictionalCultureAndNationTropes: {{Fictional countr|y}}ies and civilizations, along with the peoples who live in them.
++ HollywoodAtlas: The general geography of Earth.
+++ TheNationalIndex: Sovereign countries and nation-states around the globe.
++ HollywoodHistory: Settings inspired by the long history of the real world.
+++ AlternateHistoryTropes: Settings which are inspired by, but intentionally deviate from, periods of our historical past.
++ HomeBase: The headquarters and/or residence for the main characters.
++ AMountainOfTropes: Everything about hills and mountains.
++ OtherworldTropes: Parallel realms separate from the one we live in.
+++ AlternateUniverse
+++ AnotherDimension
+++ ShortScreentimeForReality
++ PunkPunk
++ SettingGimmicks
++ SmallTowns: Rural or suburban settlements that are much smaller than big cities.
++ SewerTropes: Underground waste storage facilities.
++ TropesAtSea: The big blue ocean.
++ TropesInSpace: The vast universe beyond our own planet Earth.
++ TropesOfTheJungle: Lush green rainforests in (semi-)tropical regions.
++ VideoGameSettings: Levels, maps, stages, and other places which are often found in {{video game}}s.
++ WeWillNotUseAnIndexInTheFuture: All tropes concerning TheFuture and the world of tomorrow.
++ YouWouldNotWantToLiveInDex: Various unpleasant settings which nobody would want to stay in if they were able to leave.
+[[/folder]]
+
+[[folder:Time Tropes]]
+* TwentyMinutesIntoTheFuture: In the near future everyone is a robot and speaks 10 languages.
+* TwentyMinutesIntoThePast: Not a PeriodPiece, but not quite the present, either.
+* AfterTheEnd: A catastrophe -- man-made or natural -- has [[ApocalypseHow wiped out a large portion of the human civilization and/or population]]. The survivors fight for survival in a post-apocalyptic world.
+* AgeOfReptiles: A primordial period where reptiles ruled the Earth.
+* AgriWorld: A planet, often depicted as a SingleBiomePlanet, dedicated to agriculture.
+* AlienInvasion: They don't come in peace.
+* AlternativeCalendar: If the end of UsefulNotes/WorldWarII were used as an era, it would be the year 75 instead of 2020.
+* AnachronisticOrphanage: A traditional orphanage in a first-world setting.
+* AnachronismStew: Is that man wearing a toga, wielding a [[KatanasAreJustBetter Katana]] and listening to an iPod?
+* AnimalIsTheNewMan: Animals take over after humanity falls.
+* TheApunkalypse: Punks usher in the collapse of civilization; the apocalypse ushers in the age of the punks. It's all the same song and dance, and the punks are here to stay.
+* BibleTimes: The historical eras wherein {{Literature/The Bible}} is set.
+* BigFatFuture: Obese is slim in the future.
+* BugWar: Humans vs. insectoid aliens.
+* CassetteFuturism: The early digital era of the 20th century's last quarter extrapolated into the future. The grungier post-microchip, pre-[[EverythingIsAnIPodInTheFuture iPod]] successor to RaygunGothic.
+* ChandlerAmericanTime: A nastier relative of GenteelInterbellumSetting
+* CockroachesWillRuleTheEarth: Little vermin become the dominant life form.
+* TheDarkTimes: Between the dinosaurs and early human civilization there were dragons, wizards and evil beyond imagination.
+* DawnOfTheWildWest: Just before and the beginning of the WildWest.
+* DayOfTheJackboot: War's over. We lost.
+* DaysOfFuturePast: Middle Ages + Spaceships = ''Franchise/StarWars''.
+* TheDungAges: Happens during Dark Age Britain.
+* DuringTheWar
+* EarthIsYoung: Though events take place on Earth during the recorded period of human history, the age of the planet is merely thousands rather than billions of years.
+* TheEdwardianEra: 1901 - 1910, from UsefulNotes/QueenVictoria's death to the outbreak of UsefulNotes/WorldWarI
+* EnforcedTechnologyLevels: Only certain kinds of technology, or a certain level of technology, is allowed. By law, manmade or natural.
+* FantasticNatureReserve: A zoo, wildlife reserve, or other home for supposedly extinct or mythical creatures.
+* FantasyAmericana: Magic, fantastic creatures, and figures of folklore lie in the wilds of North America, just beyond the reaches of civilization.
+* FeudalFuture: Sub-category of Days of Future Past.
+* FloodedFutureWorld: In the future, the world becomes mostly or entirely covered by water.
+* TheFuture: 100 -- 200 years into the future. Think of how every house in ''WesternAnimation/TheJetsons'' [[RaygunGothic looks]].
+* TheFutureIsNoir: We do not use sufficient lighting in the future.
+* GenteelInterbellumSetting: Sometime between 1918 and 1939.
+* HeavenlyConcentricCircles: {{Heaven}}ly planes or beings are depicted as concentric circles in the sky.
+* HereThereWereDragons: Once upon a time, Kings had wizards as courtiers and knights slew dragons.
+* HollywoodPrehistory: Hollywood Stone Age. All cavemen look Neanderthalish and live in harmony with dinosaurs.
+* JustBeforeTheEnd: We are a few days from extermination.
+* JustOneSecondOutOfSync: A time out of place.
+* ALongTimeAgoInAGalaxyFarFarAway: Far distant in space, time or both. They've probably never even heard of Earth.
+* TheMagicVersusTechnologyWar: The Sorcerors fight the Scientists.
+* MedievalEuropeanFantasy: Swords, kings and [[Creator/JRRTolkien Tolkienian]] lore.
+* MedievalPrehistory: Pre-industrial human society set against a prehistoric backdrop.
+* MedievalStasis: Technology hasn't changed since 1250.
+* ModernStasis: 4000 years later, still no [[IWantMyJetpack jetpack]].
+* NewOldWest: Cowboys Now.
+* NextSundayAD: Just ahead of the present. That's why you haven't noticed the AlienInvasion.
+* OverpopulationCrisis: Wherever you are, there are too many other people for it to be sustainable.
+* PlaceBeyondTime: A place out of time.
+* PopularHistory: When movies set in 1968 look like they are set in 1968.
+* PresentDay: When a show is set in the same year it is produced in.
+* PresentDayPast: The city wouldn't let the production close down streets so our movie set five years ago is full of recent car models and billboards.
+* RaygunGothic: Shiny spaceships, artistically designed ray guns, {{Tin Can Robot}}s, and jet packs, all done in an Art Deco style. The chief setting of futuristic stories from the the Golden Age of Science Fiction.
+* ReclaimedByNature: Nature grows over the remains of Mankind's infrastructure.
+* RobotWar: Robots [[TurnedAgainstTheirMasters turn against the creators]].
+* RuinsOfTheModernAge: The Empire State Building is growing moss and most of its concrete is fading away.
+* ScavengerWorld: The world has been ruined, and people rely on what they can salvage from the old world to survive.
+* SpaceAgeStasis: You have the jet packs, but they're the same as the ones made a thousand years ago.
+* SpaceWestern: Cowboys in space.
+* StandardPostApocalypticSetting: A post-apocalyptic featuring a lot of mutants, ruined cities, and brown palettes.
+* StandardSciFiHistory: The Far Future, the Really Far Future of Space Opera.
+* TheTimeOfMyths: Ancient Myths (Bronze Age Greek, what-have-you) are not only real, they are mashed together into one time period.
+* TwilightOfTheOldWest: The WildWest gradually gives way to the NewOldWest.
+* TheWildWest: Every Spaghetti- and Western.
+* WoodenShipsAndIronMen: The Age of Sail.
+* WorksSetInWorldWarI: 1914 -- 1918
+* WorksSetInWorldWarII: 1939 -- 1945
+** WorksSetInWorldWarII/WorksAboutTheHolocaust: 1941-1945
+[[/folder]]
+
+[[folder:Perspective Types]]
+* KneeHighPerspective: The characters are children, babies, small or tiny animals, small fey beings, or toys, and adults are viewed from the waist, knee, or ankle down.
+[[/folder]]
+
+[[folder:Dimensions / Universes]]
+* AlienSpaceBats
+* AllMythsAreTrue
+* AlternateWorldMap: When an RPG has alternate worlds.
+* BizarroUniverse
+* BloodyBowelsOfHell
+* ConstructedWorld
+* {{Cyberspace}}
+* DarkWorld
+* DreamLand
+* {{Dreamville}}
+* {{Elseworld}}
+* FireAndBrimstoneHell: The Common Hell.
+* FluffyCloudHeaven
+* GiantFood
+* {{Heaven}}
+* {{Hell}}
+* HellIsWar: Hell is dedicated to the aspects of war.
+* IronicHell
+* LandOfFaerie
+* MagicalLand
+* MentalWorld
+* TheMetaverse
+* MirrorUniverse
+* MouseWorld
+* TheMultiverse
+* OnlyOneAfterlife
+* PhantomZone
+* PlaceBeyondTime
+* PlatonicCave
+* PocketDimension
+* RolePlayingGameVerse
+* RetroUniverse
+* RPGMechanicsVerse
+* SpiritWorld
+* TheUnderworld
+* {{Wackyland}}
+* WarriorHeaven: Where [[ProudWarriorRaceGuy Proud Warrior Race Guys]] go when they die.
+* WhereTheMagicWent
+* WorldOfChaos: A world where physical laws have been thrown to the wind and nothing makes sense.
+* WorldOfHam: Where a simple conversation is spoken in ALL CAPS and [[PunctuatedForEmphasis PUNCTUATED! FOR! EMPHASIS!]]
+[[/folder]]
+
+[[folder:Other / Multiple]]
+* AdventureFriendlyWorld
+* {{Avalon}}
+* CaliforniaDoubling
+* {{Camelot}}
+* CasualTimeTravel .
+* {{Cloudcuckooland}}
+* CrapsaccharineWorld
+* CrapsackOnlyByComparison
+* CrapsackWorld
+* CultureChopSuey .
+* DesolationShot
+* DividedStatesOfAmerica
+* DoublingForLondon
+* DysonSphere
+* {{Dystopia}} .
+* DystopiaIsHard
+* EarthDrift
+* {{Egopolis}}
+* EmotionsVsStoicism
+* EnvironmentalSymbolism .
+* EveryoneIsASuper
+* ExoticBackdropSetting
+* ExpandedStatesOfAmerica
+* ExpandedUniverse
+* ExpansionPackWorld .
+* FallenStatesOfAmerica
+* FalseUtopia
+* FantasyCounterpartCulture
+* FilmingLocationCameo
+* FisherKing .
+* FisherKingdom
+* FlatWorld
+* GaiasLament
+* {{Gotterdammerung}}
+* HellOnEarth .
+* HollowWorld
+* InvadedStatesOfAmerica
+* LegionOfLostSouls
+* LocationSong
+* LostColony .
+* {{Matriarchy}}
+* MetroSpecificUnderworld
+* MundaneDogmatic
+* NeverRecycleABuilding
+* {{Omegaverse}} .
+* OneDegreeOfSeparation
+* TheOutsideWorld
+* PastRightNow: When something very much like the past is found in present day, either recreated or preserved.
+* PlaceWorseThanDeath
+* PlanetOfHats
+* {{Planetville}}
+* PointsOfLightSetting
+* PostSovietReunion
+* RecycledInSpace: An existing story is given a new setting.
+* RingWorldPlanet
+* SchizoTech
+* ScienceDestroysMagic
+* {{Shadowland}}
+* SharedUniverse
+* SingleBiomePlanet: A desert planet, ice planet, ocean planet.
+* SlidingScaleOfShinyVersusGritty
+* SmallSecludedWorld
+* SomewhereSong
+* SpookySilentLibrary
+* StandardFantasySetting
+** StandardJapaneseFantasySetting
+* StandardSciFiSetting
+* StandardSuperheroSetting
+* SugarBowl: A bright, colorful, happy world.
+* TechnoDystopia
+* TelevisionGeography
+* TerminallyDependentSociety
+* ThereAreNoGoodExecutives
+* TheUnmasquedWorld
+* UrbanRuins
+* {{Utopia}}
+* TheVerse
+* WainscotSociety: The setting may look like our world to most of its inhabitants -- but there's a whole secondary society in hiding.
+* WeWillUseLasersInTheFuture: Setting where [[EnergyWeapon Energy Weapons]] are portrayed as superior to kinetic weapons.
+* WhereTheHellIsSpringfield
+* TheWonderland: A strange, fantastical place that follows rules we aren't used to.
+* WorldGoneMad
+* AWorldHalfFull
+* WorldOfBadass: ''Everyone'' is a badass.
+* WorldOfHam: ''Everyone'' is a LargeHam.
+* TheWorldAsMyth
+* WorldOfPun
+* WorldOfSymbolism
+* WorldOfWeirdness: The mundane world is mixed with the supernatural and nobody bats an eye.
+* WorldShapes
+* WorldTour: When the story is set across multiple different locations around the Earth.
+* WretchedHive
+* YouWouldNotWantToLiveInDex
+[[/folder]]
+
+!!Space / Place
+
+[[folder]]
+* AbsurdlySpaciousSewer: Sewers with high enough ceilings for people to walk around comfortably and enough space to hold an entire castle.
+* AcademyOfAdventure: In class, you learn to fly and shoot laser beams out of your eyes.
+* {{Adminisphere}}: The back office that administers the organisation. Likely to be out of touch with the sharp end of the business.
+* AdvancedAncientAcropolis: Exactly what it says on the tin. Often found in the darkest jungle. May overlap with CityOfGold.
+* AdventureTowns: Travel between towns for new quests.
+* AdventurersClub: When the globe-trotting hero isn't about his exciting business, he can relax at the club and swap stories with the like-minded.
+* {{Afrofuturism}}: Africa as a place of technological wonder and modernity, rather than a [[DarkestAfrica primitive, savage land]] or a collection of [[{{Bulungi}} impoverished third-world countries.]]
+* AgriWorld: A One-Product Planet specifically dedicated to agriculture.
+* AirstripOne: TheEmpire strips a conquered nation of its identity and assigns it a number.
+* TheAlcatraz: A high-security prison where there's lava instead of the ocean and the guards are huge robots.
+* AliensInCardiff: Unusually, the AlienInvasion has gone off the [[TokyoIsTheCenterOfTheUniverse Tokyo]]-[[BigApplesauce New York]]-[[HollywoodCalifornia Los Angeles]]-[[BritainIsOnlyLondon London]] tourist route to land in Plymouth.
+* AllGhoulsSchool: Faculty for the freaky and fanged.
+* AmazingTechnicolorWorld: A colorful world.
+* AmusementPark: It's usually closed and happens during the night.
+* AmusementParkOfDoom: No one has entered in ages and because of that, the place is riddled with [[DurableDeathTrap traps]] that kill you.
+* AncientTomb: Tombs, burial chambers, sepulchers, mausoleums, charnel houses, ossuaries, catacombs, crypts, sometimes even dungeons.
+* ApartmentComplexOfHorrors: Awful apartments, infested by horrors from awful neighbors to rats and ghosts.
+* {{Arcadia}}: Quiet life in the countryside.
+* Area51: A top-secret research facility in the desert.
+* AsceticAesthetic: In this setting, less is more.
+* AthleticArenaLevel: Football and Baseball and Hockey, OH MY! And all of them are trying to play at once.
+* {{Atlantis}}: The perfect lost world.
+* AtTheCrossroads: Where the paths of two fates cross.
+* BadGuyBar: Everyone inside is a macho wrestler with an evil look on his face.
+* BarFullOfAliens: The clientele of this place is kind of... alien.
+* {{Barsetshire}}: A bucolic, often English countryside in which tales of ordinary personal comedy and drama take place.
+* BaseOnWheels: How is it possible to keep an entire city on wheels that can drive anywhere, even submerge? Beats me.
+* BazaarOfTheBizarre: A marketplace in the Middle East. You'll find all sorts of this and that in there.
+* BBCQuarry: The ISO Standard alien planet set. A disused or rented quarry full of interestingly dull rocks and fascinatingly monotonous scenery; the perfect alien-landscape-on-a-budget.
+* BeachTropes
+* BeautifulVoid: Peaceful, but oddly empty.
+* BedlamHouse: Asylum on steroids.
+* BeneathTheEarth: People living under the crust. Their technology is primitive and they fear the outsiders.
+* TheBermudaTriangle: Where planes and ships go to enter inter-dimensional rifts (maybe).
+* BigApplesauce: Because New York is the only city aliens and monsters like to destroy.
+* BigFancyCastle: Much like Big Fancy House, but with more towers. And secret passages. And dungeons.
+* BigFancyHouse: A house on a hill. It's not dirty. It has more rooms than any other house around.
+* BiggerOnTheInside: A building that looks small - possibly ridiculously small - but opens up into a giant mansion or other area.
+* BigLabyrinthineBuilding: A huge building consisting of nothing but a maze.
+* TheBigRottenApple: Where New York is a squalid decaying crime-ridden Hell on Earth.
+* {{Bizarrchitecture}}: Implausible, ridiculous, bizarre architecture.
+* BoardingSchoolOfHorrors: The breeding ground of [[SadistTeacher Sadist Teachers]] and cutthroat battles for social dominance.
+* BoomTown: Whoa, these guys build and breed fast.
+* TheBridge: Where sci-fi guys go to [[EveryoneMeetsEveryone get to know each other]].
+* BrightCastle: A beautiful fairy-tale castle.
+* BronsonCanyonAndCaves: A rocky area in Los Angeles' Griffith Park, whose relatively convenient location and desolate, remote appearance have made it a very popular filming location, particularly for works in the [[ScienceFiction science fiction]] and [[TheWestern Western]] genres.
+* BuildingOfAdventure: A single building is the setting.
+* CaliforniaUniversity: When kids in a HighSchool drama get too old to be believable, expect most of them to go here.
+* CampbellCountry: LovecraftCountry...in England!
+* CanadaDoesNotExist: What do you do when you're ashamed to be shooting your show in Canada, but can't set it in America?
+* CardboardPrison: A prison that is way too easy to escape, so that villains can be reused.
+* TheCasino: A good place to gamble.
+* ChezRestaurant: Expect snails, frog legs, temperamental chefs, and snotty waiters with [[FunnyForeigner funny accents]].
+* ChristmasTown: Home of SantaClaus, the ChristmasElves and Christmas Magic!
+* CircleOfStandingStones: A ring of giant stones where important events often occur.
+* CityInABottle: There has never been anything outside TheCity. Beyond its [[CrapsaccharineWorld well-policed]] walls is unknown darkness.
+* CityOfGold: A country chock full of wealth and splendor.
+* TheCityNarrows: Basically, your [[WrongSideOfTheTracks typical city slum]], but [[WretchedHive even more dangerous]].
+* CityNoir: Like a city, except it's always dark and rainy, crime is everywhere, and the PoliceAreUseless (or [[PoliceBrutality even worse]]).
+* CityOfAdventure: All the adventure and excitement you could possibly crave conveniently rolled up into a single city.
+* CityOfCanals: A city where waterways are used as streets. Usually mirrors Venice.
+* CityOfEverywhere: Art/LadyLiberty's just a few blocks from the Louvre.
+* CityOfSpies: City. With Spies. Get it?
+* CityWithNoName: The writers were lazy when thinking about the location, or wanted it to be anywhere.
+* ClimbingTheCliffsOfInsanity: Tall walls of rock keeping you from your destination.
+* ClockTower: The town clock, the one that everybody sets their clocks to. May be a [[CathedralClimax bell tower]] you [[ClimbingClimax have to ascend]].
+* CloseKnitCommunity: Whether rural, urban, or suburban, a place where everyone knows each other and looks out for each other.
+* CobwebJungle: A spooky, abandoned location where cobwebs are as thick as jungle undergrowth.
+* {{Commune}}: A place where everybody lives together in a self-sustaining community. May or may not be part of a FreeLoveFuture, may or may not include the NewAgeRetroHippie.
+* CompanyTown: A town created by a company for its employees, where they're the law for all practical purposes.
+* ContainerMaze: A labyrinth of crates or containers in a warehouse, storeroom or dock.
+* ContemplationLocation: A place where a character goes to think or meditate.
+* ContrastingSequelSetting
+* CoolAirship: An airship, but with lasers.
+* CoolBoat: A boat, but with lasers.
+* CoolGarage: A garage, but with lasers.
+* CoolHouse: A house, but with [[RunningGag lasers]].
+* CoolShip: Anything that's called a ship and has lasers.
+* CoolStarship: A starship, but with even more lasers than usual.
+* CoolestClubEver: So great, it's always packed. (If it plays techno, it may even have lasers!)
+* CorpseLand: A devastated location where no one has cleaned up the bodies of the fallen (and maybe never will).
+* TheCouch: It's very soft, and is always center stage.
+* CrappyCarnival: Like Disneyland, if Mickey was a grubby ConMan.
+* CreatorProvincialism: If the creator lives in X, the setting in the work they created will be X.
+* CreepyBasement: Like a regular basement, but with more spiders.
+* CreepyCathedral: The bells are haunting at midnight.
+* CreepyCave: Watch out for [[BloodsuckingBats vampire bats]]! And for regular vampires.
+* CreepyCemetery: The place with the reputation for mass-producing the undead.
+* CriminalConvention
+* CrystalLandscape: A setting filled with or completely composed of crystals, gemstones and jewels.
+* CultColony: An isolated group of religious settlers.
+* CutAndPasteSuburb: Hey, I think I saw that house before. And that one too!
+* CutesyNameTown
+* DancesAndBalls: England between 1700 - 1900.
+* DangerInTheGalacticCore: The wild center of the galaxy.
+* DangerousWorkplace: Drinking from the water cooler will burn down the building.
+* DarkestAfrica: Everyone in Africa has a bone in their nose and hair, dances around a bonfire, and lives in a straw hut. Tarzan and his pals may be present
+* DaycareNightmare: A daycare (US) or nursery school (UK) where you really wouldn't want to send your kids.
+* DecadentCourt: The entourage of the leaders conduct warfare in an ostensibly polite and civilized social battlefield.
+* DeathWorld: Watch out for that grass!
+* DeepSouth: Rednecks, moonshiners, KKK and all that.
+* DenOfIniquity: Where the {{Mook}}s and Minions unwind.
+* DerelictGraveyard: Ship graveyard.
+* DesertedIsland: No one lives there. Good place to be marooned. Full of JungleJapes.
+* DomedHometown: City in a dome. Underwater optional.
+* DownInTheDumps: Is that a skyscraper of wrecked cars?
+* DownLADrain: The LA storm drain system is used as the setting in a film/TV show, usually a car chase.
+* DriveInTheater: Sit in your car and enjoy the show.
+* DungeonBasedEconomy: Dungeon delving is the major local industry.
+* DyingTown: Having lost its reason to exist, the town is largely shuttered and abandoned, home to only those who couldn't move elsewhere.
+* EasilyConqueredWorld: [[WeHaveBecomeComplacent Nothing]] could ever [[AllYourBaseAreBelongToUs harm]] us.
+* EerieArcticResearchStation: A remote lab in an icy cold location as a tension-filled setting.
+* ElaborateUndergroundBase: A base that has a hangar, silo and laboratory.
+* EldritchLocation: Because Euclidean designs are for morons!
+* ElephantGraveyard: A secret place where elephants go to die.
+* EnchantedForest: A large, old-growth forest in which nature (and often magic) are supreme.
+* EnclosedSpace: Hope you don't have claustrophobia!
+* EndlessCorridor: Keep walking forever.
+* EpiphanicPrison: To exit: Have epiphany.
+* EvilTaintedThePlace: A location that has been corrupted forever because it was once home to an evil presence.
+* EvilTowerOfOminousness: That tower that's larger than the mountains? Definitely not the Evil Overlord's lair!
+* TheExactCenterOfEverything: The galactic core or center of the universe is a MacGuffinLocation.
+* ExclusiveCliqueClubhouse: Certain student groups get their own hideouts and housing.
+* ExtranormalInstitute: Super-trope of all your schools for people with weird powers or abilities.
+* ExtremelyDustyHome: A abandoned house with layer upon layer of dust and cobwebs.
+* FanConvention: Places where fans gather to engage in their hobbies.
+* FarSideIsland: A tiny island in the middle of nowhere housing a single palm tree.
+* FatCamp: A summer camp where parents send overweight kids to diet and to get off their butts and go outside.
+* FakeTown: A fake town or city built to look like a real one.
+* FictionalCountry: See also FictionalCultureAndNationTropes.
+* FictionalProvince: A fictional subset of a real country.
+* FloatingContinent: A floating chunk of land as an exotic locale.
+* FlyoverCountry: The middle of America, where no one from New York or California seems to want to film.
+* ForbiddenZone: A dangerous place no one wants to go (except the heroes, of course).
+* FoulBallPit: Filthy and/or dangerous fast-food playgrounds.
+* FriendlyLocalChinatown: Sections of large American cities where Chinese culture can be found close at hand.
+* GadgeteersHouse: An inventor lives here, so nearly everything is automated.
+* GardenOfEvil: A place where most or all of the plants are poisonous, carnivorous, or otherwise dangerous.
+* {{Gayborhood}}: A neighborhood where the population is predominantly openly LGBT in a city where most people aren't.
+* GeniusLoci: A place that is intelligent and often in control of itself or the things living in it.
+* GeographicFlexibility: When the setting grows, shrinks, adds, and loses features as the plot demands.
+* GhibliHills: Pristine, untouched wilderness, often within easy reach of civilization.
+* GiantCorpseWorld: A setting where people live in or on a giant decaying corpse.
+* GildedCage: A comfortable place that keeps a character isolated from the real world.
+* GingerbreadHouse: A house or other building made of food, usually candy and sweets. Usually a fairy-tale setting.
+* GhostTown: An abandoned town.
+* GoodGuyBar: Where the heroes hang out after hours. Villains are welcome if they behave.
+* TheGoodKingdom: Where good monarchs reign. Usually small, pleasant, and an underdog against TheEmpire.
+* TheGoodOldBritishComp: Modern British schools.
+* GrassIsGreener: An idealized place that a person desperately wishes to leave and go to.
+* GreasySpoon: A roadside diner, often stuck perpetually in the American 1950s and serving anti-diet food.
+* GreatBigLibraryOfEverything: An absurdly large and well-stocked library.
+* HackerCave: A room filled with an over-the-top mess of computers and monitors and other bits of geekery, where hackers somehow get work done.
+* {{Halloweentown}}: A setting with a very stylized creepy, gothic, Halloween theme.
+* HauntedCastle: A spooky castle where there be monsters.
+* HauntedHeadquarters: A spooky place where there be monsters, and you're stuck living or working there.
+* HauntedHouse: A spooky house where there be monsters.
+* HedgeMaze: A maze made up of hedgerows, usually found somewhere fancy and rich.
+* TheHedgeOfThorns: A large bramble of nasty thorns, usually where faeries or evil sorcerers want to block your way.
+* HeelFaceTown: A WretchedHive that became a better place to live.
+* HellHotel: A creepy hotel where bad things happen.
+* HellOfAHeaven: When Heaven sucks just for you.
+* HiddenElfVillage: A secret, safe place far from the eyes of those other meddling nations.
+* HighSchool: School for teenagers, grades 9 (or 10) through 12.
+* HolyGround: Not full of holes. Or divine coffee.
+* HomeOfMonsters: Any place monsters call home, whether it be a lair, a whole dimension, a MonsterTown or IslandOfMystery.
+* HospitalParadiso: A seemingly perfect hospital or other workplace. Often rejected by a hero who wishes to focus on the downtrodden instead of the kind of people who can afford to get help there.
+* HouseOfBrokenMirrors: Where someone who went mad from loathing their appearance has smashed all their mirrors and left them.
+* HungryJungle: Jungles are out to kill you.
+* IcePalace: A castle made of ice or one that's completely frozen over.
+* IDontLikeTheSoundOfThatPlace: A place with a sinister name.
+* IdyllicEnglishVillage: A quintessentially English village full of dainty cottages with thatched roofs.
+* ImmortalityField: A place that functions as an ImmortalityInducer.
+* IncompetenceInc: An office culture where nothing of value gets done, and where it's a mystery how they stay in business.
+* IndianBurialGround: A place where someone desecrated the graves of Native Americans by building something on it. Expect ghosts.
+* IndustrialGhetto: A slum near or inside an industrial area, often made of scrap and filled with crime and pollution.
+* IndustrialWorld: A One-Product Planet specifically dedicated to material production.
+* IndustrializedMercury: The planet UsefulNotes/{{Mercury}} is used as an industrial hub for a ColonizedSolarSystem.
+* InformedLocation: The location of the setting is specified despite it being not relevant to the story.
+* InjunCountry: The North American lands filled with folks who were there before the settlers arrived.
+* InnBetweenTheWorlds: A pub that connects to multiple worlds, where people of ''all'' types can relax and swap stories.
+* InnOfNoReturn: An inn or hotel where the owners kill and then rob or eat their customers. Often a HellHotel.
+* InnerCitySchool: An impoverished city school where the teachers have given up, and students are on the fast track to prison.
+* InsideAComputerSystem: Inside a self-contained virtual world (unlike {{Cyberspace}}, in which locations correspond to the real world).
+* InTheDoldrums: A featureless location, often an empty plane or void. More than just somewhere boring.
+* IslandBase: A SupervillainLair on an isolated island.
+* IslandOfMisfitEverything: A haven for the misfits, rejects and forlorn.
+* IslandOfMystery: An island with any one of a number of unusual things on it.
+* IsleOfGiantHorrors: An island inhabited by giant creatures.
+* ItCameFromBeverlyHills: Takes place in Beverly Hills, California.
+* KirksRock: A distinctive set of striated sandstone slabs, sharply-angled and pointed at their tops, conveniently located about 30 miles north of Hollywood.
+* KnownByThePostalAddress: The exact address of a place is often referred to in a work.
+* LadyLand: Where women rule, and men are either subservient or absent.
+* LandfillBeyondTheStars: A world full of junk.
+* LandmarkingTheHiddenBase: A secret base hidden under or in some famous landmark.
+* LastFertileRegion: The last bit of nature and greenery in a wasteland dystopia.
+* TheLavaCavesOfNewYork: Lava or magma in locales that normally don't support volcanic activity.
+* LayeredMetropolis: A city with multiple, vertically-separated levels, usually with the rich on top.
+* LayeredWorld: A world with multiple dimensions, where locations in each dimension map to each other, creating "layers" of reality.
+* LegalizedEvil: Where acts of wrongdoing among the populace are legally allowed by the setting's ruling authority.
+* LethalEatery: A restaurant that violates health codes in staggering ways. Usually played for comedy.
+* LevelAte: A VideoGame location made entirely of food.
+* LevelInTheClouds: A VideoGame world set in the skies.
+* LighthousePoint: An atmospheric lighthouse.
+* TheLittleShopThatWasntThereYesterday: A magical shop that appears out of nowhere to sell a MacGuffin and then disappears when it causes trouble.
+* LocalHangout: Where the cast spends most of their time hanging out. Brits may use MyLocal (pub) instead.
+* LockedInTheDungeon: A medieval-style underground prison / torture chamber.
+* LocomotiveLevel: A VideoGame level that takes place on a train.
+* LostWorld: A mysterious, isolated place not found on any maps where exotic adventures can occur.
+* LovecraftCountry: A creepy, horror version of rural NewEngland, where corrupt hicks conspire with dark forces.
+* LoversLedge: An outside window ledge where TheCasanova must hide to avoid being caught during InterruptedIntimacy.
+* MacGuffinLocation: When the MacGuffin everyone is competing over is a place.
+* MadScienceFair: A contest or convention involving mad scientists and their mad experiments.
+* MageTower: TheTower where a wizard does his research (or plotting) above and away from the people. Often contains telescopes, orreries, [[InexplicableTreasureChests hidden artifacts]], [[SecretPath secret passages]], [[TomeOfEldritchLore tomes of eldritch lore]], etc.
+* MagicalLibrary: A library of magic books, often itself enchanted and often safekeeping magical artifacts.
+* MajorWorldCities: An index of the largest and most important real world cities used in fiction.
+* MakeOutPoint: A secluded place, often with a good view, where teens go for AutoErotica. [[TerrorAtMakeoutPoint Bad things often happen there]].
+* TheMall: A modern, indoor, shopping complex, peaking in TheEighties. Home of the ValleyGirl and the MallSanta.
+* MaltShop: A popular teen LocalHangout in TheFifties where burgers, hot dogs, and malted milkshakes are served while the jukebox plays.
+* MartyrdomCulture: A culture that [[DeathSeeker glorifies death]] in the name of some cause or belief.
+* MasqueradeBall: An [[DancesAndBalls elaborate, period dance]] where all the attendees wear masks. Duplicity often occurs.
+* TheMaze
+* MechanicalEcosystem: A mechanical replica of a natural environment.
+* MegaCity: A city with the size or population of a country.
+* MegaDungeon: A dungeon-like environment that's big enough to spend the whole story there.
+* MenacingMuseum: A museum portrayed as ominous, dangerous or just plain evil.
+* MerchantCity: A trade city, ruled or mostly populated by merchants, bankers, and traders.
+* MercurialBase: A base on a planet close to a star that stays out of the sun by following the night around the planet.
+* MetalPoorPlanet: A planet where the key ingredients for technological civilization are missing.
+* MicroMonarchy: A modern, very tiny nation ruled by a royal family. Usually an eclectic mix of tradition and modernity.
+* MiddleOfNowhereStreet: A very small location that is a WeirdnessMagnet, and no one outside notices or minds.
+* MishmashMuseum: A museum with no apparent rhyme or reason to the ways its exhibits are laid out.
+* MisplacedWildlife: A place where animals that don't belong are present, usually due to [[ArtisticLicenseBiology creator error]].
+* MissingFloor: A secret floor in a multilevel building. Often skipped by the buttons in an elevator.
+* MobileMaze: A maze which changes ([[GeniusLoci itself]]) to make it hard or impossible to escape.
+* MonsterShapedMountain: A rocky terrain feature resembles, or is, a giant creature or portion thereof.
+* MonsterTown: A town entirely populated by monsters. May have a twisted, alien culture or similar to ours.
+* MonumentalBattle: Dramatic battles always seem to take place around major landmarks.
+* MonumentalView: A place with an impossible cool view (often of a landmark) that is way beyond the means of its owner.
+* MountaintopHealthcare: Specialized medical facilities built on a picturesque, inaccessible mountain.
+* {{Mordor}}: A {{Shadowland}} where the {{Big Bad}}'s {{Fisher King}}-ness poisons the land and makes it utterly inhospitable and ObviouslyEvil.
+* MuseumOfBoredom: A boring, often extremely niche museum in which (almost) none of the cast is interested.
+* MuseumOfTheStrangeAndUnusual: An awesomely eclectic museum with a collection of impossibly cool and downright ''bizarre'' stuff.
+* MyLocal: A pub, where the main cast usually hangs out. A British-specific LocalHangout.
+* MysteriousAntarctica: One of the last explored places on Earth's surface. Popular location of lost civilizations and [[ThoseWackyNazis hidden Nazi bases]].
+* MysticalHollywood: Hollywood presented as an EldritchLocation or as a place of supernatural activity.
+* NativeAmericanCasino: All movie Indian reservations have casinos.
+* NeglectedRez: Indigineous American and First Nation communities that were created via forced relocation by settlers and the government, whose policies have led them to fall into poverty disrepair.
+* TheNeutralZone: Territory in between nations in a UsefulNotes/ColdWar that is off-limits to keep a war from restarting. Opposite of TruceZone.
+* NeverLand: A setting whose entire population is in [[NeverGrewUp eternal childhood]].
+* NewNeighboursAsThePlotDemands: RememberTheNewGuy as applied to a small town setting.
+* NightmarishNursery: A childish setting such as a nursery or playground played for horror or suspense.
+* NoCommunitiesWereHarmed: The geographic equivalent of a BlandNameProduct or CaptainErsatz.
+* NonHeteronormativeSociety: Where being queer is seen as normal.
+* NonResidentialResidence: A building or location someone is living in that was not intended to be a residence.
+* NonSequiturEnvironment: A setting that suddenly appears out of nowhere with no logical explanation or transition.
+* NoTellMotel: A sleazy motel that caters to a low-class clientele.
+* NothingExcitingEverHappensHere: The setting is so normal, it's boring... until something new comes in that upends that normality.
+* NotSoSafeHarbor: A WretchedHive of seaside villainy.
+* OceanPunk: Take your standard dystopian [[PunkPunk Punk setting]] and [[InstantIndexJustAddWater Just Add Water]].
+* OhLookMoreRooms: A place looks fairly normal from the outside, but every door leads to more rooms than there should be given the size of the place.
+* OldDarkHouse: The classic setting for TenLittleMurderVictims. A HauntedHouse without the actual haunting.
+* YeOldeNuclearSilo: In the future, abandoned nuclear silos are ready-made {{Elaborate Underground Base}}s.
+* OminousFloatingCastle
+* OneNeighborNeighborhood: ConservationOfDetail applied to a TV neighborhood, usually to save budget on actors and sets.
+* OpiumDen: A 19th century drug house, often far more romanticized than modern equivalents. Associated mostly with the British Empire and China.
+* OneGenderSchool: Single-sex education. In [[YaoiGenre modern]] [[YuriGenre works]], expect SituationalSexuality.
+* OneProductPlanet: For simplicity's sake, a planet in SF is only ever famous for a single good or service.
+* OnlyShopInTown: Small towns (or towns of any size in most VideoGames) only have a single store run by the town's shopkeeper.
+* OppressiveStatesOfAmerica: A fictional United States in which democracy doesn't exist anymore.
+* OrphanageOfFear
+* OrphanageOfLove
+* OutcastRefuge: A location where oppressed/outcast peoples can live in relative safety.
+* OutlawTown: A town run for the benefit of criminals or one entirely populated by criminals.
+* TheOutsideWorld: Any place outside a place of confinement, isolation, or seclusion.
+* OverlaidSocieties: Two or more communities that occupy the same space. They may interact with each other, or not be aware of each other's existence.
+* ThePampas: The endless grasslands of South America, and home of the gauchos. Very common in LatinAmericanLiterature, specially ArgentineLiterature.
+* ParadisePlanet: The most beautiful and most desirable world in the galaxy.
+* ParkingGarage: Nothing good ever happens in a parking garage.
+* PatchworkWorld: A world assembled from multiple other worlds or sources. If done haphazardly, may result in a PatchworkMap.
+* PenalColony: A remote land to exile criminals to to make sure they can't escape (in theory). Populated only by crooks & guards. Sometimes used to dump off the poor and other undesirables too.
+* PeopleZoo: An alien zoo containing humans and other intelligent life as part of the exhibits.
+* PhysicalHeaven: Heaven on Earth... literally.
+* PhysicalHell: A literal Hell on Earth.
+* PlaceOfPower
+* PlanetEngland: A series that starts in a small, named region of a greater world will use that name for the greater world once you are introduced to it.
+* PlanetOfCopyhats: Writers use the quirks of a single character as the [[PlanetOfHats "hat"]] for their entire people. (e.g. When you visit the drunk guy's homeland, everyone else is an alcoholic too.)
+* PlanetOfHats: All alien or foreign cultures are homogeneous, and a single stereotype or quirk applies to everyone from that place.
+* PleasurePlanet: An entire planet is dedicated to being a perfect leisure spot. May or may not [[PossessiveParadise be a trap]].
+* PollutedWasteland: A land destroyed by pollution. SF and modern equivalent of {{Mordor}}, but don't expect [[NoOntologicalInertia quick fixes]].
+* PortTown: A city by the sea.
+* PortalCrossroadWorld: A world where one can easily travel to many other worlds.
+* PossessiveParadise: A paradise setting with an unfortunate tendency towards the {{yandere}}.
+* POWCamp: Populated by soldiers captured on the field of battle by their enemies.
+* {{Premiseville}}: The name of the place [[ExactlyWhatItSaysOnTheTin establishes the premise of the setting]].
+* {{Prison}}
+* PrivatelyOwnedSociety: Everything is owned by individuals, nothing is run by the government (at least not effectively).
+* ThePromisedLand: The place that promises to be ''better'' than where we are. Where the GrassIsGreener.
+* QuirkyTown: A small town filled with quirky and adorable characters.
+* RailroadToHorizon: A railroad disappearing into the distance is used as a metaphor for the journey ahead.
+* RedLightDistrict: The part of town where all the brothels, bars, and other places of seedy night-time enjoyment can be found.
+* RichReclusesRealm: A private domain bought and/or built by a super-rich recluse.
+* RidiculouslyDifficultRoute: When a route is usually never used because it's just too difficult and/or there are other, easier ways.
+* RiverOfInsanity: People who go on a journey down a river into the unknown will not make it back unchanged.
+* RoguePlanet: A planet which travels through space, with no home star.
+* RunawayHideaway: Where TheRunaway hides.
+* SapientShip: Your spaceship has a mind of its own and often flies itself.
+* ScavengedPunk: People rely on junk and other "found" technology rather than manufacturing their own, either due to it being AfterTheEnd or due to living the shadow of human society.
+* SceneryBasedSocietalBarometer: A single recurring location is used to measure the condition of a larger setting.
+* SchoolIsMurder: A school with a WeirdnessMagnet that results in a high student mortality rate.
+* {{Scienceville}}: A town, district or city well-known for its professional thinkers.
+* SeaSinkhole: Just when you thought falling off the edge of a flat earth wouldn't be a problem.
+* SeaStories: Any story taking place with the ocean as its primary setting.
+* SecretGovernmentWarehouse: Where the government hides all the stuff the people are better off not knowing about.
+* SecretHistory: The work claims that it took place in RealLife, but the audience never heard of its events because InUniverse actors [[{{Masquerade}} kept it secret]].
+* SecretRoom: A hidden room in a building.
+* SecretShop: A shop whose business model somehow revolves around having great stuff and telling next to no one about it.
+* SecretUndergroundPassage
+* SelfInflictedHell: A character suffers in the afterlife only because they believe they deserve it.
+* SetBehindTheScenes: Hollywood, but not Hollywood.
+* SettingAsACharacter: The setting is as important a driver of the story as any character but is not truly an intelligent person in its own right like a SapientShip or GeniusLoci.
+* SettlingTheFrontier: Can serve as either a setting for a story or as a {{Plot}}.
+* SeverelySpecializedStore: We sell ''one'' thing, and one thing only.
+* TheShangriLa: A paradise high up in the mountains.
+* ShapedLikeWhatItSells: A shop's storefront or whole building is shaped to advertise the product it sells.
+* ShatteredWorld: A planet broken into pieces and floating in space/the void but still inhabited.
+* ShiningCity: The greatest and most beautiful city in the world. The home of righteousness, justice, and civilization.
+* ShrineToSelf: When a narcissist exaggerates the trope.
+* SimulatedUrbanCombatArea
+* SinisterSouthwest: The American Southwest is basically a death trap.
+* SinisterSubway: The {{Absurdly Spacious Sewer}}'s more realistic and spooky counterpart.
+* SmallSecludedWorld: It may be safe here, but there's got to be a bigger world out there, beyond the [[WallAroundTheWorld walls]]...
+* SkyscraperCity: In the future, skyscrapers will be ''tall''. An entire city of {{Star Scraper}}s.
+* SmallTownBigHell: A small town with literally no secrets between their inhabitants. If something happens to you there, ''everyone'' will know about it.
+* SmallTownBoredom
+* SmallTownRivalry: Two small towns close by, but that hate each other intensely.
+* SmartHouse: A CoolHouse with a built-in AI. [[AIIsACrapshoot Hope luck is on your side.]]
+* SmokyGentlemensClub: Where stereotypical rich men hang out away from wives, servants, and other common people.
+* SoapboxSquare: A public park or square where rabble-rousers can make impassioned speeches to cheering or booing crowds.
+* SoiledCityOnAHill: The ruins of a failed ShiningCity.
+* SolidClouds: Clouds that you can walk or even build on top of. Commonly seen in FluffyCloudHeaven.
+* SoulCrushingDeskJob: Office work place that is boring and stultifying.
+* SoullessBedroom: Someone who lacks emotions has an unnaturally clean bedroom with few or no personal possessions.
+* SoulSuckingRetailJob: StockParody of UsefulNotes/{{Walmart}} and other big box retailers.
+* SouthernGothic: Creepy, gothic LovecraftCountry in the DeepSouth.
+* SouvenirLand: A disappointing, cheap ThemeParks that tries (and fails) to ride on the coattails of A-list parks like [[Ride/DisneyThemeParks Disneyland]].
+* SpaceAmish: A space colony that gives up use of advanced technology after making the initial trip.
+* SpaceBrasilia: Everything looks like identical whitewashed concrete towers with the same odd angles.
+* SpaceCadetAcademy: The Sci-Fi equivalent of a WizardingSchool.
+* SpaceSector: Specific regions in space are described as "the Something Sector" or "Sector Something".
+* SpaceStation
+* SpySchool
+* StandardOfficeSetting
+* StandardRoyalCourt: An explanation of the structure of a typical fictional royal court.
+* StarScraper: A sky scraper taller than modern technology can build.
+* SteelMill: Lots of large machinery, fiery furnaces, molten metal and heavy objects falling from heights. Often has NoOSHACompliance.
+* StellarStation
+* StepfordSuburbia: When the CutAndPasteSuburb meets the TownWithADarkSecret and everyone has a {{Stepford Smile|r}}.
+* StockStarSystems: Star systems (such as Betelgeuse, Arcturus, or Alpha Centuari) which are well known by audiences and authors alike.
+* StrawmanU: College stereotypes. You're either a hedonistic liberal la-la-land or a fascist and higher-stakes redux of all the worst, bullying cliques of HighSchool.
+* StuckAtTheAirportPlot: The characters are SnowedIn or otherwise unable to leave a transportation hub/terminal.
+* SubStory: A story that takes place on a submarine (not a minor plot in a larger work).
+* SuburbanGothic: Something sinister is happening in the suburbs.
+* {{Suburbia}}: Useful notes on the sprawling residential areas surrounding larger US cities, post WWII.
+* SuckECheeses: A StockParody of TheEighties wave of family restaurants with arcades and animatronic puppet shows, most of which were pretty run-down by TheNineties.
+* SuddenlySignificantCity: A real-world city becomes significantly more important in the story. (e.g. UsefulNotes/{{Chicago}} becomes [[Series/BuckRogersInTheTwentyFifthCentury capital of Earth.)]]
+* SummerCampy: Summer Camp PlayedForLaughs.
+* SuperheroSchool: Where kids with superpowers go to learn to be superheroes (and maybe math and stuff).
+* SuperheroTrophyShelf: When a superhero exaggerates this trope in a different way.
+* SuperMultiPurposeRoom: A room that can be transformed to suit another purpose in an instant.
+* SuperSargassoSea: Where all the lost stuff ends up.
+* SuperheroCapitalOfTheWorld: A location with an overwhelming surplus of superheroes.
+* SupervillainLair: The cliche, surprisingly elaborate facility in which a supervillain plots and prepares for their villainy.
+* SwampsAreEvil: Swamps are out to kill you.
+* SweetHomeAlabama: When the {{Deep South}}'s and the {{Good Ol Boy}}'s better sides are played up.
+* TailorMadePrison: A prison made specially to hold an individual a normal prison cannot. Frequently fails anyway.
+* ThatNostalgiaShow: Our world, as you remember it, 20-50 years ago.
+* ThemeParkLandscape: The land of all-natural rollercoasters and water slides.
+* ThirstyDesert: Deserts are out to kill you.
+* TidallyLockedPlanet: Natural satellite where one side always faces the body it orbits and the other always faces away.
+* ThrivingGhostTown: Cities in [=RPGs=] and other VideoGames have impossibly low populations.
+* TokyoTower: A broadcast tower in Tokyo that is the single most unlucky landmark in all of Japanese media.
+* {{Tomorrowland}}: A region considerably more technologically advanced than its neighbours; often without explanation.
+* TortureCellar: The room in which unspeakable things are done to captives. Modern equivalent of LockedInTheDungeon.
+* TotallyNotACriminalFront: Where mobsters hang out and plan crime, but deny that's the case.
+* TownWithADarkSecret: Everyone in town is in on some terrible secret that the hero is not.
+* TrailerParkTornadoMagnet: Trailer parks have a reputation for attracting tornadoes due to the disproportionate damage they receive.
+* TrashyTouristTrap: Roadside attractions of varying quality.
+* TrashyTrailerHome: The "worst" place to live is a trailer, according to fiction.
+* TravelingLandmass: Makes it kind of hard to find on maps. May serve as a BaseOnWheels.
+* TreasureRoom: Here there be dragons! [[DeathByMaterialism Expect difficulty leaving with it.]]
+* TreehouseOfFun: A popular hang out for a kid's closest friends.
+* TreetopTown: When adults make an entire town out of [[TreehouseOfFun Treehouses of Fun]]. [[NoOSHACompliance Don't expect safety railings]].
+* TreetopWorld: When an entire setting exists within the canopies of titanic trees.
+* TropicalIslandAdventure: A tropical island.
+* TrophyRoom: Where a character keeps mementos of their greatest adventures.
+* TruceZone: Neutral ground between two hostile nations where their peoples are encouraged to mingle to help warm relations and build a future peace. Opposite of TheNeutralZone.
+* TunnelNetwork
+* TurtleIsland: A turtle, whale, or other creature big enough and old enough to support a mobile ecosystem on its back.
+* UncannyAtmosphere: Some vague sense of ''wrongness'' in an area sets the heroes on edge.
+* UncannyVillage: A seemingly idyllic small town isn't quite what it appears on the surface. The townsfolk may or may not be in on it.
+* UndefeatableLittleVillage: A small, close-knit community manages somehow to repeatedly repel an enemy power far more massive than it.
+* {{Undercity}}: A city that suffered some calamity has been built-over and forgotten -- but it's still there.
+* UndergroundCity: A city BeneathTheEarth which may have been buried, built by non-humans, and/or as a bunker to survive the apocalypse.
+* UnderwaterBase: An underwater SupervillainLair.
+* UnholyGround
+* UnitedEurope: Europe is one, united superpower, acting as a single unit.
+* UnnaturallyLoopingLocation: A place that keeps repeating.
+* UnnecessarilyLargeInterior: Buildings with impractically high ceilings and cavernous rooms. Architectural RuleOfCool.
+* UrbanHellscape: A look TwentyMinutesIntoTheFuture, where the city is infested with violent criminals, and the police are either too ineffectual to stop them or can only do so by being that much more brutal.
+* UrbanSegregation: Cities in fiction are very neatly divided between rich parts and poor parts with little patchwork or mixing.
+* {{Veganopia}}: Peaceful societies don't eat meat.
+* VestigialEmpire: The corrupt, declining remnant of a once mighty empire.
+* ViceCity: A crime-ridden urban setting that has not quite yet declined into WretchedHive status. The default setting used in most WideOpenSandbox games.
+* VideoArcade
+* VillainWorld
+* VillainousBadlandHeroicArcadia: Heroes live in idyllic or at least cosmetically pretty places were villains live in places of ruin and little.
+* VolcanoLair: A SupervillainLair in a (usually inactive) volcano. Saves time digging. [[CollapsingLair Beware victory.]]
+* WackyHomeroom: A HighSchool comedy setting, focused on a class of eccentrics who share an arbitrarily assigned homeroom.
+* WackyStartupWorkplace: An office that's fun and full of amenities.
+* TheWarRoom: Hollywood's version of a command and control center. Rarely well-lit.
+* TheWhiteHouse: Home and office of the President of the United States.
+* WhereEverybodyKnowsYourFlame: Hollywood gay bars, where everything is cooler and more stylish, and stereotypes are exaggerated.
+* WhiteVoidRoom: A ''white'' featureless location, often an empty plane or void. Sometimes just meant to look futuristic.
+* WildWilderness: The untouched wilderness is a place of adventure and is treated as almost another world.
+* WindmillScenery: Decorative windmills scattered around grassland.
+* WizardingSchool: Where kids with magical talent go to learn to cast spells (and maybe math and stuff).
+* WorkplaceHorror: Monstrosities and serial killers showing up at a mundane job site.
+* WorldInTheSky: All civilization is sky-based.
+* WretchedHive: A lawless land, populated almost entirely with cutthroats and other scum.
+* WrongSideOfTheTracks: The bad places to be in a setting with UrbanSegregation.
+[[/folder]]
+
+[[/index]]
+
+----

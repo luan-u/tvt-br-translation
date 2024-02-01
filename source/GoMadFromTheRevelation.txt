@@ -1,0 +1,31 @@
+%% Image selected per Image Pickin' thread: https://tvtropes.org/pmwiki/posts.php?discussion=16887701830.42422300
+%% Previous thread: https://tvtropes.org/pmwiki/posts.php?discussion=1367342083057580100
+
+[[quoteright:350:[[VideoGame/DarkestDungeon https://static.tvtropes.org/pmwiki/pub/images/unsettling_passage.png]]]]
+[[caption-width-right:350:"'Look up'? Whoa, when did that anti-halo get there?!"]]
+
+%% Caption selected per most recent IP thread.
+%% https://tvtropes.org/pmwiki/posts.php?discussion=1404492079030138900
+
+->''"The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far. The sciences, each straining in its own direction, have hitherto harmed us little; but some day the piecing together of dissociated knowledge will open up such terrifying vistas of reality, and of our frightful position therein, that we shall either [[Main/TropeNamers go mad from the revelation]] or flee from the light into the peace and safety of a new dark age."''
+-->-- The opening lines of ''Literature/TheCallOfCthulhu''
+
+In many stories, there are some experiences that are so horribly mind-shattering that the usual result is stark raving madness. We're not just talking about mundane {{Shell Shock|edVeteran}} here, that'd be the trope called HeroicBSOD. Instead we're talking about a full-fledged FreakOut, an IdentityBreakdown (if the experience was related to a character's identity), or possibly even as bad as a FaceHeelTurn. If you Go Mad from the Revelation, you're gonna have some sort of psychotic break.
+
+This is a signature characteristic of an EldritchAbomination and one of the central tropes of the {{Cosmic Horror|Story}} genre, but other things can cause it as well, such as [[BeingTorturedMakesYouEvil prolonged torture]] or learning some other [[TheseAreThingsManWasNotMeantToKnow Thing that Man Was Not Meant to Know]].
+
+There is generally a distinction between things that happen to the mind because of experience and things that are done to the brain. This trope is the former. Thus, ChemicallyInducedInsanity, PsychoSerum, a [[MindRape telepathic attack]], or a specific, quasi-magical effect (like certain types of BrownNote) doesn't qualify.[[note]]Unless the focus is less on the stimulus's direct neurological effects and more on how it shows you something too terrible to behold: for example, if [[HigherUnderstandingThroughDrugs the drug opens your psyche to mind-shattering secrets]], if the telepathy transmits information or sensations that your fragile psyche can't take, or if the BrownNote breaks you because what you're perceiving is already too much to comprehend and doesn't even need to magically attack your brain.[[/note]] Contrast those things with Creator/HPLovecraft's shoggoths, who strain people's sanity in spite of never having that as a stated special ability--the thought of them is just that horrible. Confronting a Creature From Beyond The Stars or a Thing That Should Not Exist will lead either to psychological regression into denial, or insanity when the cognitive dissonance becomes too great. Lovecraft was fond of these; his stories abound with [[EldritchAbomination creatures from regions of space where the known laws of nature do not apply]], and [[AlienGeometries geometries that violate the laws of physics]].
+
+This almost could have been TruthInTelevision, insofar as Post Traumatic Stress Disorder is a real mental illness, but a character who Goes Mad from the Revelation usually is portrayed in a more generic insanity.
+
+Sometimes, if you whack someone with the "insane stick" enough times, they'll get BoredWithInsanity.
+
+The main inspiration for this trope is the work of Creator/HPLovecraft, whose story ''Literature/TheCallOfCthulhu'' is the TropeNamer. Occurs in most of his work and a good deal of Lovecraft-[[CosmicHorrorStory inspired work]] that use {{Mad God}}s and {{Eldritch Abomination}}s, indeed Cthulhu-inspired {{RPG}}s often make this a game mechanic. Will be mostly absent from [[LovecraftLite stories]] where you can [[DidYouJustPunchOutCthulhu punch out Cthulhu]] [[BrokeYourArmPunchingOutCthulhu successfully]].
+
+The extreme form of a FreakOut. May take the form of a HeroicBSOD where the thing isn't going to start working again. If the whole nature of the Universe is opened to you because of your velocity, this is LudicrousSpeed.
+
+Compare with BrainBleach (the character is afflicted by {{squick}}y mental images), BrainFever (the character is made ill by mental stress and trauma), DrivenToMadness (when this is deliberately inflicted by someone onto the character), MyGodWhatHaveIDone (the character is wracked with remorse), and MySkullRunnethOver (the character is overwhelmed by the sheer amount of information stuffed into his brain). See also AFormYouAreComfortableWith for a way to avoid this. Often goes hand-in-hand with the DespairEventHorizon, to the point where a number of examples on this page can be found on the other as well.
+
+[[noreallife]]
+----
+!!Examples:

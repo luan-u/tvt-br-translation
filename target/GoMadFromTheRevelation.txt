@@ -1,0 +1,31 @@
+%% Imagem escolhida em: https://tvtropes.org/pmwiki/posts.php?discussion=16887701830.42422300
+
+[[quoteright:350:[[BrVideoGame/DarkestDungeon https://static.tvtropes.org/pmwiki/pub/images/unsettling_passage.png]]]]
+[[caption-width-right:350:"'Olhar pra cima'? Nossa, quando essa anti-auréola apareceu?!"]]
+
+%% Legenda escolhida em:
+%% https://tvtropes.org/pmwiki/posts.php?discussion=1404492079030138900
+
+->''"A coisa mais misericordiosa do mundo é, segundo penso, a incapacidade da mente humana em correlacionar tudo o que sabe. Vivemos em uma plácida ilha de ignorância em meio a mares negros de infinitude, e não fomos feitos para ir longe. As ciências, cada uma empenhando-se em seus próprios desígnios, até agora nos prejudicaram pouco; mas um dia a compreensão ampla de todo esse conhecimento dissociado revelará terríveis panoramas da realidade e do pavoroso lugar que nela ocupamos, de modo que ou [[Br/NomeadorDeTropo enlouqueceremos com a revelação]] ou então fugiremos dessa luz fatal em direção à paz e ao sossego de uma nova idade das trevas."''
+-->-- Introdução de ''BrLiteratura/OChamadoDeCthulhu''
+
+Em muitas histórias, há algumas experiências tão horríveis mentalmente que o resultado comum é a insanidade. Não estamos falando do estado catatônico usual aqui -- isso seria a Br/TelaAzulHeroica. Ao invés disso, estamos falando sobre um Br/{{Surto}} completo, um Br/ColapsoDeIdentidade (se a experiência é relacionada à identidade do personagem) ou talvez até uma situação de se Br/PassarParaOLadoDosViloes. Se você enlouquecer com a revelação, você vai ter algum tipo de colapso psicótico.
+
+Esta é uma característica definidora da Br/AbominacaoSobrenatural e um dos tropos centrais para o gênero de Br/HistoriaDeHorrorCosmico, mas outras coisas podem causar isso, tal como [[Br/SerTorturadoTeFazDoMal tortura prolongada]] ou descobrir alguma [[Br/EstasSaoCoisasQueOHomemNaoDeveriaSaber coisa que nenhum homem deveria saber]].
+
+Geralmente há uma distinção entre coisas que acontecem com a mente por causa da experiência e coisas que acontecem com o cérebro. Este tropo é o primeiro caso. Portanto, Br/InsanidadeQuimicamenteInduzida, Br/SoroPsicotico, um [[Br/EstuproMental ataque telepático]] ou um efeito específico e quasi-mágico (como certos tipos de Br/NotaMarrom) não se encaixam.[[note]]A não ser que o foco seja menos nos efeitos neurológicos diretamente causados pelo estímulo e mais em como isso te mostra algo terrível demais para presenciar; por exemplo, se [[Br/CompreensaoSuperiorAtravesDeDrogas uma droga abre sua mente para segredos devastadores]], se a telepatia transmite informações ou sensações que a sua frágil psique não suporta, ou se a Br/NotaMarrom te faz colapsar porque o que você está percebendo já é demais para compreender sem que seu cérebro seja atacado magicamente.[[/note]] Contrastar essas coisas com os shoggoths de BrCriador/HPLovecraft, que desgastam a sanidade das pessoas apesar de nunca terem isso como habilidade especial abertamente declarada -- o mero pensamento sobre eles já é horrível o bastante. Enfrentar uma Criatura de Além das Estrelas ou uma Coisa Que Não Deveria Existir levará à regressão psicológica para a negação ou para a insanidade quando a dissonância cognitiva ficar excessiva. Lovecraft gostava deles; suas histórias são repletas de [[Br/AbominacaoSobrenatural criaturas de regiões do espaço onde as leis conhecidas da natureza não se aplicam]] e [[Br/GeometriasAlien geometrias que violam as leis da física]].
+
+Isto quase poderia ter sido Br/VerdadeNaTelevisao, no sentido de que o Transtorno do Estresse Pós-Traumático é uma doença mental muito real, mas um personagem que enlouquece com a revelação costuma ser retratado com uma insanidade mais genérica.
+
+Às vezes, se você bater em alguém com o "bastão da insanidade" vezes o suficiente, ele pode ficar Br/EntediadoComAInsanidade.
+
+A inspiração principal para este tropo é a obra do BrCriador/HPLovecraft, cujo conto ''BrLiteratura/OChamadoDeCthulhu'' é o Br/NomeadorDeTropo. Isso acontece em muitas das suas obras e também em muitos trabalhos no estilo lovecraftiano que usam [[Br/AbominacaoSobrenatural abominações alienígenas]] e deuses insanos, e de fato muitos Br/{{RPG}}s inspirados em Cthulhu incorporam isso como uma mecânica de jogo. Costuma estar ausente de [[Br/LovecraftLeve histórias]] onde é possível [[Br/VoceAcabouDeNocautearCthulhu nocautear Cthulhu]] [[Br/QuebrouOBracoNocauteandoCthulhu com sucesso]].
+
+É a forma extrema de um Br/{{Surto}}. Pode se manifestar como uma Br/TelaAzulHeroica onde a coisa não volta a funcionar novamente. Se a totalidade da natureza do universo é revelada a você por causa da velocidade, então é Br/VelocidadeAbsurda.
+
+Comparar com Br/AguaSanitariaCerebral (o personagem é afetado por imagens horríveis), Br/FebreCerebral (o personagem fica doente por causa do estresse e trauma mentais), Br/LevadoALoucura (quando isso é deliberadamente causado no personagem por alguém) e Br/MeuDeusOQueFoiQueEuFiz (o personagem fica arrasado com remorso). Ver também Br/UmaFormaQueLheEConfortavel para um jeito de evitar isso. Costuma andar lado a lado com o Br/HorizonteDesesperadoDeEventos, ao ponto de que vários exemplos nesta página também podem ser encontrados na outra.
+
+[[noreallife]]
+----
+!!Exemplos:
+Br/ExemplosEmFalta.

@@ -1,0 +1,115 @@
+->'''Screenwriter:''' The first movie was supposed to be a one time thing and pretty much ended with, "And then they live happily ever after."\\
+'''Producer:''' Right, but then money happened.\\
+'''Screenwriter:''' But then money happened.
+-->-- '''WebVideo/ScreenRantPitchMeetings''' for ''WesternAnimation/FrozenII''
+
+Sequels are stories that take place after the original, often with most if not all of the same cast and frequently in the same setting if not the same location. If a work gets enough sequels, it becomes a FilmSerial or SerialNovel. If they turn out to be bad, it's because of {{Sequelitis}}.
+
+There are basically two kinds of sequels, planned and unplanned. An unplanned sequel is often the result of an author discovering, much to their delight, that the original did well and readers want more stories with their favorite dashing hero. In these cases the original is very likely a self contained stand alone story that does not require having read a {{Prequel}} to understand, often leaving no hints at what a sequel may have in store (or that there would even ''be'' one). This gives the author two choices for where to take the sequel: [[RecycledPremise a simple rehash of the last adventure, with new locales and villains but with the same characters]] (plus a new SideKick or LoveInterest as an AudienceSurrogate for those who didn't see the original), or try to go for [[SequelEscalation a more epic arcing story]]. This is done by exploring the existing mythology and {{backstory}} that the original establishes (or weaving one in wholecloth if the original didn't have one). As you [[ItsTheSameNowItSucks can]] [[TheyChangedItNowItSucks tell]], these are [[UnpleasableFanbase foolproof]] choices.
+
+If it's a planned sequel then the savvy author will have at least a rough draft or idea of what happens in the sequel(s), what happened in the prequel, and leave in various {{Sequel Hook}}s and {{Schrodingers Gun}}s in the original to later link it with any following stories. These plot hooks will likely be vague enough that the sequel(s) aren't constrained to go in one specific direction. If you ever run into a film that has an unusual, [[WhatHappenedToTheMouse niggling plot detail that is never solved]], it may well be because the author hoped for a sequel that never happened.
+
+The relationship between a sequel and {{Prequel}} is a close one. Like the sequel, the prequel is by definition made after the original has been released, but takes an earlier place chronologically inside the same story while the sequel takes place after. Essentially, all prequels are sequels of a sort.
+
+For much the same reason Hollywood likes to make [[TheFilmOfTheBook adaptations of existing works from other media]] or {{Remake}}s of older films, big film studios would ''love'' for every film they have to become a series and earn lots of cash. There are a lot of marketing advantages to this: a pre-existing fan base, is easier to write (especially if the film series is going on a novel-per-film rate) and the actors likely had a popularity boost from the original, bringing more viewers in.
+
+See also SeriesTropes.
+----
+!!Tropes related to sequels:
+[[index]]
+* ActionizedSequel: The sequel is more action-packed.
+* ArtShiftedSequel: A sequel or new installment for a work uses a different art style than the original did.
+* ArtifactTitle: When a title relates to the first story, but not to the sequels.
+* BTeamSequel: A lesser team takes over production of the sequel.
+* BagOfSpilling: In a video game sequel, a character won't keep what they collected in the previous game.
+* BreatherEpisode: An installment that goes LighterAndSofter or even DenserAndWackier, especially when following a WhamEpisode.
+* CapcomSequelStagnation: When a game gets released many times with small changes between versions.
+* CanonDiscontinuity: When an entry ignores the canon of at least one previous episode forming an AlternateContinuity or [[AlternateTimeline Timeline]]. Typically done to works that were poorly received.
+* ChangingOfTheGuard: A sequel which features or focuses on different characters from the original work.
+* CliffhangerWall: Instead of moving forward in the timeline, a series/franchise spends a few entries doing interquels and prequels instead (usually disregarding a sequel hook in the process).
+* ContestedSequel: When fans disagree among themselves about the quality and/or canon status of a sequel.
+* ContrastingSequelAntagonist: A villain from a sequel who's a replacement to another from the predecessor.
+* CreatorDrivenSuccessor
+* DistantSequel: A sequel that takes place decades, centuries, or even ''millennia'' after the original.
+* DividedForAdaptation: A singular work is adapted into several planned installments (such as movies).
+* DolledUpInstallment: Practice of inserting a work into a franchise which it was not originally intended for.
+* EvenBetterSequel: When a sequel is widely considered superior to the original, or at least to the immediately preceding installment(s) which themselves were already beloved and considered good.
+* FanSequel: When fans decide to make a sequel.
+* FirstInstallmentWins: A piece of media receives one or many sequels, but the original is the one everybody loves and remembers.
+* FranchiseDrivenRetitling: When an earlier installment in a series is given a new name based on what the overall franchise comes to be called through sequels.
+* FranchiseZombie: Franchise lasts longer than the author intended for.
+* HappyEndingOverride: Sequel starts out with a previous victory negated and things much worse than when they began.
+* IconicSequelCharacter: A character introduced in the sequel rises to become iconic to the franchise.
+* IconicSequelSong: A song introduced in the sequel rises to become iconic to the franchise.
+* ImmediateSequel: A sequel where the plot picks up immediately after the previous part.
+* ImprovedSecondAttempt: A sequel is perceived as handling certain plot developments, character arcs etc. better the second time around.
+* {{Interquel}}: A sequel set ''between'' two previous installments; also sometimes used for a sequel that takes place ''during'' a previous installment.
+* LegendaryInTheSequel: When the main character from a prior work is made into an in-universe legend.
+* LegendFadesToMyth: People having a skewed memory of a previous installment in the sequel.
+* MeetingTheParentsSequel: A sequel where one of the protagonist's mommy and daddy are introduced.
+* MetaSequel: The sequel is set in a world where the original work is entirely fictional.
+* MissionPackSequel: Same game, different levels.
+* MoreDiverseSequel: A sequel is more inclusive than its predecessor.
+* NamedAfterFirstInstallment: A series's title is based on that of its first installment.
+* NonLinearSequel: The sequel doesn't take place after the first story.
+* NumberedSequels: When a sequel title has a number.
+** LetteredSequel: When a sequel title has a letter instead of number.
+** NPlusOneSequelTitle: When the second title in a series doesn't include the number 2, but instead adds one to a number found in the first title.
+** SequelNumberSnarl: When the numbering of sequels gets... odd.
+* OddballInTheSeries: An episode in franchise that noticeably deviates from the others thematically or tonally.
+* OddlyNamedSequel2ElectricBoogaloo: Weird sequel title or subtitle.
+* PanderingToTheBase: Doing what fans want instead of what the creators and executives want.
+* POVSequel: Same story as told by a different character.
+* {{Prequel}}: Sequel chronologically set before the original.
+* PrequelInTheLostAge: Sequel set in the time the original says has long passed.
+* ProlongedVideoGameSequel: Sequel to a video game that is much longer than the previous game.
+* RefittedForSequel: Scene intended to be in the original is moved to the sequel.
+* RefusalOfTheSecondCall: The hero of the original is available to save the day again in the sequel but refuses to help.
+* RidiculousFutureSequelisation: In the future, fictional works have a ''lot'' of sequels.
+* RunningTheAsylum: Hired fans turn fanon into canon.
+* SamePlotSequel: When a sequel is basically a retelling of the original
+* SalvagedGameplayMechanic: When a video game sequel fixes a disliked mechanic in the previous entry.
+* SavedForTheSequel: Plot element left to be developed in the sequel.
+* SecondChapterCliffhanger: The second installment of a trilogy ends on a {{cliffhanger}} with several {{Plot Thread}}s still unresolved.
+* SequelAdaptationIconicVillain: In an adapted work, an iconic villain from the source material is saved for the sequel.
+* SequelDisplacement: When the original installment of a series is less known than the most popular one.
+* SequelDifficultyDrop: Sequel is easier than its predecessor.
+* SequelDifficultySpike: Sequel is harder than its predecessor.
+* SequelEpisode: The plot or resolution of a StandAloneEpisode in a series gets revisited in a later episode.
+* SequelEscalation: Attempts to make a sequel to have elements of the previous installment, but more of them.
+* SequelFirst: A sequel is released in a foreign market before the first installment.
+* SequelGap: A fairly long time passes between when an installment comes out and when its sequel does.
+* SequelGoesForeign: The sequel is set in a foreign country.
+* SequelHook: A hint at a future installment. May or may not be fulfilled.
+* SequelInAnotherMedium: Sequels that continue in different media such as the story of a movie continuing in a television show or video game.
+* SequelNonEntity: Hey, they reduced the FiveManBand to a PowerTrio! What happened to the other two characters?
+* SequelReset: The resolution from the first story is undone for the sequel.
+* {{Sequelitis}}: As the number of franchise installments goes up, the quality of them goes down.
+* SequelSeries: A series that takes place after or before the original.
+* SequelSnark: A joke mocking the idea of a sequel.
+* SoftReboot: Both a sequel/prequel or some extension of canon and a partial reboot intended to jumpstart a series anew with maybe a {{retcon}} or two.
+* SophomoreSlump: The first sequel sucks, but the next one makes up for it.
+* SpinOff: A subsequent installment that is set in the same universe of a work, but focuses on characters other than the protagonist(s) of the previous entry.
+** FromTheAshes: A fictional work's ending is the starting point of a SpinOff.
+** SpinOffBabies: Characters being made into radically younger versions of themselves in a subsequent work. May or may not act as a prequel to the original.
+** SpinOffspring: A Spin-Off focusing on the descendant(s) of a character.
+* SpiritualSuccessor: A sequel "in spirit" that is similar to a previous work.
+* StandAloneEpisode: A sequel that is in itself its own self-contained story that doesn't require previous material for context nor is it a continuation of certain plot elements from a preceding entry.
+* StealthSequel: It seems like a stand-alone work in the same universe, but it's actually a sequel or prequel.
+* StillbornFranchise: Sequels were planned but never made thanks to a commercial failure.
+* StoppedNumberingSequels: First, sequels of the series had numbers, but then not.
+* SuddenSequelDeathSyndrome: People who survived the original don't make it through the sequel.
+* SuddenSequelHeelSyndrome: Someone who was good in the original [[FaceHeelTurn suddenly becomes evil or antagonistic]] in the sequel.
+* SurprisinglyImprovedSequel: When EvenBetterSequel happens in circumstances where it's even more unexpected than usual.
+* ThematicSeries: Sequels that don't necessarily follow the same continuity or characters.
+* ThematicSequelLogoChange: A sequel to a work changes the logo to match its plot and/or themes.
+** SequelLogoInRuins: The logo for a future title is more ruined than the original to reflect its darker nature.
+* ThirdIs3D: The third installment in a series is filmed in 3D (films) or undergoes a VideoGame3DLeap (video games).
+* [[{{Title1}} Title 1]]: The first in the series has an indication in the title that it's the first, however, a sequel might not come.
+* ToneShift: When a sequel's tone changes from the first work.
+* UnInstallment: A work that doesn't actually exist nevertheless has a sequel.
+* WhamEpisode: A series entry that takes a radically dramatic or DarkerAndEdgier turn that substantially affects the story arc.
+* WordSequel: The sequels follow this pattern: ''Name, Name II, Name III, Name: Word''.
+* YourPrincessIsInAnotherCastle: It looks like the story or arc has ended, then another world/villain/problem appears.
+[[/index]]
+----

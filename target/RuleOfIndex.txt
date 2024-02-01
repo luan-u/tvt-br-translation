@@ -1,0 +1,26 @@
+O objetivo de uma história é causar uma reação no público. Isso significa que furos de trama e elementos irrealistas podem ser aceitos se a presença deles resulta nos espectadores sentindo algo (desde que não seja muito exagerado para o impacto desejado). Por isso, o limite da Br/SuspensaoVoluntariaDaDescrenca para um dado elemento é diretamente proporcional ao quanto ele consegue atender a um ou mais dos tropos abaixo.
+
+É um Br/SubTropo de Br/LicencaArtistica.
+
+Ver também Br/EmbelezarAHistoria, Br/OPoderDoIndice e Br/{{Espetaculo}}. Contrastar com Br/{{Desconstrucao}} e seus subtropos, onde eles costumam ser evitados.
+
+Nota: O fato de o tropo ter "Regra do..." no título (ou começar assim) não significa que ele pertence a este índice.
+----
+!!Tropos:
+[[index]]
+
+* Br/RegraDoLegal: Se for legal o suficiente, não precisa fazer sentido.
+* Br/RegraDoRepugnante: Se for repugnante o suficiente, não precisa fazer sentido.
+* Br/RegraDaFofura: Se for adorável o suficiente, não precisa fazer sentido.
+* Br/RegraDoDrama: Se o potencial para conflito é visível, ele não será ignorado.
+* Br/RegraDaEmpatia: A probabilidade de um personagem sobreviver é diretamente proporcional ao quanto o público se conecta com ele.
+* Br/RegraDaDiversao: Se um jogo for divertido o suficiente, o restante pode ser aceito como está;
+* Br/RegraDaGraca: Se for engraçado o suficiente, não precisa fazer sentido.
+* Br/RegraDaBeleza: Se for belo o bastante, não precisa fazer sentido.
+* Br/RegraDoRomance: Se for romântico o suficiente, não precisa fazer sentido.
+* Br/RegraDoTerror: Se for assustador o suficiente, não precisa fazer sentido.
+* Br/RegraDoSexy: Se for sensual o bastante, não precisa fazer sentido.
+* Br/RegraDoSimbolismo: Se for simbólico, não precisa fazer sentido.
+
+[[/index]]
+----

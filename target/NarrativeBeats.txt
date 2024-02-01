@@ -1,0 +1,27 @@
+Cineastas e dramaturgos utilizam o termpo "batida" para descrever momentos no roteiro que devem [[Br/TorqueEmocional evocar emoções específicas]] no público. Apesar de derivado das batidas musicais, o termo aqui é menos sobre tempo e mais sobre ''ritmo'' -- as mudanças cíclicas na direção emocional e intensidade que mantém o público engajado com a história. As batidas narrativas, portanto, não possuem nenhuma duração específica, podendo ser encontradas de maneira tão frequente quanto as falas de cada personagem ou tão raramente quanto os pontos de virada da trama. Nos filmes, as batidas tendem a ter espaçamento regular entre si, e uma série de cenas entre duas narrativas é conhecida como [[https://pt.wikipedia.org/wiki/Sequência_(cinema) "sequência"]].
+
+Batidas narrativas não devem ser confundidas com as Br/{{Batida}}s ou com o Br/PainelDeBatida, que são técnicas de apresentação em que o diálogo/ação é pausado para deixar algo importante ser absorvido pelo público (ainda que esse "algo" costume ser uma batida narrativa por baixo).
+
+!!Resolução
+Cada batida narrativa pode ser resolvida de maneira positiva, ''i.e.'' na direção da esperança (de que Br/OProtagonista alcance o objetivo, faça a coisa certa, resolva seu conflito interno ou simplesmente pareça irado) ou negativamente, ''i.e.'' na direção do medo (de que o protagonista falhe, sucumba aos demônios internos, faça algo ruim, etc). Uma trama com muitas resoluções positivas costuma resultar em Br/AversaoADocura, e uma com muitas resoluções negativas pode fazer com que tudo fique Br/SombrioDemaisParaMeImportar.
+
+O truque para manter o público inquieto em antecipação através da história inteira é uma progressão variada que geralmente pende para baixo (na direção do medo) mas que entremeia resoluções negativas com algumas positivas no momento certo. No entanto, nem todas as batidas precisam ser resolvidas de maneira positiva ou negativa. Resoluções neutras ou ambíguas podem ser usadas de maneira eficaz para manter a tensão, mas o excesso dela vai resultar em narrativas indecisivas e nada memoráveis.
+
+!!Tipos
+BrCriador/RobinLaws, em seu livro ''BrLiteratura/HamletsHitPoints'', identifica dois tipos elementares e sete tipos específicos de batidas narrativas (mas sem alegar que esse modelo seja completo ou universal):
+
+* Batidas '''procedurais''' giram em torno dos objetivos externos ou práticos do protagonista e evocam uma sensação de suspense, avançando a trama no geral com pouco investimento pessoal dos personagens. Por exemplo, o herói pode estar [[Br/CenaDePerseguicao perseguindo]] o vilão para impedir seus [[Br/PlanoDoMal planos nefastos]]: em uma resolução positiva, ele consegue interceptar o malvado; em uma negativa, ele perde o rastro do vilão.
+* Batidas '''dramáticas''' são o oposto das procedurais: ao invés de mover a trama externa, elas envolvem as aspirações pessoais e relacionamentos entre personagens. Por exemplo, o herói pode buscar obter [[Br/CaraDoMuitoBemFilho a aprovação de sua figura paterna]] para suas ações: em uma resolução positiva, seu pai o apoia; em uma negativa, ele não fica nada impressionado.
+* Batidas de '''comentários''' injetam a voz do autor na narrativa, ''e.g.'' como um Br/CoroGrego ou uma Br/ObstrucaoDeAutor, e costumam ser (mas [[BrAdministrivia/TroposSaoFerramentas não sempre]]) um [[Br/MostreNaoConte sinal de escrita ruim]].
+* Batidas de '''antecipação''' criam expectativa para coisas incríveis. Qualquer ??? HellYesMoment é essencialmente isso. Por definição, resolvem de maneira positiva.
+* Batidas de '''gratificação''' consistem em variadas formas de ??? {{Fanservice}} (não necessariamente sexual; ''e.g.'' um Br/AcenoParaAContinuidade é também uma forma disso) e/ou Br/ApeloDoAutor, servindo para resolver a situação de maneira positiva sem adicionar coisas de consequência ampla à história.
+* Batidas de '''atenuação''' são o Br/GemeoDoMal da gratificação, passando sal nas feridas sem de fato tornar a situação pior -- como, por exemplo, com um Br/EnquadramentoEmpaticoDeBrinquedo. Naturalmente, eles sempre resolvem de maneira negativa.
+* Batidas de '''alicerce''' posicionam bases sutis de Br/{{Prenuncio}} para eventos ou revelações que estão por vir. Alicerces bem escritos são resolvidos de maneira neutra, pois o público [[Br/EpisodioInocuamenteImportante normalmente não os percebem como importantes]].
+* Batidas de '''questionamento''' incitam curiosidade no público sobre algo que está acontecendo ou já aconteceu. Costumam ser resolvidos de maneira negativa porque ninguém gosta de ficar no escuro.
+* Batidas de '''revelação''' se beneficiam do suspense acumulado por batidas prévias de alicerce ou de questionamento ao [[Br/ARevelacao revelar]] algo surpreendente ou importante. Geralmente são resolvidas de maneira positiva.
+
+Batidas procedurais e dramáticas são as duas grandes forças da ficção: 80% de qualquer narrativa consiste delas, com a proporção específica entre essas duas determinando a posição na Br/EscalaDeslizanteDeTramaContraPersonagens. As batidas de alicerce, de questionamento e de revelação são coletivamente entendidas como "batidas informativas". A combinação questionamento-revelação é uma queridinha da Br/FiccaoLiteraria, cujos autores a utilizam para manter suspense narrativo ao invés de batidas procedurais, que acrescentam riscos e que são preferidas pelos gêneros de aventura e ficção.
+
+!Sem exemplos, por favor; [[BrAdministrivia/PaginasSomenteDeDefinicao esta página apenas define o termo]].
+
+----

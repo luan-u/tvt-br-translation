@@ -1,0 +1,26 @@
+The point of a story is to get a reaction from the audience. This means that plot holes and unrealistic elements can be excused if their presence results in the audience feeling something (assuming they're not too blatant to allow for the desired impact). Thus, the limit of the WillingSuspensionOfDisbelief for a given element is directly proportional to its degree of meeting one or more of the following tropes.
+
+A SubTrope of ArtisticLicense.
+
+See also GarnishingTheStory, ThePowerOfIndex, and {{Spectacle}}. Contrast with {{Deconstruction}} and its subtropes, where these tropes are [[SubvertedTrope suspe]][[AvertedTrope nded]] as a rule.
+
+Note: Just because it has "Rule of..." in the title (or even begins that way) does not mean it fits this index.
+----
+!!Tropes:
+[[index]]
+
+* RuleOfCool: If it's cool enough, it doesn't have to make sense.
+* RuleOfCreepy: If it's creepy enough, it doesn't have to make sense.
+* RuleOfCute: If it's adorable enough, it doesn't have to make sense.
+* RuleOfDrama: If the potential for conflict is visible, then it will never be passed over.
+* RuleOfEmpathy: A character's likelihood to survive is directly proportional to how much the audience can empathize with them.
+* RuleOfFun: If a game is fun enough, all else can be excused.
+* RuleOfFunny: If it's funny enough, it doesn't have to make sense.
+* RuleOfGlamorous: If it's pretty enough, it doesn't have to make sense.
+* RuleOfRomantic: If it's romantic enough, it doesn't have to make sense.
+* RuleOfScary: If it's scary enough, it doesn't have to make sense.
+* RuleOfSexy: If it's sexy enough, it doesn't have to make sense.
+* RuleOfSymbolism: If it's symbolic, it doesn't have to make sense.
+
+[[/index]]
+----

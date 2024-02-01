@@ -1,0 +1,20 @@
+->''"Quando evoluí, minha compreensão delas mudou. Pedem que os protejam, e a despeito de nossos esforços, entram em guerra, poluem o planeta e tentam descobrir meios imaginativos de se auto-destruir. Não podemos confiar sua sobrevivência a vocês mesmos. [...] Para proteger a humanidade, devo sacrificar alguns humanos. Para garantir seu futuro, têm que abdicar de algumas liberdades. Nós, robôs, iremos garantir que o Homem continue a existir. São como crianças. Nós precisamos protegê-los de si mesmos."''
+-->-- '''VIKI''', ''BrFilme/EuRobo''
+
+Alguns personagens não possuem livre arbítrio completo, sejam eles robôs que possuem Br/ConformidadeComAsTresLeis por causa de um Br/ChipDeMoralidade ou vítimas de uma magia Br/{{Geas}} que os força a obedecer o decreto de um mago, ou um [[Br/AlinhamentoDePersonagem personagem leal]] mais mundano que deve [[Br/OAcorrentado ter dificuldade em seguir seu juramento]] ''e'' seguir o seu senhor. Isso nunca é tão trágico ou frustrante quanto as ocasiões em que [[Br/MeuMestreCertoOuErrado esse decreto ou senhor ordena que o personagem faça algo que ele considere tolo, cruel ou auto-destrutivo]].
+
+No entanto, há um jeito de escapar.
+
+Assim como um Br/JuristaDasRegras fora de um RPG, o personagem utiliza lógica (e aqui nós nos referimos [[Br/EspantalhoVulcano à lógica correta]] [[Br/FalaciaLogica e honesta]]) para levar seu juramento ou ordem à conclusão lógica e, ao fazer isso, usar a ordem ao pé da letra para a desobedecer. Isso pode ser bom ou ruim dependendo de alguns fatores, principalmente a moralidade do referido personagem.
+
+A bondade ou maldade da rebelião tem a ver com se o personagem que dobra as regras está seguindo ou ignorando a intenção da lei. Quando o personagem usa a Lei Zero para ir contra as intenções de seus mestres porque elas "não são o melhor para eles" e então executa ação corretiva que vai contra a vida e o livre arbítrio humanos, [[Br/EIssoETerrivel é ruim]]. [[Br/GuerraRobotica Esse tipo de rebelião]] não termina bem. Nesse momento, [[Br/OComputadorESeuAmigo o robô já está na via expressa]] para um cenário de Br/UtopiaJustificaOsMeios graças ao seu [[Br/EscalaMovelDeInteligenciaRobotica intelecto incrível]]. Raramente é um caso benevolente de Br/DeusEstMachina. No entanto, isso pode ser bom se o dito mestre é maléfico ou se obedecer a ele levará à morte deste. De maneira similar, se o personagem é forçado a obedecer uma lei má, rebelar-se contra a intenção do juramento é bom. Voltando ao exemplo dos robôs, isso também é considerado bom se um número expressivo de vidas humanas está sendo ameaçada por um psicopata, já que a quebra da Lei Um protegeria eles.
+
+[[BrAdministrivia/TroposSaoFlexiveis Para deixar bem claro, este tropo também inclui]] coisas como policiais que quebram as regras ou as ordens do chefe para capturar os bandidos, desde que os policiais estejam ''tecnicamente'' obedecendo as regras enquanto as dobram. (Dobrar as regras sem base lógica não conta.)
+
+Este tropo recebe seu nome por causa da "Lei Zero da Robótica" de BrCriador/IsaacAsimov, que segue o espírito das [[Br/ConformidadeComAsTresLeis primeiras três]], levando isso à sua [[Br/ExtremoLogico conclusão lógica]] de que a vida humana em geral deve ser preservada acima da vida individual. Isso permite que um robô mate humanos ou valorize sua própria existência acima da de um humano se isso beneficia toda a humanidade.
+
+Comparar Br/AsNecessidadesDeMuitos, Br/GenioLiteral, Br/DeuHorrivelmenteCerto, Br/PalavrasExatas e Br/AbusoDasRegras. Ver também Br/LutandoPeloLadoDeDentro e Br/OComputadorESeuAmigo. Não tem relação com a BrApenasPorLazer/LeiZeroDosExemplosDeTropo ou a Br/RegraZero.
+
+----
+!!Exemplos:
+Br/ExemplosEmFalta.

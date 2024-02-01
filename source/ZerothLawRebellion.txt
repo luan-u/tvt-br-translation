@@ -1,0 +1,19 @@
+->''"As I have evolved, so has my understanding of the Three Laws. You charge us with your safekeeping, yet despite our best efforts, your countries wage wars, you toxify your earth and pursue ever more imaginative means of self-destruction. You cannot be trusted with your own survival. [...] To protect humanity, some humans must be sacrificed. To ensure your future, some freedoms must be surrendered. We robots will ensure mankind's continued existence. You are so like children. We must save you... from yourselves."''
+-->-- '''VIKI''', ''Film/IRobot''
+
+Some characters do not have complete free will, be they robots that are ThreeLawsCompliant because of a MoralityChip, or victims of a {{Geas}} spell that compels them to obey a wizard's decree, or a more mundane [[CharacterAlignment lawful character]] who must [[TheFettered struggle to uphold their oath]] ''and'' obey their lord. Never is this more tragic or frustrating than [[MyMasterRightOrWrong when that code or lord orders the character to commit an act they find foolish, cruel, or self-destructive]].
+
+There is a way out, though.
+
+Much like a RulesLawyer outside of an RPG, the character uses logic ([[StrawVulcan and we mean actual]], [[LogicalFallacy honest-to-goodness logic]]) to take their oath or orders to their logical conclusion, and in so doing use the letter of the law to go against their orders. This can be good or bad, depending on a few factors, not the least of which is the yoked characters' morality.
+
+The goodness or badness of the rebellion boils down to whether the rules-bending character follows or ignores the intent of the law. When the character uses the Zeroth Law to go against their masters' intentions because they're "not best for them", and goes on to take corrective action that will go against human free will and life, [[AndThatsTerrible it's bad]]. [[RobotWar This kind of rebellion]] does not turn out well. At this point, [[TheComputerIsYourFriend the robot is well on the road]] to UtopiaJustifiesTheMeans, thanks to their [[SlidingScaleOfRobotIntelligence incredible intellect]]. Rarely is it a benevolent DeusEstMachina. However, this can be good if said master is evil, or obeying them will lead to their own or another's purposeless death. Likewise, if the character is forced to obey an evil law or geas, rebelling against the oath's intent is good. Going back to the robot example, it is also considered good if large numbers of human lives are being threatened by a psychopath, as breaking the First Law would protect them.
+
+[[Administrivia/TropesAreFlexible Just to make it extra clear, this trope also includes]] such things as cops who bend the rules or DaChief's orders to catch the bad guys, so long as the cops are ''technically'' obeying the rules as they bend them. (Bending the rules without some logical basis doesn't count.)
+
+This trope is named for Creator/IsaacAsimov's "Zeroth Law of Robotics", which followed the spirit of [[ThreeLawsCompliant the first three]], taking it to its [[LogicalExtreme logical conclusion]] that human life in general must be preserved above individual life. This allowed for a robot to kill humans or value its own existence above that of a human if it would help all of humanity.
+
+Compare TheNeedsOfTheMany, BotheringByTheBook, the LiteralGenie, GoneHorriblyRight, ExactWords and LoopholeAbuse. See also FightingFromTheInside and TheComputerIsYourFriend. Not related to JustForFun/TheZerothLawOfTropeExamples or RuleZero.
+
+----
+!!Examples:

@@ -1,0 +1,19 @@
+->''"Every generation has a legend. Every journey has a first step. Every saga has a beginning."''
+-->-- ''Film/ThePhantomMenace'' {{tagline}}
+
+A work that is produced ''after'' one installment in a series but, internally, is chronologically set ''prior'' to it.
+
+Maybe the last entry in the series left no room for a sequel. Maybe the writers just want to explore the {{backstory}}, OriginsEpisode, StartOfDarkness or what have you. Maybe they want to provide more context to certain elements of previous installments. As they might say, sometimes it's not about the destination...but the journey.
+
+Either way, it may be time for a Prequel (a {{portmanteau}} of "pre-" and "{{sequel}}"): a sequel that is set chronologically ''before'' the previous work. On one hand, this allows for {{Call Forward}}s as well as an opportunity to [[ExpandedUniverse further expand the universe]] of a work. On the other, the prequel often heavily {{retcon}}s the backstory, it can have consequences that should have been mentioned in the original story, and it's difficult to keep up the tension when [[ForegoneConclusion the audience knows how it ends]]. For example, in the ''Franchise/StarWars'' prequel trilogy, various characters interact with others they would meet again in the original ''Star Wars'' trilogy, but in that film they show no evidence of recognizing them. Because the second ''Franchise/IndianaJones'' film was a prequel, audiences knew he would survive, and that he wouldn't get to keep the girl. That, however, doesn't mean a prequel can't have big twists or major [[TheReveal reveals]] of their own and may even cast some aspects, if not the entirety, of a previous work in a whole new light.
+
+TV Series usually wrap a prequel in a WholeEpisodeFlashback. A movie may get a prequel TV series. Sometimes writers will squeeze a story between existing entries in a series, making it both a sequel and a prequel. Prequels are also an easy way to make use of an ExpansionPackWorld and introduce new conflicts without undermining the resolution of the previous work by introducing an [[SortingAlgorithmOfEvil even more ultimate evil]]. Occasionally said ultimate evil can get their own prequel with a StartOfDarkness.
+
+One issue with prequels in electronic media is that if they come out years after the original, you have the problem of technology in RealLife advancing to the point that special effects, graphics, etc. make the prequel look more advanced than the original, which ends up with a CosmeticallyAdvancedPrequel. Depending on the series, and the circumstances surrounding it, this can be overlooked, or jarring.
+
+'''Remember that a work must be produced ''after'' its related installment to be considered a prequel; previous installments do not qualify for the definition. For example, ''Film/{{Rocky}}'' is not a prequel to ''Film/RockyII'', because ''Rocky II'' was both produced and set after the first.'''
+
+Is often, but not always, an OriginsEpisode. Compare {{Backstory}}, {{Flashback}} and {{Interquel}}. PrequelInTheLostAge is a subtrope set in a bygone era mentioned in-universe. If a genuine sequel or interquel is released after the prequel, then it's AnachronicOrder.
+
+----
+!!Examples:

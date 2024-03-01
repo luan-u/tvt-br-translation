@@ -2768,3 +2768,5 @@ PutTheirHeadsTogether	Br/JuntarAsCabecasDeles
 AsskickingLeadsToLeadership	Br/ChutarTraseirosLevaALideranca
 MenOfSherwood	Br/HomensDeSherwood
 ProtagonistPowerUpPrivileges	Br/PrivilegioDoProtagonistaParaGanhoDePoder
+LovableCoward	Br/CovardeAdoravel
+BruiserWithASoftCenter	Br/BrutoDeCoracaoMole

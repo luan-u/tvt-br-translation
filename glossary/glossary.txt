@@ -2749,3 +2749,7 @@ LordBritishPostulate	Br/PostuladoDeLordBritish
 ObviousRulePatch	Br/EmendaObviaDeRegra
 NoManOfWomanBorn	Br/NinguemNascidoDeMulher
 PuzzleThriller	Br/SuspenseEnigmatico
+Literature/HarryPotterAndTheHalfBloodPrince	BrLiteratura/HarryPotterEOEnigmaDoPrincipe
+Literature/TheLordOfTheRings	Br/OSenhorDosAneis
+Literature/TheTwoTowers	BrLiteratura/AsDuasTorres
+Literature/PrideAndPrejudice	BrLiteratura/OrgulhoEPreconceito

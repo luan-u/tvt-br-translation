@@ -515,6 +515,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>''[aside]'' I love loopholes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T141641Z" creationid="Luan" creationdate="20240301T141641Z">
+        <seg>''[olhando lateralmente]'' Eu amo essas brechas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(A variation is when the villain will ''praise'' the hero, which [[YourApprovalFillsMeWithShame the hero will find profoundly humiliating]].)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T232427Z" creationid="Luan" creationdate="20231214T232427Z">
@@ -8959,6 +8967,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>--&gt;-- ''ComicStrip/CalvinAndHobbes''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T141649Z" creationid="Luan" creationdate="20240301T141649Z">
+        <seg>--&gt;-- ''BrQuadrinhos/CalvinEHaroldo''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>--&gt;-- ''Series/{{Lost}}''</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231212T222450Z" creationid="Luan" creationdate="20231212T222450Z">
@@ -9173,6 +9189,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T194624Z" creationid="Luan" creationdate="20231221T194624Z">
         <seg>-&gt;'''Kirk:''' Pessoal, esta é uma missão perigosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>-&gt;'''Q:''' Explain Newton's First Law of Motion in your own words.\\
+'''Calvin:''' ''[writing]'' Yakka foob mog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T141616Z" creationid="Luan" creationdate="20240301T141616Z">
+        <seg>-&gt;'''Q:''' Explique a Primeira Lei de Newton com suas próprias palavras.\\
+'''Calvin:''' ''[escrevendo]'' Yakka foob mog.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10737,6 +10763,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chumble spuzz.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T141623Z" creationid="Luan" creationdate="20240301T141623Z">
+        <seg>Chumble spuzz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clairvaux noted that, a Templar Knight, ''"is truly a fearless knight, and secure on every side, for his soul is protected by the armour of faith, just as his body is protected by the armour of steel.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T025553Z" creationid="Luan" creationdate="20231221T024542Z">
@@ -12117,6 +12151,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T144659Z" creationid="Luan" creationdate="20231221T144659Z">
         <seg>Gradualmente, a presença considerável dos Templários como um "estado dentro de um estado", a autoridade papal de viajar através das fronteiras sem obrigações ou regulamentos para com as autoridades seculares e as consideráveis reservas financeiras chamaram a atenção dele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grug pubbawup zink wattoom gazork.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T141619Z" creationid="Luan" creationdate="20240301T141619Z">
+        <seg>Grug pubbawup zink wattoom gazork.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16191,6 +16233,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Someone -- typically a RulesLawyer -- does something outrageous by finding a loophole in the rules, which were too [[ExactWords narrowly written]] to consider such possibilities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T141940Z" creationid="Luan" creationdate="20240301T141940Z">
+        <seg>Alguém -- geralmente um Br/JuristaDasRegras -- faz algo ultrajante ao encontrar uma brecha nas regras, que foram escritas de maneira [[Br/PalavrasExatas muito restrita]] para considerar tais possibilidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Someone cannot be harmed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T193827Z" creationid="Luan" creationdate="20231206T193827Z">
@@ -16323,6 +16373,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231231T003041Z" creationid="Luan" creationdate="20231231T003041Z">
         <seg>Às vezes o autor simplesmente mostra o que alterou a percepção do personagem sem esperar que o público tenha simpatia por ele -- de certo modo, uma versão mais psicológica sobre Br/ComoChegamosAqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes the loophole doesn't really exist, but the competitor is convinced it does based on his own misinterpretation of the rules.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T143429Z" creationid="Luan" creationdate="20240301T143429Z">
+        <seg>Às vezes essa brecha não existe realmente, mas o competidor está convencido de que existe com base em sua própria interpretação errônea das regras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18275,6 +18333,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This allows the agent to get their way while claiming they were [[MetaphoricallyTrue technically following the rules]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T142149Z" creationid="Luan" creationdate="20240301T142149Z">
+        <seg>Isso permite que se consiga o que quer ao mesmo tempo em que se alega que estavam [[Br/MetaforicamenteVerdade tecnicamente seguindo as regras]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This allows them to think of the show as "their show" and take total control of it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T225904Z" creationid="Luan" creationdate="20231210T225904Z">
@@ -19329,6 +19395,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231226T023737Z" creationid="Luan" creationdate="20231226T023737Z">
         <seg>Se bem utilizado, este método cria suspense, [[Br/MonstroTardio intensifica a revelação definitiva]] e pode transformar um simples Br/PuloDeSusto em um [[Br/TragaMinhasCalcasMarrons cenário de calças marrons]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Used with permission.-]]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T141512Z" creationid="Luan" creationdate="20240301T141512Z">
+        <seg>Usado com permissão.-]]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -20842,6 +20916,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[[note]]The actual answer is 5 cm, if you're wondering.[[/note]]\\
+[-[[https://wadeclarke.com/findx Image]] by [[https://wadeclarke.com Wade Clarke]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T141504Z" creationid="Luan" creationdate="20240301T141435Z">
+        <seg>[[note]]Caso esteja se perguntando, a resposta é 5 cm.[[/note]]\\
+[-[[https://wadeclarke.com/findx Imagem]] por [[https://wadeclarke.com Wade Clarke]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[[note]]Well, ''almost'' always; there are [[TheBadGuyWins rare exceptions]].[[/note]]
 * IgnoredEpiphany: Whenever a character intentionally maintains their status quo.</seg>
       </tuv>
@@ -20917,6 +21001,16 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T134024Z" creationid="Luan" creationdate="20240117T134024Z">
         <seg>[[quoteright:300:[[BrLiteratura/FinistOFalcaoDaPenaMagica https://static.tvtropes.org/pmwiki/pub/images/bilbin_settings_1646.JPG]]]]
 [[caption-width-right:300:Escolher uma época e um local é importante para uma história.]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[quoteright:300:[[Webcomic/OcularTrauma https://static.tvtropes.org/pmwiki/pub/images/rsz_1ot185_20050713_find_x.png]]]]
+[[caption-width-right:300:And they say math is hard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T141325Z" creationid="Luan" creationdate="20240301T141303Z">
+        <seg>[[quoteright:300:[[BrQuadrinhosWeb/OcularTrauma https://static.tvtropes.org/pmwiki/pub/images/rsz_1ot185_20050713_find_x.png]]]]
+[[caption-width-right:300:E ainda dizem que matemática é difícil.</seg>
       </tuv>
     </tu>
     <tu>

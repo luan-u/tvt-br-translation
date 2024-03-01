@@ -2750,6 +2750,7 @@ ObviousRulePatch	Br/EmendaObviaDeRegra
 NoManOfWomanBorn	Br/NinguemNascidoDeMulher
 PuzzleThriller	Br/SuspenseEnigmatico
 Literature/HarryPotterAndTheHalfBloodPrince	BrLiteratura/HarryPotterEOEnigmaDoPrincipe
-Literature/TheLordOfTheRings	Br/OSenhorDosAneis
+Literature/TheLordOfTheRings	BrLiteratura/OSenhorDosAneis
 Literature/TheTwoTowers	BrLiteratura/AsDuasTorres
 Literature/PrideAndPrejudice	BrLiteratura/OrgulhoEPreconceito
+Literature/TheSagaOfDarrenShan	BrLiteratura/ASagaDeDarrenShan

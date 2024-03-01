@@ -2746,3 +2746,4 @@ JustifiedTrope	Br/TropoJustificado
 ComicallyWordyContract	Br/ContratoComicamenteGrande
 DevelopersForesight	Br/AntecipacaoDoDesenvolvedor
 LordBritishPostulate	Br/PostuladoDeLordBritish
+ObviousRulePatch	Br/EmendaObviaDeRegra

@@ -2764,3 +2764,7 @@ GentleGiant	Br/GiganteGentil
 BewareTheNiceOnes	Br/CuidadoComOsBonzinhos
 TheBrute	Br/OBruto
 DumbMuscle	Br/MusculoImbecil
+PutTheirHeadsTogether	Br/JuntarAsCabecasDeles
+AsskickingLeadsToLeadership	Br/ChutarTraseirosLevaALideranca
+MenOfSherwood	Br/HomensDeSherwood
+ProtagonistPowerUpPrivileges	Br/PrivilegioDoProtagonistaParaGanhoDePoder

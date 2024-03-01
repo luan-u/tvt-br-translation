@@ -2775,3 +2775,6 @@ EmotionalBruiser	Br/BrutoEmocional
 HotBlooded	Br/SangueQuente
 BigFun	Br/GrandaoDivertido
 StoutStrength	Br/ForcaCorpulenta
+PintSizedPowerhouse	Br/PotenciaDeTamanhoMinusculo
+CuteBruiser	Br/BrutaFofinha
+GirlyBruiser	Br/BrutaFeminina

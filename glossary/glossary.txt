@@ -2747,3 +2747,5 @@ ComicallyWordyContract	Br/ContratoComicamenteGrande
 DevelopersForesight	Br/AntecipacaoDoDesenvolvedor
 LordBritishPostulate	Br/PostuladoDeLordBritish
 ObviousRulePatch	Br/EmendaObviaDeRegra
+NoManOfWomanBorn	Br/NinguemNascidoDeMulher
+PuzzleThriller	Br/SuspenseEnigmatico

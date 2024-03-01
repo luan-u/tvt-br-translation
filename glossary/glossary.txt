@@ -235,8 +235,8 @@ BeyondTheImpossible	Br/AlemDoImpossivel
 BiasSteamroller	Br/RoloCompressorDeVies
 BibleTimes	Br/TemposBiblicos
 BigBad	Br/GrandeMal
-BigBad	Br/Malvadao
-BigBad	Br/Malzao
+BigBad	Br/{{Malvadao}}
+BigBad	Br/{{Malzao}}
 BigEater	Br/{{Comilao}}
 BigFancyCastle	Br/GrandeCasteloChique
 BigFancyHouse	Br/GrandeCasaChique
@@ -2754,3 +2754,9 @@ Literature/TheLordOfTheRings	BrLiteratura/OSenhorDosAneis
 Literature/TheTwoTowers	BrLiteratura/AsDuasTorres
 Literature/PrideAndPrejudice	BrLiteratura/OrgulhoEPreconceito
 Literature/TheSagaOfDarrenShan	BrLiteratura/ASagaDeDarrenShan
+Film/ANewHope	BrFilme/UmaNovaEsperanca
+BigGuyLittleGuy	Br/CaraGrandeCaraPequeno
+Film/ThePrincessBride	BrFilme/APrincesaPrometida
+TheTeam	Br/AEquipe
+TheTeam	Br/OTime
+TheLeader	Br/OLider

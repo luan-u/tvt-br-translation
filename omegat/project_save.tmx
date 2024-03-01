@@ -489,6 +489,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>''Franchise/StarWars'' is the most famous example of the second; ''Literature/TheSagaOfDarrenShan'' is a rare example of the last.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T154452Z" creationid="Luan" creationdate="20240301T154452Z">
+        <seg>''BrFranquia/StarWars'' é o exemplo mais famoso da segunda; ''BrLiteratura/ASagaDeDarrenShan'' é um raro exemplo da última.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>''Not'' related to BloodKnight.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T191827Z" creationid="Luan" creationdate="20231220T191827Z">
@@ -641,6 +649,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231207T143358Z" creationid="Luan" creationdate="20231207T143358Z">
         <seg>(Dito isso, você pode acabar com um caso de Br/RedencaoConquistaAVida ao invés.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(The second volume, ''Literature/TheTwoTowers'', suffers the most; it contains two entirely independent, overlapping stories, both of which start and end in the middle of things.) Releasing a novel in three parts became popular during the early days of printed novels, where the high cost of manual typesetting and printing meant that releasing a novel piecemeal allows the printer to judge the popularity of a story and whether it would be profitable to continue to print the second and third part.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T154136Z" creationid="Luan" creationdate="20240301T153955Z">
+        <seg>(O segundo volume, ''BrLiteratura/AsDuasTorres'', é o que sofre mais; ele contém duas histórias totalmente independentes e sobrepostas, com as duas começando e terminando no meio das coisas.) Publicar um romance em três partes se tornou popular durante os primeiros dias dos romances impressos, quando o custo elevado do posicionamento manual de tipos e da impressão significava que publicar uma pequena parte do romance permitia que a gráfica julgasse a popularidade de uma história e se seria ou não rentável prosseguir com a impressão da segunda e terceira partes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14034,6 +14050,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jane Austen's ''Literature/PrideAndPrejudice'' being a famous example of such a "triple-decker novel".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T154217Z" creationid="Luan" creationdate="20240301T154217Z">
+        <seg>''BrLiteratura/OrgulhoEPreconceito'', de Jane Austen, se tornou um exemplo famoso de um desses romances em três volumes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jumping the Shark is the moment when an established LongRunner series changes in a significant manner, ranging from a contrived gimmick to a full {{Retool}}.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T165527Z" creationid="Luan" creationdate="20231210T165527Z">
@@ -18027,6 +18051,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are some examples of a "double trilogy" or a "triple trilogy",[[note]]or "trilogy of trilogies"[[/note]] or, indeed, a "quadruple trilogy", where a story is split up into relatively separate trilogies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T154344Z" creationid="Luan" creationdate="20240301T154344Z">
+        <seg>Existem alguns exemplos de "trilogia dupla" ou "trilogia tripla",[[note]]ou "trilogia de trilogias"[[/note]] ou, ainda, de "trilogia quádrupla", onde uma história é separada em trilogias relativamente afastadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are usually three stages, with a rough correspondence to the FiveStagesOfGrief: Bewilderment (Shock and Anger), trying to get others to see or admit the weirdness (Bargaining and Denial), and [[DeadpanSnarker bitter sarcasm]] (Acceptance).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231219T224114Z" creationid="Luan" creationdate="20231219T224114Z">
@@ -18361,6 +18393,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T225808Z" creationid="Luan" creationdate="20231206T225808Z">
         <seg>Eles devem encontrar um meio de estabelecer tensão e dúvida quando todo mundo já sabe como a história termina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They often feature a SecondChapterCliffhanger, with several PlotThreads still unresolved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T154521Z" creationid="Luan" creationdate="20240301T154521Z">
+        <seg>Essas histórias costumam conter um Br/PenhascoDoSegundoCapitulo, com muitas Br/LinhasDeTrama pendentes de resolução.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19427,6 +19467,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231213T201355Z" creationid="Luan" creationdate="20231213T201355Z">
         <seg>Para isso, eles fingem [[Br/EstupidezOfuscante estupidez]] ou [[Br/InsanidadeOfuscante insanidade]] para que possam evitar ser mortos enquanto manipulam os eventos conforme conveniente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tolkien regarded ''Literature/TheLordOfTheRings'' as a single novel, divided into ''six'' (non-standalone) books; publishing requirements forced him to print it as three volumes, and to come up with names for them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T154011Z" creationid="Luan" creationdate="20240301T153817Z">
+        <seg>Tolkien considerava ''BrLiteratura/OSenhorDosAneis'' como um romance único que foi dividido em ''seis'' livros (não-independentes); as editoras o forçaram a imprimi-lo em três volumes e pensar em nomes para eles.</seg>
       </tuv>
     </tu>
     <tu>

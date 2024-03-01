@@ -1329,7 +1329,7 @@ LongRunners	Br/LongaDuracao
 LongRunners	Br/SeriesDeLongaDuracao
 LookBehindYou	Br/OlheAtrasDeVoce
 LookWhatICanDoNow	Br/OlhaOQueEuSeiFazerAgora
-LoopholeAbuse	Br/AbusoDasRegras
+LoopholeAbuse	Br/AbusoDasBrechas
 LooseLips	Br/LinguaSolta
 LordErrorProne	Br/LordePropensoAErros
 LosingYourHead	Br/PerdendoACabeca
@@ -2741,3 +2741,4 @@ EmpathyDollShot	Br/EnquadramentoEmpaticoDeBrinquedo
 InnocuouslyImportantEpisode	Br/EpisodioInocuamenteImportante
 SlidingScaleOfPlotVersusCharacters	Br/EscalaDeslizanteDeTramaContraPersonagens
 LitFic	Br/FiccaoLiteraria
+MetaphoricallyTrue	Br/MetaforicamenteVerdade

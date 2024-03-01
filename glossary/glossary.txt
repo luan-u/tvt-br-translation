@@ -2760,3 +2760,7 @@ Film/ThePrincessBride	BrFilme/APrincesaPrometida
 TheTeam	Br/AEquipe
 TheTeam	Br/OTime
 TheLeader	Br/OLider
+GentleGiant	Br/GiganteGentil
+BewareTheNiceOnes	Br/CuidadoComOsBonzinhos
+TheBrute	Br/OBruto
+DumbMuscle	Br/MusculoImbecil

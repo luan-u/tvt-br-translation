@@ -2770,3 +2770,8 @@ MenOfSherwood	Br/HomensDeSherwood
 ProtagonistPowerUpPrivileges	Br/PrivilegioDoProtagonistaParaGanhoDePoder
 LovableCoward	Br/CovardeAdoravel
 BruiserWithASoftCenter	Br/BrutoDeCoracaoMole
+BoisterousBruiser	Br/BrutoBagunceiro
+EmotionalBruiser	Br/BrutoEmocional
+HotBlooded	Br/SangueQuente
+BigFun	Br/GrandaoDivertido
+StoutStrength	Br/ForcaCorpulenta

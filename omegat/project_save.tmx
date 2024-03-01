@@ -9655,6 +9655,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A trilogy is, in its most basic form, a story in three parts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T152730Z" creationid="Luan" creationdate="20240301T152730Z">
+        <seg>Uma trilogia é, resumidamente, uma história em três partes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A very rare trope is still a trope, but, by definition, a trope still needs to represent some sort of ''meaningful'' pattern (as opposed to a coincidence).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231102T183556Z" creationid="Luan" creationdate="20231102T183556Z">
@@ -10477,6 +10485,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T131408Z" creationid="Luan" creationdate="20240105T131408Z">
         <seg>O segundo filme de ''BrFranquia/IndianaJones'' foi uma prequência, e por isso o público já sabia que ele iria sobreviver e não ficaria com a garota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Because trilogies often (but not always) comprise stories that are released apart from each other, the parts can also contain the three-act structure in themselves.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T153140Z" creationid="Luan" creationdate="20240301T153140Z">
+        <seg>As trilogias costumam (mas não sempre) compreender histórias que são lançadas espaçadamente entre si, e por isso as partes da trilogia podem, cada uma, conter a estrutura de três atos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13289,6 +13305,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In some cases, a work is a "trilogy" only in the sense that it was printed in three books, either because the story was too long to print in one volume, or because [[ExecutiveMeddling the publisher thought a book that large wouldn't sell]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T153606Z" creationid="Luan" creationdate="20240301T153606Z">
+        <seg>Em alguns casos, uma obra é uma "trilogia" apenas no sentido de que foi impressa em três livros, seja porque a história era grande demais para imprimir em um só volume, seja porque [[Br/InterferenciaExecutiva a editora considerou que um livro muito grande não venderia bem]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In some cases, it is impossible to tell, short of reading the author's mind (even then, it might not helped, as it's entirely possible for an author to be on the fence about what they're planning to do).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T172043Z" creationid="Luan" creationdate="20231215T172043Z">
@@ -13958,6 +13982,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T223719Z" creationid="Luan" creationdate="20240124T223655Z">
         <seg>Não está suja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's one of the most common methods of telling a story (other than the simple standalone story), and as such it's one of the most obvious and effective examples of the RuleOfThree.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T152807Z" creationid="Luan" creationdate="20240301T152807Z">
+        <seg>É um dos métodos mais comuns de se contar uma história (tirando a história simples completa em si mesma), e por isso é um dos exemplos mais óbvios e eficazes da Br/RegraDoTres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16143,6 +16175,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Series that were originally trilogies that have more than three entries go under TrilogyCreep.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T153327Z" creationid="Luan" creationdate="20240301T153327Z">
+        <seg>Séries que eram originalmente trilogias e que possuem mais que três entradas se encaixam em Br/ExpansaoDaTrilogia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Settings like these are not kind at all to [[WideEyedIdealist idealists]], who usually get [[BreakTheCutie traumatized]] and/or [[CruelAndUnusualDeath die horribly]] when their attempts to change the world through idealism meet tragic ends.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T180127Z" creationid="Luan" creationdate="20240103T180127Z">
@@ -17521,6 +17561,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The middle stories of a trilogy can often suffer from Middle Book Syndrome, where there is no start or end to the plot; for an example of this in a heptalogy (sequence of seven), ''Literature/HarryPotterAndTheHalfBloodPrince'', apart from the subplot about the titular "prince", either takes plot threads from ''Order of the Phoenix'' or carries them to ''Deathly Hallows''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T153522Z" creationid="Luan" creationdate="20240301T153522Z">
+        <seg>As histórias intermediárias de uma trilogia podem sofrer da Síndrome de Livro do Meio, onde não há começo ou fim para a trama; para um exemplo disso em uma heptalogia (sequência de sete), temos ''BrLiteratura/HarryPotterEOEnigmaDoPrincipe'', onde além da trama envolvendo o "príncipe" titular, as linhas de trama são puxadas a partir de ''Ordem da Fênix'' ou repassadas para ''Relíquias da Morte''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The most evident symptom of this is the word "trope" itself, which is not commonly used outside of this site -- it's only the [[http://wordcount.org/main.php 67,470th]] most frequent English word.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T150844Z" creationid="Luan" creationdate="20231214T150844Z">
@@ -18121,6 +18169,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231231T003800Z" creationid="Luan" creationdate="20231231T003800Z">
         <seg>Essas histórias tendem a terminar com o dito psiquiatra ou advogado sendo mortos pelo assassino, o que é retratado como Br/{{ironia}} poética.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These stories tend to follow the ThreeActStructure: the first part will set the story up, the second part will feature a "rising action", where the story becomes much more apparent, and the third act resolves the points raised by the first act.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T153053Z" creationid="Luan" creationdate="20240301T153053Z">
+        <seg>Essas histórias tendem a seguir a Br/EstruturaDeTresAtos: a primeira parte prepara a história, a segunda parte apresenta a ação ascendente, em que a história fica muito mais aparente, e o terceiro ato traz a resolução dos pontos levantados pelo primeiro ato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19403,6 +19459,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T152939Z" creationid="Luan" creationdate="20231214T152939Z">
         <seg>O reconhecimento total é cliché; a surpresa total é alienante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Trilogies where the second and third parts are obviously more interlinked than the first (most often due to publishers requesting more, but also due to pacing issues) can be found in TwoPartTrilogy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T153304Z" creationid="Luan" creationdate="20240301T153304Z">
+        <seg>Trilogias onde a segunda e a terceira partes estão obviamente mais interconectadas do que a primeira (geralmente porque os executivos querem mais, mas às vezes por questões de ritmo) são casos de Br/TrilogiaDeDuasPartes.</seg>
       </tuv>
     </tu>
     <tu>

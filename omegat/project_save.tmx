@@ -9843,8 +9843,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>Also note that before you add an example here (especially under Real Life), loopholes are different than exemptions and provisions.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T145223Z" creationid="Luan" creationdate="20240301T145223Z">
-        <seg>Antes de adicionar um exemplo aqui (especialmente na seção de Vida Real), note que brechas são diferentes de exceções e provisões.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T145456Z" creationid="Luan" creationdate="20240301T145223Z">
+        <seg>Antes de adicionar um exemplo aqui (especialmente na seção de Vida Real), note que brechas são diferentes de exceções e emendas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10891,6 +10891,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Compare ExactWords, NoManOfWomanBorn, PuzzleThriller.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T151448Z" creationid="Luan" creationdate="20240301T151448Z">
+        <seg>Comparar com Br/PalavrasExatas, Br/NinguemNascidoDeMulher e Br/SuspenseEnigmatico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Compare ExternalRetcon, where the audience is expected to be familiar with an entire ''existing'' story.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T231847Z" creationid="Luan" creationdate="20231206T231847Z">
@@ -11819,6 +11827,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example if a government taxes pools and a pool manufacturer starts manufacturing large hot tubs to get around it, that's a loophole.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T145337Z" creationid="Luan" creationdate="20240301T145337Z">
+        <seg>Por exemplo, se o governo aplica taxas sobre piscinas e um fabricante de piscinas começa a fabricar banheiras muito grandes para contornar isso, então é uma brecha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, ''Film/{{Rocky}}'' is not a prequel to ''Film/RockyII'', because ''Rocky II'' was both produced and set after the first.'''</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T133009Z" creationid="Luan" creationdate="20240105T133009Z">
@@ -12595,6 +12611,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T210422Z" creationid="Luan" creationdate="20240221T210422Z">
         <seg>Se algo te acontecer, ''todo mundo'' vai ficar sabendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If that same government decides they don't want to tax hot tubs, they will add a provision that says hot tubs are not pools.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T145522Z" creationid="Luan" creationdate="20240301T145450Z">
+        <seg>Se o mesmo governo decide que não haverá taxas para banheiras, então é adicionada uma emenda para dizer que banheiras não são piscinas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16127,6 +16151,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Several examples refer to the [[Administrivia/FormerTropeNamer old name]] of this trope, Ain't No Rule ([[AnimalAthleteLoophole named for a specific situational loophole]]).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T145754Z" creationid="Luan" creationdate="20240301T145754Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Should '''not ever''' be confused with ButtMonkey.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240228T142358Z" creationid="Luan" creationdate="20240228T142358Z">
@@ -17321,6 +17353,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T224629Z" creationid="Luan" creationdate="20240103T224629Z">
         <seg>É a forma extrema de um Br/{{Surto}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The former pool manufacturer is now using a provision to manufacture hot tubs and is following both the letter and spirit of the rules but this may not be readily obvious to an outside observer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240301T145614Z" creationid="Luan" creationdate="20240301T145614Z">
+        <seg>O fabricante de piscinas agora pode se apoiar na emenda para fabricar as banheiras e está seguindo tanto a escrita quanto o espírito das regras, ainda que isso não seja óbvio para um observador externo.</seg>
       </tuv>
     </tu>
     <tu>

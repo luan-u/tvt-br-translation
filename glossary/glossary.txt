@@ -2742,3 +2742,7 @@ InnocuouslyImportantEpisode	Br/EpisodioInocuamenteImportante
 SlidingScaleOfPlotVersusCharacters	Br/EscalaDeslizanteDeTramaContraPersonagens
 LitFic	Br/FiccaoLiteraria
 MetaphoricallyTrue	Br/MetaforicamenteVerdade
+JustifiedTrope	Br/TropoJustificado
+ComicallyWordyContract	Br/ContratoComicamenteGrande
+DevelopersForesight	Br/AntecipacaoDoDesenvolvedor
+LordBritishPostulate	Br/PostuladoDeLordBritish

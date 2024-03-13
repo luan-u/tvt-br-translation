@@ -2789,7 +2789,7 @@ IndexOfHospitality	Br/IndiceDeHospitalidade
 PeaceTropes	Br/TroposDePaz
 APoliteIndex	Br/UmIndiceCortes
 TheseTropesShouldHelp	Br/EstesTroposDevemAjudar
-AdaptationalHeroism	Br/HeroismoAdaptacional
+AdaptationalHeroism	Br/HeroismoInduzidoPorAdaptacao
 AdoptTheDog	Br/AdotarOCachorro
 AllergicToEvil	Br/AlergicoAoMal
 AndroclesLion	Br/LeaoDeAndrocles
@@ -2815,3 +2815,11 @@ DidWeJustHaveTeaWithCthulhu	Br/AcabamosDeTomarChaComCthulhu
 ElixirOfLife	Br/ElixirDaVida
 DynamicAkimbo	Br/DinamicaAkimbo
 ClassicalAntiHero	Br/AntiHeroiClassico
+BottledHeroicResolve	Br/DeterminacaoHeroicaEngarrafada
+CaptainSuperhero	Br/CapitaoSuperHeroi
+AdaptationalNiceGuy	Br/CaraLegalInduzidoPorAdaptacao
+CelebratingTheHeroes	Br/CelebrarOsHerois
+CallToAgriculture	Br/ChamadoAAgricultura
+CrimefightingWithCash	Br/CombaterOCrimeComDinheiro
+CuteLittleFangs	Br/PequenasPresasFofas
+DarkShepherd	Br/PastorSombrio

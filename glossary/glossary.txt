@@ -2823,3 +2823,9 @@ CallToAgriculture	Br/ChamadoAAgricultura
 CrimefightingWithCash	Br/CombaterOCrimeComDinheiro
 CuteLittleFangs	Br/PequenasPresasFofas
 DarkShepherd	Br/PastorSombrio
+DorkKnight	Br/CavaleiroTonto
+DumbIsGood	Br/IdiotaEBom
+AffectionateGestureToTheHead	Br/GestoCarinhosoNaCabeca
+AffectionateGestureToTheNose	Br/GestoAfetuosoNoNariz
+BrainwashingForTheGreaterGood	Br/LavagemCerebralParaOBemMaior
+CelestialParagonsAndArchangels	Br/ArcanjosEModelosCelestiais

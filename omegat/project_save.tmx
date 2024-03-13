@@ -1416,8 +1416,16 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>* AdaptationalHeroism: The adaptation makes a character more heroic than they were in the original work.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T203205Z" creationid="Luan" creationdate="20240313T203205Z">
-        <seg>* Br/HeroismoAdaptacional: A adaptação torna um personagem mais heróico do que era na obra original.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T210600Z" creationid="Luan" creationdate="20240313T203205Z">
+        <seg>* Br/HeroismoInduzidoPorAdaptacao: A adaptação torna um personagem mais heróico do que era na obra original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* AdaptationalNiceGuy: The adaptation makes a character nicer than they were in the original work.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T210714Z" creationid="Luan" creationdate="20240313T210714Z">
+        <seg>* Br/CaraLegalInduzidoPorAdaptacao: A adaptação torna um personagem mais legal do que era na obra original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1980,6 +1988,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BewareTheNiceOnes: A peaceful, mild or otherwise benevolent character is capable of deadly anger or surprisingly effective retribution if sufficiently provoked.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T211009Z" creationid="Luan" creationdate="20240313T211009Z">
+        <seg>* Br/CuidadoComOsBonzinhos: Um personagem pacífico, brando ou benevolente é capaz de raiva mortal ou retribuição surpreendentemente eficaz se for suficientemente provocado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BibleTimes: The historical eras wherein {{Literature/The Bible}} is set.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T144230Z" creationid="Luan" creationdate="20240117T144230Z">
@@ -2133,6 +2149,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BottledHeroicResolve: A powerful but dangerous healing item that cures even the worst injuries instantly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T210320Z" creationid="Luan" creationdate="20240313T210320Z">
+        <seg>* Br/DeterminacaoHeroicaEngarrafada: Um item de cura poderoso, mas perigoso, que cura instantaneamente até os piores ferimentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BreatherEpisode: An installment that goes LighterAndSofter or even DenserAndWackier, especially when following a WhamEpisode.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143459Z" creationid="Luan" creationdate="20240105T143459Z">
@@ -2217,6 +2241,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T160513Z" creationid="Luan" creationdate="20240125T160513Z">
         <seg>* Br/UniversidadeCalifornia: Quando os garotos de um drama de Br/EscolaDeEnsinoMedio ficam velhos demais para transmitirem credibilidade, a maioria deles vem estudar aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CallToAgriculture: At the end of a story, the hero decides to become a simple farmer for sentimental reasons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T210824Z" creationid="Luan" creationdate="20240313T210824Z">
+        <seg>* Br/ChamadoAAgricultura: Ao final de uma história, o herói decide se tornar um simples agricultor por motivos sentimentais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2321,6 +2353,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T144747Z" creationid="Luan" creationdate="20240117T144747Z">
         <seg>* Br/FuturismoCassete: O começo da era digital que surgiu na segunda metade dos anos 1970, mas extrapolado para o futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CelebratingTheHeroes: A local populace holds a celebration to honor heroes for their good deeds and triumphs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T210753Z" creationid="Luan" creationdate="20240313T210753Z">
+        <seg>* Br/CelebrarOsHerois: Uma população local realiza uma celebração para homenagear os heróis por suas boas ações e triunfos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2797,6 +2837,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* CrimefightingWithCash: A hero uses financial resources to deal with the forces of evil.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T210944Z" creationid="Luan" creationdate="20240313T210944Z">
+        <seg>* Br/CombaterOCrimeComDinheiro: um herói usa recursos financeiros para lidar com as forças do mal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* CriminalConvention
 * CrystalLandscape: A setting filled with or completely composed of crystals, gemstones and jewels.</seg>
       </tuv>
@@ -2819,6 +2867,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T151942Z" creationid="Luan" creationdate="20240125T151942Z">
         <seg>* Br/PeriferiaDeCopiaECola: Ei, acho que eu já vi essa casa antes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CuteLittleFangs: Someone has a small pair of fangs or a fang sticking out to make them endangering.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T211112Z" creationid="Luan" creationdate="20240313T211112Z">
+        <seg>* Br/PequenasPresasFofas: Alguém tem um pequeno par de presas ou uma presa para dar um ar mais ameaçador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2869,6 +2925,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204847Z" creationid="Luan" creationdate="20240313T204847Z">
         <seg>* Br/AsTrevasNaoSaoMas: Um ser que parece assustador é na verdade um cara legal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DarkShepherd: A character gives out threats of punishments to discourage immoral behavior.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T211301Z" creationid="Luan" creationdate="20240313T211301Z">
+        <seg>* Br/PastorSombrio: Um personagem faz ameaças de punições para desencorajar comportamento imoral.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7262,6 +7326,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T151128Z" creationid="Luan" creationdate="20240131T151128Z">
         <seg>* Br/APonte: Onde o pessoal de uma obra sci-fi se junta para [[Br/TodosEncontramATodos se conhecerem entre si]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheCape: The classic superhero dedicated to protecting the innocent, upholding truth, justice, etc.
+* CaptainSuperhero: A superhero named Captain ________.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T210411Z" creationid="Luan" creationdate="20240313T210411Z">
+        <seg>* Br/ACapa: O super-herói clássico dedicado a proteger os inocentes, defender a verdade, a justiça, etc.
+* Br/CapitaoSuperHeroi: Um super-herói chamado Capitão ________.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1430,6 +1430,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AdoptTheDog: Neutral character does something nice and becomes a good guy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T203228Z" creationid="Luan" creationdate="20240313T203228Z">
+        <seg>* Br/AdotarOCachorro:  O personagem neutro faz algo legal e se torna um cara legal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AdvancedAncientAcropolis: Exactly what it says on the tin.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T215956Z" creationid="Luan" creationdate="20240124T215956Z">
@@ -1530,6 +1538,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T181720Z" creationid="Luan" creationdate="20240131T181720Z">
         <seg>* Br/EscolaDeMonstros: Para onde vão aqueles com garras, asas e presas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* AllergicToEvil
+* AndroclesLion: The hero aids an animal, which in turn aids him/her in his/her time of need.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T203313Z" creationid="Luan" creationdate="20240313T203313Z">
+        <seg>* Br/AlergicoAoMal
+* Br/LeaoDeAndrocles: O herói ajuda um animal, que por sua vez o ajuda em momentos de necessidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1662,10 +1680,34 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AnimalLover: Someone who loves, or at the very least likes, most if not all animals.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T203349Z" creationid="Luan" creationdate="20240313T203349Z">
+        <seg>* Br/AmanteDosAnimais: Alguém que ama (ou pelo menos gosta) da maioria, senão de todos os animais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AnimationAgeGhetto: The belief that only children watch cartoons.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T024846Z" creationid="Luan" creationdate="20231218T024846Z">
         <seg>* Br/GuetoDaIdadeParaAnimacao: A crença de que somente crianças assistem a animações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* AnonymousBenefactor: An aid given to a character by an unknown identity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T203417Z" creationid="Luan" creationdate="20240313T203417Z">
+        <seg>* Br/BenfeitorAnonimo: Uma ajuda dada a um personagem por uma identidade desconhecida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* AntiHero: A hero who isn't exactly squeaky clean and has some flaws.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204035Z" creationid="Luan" creationdate="20240313T204035Z">
+        <seg>* Br/AntiHeroi: Um herói que não é exatamente totalmente limpo e tem algumas falhas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1722,6 +1764,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143232Z" creationid="Luan" creationdate="20240105T143232Z">
         <seg>* Br/SequenciaComMudancaArtistica: Uma sequência usa um estilo de arte diferente do original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ArtifactOfHope: An unambiguously good AncientArtifact.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204139Z" creationid="Luan" creationdate="20240313T204139Z">
+        <seg>* Br/ArtefatoDaEsperanca: Um Br/ArtefatoAntigo inequivocamente bom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1810,6 +1860,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T214948Z" creationid="Luan" creationdate="20231210T214948Z">
         <seg>* Lésbicas usadas como isca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BalanceBetweenGoodAndEvil
+* BargainWithHeaven: Characters get what they desire by making deals with angels, deities, or other benevolent/neutral cosmic entities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204245Z" creationid="Luan" creationdate="20240313T204245Z">
+        <seg>* Br/EquilibrioEntreOBemEOMal
+* Br/NegociarComOCeu: Os personagens conseguem o que desejam fazendo acordos com anjos, divindades ou outras entidades cósmicas benevolentes/neutras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7014,6 +7074,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheAtoner: A character who has done wrong now wishes to make amends for their misdeeds.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204156Z" creationid="Luan" creationdate="20240313T204156Z">
+        <seg>* Br/OExpiador: Um personagem que cometeu um erro agora deseja reparar seus erros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheBermudaTriangle: Where planes and ships go to enter inter-dimensional rifts (maybe).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T141455Z" creationid="Luan" creationdate="20240118T141455Z">
@@ -8208,6 +8276,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T143505Z" creationid="Luan" creationdate="20240125T143505Z">
         <seg>* Br/{{Arcadia}}: A vida quieta no campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* {{Arcadia}}: The gentle, quiet, idyllic life of the countryside, peopled by souls of wise simplicity living InHarmonyWithNature.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204050Z" creationid="Luan" creationdate="20240313T204050Z">
+        <seg>* Br/{{Arcadia}}: A vida suave, tranquila e idílica do campo, povoada por almas de sábia simplicidade que vivem em harmonia com a natureza.</seg>
       </tuv>
     </tu>
     <tu>

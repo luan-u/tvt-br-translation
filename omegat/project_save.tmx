@@ -7476,6 +7476,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheCardinalVirtues
+* CareBearStare: An attack composed of pure niceness.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T224006Z" creationid="Luan" creationdate="20240313T224006Z">
+        <seg>* Br/AsVirtudesCardinais
+* Br/OlharFixoDosUrsinhosCarinhosos: Um ataque que é composto de pura bondade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheCasino: A good place to gamble.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T144458Z" creationid="Luan" creationdate="20240125T144458Z">

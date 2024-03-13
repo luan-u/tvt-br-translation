@@ -427,6 +427,44 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>'''Other categories:'''
++ AngelicTropes
++ GoodAndEvilForYourConvenience
++ GoodGuysGarb
++ HeroicMusicIndex
++ IndexWithAHeartOfGold
++ IndexOfHospitality
++ KnightInShiningTropes
++ PeaceTropes
++ APoliteIndex
++ PurityPersonified
++ QuirkyGood
++ SelflessnessTropes
++ TheseTropesShouldHelp
+]
+* HundredPercentHeroismRating: Everyone loves the hero for all their good deeds they’ve done.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T203048Z" creationid="Luan" creationdate="20240313T202904Z">
+        <seg>'''Outras categorias:'''
++ AngelicTropes
++ GoodAndEvilForYourConvenience
++ GoodGuysGarb
++ HeroicMusicIndex
++ IndexWithAHeartOfGold
++ IndexOfHospitality
++ KnightInShiningTropes
++ PeaceTropes
++ APoliteIndex
++ PurityPersonified
++ QuirkyGood
++ SelflessnessTropes
++ TheseTropesShouldHelp
+]
+* HundredPercentHeroismRating: Everyone loves the hero for all their good deeds they’ve done.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>'''Please note that the trope deals only with traumatic experiences in childhood or adolescence.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231231T010257Z" creationid="Luan" creationdate="20231231T010257Z">
@@ -1360,10 +1398,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AboveGoodAndEvil: A character believes that their objectives are more valuable than the concepts of good and evil.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T203119Z" creationid="Luan" creationdate="20240313T203119Z">
+        <seg>* Br/AcimaDoBemEDoMal: Um personagem acredita que seus objetivos são mais valiosos do que os conceitos de bem e mal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AcademyOfAdventure: In class, you learn to fly and shoot laser beams out of your eyes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T144532Z" creationid="Luan" creationdate="20240118T144532Z">
         <seg>* Br/EscolaDeAventuras: Nas aulas, você aprende a voar e disparar feixes laser pelos olhos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* AdaptationalHeroism: The adaptation makes a character more heroic than they were in the original work.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T203205Z" creationid="Luan" creationdate="20240313T203205Z">
+        <seg>* Br/HeroismoAdaptacional: A adaptação torna um personagem mais heróico do que era na obra original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9015,6 +9069,24 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>----
+!!Tropes:
+[[index]]
+[floatboxright:
+'''Main sub-index:'''
++ HeroTropes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T202900Z" creationid="Luan" creationdate="20240313T202838Z">
+        <seg>----
+!!Tropos:
+[[index]]
+[floatboxright:
+'''Sub-índice principal:'''
++ Br/TroposDeHeroi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>--&gt;-- '''WebVideo/ScreenRantPitchMeetings''' for ''WesternAnimation/FrozenII''</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T155045Z" creationid="Luan" creationdate="20240105T155045Z">
@@ -9069,6 +9141,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T222237Z" creationid="Luan" creationdate="20240104T222046Z">
         <seg>-&gt;''"Na verdade, bom...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>-&gt;''"Always do right.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T202353Z" creationid="Luan" creationdate="20240313T202353Z">
+        <seg>-&gt;''"Faça sempre o certo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11229,6 +11309,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contrast EvilTropes and NeutralityIndex.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T202742Z" creationid="Luan" creationdate="20240313T202742Z">
+        <seg>Contrastar com Br/TroposDoMal e Br/IndiceDeNeutralidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contrast GoodIsNotNice for when a character is genuinely on the side of good but may rub other characters or the audience the wrong way.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T191707Z" creationid="Luan" creationdate="20231220T191707Z">
@@ -11435,6 +11523,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231213T192014Z" creationid="Luan" creationdate="20231213T192014Z">
         <seg>Métodos diferentes de canalhice manipulativa existem, a depender dos truques prediletos de manipulação:
 * Br/AVamp, a Br/FemmeFatale e Br/OCasanova costumam usar seus poderes devastadores de sedução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Doesn't this index just sound like the sort of exclamation an [[AntiquatedLinguistics elderly troper might use]]?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T202534Z" creationid="Luan" creationdate="20240313T202534Z">
+        <seg>Este índice não se parece com o tipo de coisa que um [[Br/LinguisticaAntiquada tropoeiro idoso talvez usasse]]?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19523,6 +19619,16 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will gratify some people and astonish the rest."''
+--&gt;--'''Creator/MarkTwain'''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T202424Z" creationid="Luan" creationdate="20240313T202424Z">
+        <seg>Isto irá agradar algumas pessoas e surpreender o resto."''
+--&gt;--'''BrCriador/MarkTwain'''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This works on the (fairly reliable) premise that no expensive special effect or clever writing can ever top what the viewer imagines to fill in the blanks.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231226T023249Z" creationid="Luan" creationdate="20231226T023249Z">
@@ -21095,6 +21201,14 @@ Contrastar com ??? {{Unishment}} (uma punição que não é realmente uma puniç
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T233626Z" creationid="Luan" creationdate="20231210T170107Z">
         <seg>[[Br/NomeadorDeTropo A expressão vem de]] um episódio da série de TV ''BrSerie/DiasFelizes'', onde Fonzie, vestindo sua característica jaqueta de couro, literalmente salta sobre um tubarão enquanto em um esqui aquático -- uma mudança busca na abordagem prévia do show, focada na Br/VidaCotidiana americana nos anos 1950. Olhando para trás, aquele foi o momento em que Fonzie passou a receber mais foco, sofrendo Br/{{Flanderizacao}} e se transformando em um super humano impossivelmente estiloso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[TroperDemographics If there are any, that is]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T202631Z" creationid="Luan" creationdate="20240313T202631Z">
+        <seg>[[Br/DemografiaDosTropoeiros Isso, é claro, se houver algum]].</seg>
       </tuv>
     </tu>
     <tu>

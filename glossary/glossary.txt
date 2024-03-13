@@ -2778,3 +2778,15 @@ StoutStrength	Br/ForcaCorpulenta
 PintSizedPowerhouse	Br/PotenciaDeTamanhoMinusculo
 CuteBruiser	Br/BrutaFofinha
 GirlyBruiser	Br/BrutaFeminina
+AntiquatedLinguistics	Br/LinguisticaAntiquada
+TroperDemographics	Br/DemografiaDosTropoeiros
+EvilTropes	Br/TroposDoMal
+NeutralityIndex	Br/IndiceDeNeutralidade
+NeutralityIndex	Br/IndiceNeutro
+HeroTropes	Br/TroposDeHeroi
+AngelicTropes	Br/TroposAngelicais
+IndexOfHospitality	Br/IndiceDeHospitalidade
+PeaceTropes	Br/TroposDePaz
+APoliteIndex	Br/UmIndiceCortes
+TheseTropesShouldHelp	Br/EstesTroposDevemAjudar
+AdaptationalHeroism	Br/HeroismoAdaptacional

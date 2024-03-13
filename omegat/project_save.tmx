@@ -1470,6 +1470,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AffectionateGestureToTheHead: A sincere pat on the head for the children who does a good job.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T211727Z" creationid="Luan" creationdate="20240313T211727Z">
+        <seg>* Br/GestoCarinhosoNaCabeca: Um tapinha sincero na cabeça das crianças que fazem um bom trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* AffectionateGestureToTheNose: A sincere boop on the nose.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T211756Z" creationid="Luan" creationdate="20240313T211756Z">
+        <seg>* Br/GestoAfetuosoNoNariz: Um toque gentil no nariz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* After a series of good or bad sequels, the creators want to finish the franchise the best way possible or are sick of delivering bad sequels, so they make a work [[GrandFinale intended to end the series]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T224219Z" creationid="Luan" creationdate="20240104T224219Z">
@@ -2157,6 +2173,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BrainwashingForTheGreaterGood: Brainwashing people for a great, justifiable cause.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T211920Z" creationid="Luan" creationdate="20240313T211920Z">
+        <seg>* Br/LavagemCerebralParaOBemMaior: lavagem cerebral nas pessoas por uma causa excelente e justificável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BreatherEpisode: An installment that goes LighterAndSofter or even DenserAndWackier, especially when following a WhamEpisode.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143459Z" creationid="Luan" creationdate="20240105T143459Z">
@@ -2361,6 +2385,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T210753Z" creationid="Luan" creationdate="20240313T210753Z">
         <seg>* Br/CelebrarOsHerois: Uma população local realiza uma celebração para homenagear os heróis por suas boas ações e triunfos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CelestialParagonsAndArchangels: The highest, most powerful angelic good guys around.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T212227Z" creationid="Luan" creationdate="20240313T212227Z">
+        <seg>* Br/ArcanjosEModelosCelestiais: Os mocinhos angélicos mais elevados e poderosos que existem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3161,6 +3193,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* DorkKnight: A kindhearted, but capable, hero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T211523Z" creationid="Luan" creationdate="20240313T211523Z">
+        <seg>* Br/CavaleiroTonto: Um herói de bom coração, mas capaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* DownInTheDumps: Is that a skyscraper of wrecked cars?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T204323Z" creationid="Luan" creationdate="20240131T204323Z">
@@ -3189,6 +3229,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T144527Z" creationid="Luan" creationdate="20231208T144527Z">
         <seg>* Br/CaraCadeMeuRespeito: Não importa quantas vezes os heróis atrapalhem os vilões para salvar o mundo, os transeuntes agirão como se fosse a primeira vez dos heróis fazendo isso e os civis não demonstrarão admiração nem darão tratamento especial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DumbIsGood: The good guys are [[TheDitz not very bright]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T211632Z" creationid="Luan" creationdate="20240313T211632Z">
+        <seg>* [[Br/IdiotaEBom Idiota é Bom]]: Os mocinhos não são muito inteligentes.</seg>
       </tuv>
     </tu>
     <tu>

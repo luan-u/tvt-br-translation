@@ -1908,10 +1908,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BeautyEqualsGoodness: Being beautiful means you're a good person.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204315Z" creationid="Luan" creationdate="20240313T204315Z">
+        <seg>* Br/BelezaSignificaBondade: Ser bonito significa que você é uma boa pessoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BedlamHouse: Asylum on steroids.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T143740Z" creationid="Luan" creationdate="20240125T143740Z">
         <seg>* Br/CasaBedlam: Um asilo com anabolizantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BefriendingTheEnemy: Heroes attempt to befriend an antagonistic character to turn them good.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204340Z" creationid="Luan" creationdate="20240313T204340Z">
+        <seg>* Br/AmigarSeComOInimigo: os heróis tentam fazer amizade com um personagem antagônico para torná-lo bom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1932,10 +1948,34 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BeingGoodSucks: Being the good guy has its downsides.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204418Z" creationid="Luan" creationdate="20240313T204418Z">
+        <seg>* Br/SerBomEUmaDroga: Ser o mocinho tem suas desvantagens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BeneathTheEarth: People living under the crust.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T223540Z" creationid="Luan" creationdate="20240124T223540Z">
         <seg>* Br/AbaixoDaTerra: Pessoas que vivem sob a crosta terrestre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BenevolentConspiracy: TheConspiracy is presented as a force of good.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204455Z" creationid="Luan" creationdate="20240313T204455Z">
+        <seg>* Br/ConspiracaoBenevolente: Br/AConspiracao é apresentada como uma força do bem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BenevolentGenie: A genie whose only concern is that their master is safe and satisfied with the wishes granted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204518Z" creationid="Luan" creationdate="20240313T204518Z">
+        <seg>* Br/GenioBenevolente: Um gênio cuja única preocupação é que seu mestre esteja seguro e satisfeito com os desejos concedidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1992,6 +2032,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T223751Z" creationid="Luan" creationdate="20240124T223751Z">
         <seg>* Br/EMaiorPorDentro: Uma construção que parece pequena (possivelmente ridiculamente pequena) mas se abre em uma grande mansão ou outra área.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BirthmarkOfDestiny: A birthmark marks a character as special in some way, possibly as TheChosenOne.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204615Z" creationid="Luan" creationdate="20240313T204615Z">
+        <seg>* Br/MarcaDeNascencaDoDestino: Uma marca de nascença marca um personagem de alguma forma especial, possivelmente como Br/OEscolhido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2311,10 +2359,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ChangedMyMindKid: Character abandons their friend but later comes back to save them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204657Z" creationid="Luan" creationdate="20240313T204657Z">
+        <seg>* Br/MudeiDeIdeiaGaroto: O personagem abandona o amigo, mas depois volta para salvá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ChangingOfTheGuard: A sequel which features or focuses on different characters from the original work.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143725Z" creationid="Luan" creationdate="20240105T143725Z">
         <seg>* Br/TrocaDeTurno: Uma sequência que apresenta ou foca em personagens que não são os da obra original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ChaoticGood: A character alignment involving good and freedom.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204714Z" creationid="Luan" creationdate="20240313T204714Z">
+        <seg>* Br/CaoticoEBom: Um alinhamento de personagem envolvendo bem e liberdade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2515,6 +2579,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T151915Z" creationid="Luan" creationdate="20240131T151915Z">
         <seg>* Br/CidadeCorporativa: Uma cidade criada por uma empresa para os seus funcionários. Para propósitos práticos, a empresa é a lei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ConscienceMakesYouGoBack: A character almost abandons someone, but their guilt motivates them to go back and help the person they left to suffer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204801Z" creationid="Luan" creationdate="20240313T204801Z">
+        <seg>* Br/ConscienciaFazVoceVoltar: Um personagem quase abandona alguém, mas sua culpa o motiva a voltar e ajudar a pessoa que deixou sofrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ContagiousHeroism: Working with a heroic character rubs off positively on a less scrupulous character.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204816Z" creationid="Luan" creationdate="20240313T204816Z">
+        <seg>* Br/HeroismoContagioso: Trabalhar com um personagem heróico repercute positivamente em um personagem menos escrupuloso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2777,6 +2857,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* DarkIsNotEvil: A being who looks scary is actually a good guy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204847Z" creationid="Luan" creationdate="20240313T204847Z">
+        <seg>* Br/AsTrevasNaoSaoMas: Um ser que parece assustador é na verdade um cara legal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* DarkestAfrica: Everyone in Africa has a bone in their nose and hair, dances around a bonfire, and lives in a straw hut.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T145556Z" creationid="Luan" creationdate="20240118T145556Z">
@@ -2841,6 +2929,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* DefeatMeansFriendship: An opponent becomes friends with the person who defeated them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204910Z" creationid="Luan" creationdate="20240313T204910Z">
+        <seg>* Br/DerrotaSignificaAmizade: Um oponente torna-se amigo da pessoa que o derrotou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DeliverUsFromEvil: A female villain seeks redemption after getting pregnant.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204944Z" creationid="Luan" creationdate="20240313T204944Z">
+        <seg>* Br/LivraiNosDoMal: Uma vilã busca redenção após engravidar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* DenOfIniquity: Where the {{Mook}}s and Minions unwind.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T183044Z" creationid="Luan" creationdate="20240131T183044Z">
@@ -2889,10 +2993,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* DestroyTheVillainsWeapon: A plot in which the hero or heroes destroy a villain's weapon.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T205007Z" creationid="Luan" creationdate="20240313T205007Z">
+        <seg>* Br/DestruirAArmaDoVilao: uma trama em que o herói ou heróis destroem a arma de um vilão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* DidNotGetTheGirl: No matter what they do or how hard they try, the character will never get the girl/boy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T144218Z" creationid="Luan" creationdate="20231208T144218Z">
         <seg>* Br/NaoConseguiuAGarota: Não importa o que se faça ou o quanto tente, o personagem nunca vai conseguir ficar com o interesse romântico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DidWeJustHaveTeaWithCthulhu: A character has a cordial encounter with an EldritchAbomination, who may be genuinely benevolent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T205124Z" creationid="Luan" creationdate="20240313T205124Z">
+        <seg>* Br/AcabamosDeTomarChaComCthulhu: Um personagem tem um encontro cordial com uma Br/AbominacaoSobrenatural, que pode ser genuinamente benevolente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3091,6 +3211,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ElixirOfLife: An elixir with the ability to restore lost vitality, or even grant true immortality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T205156Z" creationid="Luan" creationdate="20240313T205156Z">
+        <seg>* Br/ElixirDaVida: Um elixir com a capacidade de restaurar a vitalidade perdida ou até mesmo conceder a verdadeira imortalidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* EnchantedForest: A large, old-growth forest in which nature (and often magic) are supreme.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T153241Z" creationid="Luan" creationdate="20240125T153241Z">
@@ -3151,6 +3279,14 @@ Br/ExemplosEmFalta.</seg>
 * Br/EstadosExpandidosDaAmerica
 * Br/UniversoExpandido
 * Br/PacoteDeExpansaoMundial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* EvilCannotComprehendGood: The villain is unable to understand why the heroes do what they do or assumes that there are evil reasons for their good deeds.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T205306Z" creationid="Luan" creationdate="20240313T205306Z">
+        <seg>* Br/OMalNaoPodeEntenderOBem: O vilão não consegue entender porque os heróis fazem o que fazem ou supõe que existem motivos maléficos para seus atos bondosos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7122,10 +7258,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheChosenOne: The ancient prophecy says that only a certain person can save the world.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204724Z" creationid="Luan" creationdate="20240313T204724Z">
+        <seg>* Br/OEscolhido: A antiga profecia diz que apenas uma determinada pessoa pode salvar o mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheCityNarrows: Basically, your [[WrongSideOfTheTracks typical city slum]], but [[WretchedHive even more dangerous]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T132611Z" creationid="Luan" creationdate="20240202T132611Z">
         <seg>* Br/BecosEscurosDaCidade: Basicamente é o [[Br/LadoErradoDosTrilhos típico subúrbio da cidade]], porém muito mais perigoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheConscience: A character that acts as the others' moral compass.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204740Z" creationid="Luan" creationdate="20240313T204740Z">
+        <seg>* Br/AConsciencia: Um personagem que atua como bússola moral dos outros.</seg>
       </tuv>
     </tu>
     <tu>

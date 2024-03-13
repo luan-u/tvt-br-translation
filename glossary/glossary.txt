@@ -2849,3 +2849,4 @@ SelflessnessTropes	Br/TroposDeAltruismo
 AllLovingHero	Br/HeroiTodoAmoroso
 BenevolentMageRuler	Br/GovernanteMagoBenevolente
 BigGood	Br/GrandeBem
+CareBearStare	Br/OlharFixoDosUrsinhosCarinhosos

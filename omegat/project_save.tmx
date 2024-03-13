@@ -2519,6 +2519,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ClassicalAntiHero: A mostly noble hero who suffers from flaws and hindrances that must be overcome.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T210210Z" creationid="Luan" creationdate="20240313T210210Z">
+        <seg>* Br/AntiHeroiClassico: Um herói principalmente nobre que sofre de falhas e obstáculos que devem ser superados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* CliffhangerWall: Instead of moving forward in the timeline, a series/franchise spends a few entries doing interquels and prequels instead (usually disregarding a sequel hook in the process).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T144633Z" creationid="Luan" creationdate="20240105T144633Z">
@@ -3147,6 +3155,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* DynamicAkimbo: Good guys stand with their feet apart, their chest puffed up, and their hands on their hips, usually during their heroic resolve.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T210137Z" creationid="Luan" creationdate="20240313T210137Z">
+        <seg>* Br/DinamicaAkimbo: Os mocinhos ficam com os pés afastados, o peito estufado e as mãos nos quadris, geralmente durante sua determinação heróica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* DystopiaIsHard
 * EarthDrift
 * {{Egopolis}}
@@ -3295,6 +3311,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T141250Z" creationid="Luan" creationdate="20240104T141250Z">
         <seg>* Br/OMalEMesquinho: Vilões fazem coisas mesquinhas e cruéis apenas porque podem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* EvilRedeemedInACan: A villain or evil entity who was sealed away does a HeelFaceTurn during its imprisonment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T205403Z" creationid="Luan" creationdate="20240313T205403Z">
+        <seg>* Br/OMalRedimidoEmUmaGarrafa: Um vilão ou entidade maléfica que foi selado resolve Br/PassarParaOLadoDosMocinhos durante seu aprisionamento.</seg>
       </tuv>
     </tu>
     <tu>

@@ -2790,3 +2790,11 @@ PeaceTropes	Br/TroposDePaz
 APoliteIndex	Br/UmIndiceCortes
 TheseTropesShouldHelp	Br/EstesTroposDevemAjudar
 AdaptationalHeroism	Br/HeroismoAdaptacional
+AdoptTheDog	Br/AdotarOCachorro
+AllergicToEvil	Br/AlergicoAoMal
+AndroclesLion	Br/LeaoDeAndrocles
+AnimalLover	Br/AmanteDosAnimais
+AnonymousBenefactor	Br/BenfeitorAnonimo
+AncientArtifact	Br/ArtefatoAntigo
+ArtifactOfHope	Br/ArtefatoDaEsperanca
+BargainWithHeaven	Br/NegociarComOCeu

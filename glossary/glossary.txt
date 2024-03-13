@@ -2838,3 +2838,11 @@ BreakingTheCycleOfBadParenting	Br/QuebrarOCicloDaMaCriacao
 BecameTheirOwnAntithesis	Br/TornouSeSuaPropriaAntitese
 TheCardinalVirtues	Br/AsVirtudesCardinais
 TheCardinalVirtues	Br/AsVirtudesCardeais
+HundredPercentHeroismRating	Br/ClassificacaoDeCemPorCentoDeHeroismo
+KnightInShiningTropes	Br/CavaleiroEmTroposReluzentes
+PurityPersonified	Br/PurezaPersonificada
+HeroicMusicIndex	Br/IndiceDeMusicasHeroicas
+GoodGuysGarb	Br/TrajesDeMocinhos
+IndexWithAHeartOfGold	Br/IndiceComUmCoracaoDeOuro
+QuirkyGood	Br/PeculiarBom
+SelflessnessTropes	Br/TroposDeAltruismo

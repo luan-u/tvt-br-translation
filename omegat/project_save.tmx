@@ -2076,6 +2076,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BigDamnHeroes: The heroes make a very last minute rescue, often doing it in style.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T224112Z" creationid="Luan" creationdate="20240313T224112Z">
+        <seg>* ??? BigDamnHeroes: Os heróis fazem um resgate de última hora, muitas vezes com estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BigEgoHiddenDepths: A truly caring person who hides behind their boastful behavior, or a prideful character who shows redeeming moral qualities regardless.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T224310Z" creationid="Luan" creationdate="20240313T224310Z">
+        <seg>* Br/GrandeEgoProfundidadeEscondida: Uma pessoa compassiva que se esconde atrás de um comportamento arrogante, ou um personagem orgulhoso que mesmo assim possui boas qualidades morais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BigFancyCastle: Much like Big Fancy House, but with more towers.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T223815Z" creationid="Luan" creationdate="20240124T223815Z">
@@ -2719,6 +2735,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ComedicHero: A less-than-competent heroic character who nevertheless succeeds despite their best efforts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T224041Z" creationid="Luan" creationdate="20240313T224041Z">
+        <seg>* Br/HeroiComico: Um personagem heróico pouco competente que, mesmo assim, tem sucesso apesar de seus melhores esforços.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ComedicSociopathy: If the retribution is PlayedForLaughs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140943Z" creationid="Luan" creationdate="20240104T140943Z">
@@ -2885,6 +2909,18 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T185801Z" creationid="Luan" creationdate="20240131T185801Z">
         <seg>* Br/OClubeMaisIradoDeTodos: É tão irado que tá sempre cheio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CosmicChessGame
+* TheCowl: The dark superhero dedicated to punishing the wicked, striking terror into the hearts of the superstitious, cowardly lot that is the underworld, etc.
+* CreepyGood: Heroes' looks might creep people out, but their hearts and intentions are just as noble.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T224740Z" creationid="Luan" creationdate="20240313T224740Z">
+        <seg>* Br/XadrezCosmico
+* Br/OEncapuzado: O super-herói sombrio dedicado a punir os perversos, causando terror nos corações dos supersticiosos e covardes que integram o submundo.
+* Br/AssustadorEBom: A aparência dos heróis pode assustar as pessoas, mas seus corações e intenções são nobres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3293,6 +3329,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T183449Z" creationid="Luan" creationdate="20240131T183449Z">
         <seg>* ??? DownLADrain: A rede de drenagem de Los Angeles é usada como ambientação para um filme ou programa de TV, geralmente uma perseguição de carro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DressCodedForYourConvenience
+* DudleyDoRightStopsToHelp: The hero helps others even if doing so would hinder them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T225236Z" creationid="Luan" creationdate="20240313T225236Z">
+        <seg>* Br/CodigoDeVestimentaParaSuaConveniencia
+* Br/DudleyCertinhoParaParaAjudar: O herói ajuda os outros, mesmo que isso os atrapalhe.</seg>
       </tuv>
     </tu>
     <tu>

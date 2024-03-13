@@ -1872,6 +1872,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BadPowersGoodPeople: A good character has powers that would be more appropriate for a villain.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T212529Z" creationid="Luan" creationdate="20240313T212529Z">
+        <seg>* Br/PoderesRuinsPessoasBoas: Um personagem bom tem poderes que seriam mais apropriados para um vilão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BagOfSpilling: In a video game sequel, a character won't keep what they collected in the previous game.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143408Z" creationid="Luan" creationdate="20240105T143408Z">
@@ -1936,6 +1944,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204315Z" creationid="Luan" creationdate="20240313T204315Z">
         <seg>* Br/BelezaSignificaBondade: Ser bonito significa que você é uma boa pessoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BecameTheirOwnAntithesis, when not on an AntiVillain or [[TheHero a Hero]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T212837Z" creationid="Luan" creationdate="20240313T212837Z">
+        <seg>* Br/TornouSeSuaPropriaAntitese, se o personagem não é um Br/AntiVilao ou Br/OHeroi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BecauseYouWereNiceToMe: A character helps another out of gratitude for being treated with kindness.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T212550Z" creationid="Luan" creationdate="20240313T212550Z">
+        <seg>* Br/PorqueVoceFoiLegalComigo: um personagem ajuda outro por gratidão por ser tratado com gentileza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2177,6 +2201,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T211920Z" creationid="Luan" creationdate="20240313T211920Z">
         <seg>* Br/LavagemCerebralParaOBemMaior: lavagem cerebral nas pessoas por uma causa excelente e justificável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BreakHisHeartToSaveHim: Characters act like a jerk to their addressees so they'll leave them and stay out of danger.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T212754Z" creationid="Luan" creationdate="20240313T212754Z">
+        <seg>* Br/PartaOCoracaoDeleParaOSalvar: os personagens agem como um idiota com seus interesses afetivos para que eles os deixem e fiquem fora de perigo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BreakingTheCycleOfBadParenting: A person who grew up with atrocious parents tries to be a better parent to their own children.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T212721Z" creationid="Luan" creationdate="20240313T212721Z">
+        <seg>* Br/QuebrarOCicloDaMaCriacao: uma pessoa que cresceu com pais atrozes tenta ser um pai melhor para seus próprios filhos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2459,6 +2499,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231216T211840Z" creationid="Luan" creationdate="20231216T211840Z">
         <seg>* Br/DescarrilhamentoDePersonagem: O personagem muda de personalidade sem explicação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CheerThemUpWithLaughter: Someone cheers others up when they're upset by making them laugh.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T212326Z" creationid="Luan" creationdate="20240313T212326Z">
+        <seg>* [[Br/AnimaLosComORiso Animá-los com o Riso]]: Alguém anima os outros quando estão chateados, fazendo-os rir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3287,6 +3335,14 @@ Br/ExemplosEmFalta.</seg>
 * Br/{{Egopolis}}
 * Br/EmocoesVersusEstoicismo
 * Br/SimbolismoAmbiental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* EarthyBarefootCharacter: More dual or nature dwelling characters tend to go barefoot and people who go barefoot tend to be more [[NatureLover in touch with nature]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T212459Z" creationid="Luan" creationdate="20240313T212459Z">
+        <seg>* Br/PersonagemTerrenoEDescalco: Personagens mais duais ou que vivem na natureza tendem a andar descalços e as pessoas que andam descalças tendem a estar mais [[Br/AmanteDaNatureza em contato com a natureza]].</seg>
       </tuv>
     </tu>
     <tu>

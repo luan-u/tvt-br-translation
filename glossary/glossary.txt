@@ -2850,3 +2850,10 @@ AllLovingHero	Br/HeroiTodoAmoroso
 BenevolentMageRuler	Br/GovernanteMagoBenevolente
 BigGood	Br/GrandeBem
 CareBearStare	Br/OlharFixoDosUrsinhosCarinhosos
+ComedicHero	Br/HeroiComico
+BigEgoHiddenDepths	Br/GrandeEgoProfundidadeEscondida
+TheCowl	Br/OEncapuzado
+CreepyGood	Br/AssustadorEBom
+CosmicChessGame	Br/JogoDeXadrezCosmico
+DudleyDoRightStopsToHelp	Br/DudleyCertinhoParaParaAjudar	Derivado do filme "Polícia Desmontada" que em inglês é "Dudley Do-Right".
+DressCodedForYourConvenience	Br/CodigoDeVestimentaParaSuaConveniencia

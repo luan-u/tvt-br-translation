@@ -2813,3 +2813,5 @@ DeliverUsFromEvil	Br/LivraiNosDoMal
 DestroyTheVillainsWeapon	Br/DestruirAArmaDoVilao
 DidWeJustHaveTeaWithCthulhu	Br/AcabamosDeTomarChaComCthulhu
 ElixirOfLife	Br/ElixirDaVida
+DynamicAkimbo	Br/DinamicaAkimbo
+ClassicalAntiHero	Br/AntiHeroiClassico

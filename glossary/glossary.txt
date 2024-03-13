@@ -2846,3 +2846,6 @@ GoodGuysGarb	Br/TrajesDeMocinhos
 IndexWithAHeartOfGold	Br/IndiceComUmCoracaoDeOuro
 QuirkyGood	Br/PeculiarBom
 SelflessnessTropes	Br/TroposDeAltruismo
+AllLovingHero	Br/HeroiTodoAmoroso
+BenevolentMageRuler	Br/GovernanteMagoBenevolente
+BigGood	Br/GrandeBem

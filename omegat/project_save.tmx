@@ -444,7 +444,7 @@ Br/ExemplosEmFalta.</seg>
 ]
 * HundredPercentHeroismRating: Everyone loves the hero for all their good deeds they’ve done.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T214948Z" creationid="Luan" creationdate="20240313T202904Z">
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T220358Z" creationid="Luan" creationdate="20240313T202904Z">
         <seg>'''Outras categorias:'''
 + Br/TroposAngelicais
 + Br/BomEMauParaASuaConveniencia
@@ -460,7 +460,7 @@ Br/ExemplosEmFalta.</seg>
 + Br/TroposDeAltruismo
 + Br/EstesTroposDevemAjudar
 ]
-* [[Br/ClassificacaoDeCemPorCentoDeHeroismo Classificação de 100% de Heroísmo]]: Todos amam o herói por todas as boas ações que fizeram.</seg>
+* Br/ClassificacaoDeCemPorCentoDeHeroismo: Todos amam o herói por todas as boas ações que fizeram.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1566,6 +1566,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AllLovingHero: The hero loves everyone.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T220450Z" creationid="Luan" creationdate="20240313T220450Z">
+        <seg>* Br/HeroiTodoAmoroso: O herói ama a todos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AllergicToEvil
 * AndroclesLion: The hero aids an animal, which in turn aids him/her in his/her time of need.</seg>
       </tuv>
@@ -1780,6 +1788,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T144238Z" creationid="Luan" creationdate="20240118T144238Z">
         <seg>* Br/Area51: Uma instalação de pesquisa ultra-secreta no deserto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ArsonMurderAndLifesaving: A character is chewed out by a superior, but at the end they reveal that they did some good.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T220539Z" creationid="Luan" creationdate="20240313T220539Z">
+        <seg>* Br/RouboHomicidioESalvamentoDeVida: Um personagem é repreendido por um superior, mas no final é revelado que ele fez bem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2028,6 +2044,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BenevolentMageRuler: Spellcasters ruling others with wisdom and fairness.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T220627Z" creationid="Luan" creationdate="20240313T220627Z">
+        <seg>* Br/GovernanteMagoBenevolente: Conjuradores governando os outros com sabedoria e justiça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BewareTheNiceOnes: A peaceful, mild or otherwise benevolent character is capable of deadly anger or surprisingly effective retribution if sufficiently provoked.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T211009Z" creationid="Luan" creationdate="20240313T211009Z">
@@ -2072,6 +2096,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T144253Z" creationid="Luan" creationdate="20240117T144253Z">
         <seg>* Br/FuturoGrandeEGordo: No futuro, obeso é o novo magro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BigGood: The highest-ranking force of good in the work.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T220714Z" creationid="Luan" creationdate="20240313T220714Z">
+        <seg>* Br/GrandeBem: A força do bem de mais alto nível na obra.</seg>
       </tuv>
     </tu>
     <tu>

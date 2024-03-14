@@ -2874,3 +2874,8 @@ WithGreatPowerComesGreatResponsibility	Br/ComGrandesPoderesVemGrandesResponsabil
 XMarksTheHero	Br/OXMarcaOHeroi
 ZeroApprovalGambit	Br/GambitoDeZeroDeAprovacao
 YouMustBeCold	Br/VoceDeveEstarComFrio
+VirtueIsWeakness	Br/VirtudeEFraqueza
+VirtuousVegetarianism	Br/VegetarianismoVirtuoso
+ForHappiness	Br/PelaFelicidade
+Forgiveness	Br/{{Perdao}}
+FriendlyNeighborhoodVampire	Br/VampiroAmigavelDaVizinhanca

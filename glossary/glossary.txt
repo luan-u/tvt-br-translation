@@ -3017,3 +3017,15 @@ KidHero	Br/HeroiGaroto
 WelcomeBackTraitor	Br/BemVindoDeVoltaTraidor
 WhiteMansBurden	Br/FardoDoHomemBranco
 WhiteSheep	Br/OvelhaBranca
+WiseOldTurtle	Br/VelhaESabiaTartaruga
+YouCouldHaveUsedYourPowersForGood	Br/VocePoderiaTerUsadoSeusPoderesParaOBem
+EthicalSlut	Br/VadiaEtica
+FiveTokenBand	Br/GrupoDeCincoCotistas
+GoodCostumeSwitch	Br/TrocaParaUmTrajeBom:
+GoodVersusGood	Br/BemContraBem
+GoodSmokingEvilSmoking	Br/BomFumanteMauFumante
+GoodTamingEvilTaming	Br/BomAdestramentoMauAdestramento
+GoodnessExam	Br/TesteDeBondade
+GoodWingsEvilWings	Br/AsasBoasAsasMas
+GreaterNeedThanMine	Br/NecessidadeMaiorQueAMinha
+HeadbuttingHeroes	Br/HeroisCabecaDura

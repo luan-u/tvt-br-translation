@@ -2950,3 +2950,5 @@ KeepTheReward	Br/FiqueComARecompensa
 KneelBeforeFrodo	Br/AjoelheSeDianteDeFrodo
 TheDrifter	Br/OErrante
 ChronicHeroSyndrome	Br/SindromeDeHeroismoCronico
+LadyAndKnight	Br/DamaECavaleiro
+LawEnforcementInc	Br/ForcaDaLeiLtda

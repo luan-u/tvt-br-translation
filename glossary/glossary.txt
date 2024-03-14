@@ -3006,3 +3006,14 @@ SweetBaker	Br/DocePadeiro
 SympathyForTheDevil	Br/SimpatiaPeloDiabo
 SympathyForTheHero	Br/SimpatiaPeloHeroi
 TakeMyHand	Br/SeguraMinhaMao
+TakeUpMySword	Br/LeveMinhaEspada
+TastesLikeFriendship	Br/TemGostoDeAmizade
+TenorBoy	Br/GarotoTenor
+ATrueHero	Br/UmVerdadeiroHeroi
+UnintentionallyKarmic	Br/KarmicoNaoIntencional
+InnocentlyInsensitive	Br/InocentementeInsensivel
+WakeUpGoToSchoolSaveTheWorld	Br/AcordarIrPraEscolaSalvarOMundo
+KidHero	Br/HeroiGaroto
+WelcomeBackTraitor	Br/BemVindoDeVoltaTraidor
+WhiteMansBurden	Br/FardoDoHomemBranco
+WhiteSheep	Br/OvelhaBranca

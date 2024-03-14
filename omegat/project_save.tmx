@@ -3555,6 +3555,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* EthicalSlut: A person who is shamelessly promiscuous, but is still a good person regardless.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T173913Z" creationid="Luan" creationdate="20240314T173913Z">
+        <seg>* Br/VadiaEtica: Uma pessoa promíscua e sem vergonha, mas que é uma boa pessoa mesmo assim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* EvenBetterSequel: When a sequel is widely considered superior to the original, or at least to the immediately preceding installment(s) which themselves were already beloved and considered good.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T152012Z" creationid="Luan" creationdate="20240105T152012Z">
@@ -3831,6 +3839,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T154343Z" creationid="Luan" creationdate="20231208T154343Z">
         <seg>* Br/FissaoMalha: Quando perder um jogo modificaria o status quo, isso é evitado com o jogo dando sequência, mas nem sempre é esse o caso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FiveTokenBand: Every member of the heroic group is a minority not represented by the rest of the team.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T174043Z" creationid="Luan" creationdate="20240314T174043Z">
+        <seg>* Br/GrupoDeCincoCotistas: Cada membro do grupo heroico é uma minoria não representada pelo restante to time.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4197,6 +4213,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GoodCostumeSwitch: A reformed villain switches to a more heroic-looking costume.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T174243Z" creationid="Luan" creationdate="20240314T174243Z">
+        <seg>* Br/TrocaParaUmTrajeBom: Um vilão reformado troca para uma roupa mais heroica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GoodEyesEvilEyes
 * GoodFeelsGood: Being good ''is'' good.</seg>
       </tuv>
@@ -4321,12 +4345,34 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GoodSmokingEvilSmoking
+* GoodTamingEvilTaming
+* GoodVersusGood: Conflict between two people or groups who are both good.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T174410Z" creationid="Luan" creationdate="20240314T174410Z">
+        <seg>* Br/BomFumanteMauFumante
+* Br/BomAdestramentoMauAdestramento
+* Br/BemContraBem: Conflito entre duas pessoas ou grupos que são bons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GoodWeaponEvilWeapon
 * GoodWearsWhite: Heroic characters dress in white clothing.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T132454Z" creationid="Luan" creationdate="20240314T132454Z">
         <seg>* Br/ArmaBoaArmaMa
 * Br/OBemVesteBranco: Personagens heróicos se vestem com roupas brancas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GoodWingsEvilWings
+* GoodnessExam: Character is expected to do something evil to prove their affiliation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T174502Z" creationid="Luan" creationdate="20240314T174502Z">
+        <seg>* Br/AsasBoasAsasMas
+* Br/AsasBoasAsasMas: Espera-se que o personagem faça algo maléfico para provar seu alinhamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4367,6 +4413,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T143414Z" creationid="Luan" creationdate="20240118T143414Z">
         <seg>* Br/GrandeEVastaBibliotecaDeTudo: Uma biblioteca absurdamente enorme e bem estocada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GreaterNeedThanMine: Character does deeds for someone else since they're more important than themselves.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T174534Z" creationid="Luan" creationdate="20240314T174534Z">
+        <seg>* Br/NecessidadeMaiorQueAMinha: O personagem faz algo por outra pessoa porque ela é mais importante que ele mesmo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4431,6 +4485,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T153630Z" creationid="Luan" creationdate="20240125T153630Z">
         <seg>* Br/CasaAssombrada: Uma casa assustadora onde há monstros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeadbuttingHeroes: Good guys who despise each other.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T174614Z" creationid="Luan" creationdate="20240314T174614Z">
+        <seg>* Br/HeroisCabecaDura: Caras bons que se desprezam mutuamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9727,6 +9789,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* WiseOldTurtle: Turtles and tortoises are depicted as wise old mentors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T173737Z" creationid="Luan" creationdate="20240314T173737Z">
+        <seg>* Br/VelhaESabiaTartaruga: Tartarugas são retratadas como mentores sábios e velhos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* With adaptations or [[TheRemake remakes]], when all the source material was already covered up in the previous movie(s), [[AdaptationExpansion continuing to churn out sequels with original stories]]--especially when the author of the original source material can't or won't help.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T010927Z" creationid="Luan" creationdate="20240105T010927Z">
@@ -9931,6 +10001,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T190514Z" creationid="Luan" creationdate="20240221T190514Z">
         <seg>* Br/OVelhoSiloNuclear: No futuro, silos nucleares abandonados servirão como bases subterrâneas elaboradas que já vêm prontas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* YouCouldHaveUsedYourPowersForGood: The hero points out that the villain could've used their gifts to benefit humanity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T173816Z" creationid="Luan" creationdate="20240314T173816Z">
+        <seg>* Br/VocePoderiaTerUsadoSeusPoderesParaOBem: O herói ressalta ao vilão que ele poderia ter usado seus dons em benefício da humanidade.</seg>
       </tuv>
     </tu>
     <tu>

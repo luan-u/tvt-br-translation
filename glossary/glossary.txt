@@ -2923,3 +2923,16 @@ ColorMotif	Br/TemaCromatico
 GoodColorsEvilColors	Br/CoresBoasCoresMas
 GoodEyesEvilEyes	Br/OlhosBonsOlhosMaus
 GoodFeelsGood	Br/SerDoBemFazBem
+GoodGunsBadGuns	Br/ArmasDeFogoBoasArmasDeFogoMas
+GoodLawyersGoodClients	Br/BonsAdvogadosBonsClientes
+GoodParents	Br/PaisBons
+GoodOldWays	Br/BomEVelhoJeito
+GoodPaysBetter	Br/OBemPagaMelhor
+GoodProstheticEvilProsthetic	Br/ProteseBoaProteseMa
+GoodRunningEvil	Br/OBemAdministrandoOMal
+GoodSamaritan	Br/BomSamaritano
+GoodScarsEvilScars	Br/CicatrizesBoasCicatrizesMas
+GoodWearsWhite	Br/OBemVesteBranco
+GoodWeaponEvilWeapon	Br/ArmaBoaArmaMa
+GreaterScopeParagon	Br/ModeloDeMaiorEscopo
+HairOfGoldHeartOfGold	Br/CabeloDeOuroCoracaoDeOuro

@@ -2862,3 +2862,10 @@ EmpathicWeapon	Br/ArmaEmpatica
 EvenTheLovingHeroHasHatedOnes	Br/AteOAmorosoHeroiPossuiSeusOdiados
 ExaltedTorturer	Br/TorturadorExaltado
 FaceOfAThug	Br/CaraDeBandido
+FamilyMan	Br/HomemDeFamilia
+FirePurifies	Br/FogoPurifica
+FromZeroToHero	Br/DeZeroAHeroi
+InnocentBlueEyes	Br/InocentesOlhosAzuis
+JustLikeRobinHood	Br/QueNemRobinHood
+JustLikeRobinHood	Br/TalQualRobinHood
+LightEqualsHope	Br/LuzSignificaEsperanca

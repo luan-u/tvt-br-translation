@@ -3067,3 +3067,14 @@ MrViceGuy	Br/SenhorDasFalhas
 MyFistForgivesYou	Br/MeuPunhoTePerdoa
 NatureHero	Br/HeroiDaNatureza
 ProperLady	Br/DamaDeRespeito
+OnlyGoodPeopleMayPass	Br/SomenteOsBonsPodemPassar
+OnlyThePureOfHeart	Br/SomenteOsPurosDeCoracao
+PajamaCladHero	Br/HeroiTrajadoEmPijama
+QuintessentialBritishGentleman	Br/CavalheiroBritanicoQuintessencial
+SaveBothWorlds	Br/SalvarAmbosOsMundos
+ScienceHero	Br/HeroiDaCiencia
+SelflessWish	Br/DesejoAltruista
+SetRightWhatOnceWentWrong	Br/CorrigirOQueDeuErrado
+SubbingForSanta	Br/SubstituirONoel
+WeHelpTheHelpless	Br/NosAmparamosOsDesamparados
+WouldntHurtAChild	Br/NaoMachucariaUmaCrianca

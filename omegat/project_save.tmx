@@ -4537,6 +4537,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeelFaceTurn: A bad guy becomes good.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T180648Z" creationid="Luan" creationdate="20240314T180648Z">
+        <seg>* Br/PassarParaOLadoDosMocinhos: Um cara mau se torna bom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HeinousnessRetcon: A returning villain's crimes or personality are retconned to make them better/worse than originally established.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T203603Z" creationid="Luan" creationdate="20231215T203603Z">
@@ -4561,6 +4569,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HelpingGrannyCrossTheStreet
+* HelplessGoodSide: The good personality can't do anything to keep the evil personality in check.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T181113Z" creationid="Luan" creationdate="20240314T181113Z">
+        <seg>* Br/AjudarAVovoAAtravessarARua
+* Br/LadoBomImpotente: A personalidade boa não consegue fazer nada para manter a personalidade má sob controle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HereThereWereDragons: Once upon a time, Kings had wizards as courtiers and knights slew dragons.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T153329Z" creationid="Luan" creationdate="20240117T153329Z">
@@ -4581,6 +4599,54 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033727Z" creationid="Luan" creationdate="20240314T033727Z">
         <seg>* Br/HeroiAntagonista: [[Br/VilaoProtagonista O personagem principal de uma obra não necessariamente é o mocinho]], por isso é possível que a pessoa que se opõe a ele seja o cara bom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroDoesPublicService: Heroes help out in the community when not busy with their day job.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T181205Z" creationid="Luan" creationdate="20240314T181205Z">
+        <seg>* Br/OHeroiFazServicoPublico: Heróis ajudam na comunidade quando não estão ocupados com seu trabalho usual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroesFrontierStep: Characters commit an action so noble that it proves that they're a hero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T181348Z" creationid="Luan" creationdate="20240314T181348Z">
+        <seg>* Br/PassoDaFronteiraHeroica: Personagens fazem algo tão nobre que isso prova que são heróis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroesGoneFishing: The good guys are relaxing from fighting evil.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T181412Z" creationid="Luan" creationdate="20240314T181412Z">
+        <seg>* Br/OsHeroisForamPescar: Os caras bons estão dando uma folga do combate contra o mal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroesLoveDogs: The hero have a dog which they love and spend quality time with.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T181506Z" creationid="Luan" creationdate="20240314T181506Z">
+        <seg>* Br/OsHeroisAmamCachorros: O herói tem um cachorro que ama e com quem passa o tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroesRUs: An organized group of heroes and other good guys.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T181509Z" creationid="Luan" creationdate="20240314T181509Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroicFireRescue: A heroic character shows their heroism by rescuing someone from a burning building or something similar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T181546Z" creationid="Luan" creationdate="20240314T181546Z">
+        <seg>* Br/ResgateHeroicoDeIncendio: Um personagem heroico mostra seu heroísmo ao resgatar alguém de um prédio em chamas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8928,6 +8994,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheHighQueen: The queen is beautiful and good to an inhuman degree, and is to be held in awe.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T180859Z" creationid="Luan" creationdate="20240314T180859Z">
+        <seg>* Br/AAltaRainha: A rainha é bela e boa de um jeito para além do humano e deve ser reverenciada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheLancer: The {{foil}} for a [[TheHero hero]] of the closely allied variety.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034309Z" creationid="Luan" creationdate="20240314T034309Z">
@@ -10583,6 +10657,30 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203516Z" creationid="Luan" creationdate="20240105T203516Z">
         <seg>** Br/DasCinzas: O fim de uma obra ficcional é o ponto de entrada para um Br/{{Derivado}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** HeelFaceReincarnation: A villain is reincarnated as a good person.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T180703Z" creationid="Luan" creationdate="20240314T180703Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** HeelFaithTurn: An evil character turns good thanks to a religious experience.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T180658Z" creationid="Luan" creationdate="20240314T180658Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** HighHeelFaceTurn: The one female villain reforms.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T180701Z" creationid="Luan" creationdate="20240314T180701Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>

@@ -5197,6 +5197,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LadyAndKnight: The brave, chivalrous knight defends and falls in love with the fair lady.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T135147Z" creationid="Luan" creationdate="20240314T135147Z">
+        <seg>* Br/DamaECavaleiro: O corajoso e polido cavaleiro defende e se apaixona pela bela moça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LadyLand: Where women rule, and men are either subservient or absent.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T183655Z" creationid="Luan" creationdate="20240221T183655Z">
@@ -5233,6 +5241,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T011207Z" creationid="Luan" creationdate="20231218T011207Z">
         <seg>* Br/FaixaDeRiso: Um show coloca risadas pré-gravadas em cada piada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* LawEnforcementInc: A self-funded, self-supporting private agency which can act as a legal authority and law enforcement power, or as an official military outfit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T135400Z" creationid="Luan" creationdate="20240314T135400Z">
+        <seg>* Br/ForcaDaLeiLtda: Uma agência privada autogerida que pode agir como autoridade legal e força da lei, ou como um corpo militar oficial.</seg>
       </tuv>
     </tu>
     <tu>

@@ -2857,3 +2857,6 @@ CreepyGood	Br/AssustadorEBom
 CosmicChessGame	Br/JogoDeXadrezCosmico
 DudleyDoRightStopsToHelp	Br/DudleyCertinhoParaParaAjudar	Derivado do filme "Polícia Desmontada" que em inglês é "Dudley Do-Right".
 DressCodedForYourConvenience	Br/CodigoDeVestimentaParaSuaConveniencia
+EmbodimentOfVirtue	Br/PersonificacaoDaVirtude
+EmpathicWeapon	Br/ArmaEmpatica
+EvenTheLovingHeroHasHatedOnes	Br/AteOAmorosoHeroiPossuiSeusOdiados

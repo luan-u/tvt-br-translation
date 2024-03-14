@@ -4161,6 +4161,42 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GoodIsNotNice: Being the good guy does not mean that you are not a jerk.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033138Z" creationid="Luan" creationdate="20240314T033138Z">
+        <seg>* Br/SerBomNaoESerBonzinho: Ser o cara bom não significa que você não seja um babaca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GoodIsNotSoft: Being the good guy does not mean that you are unwilling to inflict pain on those who deserve it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033159Z" creationid="Luan" creationdate="20240314T033159Z">
+        <seg>* Br/SerBomNaoESerMole: Ser o cara bom não significa que você não está disposto a causar dor naqueles que a merecem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GoodIsOldFashioned
+* GoodHurtsEvil
+* TheGoodKing: A monarch who is honorable and virtuous, treating their subjects with respect (no matter how seemingly unimportant they are) and governing the land fairly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033328Z" creationid="Luan" creationdate="20240314T033328Z">
+        <seg>* Br/SerBomEAntiquado
+* Br/OBemMachucaOMal
+* Br/OReiBondoso: Um monarca que é honrado e virtuoso, trata seus súditos com respeito (não importa o quão irrelevantes eles possam ser) e governa a terrra justamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GoodSmellsGood: Good people tend to smell great.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033414Z" creationid="Luan" creationdate="20240314T033414Z">
+        <seg>* Br/SerDoBemCheiraBem: Pessoas boas tendem a ter um aroma bom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Governmental institutions sign in laws that outright ban the use of well-liked or even defining elements of the show (if the work isn't banned outright).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T230918Z" creationid="Luan" creationdate="20231210T230606Z">
@@ -4305,6 +4341,30 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeroAcademy: A school for training young heroes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033620Z" creationid="Luan" creationdate="20240314T033620Z">
+        <seg>* Br/AcademiaDeHerois: Uma escola para treinar jovens heróis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroAntagonist: Because [[VillainProtagonist the main character of a work isn't necessarily the good guy]], it is possible for the person opposing them to be a good guy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033727Z" creationid="Luan" creationdate="20240314T033727Z">
+        <seg>* Br/HeroiAntagonista: [[Br/VilaoProtagonista O personagem principal de uma obra não necessariamente é o mocinho]], por isso é possível que a pessoa que se opõe a ele seja o cara bom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroicSacrifice: A heroic character makes a sacrifice, typically their life, to achieve a particular objective, such as saving other lives.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033809Z" creationid="Luan" creationdate="20240314T033802Z">
+        <seg>* Br/SacrificioHeroico: Um personagem heroico faz um sacrifício, tipicamente da própria vida, apra alcançar um objetivo particular, tal como salvar outras vidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HiddenElfVillage: A secret, safe place far from the eyes of those other meddling nations.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T204818Z" creationid="Luan" creationdate="20240131T204818Z">
@@ -4401,6 +4461,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* IWorkAlone: A character declines help, stating that they work alone in doing good deeds.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033852Z" creationid="Luan" creationdate="20240314T033852Z">
+        <seg>* Br/EuTrabalhoSozinho: Um personagem recusa ajuda, dizendo que trabalha sozinho em suas boas ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* IcePalace: A castle made of ice or one that's completely frozen over.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T143146Z" creationid="Luan" creationdate="20240118T143146Z">
@@ -4425,6 +4493,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* IdealHero: A hero who is morally upright and not flawed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033910Z" creationid="Luan" creationdate="20240314T033910Z">
+        <seg>* Br/HeroiIdeal: Um herói que é moralmente correto e sem falhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* IdealistVsPragmatist: A conflict between TheIdealist and a PragmaticHero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033938Z" creationid="Luan" creationdate="20240314T033938Z">
+        <seg>* Br/IdealistaContraPragmatico: Um conflito entre Br/OIdealista e um Br/HeroiPragmatico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* IdyllicEnglishVillage: A quintessentially English village full of dainty cottages with thatched roofs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T153734Z" creationid="Luan" creationdate="20240125T153734Z">
@@ -4445,6 +4529,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T220657Z" creationid="Luan" creationdate="20240124T220657Z">
         <seg>* Br/CampoDeImortalidade: Um lugar que funciona como um Br/IndutorDeImortalidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ImmortalityInducer: A magical or technological device that grants immortality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033955Z" creationid="Luan" creationdate="20240314T033955Z">
+        <seg>* Br/IndutorDeImortalidade: Um dispositivo mágico ou tecnológico que concede imortalidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4493,6 +4585,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T142102Z" creationid="Luan" creationdate="20240118T142102Z">
         <seg>* Br/IncompetenciaLtda: Uma cultura corporativa onde nada de valor é feito. Como eles conseguem se manter nos negócios é um mistério.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* IncorruptiblePurePureness: A being who is so good-natured and kind that it is impossible for them to be corrupted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034035Z" creationid="Luan" creationdate="20240314T034035Z">
+        <seg>* Br/PurezaPuraIncorruptivel: Um ser que é tão bondoso e de boas intenções que é impossível de corromper.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4729,6 +4829,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T005306Z" creationid="Luan" creationdate="20231218T005306Z">
         <seg>* Br/NaoEParaGanharOOscar: Criadores costumam usar isso como desculpa quando essa mentalidade surge na obra deles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* JerkWithAHeartOfGold: A character who often comes off as [[{{Jerkass}} mean]] occasionally proves that they're not a completely bad person and are perfectly capable of showing kindness.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034113Z" creationid="Luan" creationdate="20240314T034113Z">
+        <seg>* Br/BabacaComUmCoracaoDeOuro: Um personagem que costuma ser retratado como [[Br/{{Babaca}} maldoso]] ocasionalmente prova que ele não é uma pessoa completamente ruim e que é capaz de mostrar bondade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7926,6 +8034,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheGoodKingdom: The realm of a good monarch.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033337Z" creationid="Luan" creationdate="20240314T033337Z">
+        <seg>* Br/OBomReino: O reino de um monarca bondoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheGoodKingdom: Where good monarchs reign.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T143543Z" creationid="Luan" creationdate="20240118T143543Z">
@@ -7942,10 +8058,34 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheHeart: The barometer of a group's emotional well-being and its peacekeeper/caretaker/benevolence bringer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033509Z" creationid="Luan" creationdate="20240314T033509Z">
+        <seg>* Br/OCoracao: O barômetro do bem-estar emocional de um grupo, cuidador, pacificador e portador da benevolência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheHedgeOfThorns: A large bramble of nasty thorns, usually where faeries or evil sorcerers want to block your way.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T134617Z" creationid="Luan" creationdate="20240202T134617Z">
         <seg>* Br/CercaDeEspinhos: Uma barreira feita com plantas bem pontiagudas, geralmente em um lugar onde fadas ou feiticeiros malignos desejam bloquear a passagem. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheHero: The central character who performs good deeds with a heroic motivation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033533Z" creationid="Luan" creationdate="20240314T033533Z">
+        <seg>* Br/OHeroi: O personagem central que faz boas ações com motivações heróicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheHerosJourney: A basic function of narratives that illustrates a character's path to becoming a hero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033559Z" creationid="Luan" creationdate="20240314T033559Z">
+        <seg>* Br/AJornadaDoHeroi: Uma função básica das narrativas que ilustra o caminho de um personagem para se tornar um herói.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9573,6 +9713,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203612Z" creationid="Luan" creationdate="20240105T203612Z">
         <seg>** Br/DerivadoComFilhos: Um derivado que foca nos descendentes dos personagens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** SuperheroSchool: An institute that teaches young superheroes how to use their powers properly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033644Z" creationid="Luan" creationdate="20240314T033639Z">
+        <seg>** Br/EscolaDeSuperHerois: Uma instituição que ensina super-heróis jovens a usar seus poderes adequadamente.</seg>
       </tuv>
     </tu>
     <tu>

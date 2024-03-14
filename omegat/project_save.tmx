@@ -7443,6 +7443,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SheepInSheepsClothing: A good person is suspected to secretly not be as good as they were assumed to be, but it turns out their supposed bad deeds had benign ulterior motives.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T170842Z" creationid="Luan" creationdate="20240314T170842Z">
+        <seg>* Br/CordeiroEmPeleDeCordeiro: Uma pessoa boa traz sobre si a suspeita de secretamente não ser tão boa quanto se supõe, mas então se descobre que suas supostas ações ruins tinham motivos nobres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ShiningCity: The greatest and most beautiful city in the world.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T191201Z" creationid="Luan" creationdate="20240131T191201Z">
@@ -7495,6 +7503,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T023337Z" creationid="Luan" creationdate="20240314T023337Z">
         <seg>* Br/CalaABocaKirk: O herói diz ao vilão que ele inevitavelmente vai perder e o vilão responde dizendo que ele não liga e que vai superar ele mesmo assim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SilverHasMysticPowers
+* SlaveLiberation: Characters elect to free people from slavery.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T170927Z" creationid="Luan" creationdate="20240314T170927Z">
+        <seg>* Br/PrataPossuiPoderesMisticos
+* Br/LibertacaoDosEscravos: Os personagens decidem libertar as pessoas da escravidão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7759,6 +7777,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SpareAMessenger
+* SparingTheFinalMook: After beating a number of mooks single-handedly, a heroic character spares a final one, often telling the last one to take a dive.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T171128Z" creationid="Luan" creationdate="20240314T171128Z">
+        <seg>* Br/PouparUmMensageiro
+* Br/PouparOUltimoCapanga: Depois de derrotar vários capangas sozinho, o personagem heroico deixa viver um último, geralmente sugerindo que ele caia no chão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SpinOff: A subsequent installment that is set in the same universe of a work, but focuses on characters other than the protagonist(s) of the previous entry.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203455Z" creationid="Luan" creationdate="20240105T203455Z">
@@ -7775,6 +7803,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SpoiledSweet: A rich, spoiled character who is nice to everyone.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T171152Z" creationid="Luan" creationdate="20240314T171152Z">
+        <seg>* Br/QueridoMimado: Um personagem rico e mimado que é bom com todos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* StandAloneEpisode: A sequel that is in itself its own self-contained story that doesn't require previous material for context nor is it a continuation of certain plot elements from a preceding entry.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203741Z" creationid="Luan" creationdate="20240105T203741Z">
@@ -7787,6 +7823,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T155500Z" creationid="Luan" creationdate="20240117T155500Z">
         <seg>* Br/AmbientacaoPosApocalipticaPadrao: Um cenário pós-apocalíptico com muitos mutantes, cidades arruinadas e tons de marrom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* StandardRoyalCourt: A staple setting of historical and SpeculativeFiction, the natural home of [[ReasonableAuthorityFigure good]] [[RoyalBlood kings]], {{the Good Chancellor}}s, and every breed of [[BlueBlood aristocrat]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T171933Z" creationid="Luan" creationdate="20240314T171933Z">
+        <seg>* Br/CorteRealPadrao: Um cenário comum da Br/FiccaoEspeculativa e histórica, lar natural dos [[Br/FiguraDeAutoridadeRazoavel bons]] [[Br/SangueReal reis]], do Br/ChancelerBondoso e todo tipo de [[Br/SangueAzul aristocrata]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -10461,6 +10505,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T005323Z" creationid="Luan" creationdate="20240105T005323Z">
         <seg>** Isto particularmente é o caso quando se traz de volta um personagem que inesperadamente ganhou o afeto do público na primeira obra, mas [[Br/ElesDesperdicaramUmPersonagemPerfeitamenteBom não se faz nada de interessante com ele]] -- ou pior, o personagem sofre Br/{{Flanderizacao}} tão severa que eles se tornam uma caricatura unidimensional do personagem encantador e multifacetado que outrora foi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** UnclePennybags: A wealthy person who often uses their fortune to help the needy and/or give those less fortunate than them a good time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T171434Z" creationid="Luan" creationdate="20240314T171434Z">
+        <seg>** Br/TioPennybags: Uma pessoa rica que costuma usar sua fortuna em prol dos necessitados ou em dar a eles um momento agradável.</seg>
       </tuv>
     </tu>
     <tu>

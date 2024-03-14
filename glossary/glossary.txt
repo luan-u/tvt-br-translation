@@ -2967,3 +2967,11 @@ RestoredMyFaithInHumanity	Br/RestaurouMinhaFeNaHumanidade
 RevengeIsNotJustice	Br/VingancaNaoEJustica
 WhiteIsPure	Br/BrancoEPuro
 WhiteMagic	Br/MagiaBranca
+LoveRedeems	Br/AmorRedime
+MagneticHero	Br/HeroiMagnetico
+MessianicArchetype	Br/ArquetipoMessianico
+NobleProfession	Br/ProfissaoNobre
+AProtagonistShallLeadThem	Br/UmProtagonistaHaDeOsLiderar
+PrecursorHeroes	Br/HeroisPrecursores
+RedEyesTakeWarning	Br/CuidadoOlhosVermelhos
+ReformedButNotTamed	Br/ReformadoMasNaoDomado

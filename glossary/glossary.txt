@@ -2914,3 +2914,10 @@ TheParagon	Br/OParagono
 TheSacredDarkness	Br/SagradaEscuridao
 FunPersonified	Br/DiversaoPersonificada
 TheGoodCaptain	Br/OBomCapitao
+ForGreatJustice	Br/PelaGrandeJustica
+JusticeWillPrevail	Br/AJusticaPrevalecera
+GloveSnap	Br/EstalarDeLuvas
+TheMedic	Br/OMedico
+GoodAllAlong	Br/BomOTempoTodo
+ColorMotif	Br/TemaCromatico
+GoodColorsEvilColors	Br/CoresBoasCoresMas

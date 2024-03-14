@@ -8795,6 +8795,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* YouMustBeCold: Someone puts their jacket over the other to protect them from the cold and/or snowy environment, to show that they're a good person underneath.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T024507Z" creationid="Luan" creationdate="20240314T024507Z">
+        <seg>* Br/VoceDeveEstarComFrio: Alguém coloca sua jaqueta sobre o outro para protegê-lo do frio ou da neve a fim de demonstrar que são uma boa pessoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* YourPrincessIsInAnotherCastle: It looks like the story or arc has ended, then another world/villain/problem appears.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T154534Z" creationid="Luan" creationdate="20240105T154534Z">

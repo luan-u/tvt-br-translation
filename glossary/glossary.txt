@@ -2894,3 +2894,13 @@ GoodIsBoring	Br/OBemEEntediante
 GoodHairEvilHair	Br/CabeloBomCabeloMau
 GoodIsNotDumb	Br/SerBomNaoESerBurro
 GoodIsImpotent	Br/OBemEImpotente
+GoodHurtsEvil	Br/OBemMachucaOMal
+GoodIsOldFashioned	Br/SerBomEAntiquado
+TheGoodKing	Br/OReiBondoso
+GoodNeedsEvil	Br/OBemPrecisaDoMal
+GoodSmellsGood	Br/SerDoBemCheiraBem
+HeroAcademy	Br/AcademiaDeHerois
+IdealHero	Br/HeroiIdeal
+IdealistVsPragmatist	Br/IdealistaContraPragmatico
+TheIdealist	Br/OIdealista
+IncorruptiblePurePureness	Br/PurezaPuraIncorruptivel

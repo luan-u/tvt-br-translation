@@ -5455,6 +5455,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LanternJawOfJustice: A good guy with a huge chin.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T184907Z" creationid="Luan" creationdate="20240314T184907Z">
+        <seg>* Br/MandibulaDaJustica: Um cara bom com um queixo protuberante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LastFertileRegion: The last bit of nature and greenery in a wasteland dystopia.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T223441Z" creationid="Luan" creationdate="20240131T223441Z">
@@ -5607,6 +5615,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LoadBearingHero: Heroes hold a falling object to save the members of main cast or others.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T185004Z" creationid="Luan" creationdate="20240314T185004Z">
+        <seg>* Br/HeroiDeSuporteDeCarga: Heróis que seguram um objeto em queda para salvar os demais membros do elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LocalHangout: Where the cast spends most of their time hanging out.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T130429Z" creationid="Luan" creationdate="20240201T130429Z">
@@ -5627,6 +5643,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T134011Z" creationid="Luan" creationdate="20240201T130834Z">
         <seg>* Br/FaseDeLocomotiva: Uma fase de videogame que se passa em um trem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* LoonWithAHeartOfGold: A character who is quirky, insane or unhinged is also one of the kindest and most compassionate, more than most of the "normals".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T185205Z" creationid="Luan" creationdate="20240314T185205Z">
+        <seg>* Br/BirutaComUmCoracaoDeOuro: Um personagem que é peculiar ou insano é também um dos mais bondosos e compassivos, mais até que a maioria dos "normais".</seg>
       </tuv>
     </tu>
     <tu>
@@ -5805,6 +5829,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ManOfTheCity: A character makes it their life mission to protect a city.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T185434Z" creationid="Luan" creationdate="20240314T185434Z">
+        <seg>* Br/HomemDaCidade: Um personagem toma pra si a atividade de proteger uma cidade como missão de vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MartyrdomCulture: A culture that [[DeathSeeker glorifies death]] in the name of some cause or belief.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T143111Z" creationid="Luan" creationdate="20240118T143111Z">
@@ -5873,6 +5905,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T224522Z" creationid="Luan" creationdate="20240131T224522Z">
         <seg>* Br/MegaMasmorra: Um calabouço tão grande que dá pra passar a história inteira nele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MellowFellow: A character, who is easy-going and content with their position, is often a benevolent or at least affable character due to rarely being confrontational.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T185610Z" creationid="Luan" creationdate="20240314T185610Z">
+        <seg>* Br/SujeitoSuave: Um personagem relaxado e contente com sua posição costuma ser benevolente ou afável devido à sua natureza de raramente se meter em conflitos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9108,12 +9148,28 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheManInTheMoon: The moon is often an aged but benevolent figure who stands over the Earth, granting it natural bounty or serving as the destination for young adventurers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T185345Z" creationid="Luan" creationdate="20240314T185345Z">
+        <seg>* Br/OHomemNaLua: A lua é geralmente uma figura envelhecida e benevolente que vigia a terra, concedendo a ela abundâncias naturais ou servindo como o destino para jovens aventureiros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheMaze
 * MechanicalEcosystem: A mechanical replica of a natural environment.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T150709Z" creationid="Luan" creationdate="20240118T150709Z">
         <seg>* Br/OLabirinto
 * Br/EcossistemaMecanico: Uma réplica mecanizada de um ambiente natural.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheMenFirst: The boss, leader or captain wants to get their soldiers out of the bad situation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T185719Z" creationid="Luan" creationdate="20240314T185719Z">
+        <seg>* Br/OsHomensPrimeiro: O chefe, líder ou capitão deseja livrar seus soldados de uma situação ruim.</seg>
       </tuv>
     </tu>
     <tu>

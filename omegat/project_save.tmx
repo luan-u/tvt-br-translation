@@ -5053,6 +5053,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* JumpedAtTheCall: A character is eager to uphold the responsibility of being the hero once they are given the chance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T134204Z" creationid="Luan" creationdate="20240314T134204Z">
+        <seg>* Br/EstavaSoPeloChamado: Um personagem está ansioso para aceitar a responsabilidade de ser o herói quando a chance surge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Just making something mindblowingly scary and showing it in all its well-lit horrific glory -- the hardest to pull off, as it [[TemptingFate risks]] highlighting even minor {{Special Effects Failure}}s unless done superbly, and often has to overcome the lack of menacing atmosphere.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231226T151119Z" creationid="Luan" creationdate="20231226T150753Z">
@@ -5101,6 +5109,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* KeepTheReward: A true hero is blasé about collecting a fee.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T134348Z" creationid="Luan" creationdate="20240314T134348Z">
+        <seg>* Br/FiqueComARecompensa: Um verdadeiro herói rejeita a recompensa oferecida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* KeepingTheHandicap: A disabled character decides against "fixing" the disability because it makes them what they are.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T145457Z" creationid="Luan" creationdate="20231208T145457Z">
@@ -5109,10 +5125,34 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* KindheartedSimpleton: A generally pig-ignorant, stupid character who makes up for their idiocy and denseness by being morally nice and show any sort of likability in them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T134427Z" creationid="Luan" creationdate="20240314T134427Z">
+        <seg>* Br/EstupidoDeBomCoracao: Um personagem estúpido no geral que compensa sua idiotice com o fato de que é moralmente bom e demonstra traços agradáveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* KirksRock: A distinctive set of striated sandstone slabs, sharply-angled and pointed at their tops, conveniently located about 30 miles north of Hollywood.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T182835Z" creationid="Luan" creationdate="20240221T182835Z">
         <seg>* Br/RochaDeKirk: Um conjunto distinto de formações rochosas pontiagudas que fica localizado a convenientes 50 quilômetros de Hollywood.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* KneelBeforeFrodo: High praise is given to a hero lower on the social scale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T134612Z" creationid="Luan" creationdate="20240314T134612Z">
+        <seg>* Br/AjoelheSeDianteDeFrodo: Honrarias são dadas a um herói que fica na base da escala social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* KnightErrant: A deliberate [[TheDrifter Drifter]] with a case of ChronicHeroSyndrome.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T135101Z" creationid="Luan" creationdate="20240314T135101Z">
+        <seg>* Br/CavaleiroErrante: Um [[Br/OErrante andarilho]] que tem um caso de Br/SindromeDeHeroismoCronico.</seg>
       </tuv>
     </tu>
     <tu>

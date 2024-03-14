@@ -3603,6 +3603,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ExaltedTorturer: A character who uses torture is presented as the good guy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T000958Z" creationid="Luan" creationdate="20240314T000958Z">
+        <seg>* Br/TorturadorExaltado: Um personagem que usa tortura é apresentado como um dos mocinhos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ExclusiveCliqueClubhouse: Certain student groups get their own hideouts and housing.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T133219Z" creationid="Luan" creationdate="20240202T133219Z">
@@ -3623,6 +3631,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T183816Z" creationid="Luan" creationdate="20240131T183816Z">
         <seg>* Br/CasaExtremamentePoeirenta: Uma casa abandonada com camadas e mais camadas de teias e pó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FaceOfAThug: A good guy who looks like a hardened criminal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T001048Z" creationid="Luan" creationdate="20240314T001048Z">
+        <seg>* Br/CaraDeBandido: Um mocinho que se parece com um criminoso durão.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1406,6 +1406,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AProtagonistShallLeadThem: A long-divided people are united by the prophesied arrival of a hero, who becomes their leader.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165338Z" creationid="Luan" creationdate="20240314T165338Z">
+        <seg>* Br/UmProtagonistaHaDeOsLiderar: Um povo dividido é unido pela aparição profetizada de um herói, que se torna o seu líder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AboveGoodAndEvil: A character believes that their objectives are more valuable than the concepts of good and evil.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T203119Z" creationid="Luan" creationdate="20240313T203119Z">
@@ -5429,6 +5437,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LoveRedeems: An antagonistic character is redeemed due to their love of another character.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165021Z" creationid="Luan" creationdate="20240314T165021Z">
+        <seg>* Br/AmorRedime: Um personagem antagonista se redime através do amor de outro personagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LovecraftCountry: A creepy, horror version of rural NewEngland, where corrupt hicks conspire with dark forces.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T154632Z" creationid="Luan" creationdate="20240125T154632Z">
@@ -5485,6 +5501,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T223855Z" creationid="Luan" creationdate="20240131T223855Z">
         <seg>* Br/FeiraDeCienciaMaluca: Um concurso ou convenção envolvendo cientistas loucos e seus experimentos insanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MadeOfGood
+* MagneticHero: A hero with remarkable personal magnetism gains friends and allies with astonishing ease.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165057Z" creationid="Luan" creationdate="20240314T165057Z">
+        <seg>* Br/FeitoDeBondade
+* Br/HeroiMagnetico: Um herói com um magnetismo pessoal impressionante ganha amigos e aliados com muita facilidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5669,6 +5695,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T184056Z" creationid="Luan" creationdate="20240221T184056Z">
         <seg>* Br/BaseMercurial: Uma base em um planeta próximo à uma estrela que fica fora do sol ao seguir a noite planetária.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MessianicArchetype: A savior who endures great sacrifices, up to and including death, to aid others.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165157Z" creationid="Luan" creationdate="20240314T165157Z">
+        <seg>* Br/ArquetipoMessianico: Um salvador que suporta grandes sacrifícios, até mesmo a morte, para ajudar outros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6045,6 +6079,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T185939Z" creationid="Luan" creationdate="20240221T185939Z">
         <seg>* ??? NoTellMotel: Um hotel barato que atende a uma clientela de classe baixa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* NobleProfession: Some occupations are just expected to be benevolent, well-meaning and lovely.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165241Z" creationid="Luan" creationdate="20240314T165241Z">
+        <seg>* Br/ProfissaoNobre: Espera-se que certas ocupações sejam benevolentes e bem-intencionadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6555,6 +6597,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* PrecursorHeroes: A hero or group of heroes that arose in the hour of need and dealt with the threat 1,000 years ago.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165412Z" creationid="Luan" creationdate="20240314T165412Z">
+        <seg>* Br/HeroisPrecursores: Um herói ou grupo de heróis que surgiu em uma hora de necessidade e lidou com a ameaça 1000 anos atrás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* PrequelInTheLostAge: Sequel set in the time the original says has long passed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145355Z" creationid="Luan" creationdate="20240105T145355Z">
@@ -6635,6 +6685,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* RedEyesTakeWarning: Some good guys have red eyes to show that [[GoodIsNotSoft they’re not fooling around]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165545Z" creationid="Luan" creationdate="20240314T165545Z">
+        <seg>* Br/CuidadoOlhosVermelhos: Alguns caras bons possuem olhos vermelhos para mostrar que [[Br/SerBomNaoESerMole eles não estão pra brincadeira]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* RedLightDistrict: The part of town where all the brothels, bars, and other places of seedy night-time enjoyment can be found.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T191336Z" creationid="Luan" creationdate="20240131T191336Z">
@@ -6671,6 +6729,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T155341Z" creationid="Luan" creationdate="20240105T155341Z">
         <seg>* Br/ReadequadoParaASequencia: Uma cena que deveria estar no original é movida para a sequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ReformedButNotTamed: A villainous character turns to the good side, but retains some of their negative qualities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165635Z" creationid="Luan" creationdate="20240314T165635Z">
+        <seg>* Br/ReformadoMasNaoDomado: Um personagem vilanesco passa para o lado bom, mas retém algumas de suas características negativas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8684,6 +8750,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T220917Z" creationid="Luan" creationdate="20240124T220917Z">
         <seg>* Br/TerraPrometida: O lugar que tem a promessa de ser ''melhor'' do que este em que estamos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheQuarterback: An effective captain who is usually nicer than his teammates.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165459Z" creationid="Luan" creationdate="20240314T165459Z">
+        <seg>* ??? TheQuarterback: Um capitão eficiente que é mais gentil que os demais membros do time.</seg>
       </tuv>
     </tu>
     <tu>

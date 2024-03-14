@@ -9363,6 +9363,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* WhiteIsPure: White is associated with cleanliness, innocence, and virtue.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T144231Z" creationid="Luan" creationdate="20240314T144231Z">
+        <seg>* Br/BrancoEPuro: branco é associado com limpeza, inocência e virtude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* WhiteMagic: A type of magic (or equivalent force) that centres on beneficial effects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T144301Z" creationid="Luan" creationdate="20240314T144301Z">
+        <seg>* Br/MagiaBranca: Um tipo de mágica (ou força equivalente) que é centrada em efeitos benéficos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* WhiteVoidRoom: A ''white'' featureless location, often an empty plane or void.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T144551Z" creationid="Luan" creationdate="20240201T144551Z">

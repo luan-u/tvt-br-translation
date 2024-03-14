@@ -6707,10 +6707,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* RestoredMyFaithInHumanity: A character learns that humanity isn't so bad after all.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T141729Z" creationid="Luan" creationdate="20240314T141729Z">
+        <seg>* Br/RestaurouMinhaFeNaHumanidade: Um personagem aprende que a humanidade não é tão ruim assim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* RevengeByProxy: Getting back at those who wronged you by murdering, torturing, or otherwise doing harm to someone close to them.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T142412Z" creationid="Luan" creationdate="20240104T142412Z">
         <seg>* ??? RevengeByProxy: Retaliar contra alguém que lhe causou algo matando, torturando ou ferindo uma pessoa próxima a esse alguém.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RevengeIsNotJustice: A character is in the wrong for taking revenge against another.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T141750Z" creationid="Luan" creationdate="20240314T141750Z">
+        <seg>* Br/VingancaNaoEJustica: Um personagem fica do lado errado por se vingar contra outro.</seg>
       </tuv>
     </tu>
     <tu>

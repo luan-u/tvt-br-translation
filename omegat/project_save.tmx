@@ -1414,6 +1414,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ATrueHero: An exploration of what makes someone a legitimate or better hero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T172858Z" creationid="Luan" creationdate="20240314T172858Z">
+        <seg>* Br/UmVerdadeiroHeroi: Uma exploração do que torna alguém um herói legítimo ou melhor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AboveGoodAndEvil: A character believes that their objectives are more valuable than the concepts of good and evil.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T203119Z" creationid="Luan" creationdate="20240313T203119Z">
@@ -8164,6 +8172,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TakeUpMySword: The hero dies, so someone else needs to heed his/her call.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T172729Z" creationid="Luan" creationdate="20240314T172729Z">
+        <seg>* Br/LeveMinhaEspada: O herói morre, por isso alguém precisa atender o chamado no lugar dele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TastesLikeFriendship: A character becomes another's friend after being given food.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T172751Z" creationid="Luan" creationdate="20240314T172751Z">
+        <seg>* Br/TemGostoDeAmizade: Um personagem se torna amigo de outro após receber comida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TechnoDystopia
 * TelevisionGeography
 * TerminallyDependentSociety
@@ -8192,6 +8216,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T231917Z" creationid="Luan" creationdate="20231210T231917Z">
         <seg>* Br/AMarchaDaTecnologia acontece de um modo que muda fundamentalmente a produção enquanto o show tenta continuar no novo formato como se nada tivesse acontecido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TenorBoy: The young and idealistic romantic lead in theater tends to sing in the tenor range.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T172833Z" creationid="Luan" creationdate="20240314T172833Z">
+        <seg>* Br/GarotoTenor: O protagonista jovem e idealista romântico que tende a cantar na faixa de um tenor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9374,6 +9406,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* UnintentionallyKarmic: A StupidGood or InnocentlyInsensitive character who is always nice to a jerk and aims to please or befriend them, only for their attempts to go wrong for the bad guy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T173204Z" creationid="Luan" creationdate="20240314T173204Z">
+        <seg>* Br/KarmicoNaoIntencional: um personagem Br/EstupidoEBom ou Br/InocentementeInsensivel que é sempre gentil com um babaca e tenta agradá-lo ou se tornar um amigo, mas suas tentativas dão errado para o cara mau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* UnnaturallyLoopingLocation: A place that keeps repeating.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T215736Z" creationid="Luan" creationdate="20240221T215736Z">
@@ -9507,6 +9547,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* WakeUpGoToSchoolSaveTheWorld: A KidHero has at least as much trouble dealing with social pressures and crushes as with saving the world.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T173416Z" creationid="Luan" creationdate="20240314T173416Z">
+        <seg>* Br/AcordarIrPraEscolaSalvarOMundo: Um Br/HeroiGaroto tem tantos problemas em lidar com as pressões sociais da vida escolar quanto em salvar o mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* WeWantOurIdiotBack: An idiotic character becomes smarter, but goes back to their old intelligence level because other character want them to remain that way.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T151731Z" creationid="Luan" creationdate="20231208T151731Z">
@@ -9531,10 +9579,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* WelcomeBackTraitor: A teammate changes sides [[HeelFaceTurn only to come back]] and is received in open arms.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T173512Z" creationid="Luan" creationdate="20240314T173512Z">
+        <seg>* Br/BemVindoDeVoltaTraidor: Um colega de equipe muda de lado, [[Br/PassarParaOLadoDosMocinhos muda novamente]] e é recebido de braços abertos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* WellIntentionedExtremist: The villain/AntiHero is only doing what they do because they have noble goals.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T023825Z" creationid="Luan" creationdate="20240314T023825Z">
         <seg>* Br/ExtremistaBemIntencionado: O vilão ou o Br/AntiHeroi faz o que faz apenas por causa de objetivos nobres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* WestCoastTeam: Superhero team's far-away equivalent/affiliate/subsidiary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T173516Z" creationid="Luan" creationdate="20240314T173516Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -9619,6 +9683,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T144301Z" creationid="Luan" creationdate="20240314T144301Z">
         <seg>* Br/MagiaBranca: Um tipo de mágica (ou força equivalente) que é centrada em efeitos benéficos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* WhiteMansBurden: A well-to-do white character selflessly works to help an unfortunate person of color.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T173607Z" creationid="Luan" creationdate="20240314T173607Z">
+        <seg>* Br/FardoDoHomemBranco: Um personagem branco bem de vida trabalha em favor de ajudar uma pessoa desafortunada e de cor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* WhiteSheep: A good character who rebels against their evil family.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T173649Z" creationid="Luan" creationdate="20240314T173649Z">
+        <seg>* Br/OvelhaBranca: Um personagem bom que se rebela contra sua família do mal.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3001,3 +3001,8 @@ RoyalBlood	Br/SangueReal
 TheGoodChancellor	ChancelerBondoso
 MachiavelliWasWrong	Br/MaquiavelEstavaErrado
 ReasonableAuthorityFigure	Br/FiguraDeAutoridadeRazoavel
+SuitUpOfDestiny	Br/TrajeDoDestino
+SweetBaker	Br/DocePadeiro
+SympathyForTheDevil	Br/SimpatiaPeloDiabo
+SympathyForTheHero	Br/SimpatiaPeloHeroi
+TakeMyHand	Br/SeguraMinhaMao

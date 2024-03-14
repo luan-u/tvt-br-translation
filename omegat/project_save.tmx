@@ -6045,6 +6045,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MisunderstoodLonerWithAHeartOfGold: A character may seem evil, but he/she is actually a good person.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T185951Z" creationid="Luan" creationdate="20240314T185951Z">
+        <seg>* Br/SolitarioMalCompreendidoComUmCoracaoDeOuro: Um personagem parece malvado, mas na verdade é uma boa pessoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Mixing the paranormal or abnormal with the mundane and familiar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231226T020913Z" creationid="Luan" creationdate="20231226T020913Z">
@@ -6101,6 +6109,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MoralityGuidedAttack
+* MoralPragmatist: Joining the side of good because it's practical.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T190116Z" creationid="Luan" creationdate="20240314T190116Z">
+        <seg>* Br/AtaqueGuiadoPorMoralidade
+* Br/PragmaticoMoral: Juntar-se ao lado do bem porque é prático.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MoreDiverseSequel: A sequel is more inclusive than its predecessor.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T154316Z" creationid="Luan" creationdate="20240105T154316Z">
@@ -6129,6 +6147,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T230355Z" creationid="Luan" creationdate="20231206T230355Z">
         <seg>* Filmes ou shows que, pela sua [[Br/StatusQuoEDeus natureza previsível]], indicam como a obra termina, também não contam: o público já sabe que os bonzinhos vencem e que o BrPersonagens/{{Batman|OPersonagem}} vai viver para lutar outro dia, na mesma bat-hora e no mesmo bat-canal, mas o final não é canonicamente estabelecido; teoricamente, o BrCriador/AdamWest poderia morrer no final de um episódio, mas realisticamente [[Br/ComoSeVoceRealmenteFosseFazerIsso a gente sabe que isso não vai acontecer]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MrViceGuy: Characters who have habitual vices, but are still heroic nonetheless.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T192033Z" creationid="Luan" creationdate="20240314T192033Z">
+        <seg>* Br/SenhorDasFalhas: Personagens que possuem defeitos, vícios e falhas, mas são heroicos mesmo assim.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9174,6 +9200,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheMoralityMortalityEquation: The more evil a villain is, the greater the odds that their loved ones will not survive.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T190228Z" creationid="Luan" creationdate="20240314T190158Z">
+        <seg>* Br/EquacaoDeMoralidadeEMortalidade: Quanto mais maléfico um vilão é, maiores as chances de que seus entes queridos morrerão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheMovie is released, and the show's creativity level starts to drop.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T213520Z" creationid="Luan" creationdate="20231210T213520Z">
@@ -10831,6 +10865,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** MentorInSourArmor: Bitter mentors with soft hearts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T185751Z" creationid="Luan" creationdate="20240314T185751Z">
+        <seg>** Br/MentorEmArmaduraAzeda: Mentores ásperos com corações moles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>** MonsterAdventurers: Creatures who are generally disposable {{Mooks}} decide they want the PlotArmor that comes with being a hero.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032209Z" creationid="Luan" creationdate="20240314T032209Z">
@@ -10883,6 +10925,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231209T141957Z" creationid="Luan" creationdate="20231209T141957Z">
         <seg>** Similarmente, um personagem que [[Br/PorQueTinhaQueSerCobras tem medo de algo]], mas que consegue lidar com isso, mas eventualmente o medo se torna incapacitante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** SinkOrSwimMentor: A character teaches another character a skill by putting them in a life-or-death situation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T185906Z" creationid="Luan" creationdate="20240314T185906Z">
+        <seg>** Br/MentorDeAfundarOuNadar: Um personagem ensina uma habilidade a outro personagem ao colocá-lo em uma situação de vida ou morte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20112,6 +20162,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240301T153522Z" creationid="Luan" creationdate="20240301T153522Z">
         <seg>As histórias intermediárias de uma trilogia podem sofrer da Síndrome de Livro do Meio, onde não há começo ou fim para a trama; para um exemplo disso em uma heptalogia (sequência de sete), temos ''BrLiteratura/HarryPotterEOEnigmaDoPrincipe'', onde além da trama envolvendo o "príncipe" titular, as linhas de trama são puxadas a partir de ''Ordem da Fênix'' ou repassadas para ''Relíquias da Morte''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The more moral the hero is, the greater the odds that their own loved ones ''will'' survive.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T190239Z" creationid="Luan" creationdate="20240314T190216Z">
+        <seg>Quanto mais moral um herói é, maiores as chances de que seus entes queridos ''viverão''.</seg>
       </tuv>
     </tu>
     <tu>

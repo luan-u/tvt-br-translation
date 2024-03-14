@@ -3045,3 +3045,7 @@ HiddenHeartOfGold	Br/CoracaoDeOuroOculto
 HolyHandGrenade	Br/GranadaSantaDeMao
 HopeBringer	Br/EmissarioDaEsperanca
 HorsebackHeroism	Br/HeroismoMontadoACavalo
+ImNotAHeroIm	Br/EuNaoSouUmHeroiEuSou
+TheIngenue	Br/OIngenuo
+InnocentSoprano	Br/SopranoInocente
+KindheartedCatLover	Br/AmanteDeGatosComBomCoracao

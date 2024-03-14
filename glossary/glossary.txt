@@ -2873,3 +2873,4 @@ SmileOfApproval	Br/SorrisoDeAprovacao
 WithGreatPowerComesGreatResponsibility	Br/ComGrandesPoderesVemGrandesResponsabilidades
 XMarksTheHero	Br/OXMarcaOHeroi
 ZeroApprovalGambit	Br/GambitoDeZeroDeAprovacao
+YouMustBeCold	Br/VoceDeveEstarComFrio

@@ -2860,3 +2860,5 @@ DressCodedForYourConvenience	Br/CodigoDeVestimentaParaSuaConveniencia
 EmbodimentOfVirtue	Br/PersonificacaoDaVirtude
 EmpathicWeapon	Br/ArmaEmpatica
 EvenTheLovingHeroHasHatedOnes	Br/AteOAmorosoHeroiPossuiSeusOdiados
+ExaltedTorturer	Br/TorturadorExaltado
+FaceOfAThug	Br/CaraDeBandido

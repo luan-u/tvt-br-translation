@@ -4491,6 +4491,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeroicLineage: Heroism is passed down through the family.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T132956Z" creationid="Luan" creationdate="20240314T132956Z">
+        <seg>* Br/LinhagemHeroica: O heroísmo é passado através das gerações da família.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HeroicSacrifice: A heroic character makes a sacrifice, typically their life, to achieve a particular objective, such as saving other lives.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033809Z" creationid="Luan" creationdate="20240314T033802Z">
@@ -4563,6 +4571,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HospitalityForHeroes: Generous shopkeeper gives away product to heroes or generally good people for their deeds.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T133129Z" creationid="Luan" creationdate="20240314T133129Z">
+        <seg>* Br/HospitalidadeAosHerois: Um lojista generoso dá de graça produtos a heróis ou pessoas boas por seus bons feitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HouseOfBrokenMirrors: Where someone who went mad from loathing their appearance has smashed all their mirrors and left them.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T204937Z" creationid="Luan" creationdate="20240131T204937Z">
@@ -4579,6 +4595,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HumansAreGood
+** HumansAreFlawed: Humanity might be far from perfect, but it is in their struggle to overcome their shortcomings that mankind truly shines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T133245Z" creationid="Luan" creationdate="20240314T133245Z">
+        <seg>* Br/HumanosSaoBons
+* Br/HumanosSaoFalhos: A humanidade definitivamente não é perfeita, mas é na luta para superar os defeitos que a humanidade realmente brilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HungryJungle: Jungles are out to kill you.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T202625Z" creationid="Luan" creationdate="20240131T202625Z">
@@ -4587,10 +4613,28 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* IControlMyMinionsThrough: Acceptance, Loyalty and Kindness variants
+* IKnowYoureInThereSomewhereFight: A character has been turned to the dark side and someone close to them must now fight them and persuade them that they still have good within them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T133456Z" creationid="Luan" creationdate="20240314T133425Z">
+        <seg>* Br/EuControloMeusLacaiosCom: variantes que usam aceitação, lealdade e bondade.
+* Br/LutaDeEuSeiQueVoceEstaAiEmAlgumLugar: Um personagem passou para o lado sombrio e alguém próximo agora precisa lutar contra ele e persuadi-lo a aceitar que ainda existe bondade em si.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* IDontLikeTheSoundOfThatPlace: A place with a sinister name.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T220623Z" creationid="Luan" creationdate="20240124T220623Z">
         <seg>* Br/EuNaoGostoDoSomDesteLugar: Um lugar com um nome sinistro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* IWantMyBelovedToBeHappy: A character decides to stop pursuing another romantically so they can be with the one they love.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T133615Z" creationid="Luan" creationdate="20240314T133615Z">
+        <seg>* Br/EuQueroQueMeuAmorSejaFeliz: Um personagem decide parar de perseguir alguém romanticamente para que essa pessoa possa ficar com aquele que realmente ama.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4963,6 +5007,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T005306Z" creationid="Luan" creationdate="20231218T005306Z">
         <seg>* Br/NaoEParaGanharOOscar: Criadores costumam usar isso como desculpa quando essa mentalidade surge na obra deles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* JadeColoredGlasses
+* JeanneDArchetype: A young ActionGirl in military combat who is viewed as an inspiring symbol of the cause.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T133734Z" creationid="Luan" creationdate="20240314T133734Z">
+        <seg>* Br/OculosCorDeJade
+* Br/JoanaDArquetipo: Uma Br/GarotaDeAcao jovem nas forças armadas que é considerada como um símbolo inspirador da causa.</seg>
       </tuv>
     </tu>
     <tu>

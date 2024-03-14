@@ -3963,6 +3963,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FunPersonified: A character taking a role as a mood-maker who shields others from feelings of despair or doom and generally prevents the plot from getting overly grim.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T035523Z" creationid="Luan" creationdate="20240314T035523Z">
+        <seg>* Br/DiversaoPersonificada: Um personagem que aceita um papel como regulador de humor que protege os outros de sentimentos de angústia e desespero e, no geral, impede que a trama fique muito austera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GadgeteersHouse: An inventor lives here, so nearly everything is automated.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T151435Z" creationid="Luan" creationdate="20240201T151435Z">
@@ -6625,6 +6633,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SaintlyChurch: A religious organization that actually wants to do good and righteous deeds for the world.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T035237Z" creationid="Luan" creationdate="20240314T035237Z">
+        <seg>* Br/IgrejaSantificada: Uma organização religiosa que de fato quer fazer coisas boas e corretas pelo mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SamePlotSequel: When a sequel is basically a retelling of the original
 * SalvagedGameplayMechanic: When a video game sequel fixes a disliked mechanic in the previous entry.</seg>
       </tuv>
@@ -8170,6 +8186,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheGoodCaptain: A hero with the title "Captain".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T035547Z" creationid="Luan" creationdate="20240314T035547Z">
+        <seg>* Br/OBomCapitao: Um herói com o título de "Capitão".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheGoodGuysAlwaysWin: The near-universal rule that the bad guys must always lose.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T145117Z" creationid="Luan" creationdate="20231208T145117Z">
@@ -8336,6 +8360,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T220917Z" creationid="Luan" creationdate="20240124T220917Z">
         <seg>* Br/TerraPrometida: O lugar que tem a promessa de ser ''melhor'' do que este em que estamos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheSacredDarkness: Dark is not only [[DarkIsNotEvil not evil]]; it's benevolent and holy in and of itself.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T035216Z" creationid="Luan" creationdate="20240314T035216Z">
+        <seg>* Br/SagradaEscuridao: As trevas não apenas [[Br/AsTrevasNaoSaoMas não são más]]; elas são benevolentes e sacras por si só.</seg>
       </tuv>
     </tu>
     <tu>

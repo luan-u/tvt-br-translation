@@ -5421,6 +5421,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LovableLizard: Lizards are seen as cute and heroic among reptiles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T140132Z" creationid="Luan" creationdate="20240314T140132Z">
+        <seg>* Br/LagartoAdoravel: Lagartos são vistos como bonitos e heroicos entre os répteis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LovecraftCountry: A creepy, horror version of rural NewEngland, where corrupt hicks conspire with dark forces.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T154632Z" creationid="Luan" creationdate="20240125T154632Z">
@@ -5625,6 +5633,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MemorialStatue: A statue to honor a person, who may have [[HeroicSacrifice heroically died saving somebody else]], [[TheCape dedicated their lives to the greater good]], or [[OurFounder created a successful organization]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T140341Z" creationid="Luan" creationdate="20240314T140341Z">
+        <seg>* Br/EstatuaMemorial: Uma estátua para honrar uma pessoa que pode [[Br/SacrificioHeroico ter morrido heroicamente ao salvar alguém]], [[Br/ACapa dedicado suas vidas ao bem maior]] ou [[Br/NossoFundador criado uma organização de sucesso]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MenacingMuseum: A museum portrayed as ominous, dangerous or just plain evil.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T150935Z" creationid="Luan" creationdate="20240118T150935Z">
@@ -5801,6 +5817,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MoreHeroThanThou: Characters argue who should perform the noble sacrifice based on their heroism.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T140538Z" creationid="Luan" creationdate="20240314T140538Z">
+        <seg>* Br/SouMaisHeroiQueVoce: Personagens discutem sobre quem deve fazer o sacrifício nobre com base em seu heroísmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MountaintopHealthcare: Specialized medical facilities built on a picturesque, inaccessible mountain.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T184355Z" creationid="Luan" creationdate="20240221T184355Z">
@@ -5813,6 +5837,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T230355Z" creationid="Luan" creationdate="20231206T230355Z">
         <seg>* Filmes ou shows que, pela sua [[Br/StatusQuoEDeus natureza previsível]], indicam como a obra termina, também não contam: o público já sabe que os bonzinhos vencem e que o BrPersonagens/{{Batman|OPersonagem}} vai viver para lutar outro dia, na mesma bat-hora e no mesmo bat-canal, mas o final não é canonicamente estabelecido; teoricamente, o BrCriador/AdamWest poderia morrer no final de um episódio, mas realisticamente [[Br/ComoSeVoceRealmenteFosseFazerIsso a gente sabe que isso não vai acontecer]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MultinationalTeam: A team of heroes has members from different countries.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T140612Z" creationid="Luan" creationdate="20240314T140612Z">
+        <seg>* Br/EquipeMultinacional: Um time de heróis possui membros de vários países.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5877,6 +5909,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T184549Z" creationid="Luan" creationdate="20240221T184549Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* NatureLover: A character is driven by an affinity for the natural world.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T140634Z" creationid="Luan" creationdate="20240314T140634Z">
+        <seg>* Br/AmanteDaNatureza: Um personagem é guiado por afinidade ao mundo natural.</seg>
       </tuv>
     </tu>
     <tu>

@@ -2921,3 +2921,5 @@ TheMedic	Br/OMedico
 GoodAllAlong	Br/BomOTempoTodo
 ColorMotif	Br/TemaCromatico
 GoodColorsEvilColors	Br/CoresBoasCoresMas
+GoodEyesEvilEyes	Br/OlhosBonsOlhosMaus
+GoodFeelsGood	Br/SerDoBemFazBem

@@ -4667,10 +4667,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeroicSafeMode: Instead of [[HeroicBSOD breaking down]], the hero goes into fight-or-flight {{Determinator}} mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T183018Z" creationid="Luan" creationdate="20240314T183018Z">
+        <seg>* Br/ModoDeSegurancaHeroico: Ao invés do Br/ColapsoHeroico, o herói se torna Br/ODeterminado e entra em modo de luta ou fuga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HiddenElfVillage: A secret, safe place far from the eyes of those other meddling nations.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T204818Z" creationid="Luan" creationdate="20240131T204818Z">
         <seg>* Br/VilaDeElfosOculta: Um lugar seguro e secreto longe da interferência de outras nações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HiddenHeartOfGold: A character doesn't want others to know about their good-hearted acts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T183041Z" creationid="Luan" creationdate="20240314T183041Z">
+        <seg>* Br/CoracaoDeOuroOculto: Um personagem não quer que os outros saibam de suas boas ações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4715,10 +4731,28 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HolyHandGrenade
+* HopeBringer: A character who acts as the inspiration for their civilization.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T183619Z" creationid="Luan" creationdate="20240314T183619Z">
+        <seg>* Br/GranadaSantaDeMao
+* Br/EmissarioDaEsperanca: Um personagem que age como inspiração para a sua civilização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HomeOfMonsters: Any place monsters call home, whether it be a lair, a whole dimension, a MonsterTown or IslandOfMystery.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T204858Z" creationid="Luan" creationdate="20240131T204858Z">
         <seg>* Br/LarDeMonstros: Qualquer lugar que os monstros considerem como casa, seja esse lugar um covil, uma Br/CidadeMonstro, uma Br/IlhaDeMisterio ou uma dimensão inteira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HorsebackHeroism: Good guys are performing noble actions while riding horses.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T183644Z" creationid="Luan" creationdate="20240314T183644Z">
+        <seg>* Br/HeroismoMontadoACavalo: Caras bons executam feitos nobres enquanto montam em cavalos.</seg>
       </tuv>
     </tu>
     <tu>

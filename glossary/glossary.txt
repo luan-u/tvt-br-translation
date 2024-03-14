@@ -2904,3 +2904,9 @@ IdealHero	Br/HeroiIdeal
 IdealistVsPragmatist	Br/IdealistaContraPragmatico
 TheIdealist	Br/OIdealista
 IncorruptiblePurePureness	Br/PurezaPuraIncorruptivel
+LovedByAll	Br/AmadoPorTodos
+MadeOfGood	Br/FeitoDeBondade
+MainCharacterFinalBoss	Br/PersonagemPrincipalChefeFinal
+TheParagon	Br/OModelo
+PoliticallyIncorrectHero	Br/HeroiPoliticamenteIncorreto
+RousseauWasRight	Br/RousseauEstavaCerto

@@ -2957,3 +2957,9 @@ OurFounder	Br/NossoFundador
 MemorialStatue	Br/EstatuaMemorial
 MoreHeroThanThou	Br/SouMaisHeroiQueVoce
 MultinationalTeam	Br/EquipeMultinacional
+NiceToTheWaiter	Br/GentilComOGarcom
+NeverHurtAnInnocent	Br/NuncaMachuqueUmInocente
+NaughtyIsGood	Br/TravessoEBom
+TheRedeemer	Br/ORedentor
+RefusalOfTheCall	Br/RecusouOChamado
+CallToAdventure	Br/ChamadoParaAAventura

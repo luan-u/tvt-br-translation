@@ -2944,3 +2944,9 @@ IKnowYoureInThereSomewhereFight	Br/LutaDeEuSeiQueVoceEstaAiEmAlgumLugar
 IWantMyBelovedToBeHappy	Br/EuQueroQueMeuAmorSejaFeliz
 JeanneDArchetype	Br/JoanaDArquetipo
 ActionGirl	Br/GarotaDeAcao
+JumpedAtTheCall	Br/EstavaSoPeloChamado
+JumpedAtTheCall	Br/SeJogouDeCabecaNoChamado
+KeepTheReward	Br/FiqueComARecompensa
+KneelBeforeFrodo	Br/AjoelheSeDianteDeFrodo
+TheDrifter	Br/OErrante
+ChronicHeroSyndrome	Br/SindromeDeHeroismoCronico

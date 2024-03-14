@@ -2975,3 +2975,17 @@ AProtagonistShallLeadThem	Br/UmProtagonistaHaDeOsLiderar
 PrecursorHeroes	Br/HeroisPrecursores
 RedEyesTakeWarning	Br/CuidadoOlhosVermelhos
 ReformedButNotTamed	Br/ReformadoMasNaoDomado
+RevoltingRescue	Br/ResgateRevoltante
+RighteousRabbit	Br/CoelhoHonrado
+RoseHairedSweetie	Br/QueridaDeCabelosRosados
+SatanIsGood	Br/SataEBom
+SavingChristmas	Br/SalvarONatal
+SavingTheOrphanage	Br/SalvarOOrfanato
+SavingTheWorld	Br/SalvarOMundo
+ScaryTeeth	Br/DentesAssustadores
+ScienceIsGood	Br/CienciaEBoa
+ScrewTheRulesImDoingWhatsRight	Br/DanemSeAsRegrasEstouFazendoOQueECerto
+SealedGoodInACan	Br/BemSeladoEmUmaGarrafa
+SevenHeavenlyVirtues	Br/SeteVirtudesCelestiais
+SexIsGood	Br/SexoEBom
+SexyVillainsChasteHeroes	Br/ViloesSensuaisHeroisCastos

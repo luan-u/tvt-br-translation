@@ -4929,6 +4929,30 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* KnightInShiningArmor: A noble knight with a strong sense of justice who slays the dragon and rescues the princess.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034155Z" creationid="Luan" creationdate="20240314T034155Z">
+        <seg>* Br/CavaleiroEmArmaduraReluzente: Um nobre cavaleiro com um forte senso de justiça que derrota o dragão e salva a princesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* KnightInSourArmor: Pessimistic heroes who keep on the good fight, despite their JadeColoredGlasses.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034216Z" creationid="Luan" creationdate="20240314T034216Z">
+        <seg>* Br/CavaleiroEmArmaduraAzeda: Heróis pessimistas que persistem na boa luta apesar de seus Br/OculosCorDeJade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* KnightTemplar: Character has noble goals, but takes their actions way too far.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034240Z" creationid="Luan" creationdate="20240314T034240Z">
+        <seg>* Br/CavaleiroTemplario: O personagem possui objetivos nobres, mas leva suas ações longe demais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Knowledge is conflated with intelligence, and a character who knows a lot of trivia is turned into a genius.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T220238Z" creationid="Luan" creationdate="20231208T220238Z">
@@ -5081,6 +5105,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LightIsGood: A character with a benevolent appearance truly is benevolent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034333Z" creationid="Luan" creationdate="20240314T034333Z">
+        <seg>* Br/ALuzEBoa: Um personagem com aparência benevolente é de fato benevolente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LighthousePoint: An atmospheric lighthouse.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T183812Z" creationid="Luan" creationdate="20240221T183812Z">
@@ -5153,6 +5185,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LovedByAll: The character who is loved by everyone else is usually the most good-hearted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034409Z" creationid="Luan" creationdate="20240314T034409Z">
+        <seg>* Br/AmadoPorTodos: O personagem que é amado por todos os outros costuma ter a melhor índole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LoversLedge: An outside window ledge where TheCasanova must hide to avoid being caught during InterruptedIntimacy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T223822Z" creationid="Luan" creationdate="20240131T223822Z">
@@ -5201,6 +5241,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T154718Z" creationid="Luan" creationdate="20240125T154718Z">
         <seg>* Br/TorreDoMago: Br/ATorre onde um bruxo faz seus experimentos (ou esquemas) acima e longe de todos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MainCharacterFinalBoss: The [[TheHero lead hero]] of a given work also serves as its final opponent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034451Z" creationid="Luan" creationdate="20240314T034451Z">
+        <seg>* Br/PersonagemPrincipalChefeFinal: Br/OHeroi principal de uma dada obra também serve como oponente final.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5341,6 +5389,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MentorArchetype: Someone whose role is to ensure TheHero's CharacterDevelopment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034513Z" creationid="Luan" creationdate="20240314T034513Z">
+        <seg>* Br/MentorArquetipico: Alguém cujo papel é assegurar o Br/DesenvolvimentoDePersonagem necessário para Br/OHeroi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MerchantCity: A trade city, ruled or mostly populated by merchants, bankers, and traders.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T143012Z" creationid="Luan" creationdate="20240118T142957Z">
@@ -5385,6 +5441,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T184140Z" creationid="Luan" creationdate="20240221T184140Z">
         <seg>* ??? MiddleOfNowhereStreet: Um local muito pequeno que é um Br/ImaDeEsquisitice e ninguém de fora percebe ou se importa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MinnesotaNice: People from Midwest America are nice and polite.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034521Z" creationid="Luan" creationdate="20240314T034521Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -5597,6 +5661,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* NeutralGood: A character alignment involving selflessness, without substantial favor for or outside rules.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034607Z" creationid="Luan" creationdate="20240314T034607Z">
+        <seg>* Br/NeutroEBom: Um alinhamento de personagem que envolve altruísmo sem muita consideração por regras externas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* NeverLand: A setting whose entire population is in [[NeverGrewUp eternal childhood]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T224740Z" creationid="Luan" creationdate="20240131T224740Z">
@@ -5625,6 +5697,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T154348Z" creationid="Luan" creationdate="20240117T154348Z">
         <seg>* Br/DomingoQueVemDC: À frente do presente só um pouquinho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* NiceGuy: A character who tends to be selfless and friendly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034618Z" creationid="Luan" creationdate="20240314T034618Z">
+        <seg>* Br/CaraLegal: Um personagem que tende a ser altruísta e amigável.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6019,6 +6099,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* PetTheDog: A villain or jerk does something nice to prove that they're not a completely awful person.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034742Z" creationid="Luan" creationdate="20240314T034742Z">
+        <seg>* Br/AcariciarOCachorro: Um vilão ou babaca faz algo legal para provar que não são uma pessoa completamente terrível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* PhysicalHeaven: Heaven on Earth... literally.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T132448Z" creationid="Luan" creationdate="20240201T132448Z">
@@ -6103,6 +6191,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* PoliticallyIncorrectHero: A good guy who holds racist, sexist and/or controversial views.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034813Z" creationid="Luan" creationdate="20240314T034813Z">
+        <seg>* Br/HeroiPoliticamenteIncorreto: Um mocinho que possui visões racistas, sexistas ou controversas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* PollutedWasteland: A land destroyed by pollution.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T202115Z" creationid="Luan" creationdate="20240221T202115Z">
@@ -6143,6 +6239,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* PragmaticHero: Characters who resort to morally ambiguous methods to get positive results for the greater good.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034902Z" creationid="Luan" creationdate="20240314T034902Z">
+        <seg>* Br/HeroiPragmatico: Personagens que recorrem a métodos moralmente ambíguos para obter resultados positivos em nome do bem maior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* PrequelInTheLostAge: Sequel set in the time the original says has long passed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145355Z" creationid="Luan" creationdate="20240105T145355Z">
@@ -6163,6 +6267,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T154621Z" creationid="Luan" creationdate="20240117T154621Z">
         <seg>* Br/PassadoDoDiaPresente: A cidade não permitiu que a produção interditasse ruas, por isso nosso filme que se passa cinco anos atrás está cheio de anúncios e carros recentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ProHumanTranshuman: The enhanced hero still cares for the well-being of others, augmented or not.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034940Z" creationid="Luan" creationdate="20240314T034940Z">
+        <seg>* Br/TranshumanoProHumanos: O herói aprimorado ainda se importa com o bem estar dos outros, tenham melhorias ou não.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6219,6 +6331,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T191336Z" creationid="Luan" creationdate="20240131T191336Z">
         <seg>* Br/DistritoDaLuzVermelha: A parte da cidade onde todos os bares, bordéis e outros locais de entretenimento noturno podem ser encontrados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RedemptionEarnsLife: A villain clearly avoids certain death by joining the cause of good.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T035005Z" creationid="Luan" creationdate="20240314T035005Z">
+        <seg>* Br/RedencaoConquistaAVida: Um vilão claramente evita a morte certa ao se juntar à causa dos mocinhos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RedemptionQuest: A character goes on a journey, looking for redemption after committing a disastrous deed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T035025Z" creationid="Luan" creationdate="20240314T035025Z">
+        <seg>* Br/JornadaDeRedencao: Um personagem parte em uma jornada em busca de redenção após cometer um ato terrível.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6311,6 +6439,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* RightMakesMight: The hero believes that justice will prevail, and so it does.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T035054Z" creationid="Luan" creationdate="20240314T035054Z">
+        <seg>* Br/EstarCertoSignificaPoder: O herói acredita que a justiça prevalecerá, e é o que ocorre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* RingWorldPlanet
 * SchizoTech
 * ScienceDestroysMagic
@@ -6357,6 +6493,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T142628Z" creationid="Luan" creationdate="20240104T142628Z">
         <seg>* Br/RonOComensalDaMorte: Fãs retratam um personagem como mais cruel e pior do que o cânone simplesmente por não gostarem dele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RousseauWasRight: The belief that all people are inherently good.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T035117Z" creationid="Luan" creationdate="20240314T035117Z">
+        <seg>* Br/RousseauEstavaCerto: A crença de que todas as pessoas são inerentemente boas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8090,6 +8234,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheLancer: The {{foil}} for a [[TheHero hero]] of the closely allied variety.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034309Z" creationid="Luan" creationdate="20240314T034309Z">
+        <seg>* Br/OLanceiro: O Br/{{Fundo}} para [[Br/OHeroi um herói]] que é um aliado próximo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheLavaCavesOfNewYork: Lava or magma in locales that normally don't support volcanic activity.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T154123Z" creationid="Luan" creationdate="20240125T154123Z">
@@ -8160,6 +8312,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T142621Z" creationid="Luan" creationdate="20240118T142621Z">
         <seg>* Br/OsPampas: As planícies gramadas da América do Sul e lar dos gaúchos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheParagon: A hero encourage others to help themselves and/or to strive their goodness within their abilities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034712Z" creationid="Luan" creationdate="20240314T034712Z">
+        <seg>* Br/OModelo: Um herói encoraja outros a ajudarem a si mesmos e/ou a buscar grandeza em suas habilidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ThePowerOfRock: Heroes defeat an evil force using music, especially rock &amp; roll.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034833Z" creationid="Luan" creationdate="20240314T034833Z">
+        <seg>* Br/OPoderDoRock: Os heróis derrotam as forças do mal usando música, especialmente rock &amp; roll.</seg>
       </tuv>
     </tu>
     <tu>

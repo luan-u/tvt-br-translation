@@ -6597,6 +6597,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* OnlyGoodPeopleMayPass
+* OnlyThePureOfHeart: In some areas or locations, people with pure hearts will have the chance to access things malevolent people cannot.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T192801Z" creationid="Luan" creationdate="20240314T192801Z">
+        <seg>* Br/SomenteOsBonsPodemPassar
+* Br/SomenteOsPurosDeCoracao: Em algumas áreas, pessoas de corações puros terão a chance de acessar coisas que pessoas maliciosas não podem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* OnlyShopInTown: Small towns (or towns of any size in most VideoGames) only have a single store run by the town's shopkeeper.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T185618Z" creationid="Luan" creationdate="20240221T185618Z">
@@ -6685,6 +6695,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T201915Z" creationid="Luan" creationdate="20240221T201915Z">
         <seg>* Br/CampoDeConcentracao: Populado por soldados que foram capturados no campo de batalha pelos seus inimigos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* PajamaCladHero: A hero who does good deeds while in sleepwear.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T192834Z" creationid="Luan" creationdate="20240314T192834Z">
+        <seg>* Br/HeroiTrajadoEmPijama: Um herói que faz boas ações enquanto usa roupas de dormir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6957,6 +6975,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T192232Z" creationid="Luan" creationdate="20240314T192232Z">
         <seg>* Br/DamaDeRespeito: Uma mulher idealizada que é altruísta, leal, casta, incorruptível, gentil e forte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* QuintessentialBritishGentleman: An stereotypical proper British character who is involving the virtues of hospitality, rationality and temperance, the avoidance of irrational extremes, devotion to 'things held dear', rebellion against corruption, and courageous composure in the face of adversity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T193034Z" creationid="Luan" creationdate="20240314T193034Z">
+        <seg>* Br/CavalheiroBritanicoQuintessencial: Um personagem britânico estereotípico que porta as virtudes da hospitalidade, racionalidade e temperança, o desvio dos extremos irracionais, devoção à coisas tidas como preciosas, aversão à corrupção e compostura corajosa em face da adversidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7397,6 +7423,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SaveBothWorlds: The heroes try to save another world from destruction, which in turn results in saving their own world.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T193211Z" creationid="Luan" creationdate="20240314T193211Z">
+        <seg>* Br/SalvarAmbosOsMundos: Os heróis tentam salvar outro mundo da destruição e isso resulta no salvamento de seu próprio mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SavedForTheSequel: Plot element left to be developed in the sequel.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145435Z" creationid="Luan" creationdate="20240105T145435Z">
@@ -7465,6 +7499,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T204518Z" creationid="Luan" creationdate="20240221T204518Z">
         <seg>* Br/EscolaSignificaMorte: Uma escola com um Br/ImaDeEsquisitice que resulta em uma taxa de mortalidade estudantil elevada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ScienceHero: A hero who uses science or high technology to save the day.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T193243Z" creationid="Luan" creationdate="20240314T193243Z">
+        <seg>* Br/HeroiDaCiencia: Um herói que usa ciência ou alta tecnologia para salvar o dia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7559,6 +7601,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T204725Z" creationid="Luan" creationdate="20240221T204725Z">
         <seg>* Br/PassagemSecretaSubterranea
 * Br/InfernoAutoInfligido: Um personagem sofre no pós-vida apenas por acreditar que eles merecem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SelflessWish: A character forfeits their wish on behalf of someone else.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T193308Z" creationid="Luan" creationdate="20240314T193308Z">
+        <seg>* Br/DesejoAltruista: Um personagem abre mão de seu desejo em nome de outra pessoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7695,6 +7745,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T204912Z" creationid="Luan" creationdate="20240221T204912Z">
         <seg>* Br/AmbientadoPorTrasDasCenas: Quando a história se passa nos bastidores da história.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SetRightWhatOnceWentWrong: Characters go back in time to change an error, or undo mistakes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T193359Z" creationid="Luan" creationdate="20240314T193359Z">
+        <seg>* Br/CorrigirOQueDeuErrado: Personagens voltam no tempo para corrigir ou desfazer um erro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8300,6 +8358,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T212547Z" creationid="Luan" creationdate="20240221T212547Z">
         <seg>* Br/SubHistoria: Uma história que se passa em um submarino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SubbingForSanta: Characters takes the role of a popular mythical character when they can't do their job of the year.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T193516Z" creationid="Luan" creationdate="20240314T193511Z">
+        <seg>* Br/SubstituirONoel: Personagens assumem o papel de um personagem místico popular quando ele não pode fazer seu trabalho anual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9895,6 +9961,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* WeHelpTheHelpless: The hero helps everyone in need even if there's no chance of getting anything in return.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T193609Z" creationid="Luan" creationdate="20240314T193609Z">
+        <seg>* Br/NosAmparamosOsDesamparados: O herói ajuda todos que estão em necessidade mesmo que não haja chance de conseguir algo em retorno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* WeWantOurIdiotBack: An idiotic character becomes smarter, but goes back to their old intelligence level because other character want them to remain that way.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T151731Z" creationid="Luan" creationdate="20231208T151731Z">
@@ -10219,6 +10293,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T140956Z" creationid="Luan" creationdate="20240118T140956Z">
         <seg>* Br/FormasDeMundo
 * Br/TurneMundial: Quando a história se passa em locais diferentes em torno da Terra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* WouldntHurtAChild: Character draws the line at hurting children.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T193723Z" creationid="Luan" creationdate="20240314T193723Z">
+        <seg>* Br/NaoMachucariaUmaCrianca: O limite do personagem acaba quando se trata de ferir crianças.</seg>
       </tuv>
     </tu>
     <tu>

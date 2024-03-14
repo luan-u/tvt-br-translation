@@ -3867,6 +3867,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ForGreatJustice: The heroes' motives are unspecified values of "justice", "goodness", etc.
+** JusticeWillPrevail: A character confirms their commitment to justice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T125819Z" creationid="Luan" creationdate="20240314T125819Z">
+        <seg>* Br/PelaGrandeJustica: Os motivos dos heróis são valores de "justiça" e "bondade" que não são especificados.
+** Br/AJusticaPrevalecera: Um personagem confirma o seu compromisso com a justiça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ForHappiness: Happiness is a good thing that everyone should have as much of as possible.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032014Z" creationid="Luan" creationdate="20240314T032014Z">
@@ -3979,6 +3989,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GameFace: An CreepyGood character unleashes their inner monster through the look on their face.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T130024Z" creationid="Luan" creationdate="20240314T130024Z">
+        <seg>* ??? GameFace: Um personagem Br/AssustadorEBom libera seu monstro interior através da expressão facial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GardenOfEvil: A place where most or all of the plants are poisonous, carnivorous, or otherwise dangerous.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T225503Z" creationid="Luan" creationdate="20240131T225503Z">
@@ -4083,6 +4101,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GloveSnap: A doctor, usually TheMedic, puts on gloves and snaps them, before healing others.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T130125Z" creationid="Luan" creationdate="20240314T130125Z">
+        <seg>* Br/EstalarDeLuvas: Um doutor, geralmente Br/OMedico, veste luvas e dá uma esticada para produzir um estalo antes de cuidar dos outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GlowingEyesOfDoom: A character's eyes glow, showing that they are not fooling around, and that GoodIsNotSoft.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032657Z" creationid="Luan" creationdate="20240314T032657Z">
@@ -4123,6 +4149,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GoodAllAlong: A character who looked like they were evil at first later turns out to actually be one of the good guys.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T130313Z" creationid="Luan" creationdate="20240314T130313Z">
+        <seg>* Br/BomOTempoTodo: Um personagem que parece ser do mal a princípio é demonstrado depois como sendo parte dos caras bons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GoodAngelBadAngel: When faced with a moral decision, a character imagines a tiny angel and a tiny devil appearing on their shoulders to advise them on which choice would be the right one to make.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032902Z" creationid="Luan" creationdate="20240314T032902Z">
@@ -4135,6 +4169,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032941Z" creationid="Luan" creationdate="20240314T032941Z">
         <seg>* Br/OBemNaoPodeCompreenderOMal: O herói não consegue compreender porque o vilão é malvado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GoodColorsEvilColors: CharacterAlignment depends on ColorMotif.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T131551Z" creationid="Luan" creationdate="20240314T131551Z">
+        <seg>* Br/CoresBoasCoresMas: O Br/AlinhamentoDePersonagem é dependente do Br/TemaCromatico.</seg>
       </tuv>
     </tu>
     <tu>

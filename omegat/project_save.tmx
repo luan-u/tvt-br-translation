@@ -4181,6 +4181,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GoodEyesEvilEyes
+* GoodFeelsGood: Being good ''is'' good.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T131742Z" creationid="Luan" creationdate="20240314T131742Z">
+        <seg>* Br/OlhosBonsOlhosMaus
+* Br/SerDoBemFazBem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GoodGuyBar: Where the heroes hang out after hours.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T143632Z" creationid="Luan" creationdate="20240118T143632Z">

@@ -1390,6 +1390,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AFriendInNeed: A character who proves their loyalty and friendship by helping their friend.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T001314Z" creationid="Luan" creationdate="20240314T001314Z">
+        <seg>* Br/AmigoEstouAqui: Um personagem que prova sua lealdade e amizade ao ajudar seu amigo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ALongTimeAgoInAGalaxyFarFarAway: Far distant in space, time or both.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T153801Z" creationid="Luan" creationdate="20240117T153801Z">
@@ -3683,6 +3691,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FamilyMan: A man who's loyal to his own family, the one he made (with a partner/spouse and children) as well the one he's part of (with parents and siblings).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T001220Z" creationid="Luan" creationdate="20240314T001220Z">
+        <seg>* Br/HomemDeFamilia: Um homem que é leal à sua família, tanto aquela que ele criou (com os filhos e cônjuge) quanto aquela da qual ele é parte (com pais e irmãos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* FanConvention: Places where fans gather to engage in their hobbies.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T132648Z" creationid="Luan" creationdate="20240202T132648Z">
@@ -3759,6 +3775,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T150946Z" creationid="Luan" creationdate="20240201T150946Z">
         <seg>* Br/ProvinciaFicticia: Um subconjunto ficcional de um país real.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FirePurifies: Fire has the ability to burn away only the evil parts, leaving any pure or good parts unharmed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T001249Z" creationid="Luan" creationdate="20240314T001249Z">
+        <seg>* Br/FogoPurifica: O fogo tem a habilidade de queimar apenas as partes ruins, deixando intactas as partes puras ou boas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3899,6 +3923,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FromZeroToHero: A character comes from nothing, and rises up in the world thanks to their goodness and heroism.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T001406Z" creationid="Luan" creationdate="20240314T001406Z">
+        <seg>* Br/DeZeroAHeroi: Um personagem vem do nada e ascende no mundo graças à sua bondade e heroísmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GadgeteersHouse: An inventor lives here, so nearly everything is automated.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T151435Z" creationid="Luan" creationdate="20240201T151435Z">
@@ -3955,6 +3987,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GhibliHills: The great outdoors is right around the corner.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T001431Z" creationid="Luan" creationdate="20240314T001431Z">
+        <seg>* Br/ColinasGhibli: As belas paisagens ficam logo virando a esquina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GhostTown: An abandoned town.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T202650Z" creationid="Luan" creationdate="20240131T202650Z">
@@ -3983,6 +4023,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T204539Z" creationid="Luan" creationdate="20240131T204539Z">
         <seg>* Br/CasaDeGengibre: Uma casa ou outra construção feita de comida, geralmente adocicada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GoAndSinNoMore: The hero spares the villain and tells them to atone for their crimes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T001457Z" creationid="Luan" creationdate="20240314T001457Z">
+        <seg>* Br/VaENaoPequesMais: O herói poupa o vilão e diz que ele deve se redimir por seus crimes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4403,6 +4451,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* InnocentBlueEyes: Blue eyes represent innocence and heroism.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T001535Z" creationid="Luan" creationdate="20240314T001535Z">
+        <seg>* Br/InocentesOlhosAzuis: Olhos azuis representam inocência e heroísmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Insanity or eccentricity is mistaken for brilliance, and a [[CloudCuckoolander dippy or crazy character]] who would previously save the day through an AssPull once in a while for RuleOfFunny now does so OncePerEpisode.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T185106Z" creationid="Luan" creationdate="20231208T185106Z">
@@ -4431,6 +4487,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T154901Z" creationid="Luan" creationdate="20231208T154901Z">
         <seg>* Br/CorinhoDeFerro: Um Br/{{Corinho}} é exposto a extremo abuso físico, mas [[Br/PraticamenteInvulneravel ele nunca morre nem se machuca]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* IronWoobie: TheWoobie overcomes their endeavors for a good effort.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T001604Z" creationid="Luan" creationdate="20240314T001604Z">
+        <seg>* Br/CoitadinhoCalejado: Br/OCoitadinho persiste em seus esforços.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4591,10 +4655,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* JustLikeRobinHood: Criminals who steal from the filthy rich and give to the poor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T001646Z" creationid="Luan" creationdate="20240314T001646Z">
+        <seg>* Br/QueNemRobinHood: Criminosos que roubam dos ricos para dar aos pobres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* JustOneSecondOutOfSync: A time out of place.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T153653Z" creationid="Luan" creationdate="20240117T153653Z">
         <seg>* Br/ForaDeSincroniaEmUmSegundo: Um tempo além do lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* KarmaHoudini: A character who escapes the consequences of their wrongdoings might step back and reevaluate their lives and redeem themselves.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T001711Z" creationid="Luan" creationdate="20240314T001711Z">
+        <seg>* Br/KarmaHoudini: Um personagem que escapa das consequências de seus maus atos pode dar um passo para trás e repensar suas escolhas de vida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4687,6 +4767,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LawfulGood: A character alignment involving good and order.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T001728Z" creationid="Luan" creationdate="20240314T001728Z">
+        <seg>* Br/LealEBom: Um alinhamento de personagem que envolve o bem e a ordem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LayeredMetropolis: A city with multiple, vertically-separated levels, usually with the rich on top.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T154215Z" creationid="Luan" creationdate="20240125T154215Z">
@@ -4735,6 +4823,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LetsYouAndHimFight: Two heroes, on the same side, and working for the same goals, attack each other.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T001744Z" creationid="Luan" creationdate="20240314T001744Z">
+        <seg>* Br/VamosLutarVoceEEle: Dois heróis do mesmo lado e que trabalham pelos mesmos motivos lutam entre si.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LevelAte: A VideoGame location made entirely of food.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T201758Z" creationid="Luan" creationdate="20240131T201758Z">
@@ -4747,6 +4843,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T201720Z" creationid="Luan" creationdate="20240131T201720Z">
         <seg>* Br/FaseNasNuvens: Um mundo de videogame que se passa nos céus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* LightEqualsHope: Light is used symbolically to literally signify hope.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T001803Z" creationid="Luan" creationdate="20240314T001803Z">
+        <seg>* Br/LuzSignificaEsperanca: A luz é usada simbolicamente para representar esperança.</seg>
       </tuv>
     </tu>
     <tu>

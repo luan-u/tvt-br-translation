@@ -7829,8 +7829,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>* StandardRoyalCourt: A staple setting of historical and SpeculativeFiction, the natural home of [[ReasonableAuthorityFigure good]] [[RoyalBlood kings]], {{the Good Chancellor}}s, and every breed of [[BlueBlood aristocrat]].</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T171933Z" creationid="Luan" creationdate="20240314T171933Z">
-        <seg>* Br/CorteRealPadrao: Um cenário comum da Br/FiccaoEspeculativa e histórica, lar natural dos [[Br/FiguraDeAutoridadeRazoavel bons]] [[Br/SangueReal reis]], do Br/ChancelerBondoso e todo tipo de [[Br/SangueAzul aristocrata]].</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T171940Z" creationid="Luan" creationdate="20240314T171933Z">
+        <seg>* Br/CorteRealPadrao: Um cenário comum da Br/FiccaoEspeculativa e histórica, lar natural dos [[Br/FiguraDeAutoridadeRazoavel bons]] [[Br/SangueReal reis]], do Br/ChancelerBondoso e de todo tipo de [[Br/SangueAzul aristocrata]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -8028,6 +8028,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SuitUpOfDestiny: Heroes put on important suits/costumes for the CallToAdventure.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T172058Z" creationid="Luan" creationdate="20240314T172058Z">
+        <seg>* Br/TrajeDoDestino: Heróis vestem roupas importantes para atenderem o Br/ChamadoParaAAventura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SuperMultiPurposeRoom: A room that can be transformed to suit another purpose in an instant.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T140610Z" creationid="Luan" creationdate="20240201T140610Z">
@@ -8100,6 +8108,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SweetBaker: A person who regularly bakes has a sweet personality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T172357Z" creationid="Luan" creationdate="20240314T172357Z">
+        <seg>* Br/DocePadeiro: Uma pessoa que regularmente assa coisas possui uma personalidade amável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SweetHomeAlabama: The DeepSouth in a (usually) more positive light.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T023458Z" creationid="Luan" creationdate="20240314T023458Z">
@@ -8116,6 +8132,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SympathyForTheDevil: A hero sympathizes with a villain.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T172419Z" creationid="Luan" creationdate="20240314T172419Z">
+        <seg>* Br/SimpatiaPeloDiabo: Um herói simpatiza com o vilão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TVNeverLies: AnAesop about not trusting the media.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T005610Z" creationid="Luan" creationdate="20231218T005610Z">
@@ -8128,6 +8152,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T222245Z" creationid="Luan" creationdate="20240124T222245Z">
         <seg>* Br/PrisaoFeitaSobMedida: Uma prisão construída especialmente para aprisionar um indivíduo que uma prisão normal não dá conta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TakeMyHand: A character saves, or tries to save, someone dangling from a ledge by having them grab their hand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T172625Z" creationid="Luan" creationdate="20240314T172625Z">
+        <seg>* Br/SeguraMinhaMao: Um personagem salva (ou tenta) alguém que está dependurado em um penhasco ao estender a mão para que ele a segure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10481,6 +10513,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033644Z" creationid="Luan" creationdate="20240314T033639Z">
         <seg>** Br/EscolaDeSuperHerois: Uma instituição que ensina super-heróis jovens a usar seus poderes adequadamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** SympathyForTheHero: An evil-doer/morally grey character/InnocentBystander feels and expresses a moment of sympathy/pity for TheHero([[TheHeroine ine]]).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T172517Z" creationid="Luan" creationdate="20240314T172517Z">
+        <seg>** Br/SimpatiaPeloHeroi: Um personagem que é maléfico/moralmente cinza ou Br/ObservadorInocente sente e expressa um momento de simpatia e pela pelo [[Br/OHeroi herói]].</seg>
       </tuv>
     </tu>
     <tu>

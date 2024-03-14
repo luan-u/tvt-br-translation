@@ -3029,3 +3029,6 @@ GoodnessExam	Br/TesteDeBondade
 GoodWingsEvilWings	Br/AsasBoasAsasMas
 GreaterNeedThanMine	Br/NecessidadeMaiorQueAMinha
 HeadbuttingHeroes	Br/HeroisCabecaDura
+HeartOfHappiness	Br/CoracaoDeFelicidade
+HeartSymbol	Br/SimboloDeCoracao
+HeartwarmingOrphan	Br/OrfaoDeAquecerOCoracao

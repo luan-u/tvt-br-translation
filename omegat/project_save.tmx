@@ -4191,6 +4191,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GoodGunsBadGuns
+* TheGoodGuysAlwaysWin: The heroes never lose and always succeed in defeating the bad guys.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T132323Z" creationid="Luan" creationdate="20240314T131840Z">
+        <seg>* Br/ArmasDeFogoBoasArmasDeFogoMas
+* Br/OsBonzinhosSempreVencem: Os heróis nunca perdem e sempre têm êxito em derrotar os malvados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GoodGuyBar: Where the heroes hang out after hours.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T143632Z" creationid="Luan" creationdate="20240118T143632Z">
@@ -4249,10 +4259,58 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GoodLawyersGoodClients
+* GoodNeedsEvil
+* GoodOldWays
+* GoodParents: Parents who care about their children and do whatever they can to make life better for their offspring.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T132018Z" creationid="Luan" creationdate="20240314T132018Z">
+        <seg>* Br/BonsAdvogadosBonsClientes
+* Br/OBemPrecisaDoMal
+* Br/BomEVelhoJeito
+* Br/PaisBons: Pais que se importam com seus filhos e fazem o possível para tornar melhor a vida para suas crias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GoodPaysBetter
+* GoodProstheticEvilProsthetic
+* GoodRunningEvil
+* GoodSamaritan: Right-minded and righteous characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T132204Z" creationid="Luan" creationdate="20240314T132204Z">
+        <seg>* Br/OBemPagaMelhor
+* Br/ProteseBoaProteseMa
+* Br/OBemAdministrandoOMal
+* Br/BomSamaritano: Personagens corretos e de boa intenção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GoodScarsEvilScars
+* GoodShepherd: A priest who only wants what is best for his people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T132258Z" creationid="Luan" creationdate="20240314T132258Z">
+        <seg>* Br/CicatrizesBoasCicatrizesMas
+* Br/BomPastor: Um padre/sacerdote/etc que só quer o que é melhor para o seu povo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GoodSmellsGood: Good people tend to smell great.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033414Z" creationid="Luan" creationdate="20240314T033414Z">
         <seg>* Br/SerDoBemCheiraBem: Pessoas boas tendem a ter um aroma bom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GoodWeaponEvilWeapon
+* GoodWearsWhite: Heroic characters dress in white clothing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T132454Z" creationid="Luan" creationdate="20240314T132454Z">
+        <seg>* Br/ArmaBoaArmaMa
+* Br/OBemVesteBranco: Personagens heróicos se vestem com roupas brancas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4297,10 +4355,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GreaterScopeParagon: A benign being who is indirectly responsible for the heroes existing or doing what they're doing, but isn't an active part of the story.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T132544Z" creationid="Luan" creationdate="20240314T132544Z">
+        <seg>* Br/ModeloDeMaiorEscopo: Um ser benigno que é indiretamente responsável pela existência dos heróis ou por eles fazerem o que fazem, mas que não é parte da história ativamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HackerCave: A room filled with an over-the-top mess of computers and monitors and other bits of geekery, where hackers somehow get work done.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T153541Z" creationid="Luan" creationdate="20240125T153541Z">
         <seg>* Br/TocaHacker: Um cômodo bagunçado com computadores e monitores e outras coisas geek, onde hackers de algum modo conduzem seu trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HairOfGoldHeartOfGold: A nice girl with blonde hair.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T132639Z" creationid="Luan" creationdate="20240314T132639Z">
+        <seg>* Br/CabeloDeOuroCoracaoDeOuro: Uma boa garota com cabelo loiro.</seg>
       </tuv>
     </tu>
     <tu>

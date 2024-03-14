@@ -3064,3 +3064,6 @@ MoralityGuidedAttack	Br/AtaqueGuiadoPorMoralidade
 MoralPragmatist	Br/PragmaticoMoral
 TheMoralityMortalityEquation	Br/EquacaoDeMoralidadeEMortalidade
 MrViceGuy	Br/SenhorDasFalhas
+MyFistForgivesYou	Br/MeuPunhoTePerdoa
+NatureHero	Br/HeroiDaNatureza
+ProperLady	Br/DamaDeRespeito

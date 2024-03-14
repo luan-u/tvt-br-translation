@@ -2965,3 +2965,5 @@ RefusalOfTheCall	Br/RecusouOChamado
 CallToAdventure	Br/ChamadoParaAAventura
 RestoredMyFaithInHumanity	Br/RestaurouMinhaFeNaHumanidade
 RevengeIsNotJustice	Br/VingancaNaoEJustica
+WhiteIsPure	Br/BrancoEPuro
+WhiteMagic	Br/MagiaBranca

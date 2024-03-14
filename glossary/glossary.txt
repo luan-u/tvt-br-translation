@@ -2952,3 +2952,8 @@ TheDrifter	Br/OErrante
 ChronicHeroSyndrome	Br/SindromeDeHeroismoCronico
 LadyAndKnight	Br/DamaECavaleiro
 LawEnforcementInc	Br/ForcaDaLeiLtda
+LovableLizard	Br/LagartoAdoravel
+OurFounder	Br/NossoFundador
+MemorialStatue	Br/EstatuaMemorial
+MoreHeroThanThou	Br/SouMaisHeroiQueVoce
+MultinationalTeam	Br/EquipeMultinacional

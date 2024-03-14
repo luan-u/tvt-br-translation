@@ -3867,6 +3867,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ForHappiness: Happiness is a good thing that everyone should have as much of as possible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032014Z" creationid="Luan" creationdate="20240314T032014Z">
+        <seg>* Br/PelaFelicidade: Felicidade é uma coisa boa e todo mundo deveria ter tanto dela quanto possível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ForbiddenZone: A dangerous place no one wants to go (except the heroes, of course).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T202751Z" creationid="Luan" creationdate="20240131T202751Z">
@@ -8447,6 +8455,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* VirtueIsWeakness
+* VirtuousVegetarianism: A character's refusal to eat meat is used as a symbol of inner goodness or purity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T031922Z" creationid="Luan" creationdate="20240314T031922Z">
+        <seg>* Br/VirtudeEFraqueza
+* Br/VegetarianismoVirtuoso: A recusa de um personagem em consumir carne é usada como símbolo de bondade interior ou pureza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* VolcanoLair: A SupervillainLair in a (usually inactive) volcano.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T222833Z" creationid="Luan" creationdate="20240124T222833Z">
@@ -9016,6 +9034,15 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T185103Z" creationid="Luan" creationdate="20240131T185103Z">
         <seg>* Br/{{Comuna}}: Um lugar onde todos vivem juntos em uma comunidade autossuficiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* {{Forgiveness}}
+* FriendlyNeighborhoodVampire: A vampire who is good.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032106Z" creationid="Luan" creationdate="20240314T032106Z">
+        <seg>* Br/VampiroAmigavelDaVizinhanca: Um vampiro que é bom.</seg>
       </tuv>
     </tu>
     <tu>

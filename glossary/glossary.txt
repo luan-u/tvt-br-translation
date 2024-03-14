@@ -2963,3 +2963,5 @@ NaughtyIsGood	Br/TravessoEBom
 TheRedeemer	Br/ORedentor
 RefusalOfTheCall	Br/RecusouOChamado
 CallToAdventure	Br/ChamadoParaAAventura
+RestoredMyFaithInHumanity	Br/RestaurouMinhaFeNaHumanidade
+RevengeIsNotJustice	Br/VingancaNaoEJustica

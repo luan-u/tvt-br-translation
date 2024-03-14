@@ -2989,3 +2989,15 @@ SealedGoodInACan	Br/BemSeladoEmUmaGarrafa
 SevenHeavenlyVirtues	Br/SeteVirtudesCelestiais
 SexIsGood	Br/SexoEBom
 SexyVillainsChasteHeroes	Br/ViloesSensuaisHeroisCastos
+SheepInSheepsClothing	Br/CordeiroEmPeleDeCordeiro
+SilverHasMysticPowers	Br/PrataPossuiPoderesMisticos
+SlaveLiberation	Br/LibertacaoDosEscravos
+SparingTheFinalMook	Br/PouparOUltimoCapanga
+SpoiledSweet	Br/QueridoMimado
+UnclePennybags	Br/TioPennybags
+BlueBlood	Br/SangueAzul
+SpeculativeFiction	Br/FiccaoEspeculativa
+RoyalBlood	Br/SangueReal
+TheGoodChancellor	ChancelerBondoso
+MachiavelliWasWrong	Br/MaquiavelEstavaErrado
+ReasonableAuthorityFigure	Br/FiguraDeAutoridadeRazoavel

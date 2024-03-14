@@ -3040,3 +3040,8 @@ HeroesFrontierStep	Br/PassoDaFronteiraHeroica
 HeroesGoneFishing	Br/OsHeroisForamPescar
 HeroesLoveDogs	Br/OsHeroisAmamCachorros
 HeroicFireRescue	Br/ResgateHeroicoDeIncendio
+HeroicSafeMode	Br/ModoDeSegurancaHeroico
+HiddenHeartOfGold	Br/CoracaoDeOuroOculto
+HolyHandGrenade	Br/GranadaSantaDeMao
+HopeBringer	Br/EmissarioDaEsperanca
+HorsebackHeroism	Br/HeroismoMontadoACavalo

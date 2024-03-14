@@ -2910,3 +2910,7 @@ MainCharacterFinalBoss	Br/PersonagemPrincipalChefeFinal
 TheParagon	Br/OModelo
 PoliticallyIncorrectHero	Br/HeroiPoliticamenteIncorreto
 RousseauWasRight	Br/RousseauEstavaCerto
+TheParagon	Br/OParagono
+TheSacredDarkness	Br/SagradaEscuridao
+FunPersonified	Br/DiversaoPersonificada
+TheGoodCaptain	Br/OBomCapitao

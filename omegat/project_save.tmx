@@ -5921,6 +5921,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* NaughtyIsGood: Children who tend to misbehave are still the good guys.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T141357Z" creationid="Luan" creationdate="20240314T141357Z">
+        <seg>* Br/TravessoEBom: Crianças que se comportam mal ainda assim estão entre os bonzinhos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* NegativeContinuity: Taken to its logical extreme, drastic changes happen but are quickly reverted by next time, without any explanation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T145552Z" creationid="Luan" creationdate="20231208T145552Z">
@@ -5949,6 +5957,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034607Z" creationid="Luan" creationdate="20240314T034607Z">
         <seg>* Br/NeutroEBom: Um alinhamento de personagem que envolve altruísmo sem muita consideração por regras externas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* NeverHurtAnInnocent: A villain (or AntiHero) refuses to harm innocent people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T141308Z" creationid="Luan" creationdate="20240314T141308Z">
+        <seg>* Br/NuncaMachuqueUmInocente: Um vilão (ou Br/AntiHeroi) se recusa a ferir inocentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5989,6 +6005,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034618Z" creationid="Luan" creationdate="20240314T034618Z">
         <seg>* Br/CaraLegal: Um personagem que tende a ser altruísta e amigável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* NiceToTheWaiter: A character shows basic courtesy to everyone, including servants.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T141149Z" creationid="Luan" creationdate="20240314T141149Z">
+        <seg>* Br/GentilComOGarcom: Um personagem mostra cortesia básica a todos, incluindo os servos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6647,6 +6671,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T155341Z" creationid="Luan" creationdate="20240105T155341Z">
         <seg>* Br/ReadequadoParaASequencia: Uma cena que deveria estar no original é movida para a sequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RefusalOfTheCall: The character, typically the hero, receives a CallToAdventure but at first refuses for some reason.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T141702Z" creationid="Luan" creationdate="20240314T141702Z">
+        <seg>* Br/RecusouOChamado: O personagem, tipicamente o herói, recebe um Br/ChamadoParaAAventura mas em um primeiro momento recusa por algum motivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8636,6 +8668,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T220917Z" creationid="Luan" creationdate="20240124T220917Z">
         <seg>* Br/TerraPrometida: O lugar que tem a promessa de ser ''melhor'' do que este em que estamos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheRedeemer: A character whose personality allows them to get others to turn over a new leaf.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T141530Z" creationid="Luan" creationdate="20240314T141530Z">
+        <seg>* Br/ORedentor: Um personagem cuja personalidade permite que outros possam virar a página.</seg>
       </tuv>
     </tu>
     <tu>

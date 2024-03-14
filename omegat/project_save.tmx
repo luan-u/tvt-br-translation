@@ -4497,6 +4497,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeartOfHappiness: HeartSymbol that indicates the other positive emotions of generalized happiness.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T180538Z" creationid="Luan" creationdate="20240314T180538Z">
+        <seg>* Br/CoracaoDeFelicidade: Um Br/SimboloDeCoracao que indica outra emoções positivas de felicidade geral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeartwarmingOrphan: An orphan child who normally ends up being adopted and is a good character who makes the audience emotional.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T180638Z" creationid="Luan" creationdate="20240314T180638Z">
+        <seg>* Br/OrfaoDeAquecerOCoracao: Uma criança órfã que normalmente é adotada e que é uma boa personagem que deixa o público emocionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HeavenlyConcentricCircles: {{Heaven}}ly planes or beings are depicted as concentric circles in the sky.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T153236Z" creationid="Luan" creationdate="20240117T153236Z">

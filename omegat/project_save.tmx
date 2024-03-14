@@ -6183,6 +6183,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MyFistForgivesYou: Someone who has been wronged strikes the one who wronged them once before forgiving them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T192139Z" creationid="Luan" creationdate="20240314T192139Z">
+        <seg>* Br/MeuPunhoTePerdoa: Alguém que foi prejudicado bate naquele que o prejudicou antes de perdoá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MyLocal: A pub, where the main cast usually hangs out.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T130924Z" creationid="Luan" creationdate="20240201T130924Z">
@@ -6227,6 +6235,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T184549Z" creationid="Luan" creationdate="20240221T184549Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* NatureHero: Heroes who fights to protect nature.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T192154Z" creationid="Luan" creationdate="20240314T192154Z">
+        <seg>* Br/HeroiDaNatureza: Heróis que lutam para proteger a natureza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6515,6 +6531,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T191215Z" creationid="Luan" creationdate="20240221T191215Z">
         <seg>* Br/CasaEscuraEVelha: A ambientação clássica para Br/OCasoDosDezNegrinhos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* OldFashionedCopper: British bobbies are characterized for being morally upstanding law enforcers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T192712Z" creationid="Luan" creationdate="20240314T192712Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -6925,6 +6949,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T192428Z" creationid="Luan" creationdate="20240105T192428Z">
         <seg>* Br/SequenciaProlongadaDeVideogame: Uma sequência para um jogo que é muito mais longa que o jogo anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ProperLady: An ideal woman who's self-sacrificing, smart, loyal, chaste, incorruptible, gentle, and strong.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T192232Z" creationid="Luan" creationdate="20240314T192232Z">
+        <seg>* Br/DamaDeRespeito: Uma mulher idealizada que é altruísta, leal, casta, incorruptível, gentil e forte.</seg>
       </tuv>
     </tu>
     <tu>

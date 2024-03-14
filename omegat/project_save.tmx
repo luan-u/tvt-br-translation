@@ -3481,6 +3481,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* EmbodimentOfVirtue
+* EmpathicWeapon: The weapon acknowledges the hero's desires and good qualities, and is willing to help him out.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T225458Z" creationid="Luan" creationdate="20240313T225458Z">
+        <seg>* Br/PersonificacaoDaVirtude
+* Br/ArmaEmpatica: A arma reconhece os desejos e qualidades do herói e tem a intenção de ajudá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* EnchantedForest: A large, old-growth forest in which nature (and often magic) are supreme.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T153241Z" creationid="Luan" creationdate="20240125T153241Z">
@@ -3525,6 +3535,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T152012Z" creationid="Luan" creationdate="20240105T152012Z">
         <seg>* Br/SequenciaAindaMelhor: Quando uma sequência é amplamente considerada como superior ao original, ou pelo menos às entradas imediatamente anteriores que, por si só, já eram consideradas boas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* EvenTheLovingHeroHasHatedOnes: There are some people so evil that even an AllLovingHero just can't help but hate them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T225623Z" creationid="Luan" creationdate="20240313T225623Z">
+        <seg>* Br/AteOAmorosoHeroiPossuiSeusOdiados: Algumas pessoas são tão más que nem mesmo o Br/HeroiTodoAmoroso consegue evitar de odiar.</seg>
       </tuv>
     </tu>
     <tu>

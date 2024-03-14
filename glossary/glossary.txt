@@ -3018,6 +3018,7 @@ WelcomeBackTraitor	Br/BemVindoDeVoltaTraidor
 WhiteMansBurden	Br/FardoDoHomemBranco
 WhiteSheep	Br/OvelhaBranca
 WiseOldTurtle	Br/VelhaESabiaTartaruga
+UnsympatheticComedyProtagonist	Br/ProtagonistaDeComediaNadaSimpatico
 YouCouldHaveUsedYourPowersForGood	Br/VocePoderiaTerUsadoSeusPoderesParaOBem
 EthicalSlut	Br/VadiaEtica
 FiveTokenBand	Br/GrupoDeCincoCotistas
@@ -3056,3 +3057,10 @@ TheManInTheMoon	Br/OHomemNaLua
 ManOfTheCity	Br/HomemDaCidade
 MellowFellow	Br/SujeitoSuave
 TheMenFirst	Br/OsHomensPrimeiro
+MentorInSourArmor	Br/MentorEmArmaduraAzeda
+SinkOrSwimMentor	Br/MentorDeAfundarOuNadar
+MisunderstoodLonerWithAHeartOfGold	Br/SolitarioMalCompreendidoComUmCoracaoDeOuro
+MoralityGuidedAttack	Br/AtaqueGuiadoPorMoralidade
+MoralPragmatist	Br/PragmaticoMoral
+TheMoralityMortalityEquation	Br/EquacaoDeMoralidadeEMortalidade
+MrViceGuy	Br/SenhorDasFalhas

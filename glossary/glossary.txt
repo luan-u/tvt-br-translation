@@ -2869,3 +2869,7 @@ InnocentBlueEyes	Br/InocentesOlhosAzuis
 JustLikeRobinHood	Br/QueNemRobinHood
 JustLikeRobinHood	Br/TalQualRobinHood
 LightEqualsHope	Br/LuzSignificaEsperanca
+SmileOfApproval	Br/SorrisoDeAprovacao
+WithGreatPowerComesGreatResponsibility	Br/ComGrandesPoderesVemGrandesResponsabilidades
+XMarksTheHero	Br/OXMarcaOHeroi
+ZeroApprovalGambit	Br/GambitoDeZeroDeAprovacao

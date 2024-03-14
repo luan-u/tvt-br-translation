@@ -3032,3 +3032,11 @@ HeadbuttingHeroes	Br/HeroisCabecaDura
 HeartOfHappiness	Br/CoracaoDeFelicidade
 HeartSymbol	Br/SimboloDeCoracao
 HeartwarmingOrphan	Br/OrfaoDeAquecerOCoracao
+TheHighQueen	Br/AAltaRainha
+HelpingGrannyCrossTheStreet	Br/AjudarAVovoAAtravessarARua
+HelplessGoodSide	Br/LadoBomImpotente
+HeroDoesPublicService	Br/OHeroiFazServicoPublico
+HeroesFrontierStep	Br/PassoDaFronteiraHeroica
+HeroesGoneFishing	Br/OsHeroisForamPescar
+HeroesLoveDogs	Br/OsHeroisAmamCachorros
+HeroicFireRescue	Br/ResgateHeroicoDeIncendio

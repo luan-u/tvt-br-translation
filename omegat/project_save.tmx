@@ -3915,6 +3915,30 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FriendToAllChildren: A person who is very fond of children and enjoys interacting with and helping them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032321Z" creationid="Luan" creationdate="20240314T032321Z">
+        <seg>* Br/AmigoDasCriancas: Uma pessoa que é muito afeita à crianças e gosta de interagir com elas e ajudá-las.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FriendToAllLivingThings: A character who is very fond of animals and enjoys interacting with and aiding them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032407Z" creationid="Luan" creationdate="20240314T032407Z">
+        <seg>* Br/AmigoDeTudoQueVive: Um personagem que aprecia muito os animais e gosta de interagir com eles e ajudá-los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FriendToBugs: A type of AnimalLover who likes and cares for insects and other creatures.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032243Z" creationid="Luan" creationdate="20240314T032243Z">
+        <seg>* Br/AmigoDosInsetos: Um tipo de Br/AmanteDosAnimais que gosta de insetos e se importa com eles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* FriendlyLocalChinatown: Sections of large American cities where Chinese culture can be found close at hand.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T133721Z" creationid="Luan" creationdate="20240202T133721Z">
@@ -3967,6 +3991,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T221807Z" creationid="Luan" creationdate="20240117T153141Z">
         <seg>* ??? GenteelInterbellumSetting: Em algum momento entre 1918 e 1939.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GentleGiant: A very tall person who is friendly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032432Z" creationid="Luan" creationdate="20240314T032432Z">
+        <seg>* Br/GiganteGentil: Uma pessoa muito alta que é amigável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GentlemanAndAScholar: Prudence mixed with intelligence.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032530Z" creationid="Luan" creationdate="20240314T032530Z">
+        <seg>* Br/CavalheiroECulto: Prudência misturada com inteligência.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4035,6 +4075,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GlowingEyesOfDoom: A character's eyes glow, showing that they are not fooling around, and that GoodIsNotSoft.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032657Z" creationid="Luan" creationdate="20240314T032657Z">
+        <seg>* Br/OlhosBrilhantesDoCaos: Os olhos de um personagem brilham para mostrar que eles não estão para brincadeira e que Br/SerBomNaoESerMole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GoAndSinNoMore: The hero spares the villain and tells them to atone for their crimes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T001457Z" creationid="Luan" creationdate="20240314T001457Z">
@@ -4043,10 +4091,72 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GodIsGood: God is unquestionably benevolent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032722Z" creationid="Luan" creationdate="20240314T032722Z">
+        <seg>* Br/DeusEBondoso: Deus é inquestionavelmente benevolente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GodOfGood: A deity who embodies all that is good.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032738Z" creationid="Luan" creationdate="20240314T032738Z">
+        <seg>* Br/DeusDaBondade: Uma divindade que personifica tudo que é bom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GoldAndWhiteAreDivine: Gold and white are considered benign colors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032808Z" creationid="Luan" creationdate="20240314T032808Z">
+        <seg>* Br/BrancoEDouradoSaoDivinos: Branco e dourado são consideradas cores benignas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GoodAngelBadAngel: When faced with a moral decision, a character imagines a tiny angel and a tiny devil appearing on their shoulders to advise them on which choice would be the right one to make.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032902Z" creationid="Luan" creationdate="20240314T032902Z">
+        <seg>* Br/AnjoBomAnjoMau: Quando em face de uma decisão moral, um personagem imagina um pequeno anjo e um pequeno demônio aparecendo nos ombros para aconselhá-lo sobre qual escolha é a correta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GoodCannotComprehendEvil: The hero cannot understand why the villain is evil.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032941Z" creationid="Luan" creationdate="20240314T032941Z">
+        <seg>* Br/OBemNaoPodeCompreenderOMal: O herói não consegue compreender porque o vilão é malvado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GoodGuyBar: Where the heroes hang out after hours.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T143632Z" creationid="Luan" creationdate="20240118T143632Z">
         <seg>* Br/BarDosMocinhos: Onde os heróis se juntam após o expediente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GoodHairEvilHair
+* GoodIsBoring
+* GoodIsDumb: Being the good guy makes some intellectual flaws.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033042Z" creationid="Luan" creationdate="20240314T033042Z">
+        <seg>* Br/CabeloBomCabeloMau
+* Br/OBemEEntediante
+* Br/OBemEBurro: Ser o cara bom propicia algumas falhas de intelecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GoodIsImpotent
+* GoodIsNotDumb: Being the good guy does not mean that you are stupid.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033126Z" creationid="Luan" creationdate="20240314T033126Z">
+        <seg>* Br/OBemEImpotente
+* Br/SerBomNaoESerBurro: Ser o cara bom não significa que você é estúpido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9391,6 +9501,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145314Z" creationid="Luan" creationdate="20240105T145314Z">
         <seg>** Br/SequenciaComLetras: Quando o título da sequência tem uma letra no lugar de um número.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** MonsterAdventurers: Creatures who are generally disposable {{Mooks}} decide they want the PlotArmor that comes with being a hero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032209Z" creationid="Luan" creationdate="20240314T032209Z">
+        <seg>** Br/MonstrosAventureiros: Criaturas que geralmente são Br/{{Capangas}} descartáveis decidem que eles querem a Br/ArmaduraDeTrama que vêm junto com o título de herói.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20676,6 +20794,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231029T134514Z" creationid="Luan" creationdate="20231029T134514Z">
         <seg>Tipicamente é o [[Br/EscalaMovelDeIdealismoVersusCinismo mais cínico]] [[Br/ApoiadorAcido personagem de apoio]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Typically, the angel is there to encourage the person to make a good decision.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032916Z" creationid="Luan" creationdate="20240314T032916Z">
+        <seg>Geralmente o anjo está lá para encorajar a pessoa a tomar uma decisão boa.</seg>
       </tuv>
     </tu>
     <tu>

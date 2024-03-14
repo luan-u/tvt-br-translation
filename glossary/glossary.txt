@@ -3049,3 +3049,10 @@ ImNotAHeroIm	Br/EuNaoSouUmHeroiEuSou
 TheIngenue	Br/OIngenuo
 InnocentSoprano	Br/SopranoInocente
 KindheartedCatLover	Br/AmanteDeGatosComBomCoracao
+LanternJawOfJustice	Br/MandibulaDaJustica
+LoadBearingHero	Br/HeroiDeSuporteDeCarga
+LoonWithAHeartOfGold	Br/BirutaComUmCoracaoDeOuro
+TheManInTheMoon	Br/OHomemNaLua
+ManOfTheCity	Br/HomemDaCidade
+MellowFellow	Br/SujeitoSuave
+TheMenFirst	Br/OsHomensPrimeiro

@@ -6813,6 +6813,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* RevoltingRescue: An action that's heroic, yet disgusting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165726Z" creationid="Luan" creationdate="20240314T165726Z">
+        <seg>* Br/ResgateRevoltante: Uma ação que é heroica, mas causa desgosto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* RichReclusesRealm: A private domain bought and/or built by a super-rich recluse.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T202849Z" creationid="Luan" creationdate="20240221T202849Z">
@@ -6841,6 +6849,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T035054Z" creationid="Luan" creationdate="20240314T035054Z">
         <seg>* Br/EstarCertoSignificaPoder: O herói acredita que a justiça prevalecerá, e é o que ocorre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RighteousRabbit: A rabbit or hare is portrayed as a heroic character.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165844Z" creationid="Luan" creationdate="20240314T165844Z">
+        <seg>* Br/CoelhoHonrado: Um coelho ou lebre é retratado como um personagem heroico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6891,6 +6907,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T142628Z" creationid="Luan" creationdate="20240104T142628Z">
         <seg>* Br/RonOComensalDaMorte: Fãs retratam um personagem como mais cruel e pior do que o cânone simplesmente por não gostarem dele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RoseHairedSweetie: A girl with pink hair has an affable and cheery personality to match.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165947Z" creationid="Luan" creationdate="20240314T165947Z">
+        <seg>* Br/QueridaDeCabelosRosados: Uma garota de cabelo rosa possui uma personagem animada e afável para combinar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7049,10 +7073,50 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SatanIsGood: Satan is portrayed as benevolent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T170047Z" creationid="Luan" creationdate="20240314T170047Z">
+        <seg>* Br/SataEBom: Satã retratado como benevolente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SavedForTheSequel: Plot element left to be developed in the sequel.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145435Z" creationid="Luan" creationdate="20240105T145435Z">
         <seg>* Br/GuardadoParaASequencia: Um elemento de trama conservado para ser desenvolvido na sequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SavingChristmas: Christmas (or the local equivalent) may not happen and the good guys have to solve the problem.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T170127Z" creationid="Luan" creationdate="20240314T170127Z">
+        <seg>* Br/SalvarONatal: O Natal (ou um equivalente regional) pode não acontecer e os mocinhos precisam resolver o problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SavingTheOrphanage: The hero has to stop a heartless business exec who wants to destroy a local OrphanageOfLove.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T170151Z" creationid="Luan" creationdate="20240314T170151Z">
+        <seg>* Br/SalvarOOrfanato: O herói precisa impedir um executivo inescrupuloso que quer destruir o Br/OrfanatoDoAmor local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SavingTheWorld: The ubiquitous goal of many stock heroes: Preventing the end of the world or the world from being conquered.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T170221Z" creationid="Luan" creationdate="20240314T170221Z">
+        <seg>* Br/SalvarOMundo: O objetivo ubíquo de muitos heróis padrão: impedir o fim do mundo ou que este seja conquistado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ScaryTeeth: Some [[FaceOfAThug good]] [[CreepyGood guys']] teeth can be quite disturbing, especially if they focus their righteous anger on evil-doers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T170309Z" creationid="Luan" creationdate="20240314T170309Z">
+        <seg>* Br/DentesAssustadores: Alguns [[Br/AssustadorEBom caras]] [[Br/CaraDeBandido bons]] possuem dentes perturbadores, principalmente se eles focam sua raiva justa nos malfeitores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7089,6 +7153,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ScienceIsGood
+* ScrewTheRulesImDoingWhatsRight: A character disobeys the laws, customs, or their instructions so they can follow their conscience.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T170409Z" creationid="Luan" creationdate="20240314T170409Z">
+        <seg>* Br/CienciaEBoa
+* Br/DanemSeAsRegrasEstouFazendoOQueECerto: Um personagem desobedece as leis, costumes ou ordens para que possam seguir sua consciência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ScriptWank: The creator explicitly spells out a work's message because they don't trust the audience to pick up on the subtext, goes hand in hand with...
 * ShowDontTell: A common bit of writing advice which says to imply or demonstrate that something is happening rather than to just say it is.</seg>
       </tuv>
@@ -7111,6 +7185,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T133334Z" creationid="Luan" creationdate="20240201T133334Z">
         <seg>* Br/HistoriasDoMar: Qualquer história que acontece tendo o oceano como ambientação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SealedGoodInACan: A benevolent being is sealed away before eventually being freed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T170457Z" creationid="Luan" creationdate="20240314T170431Z">
+        <seg>* Br/BemSeladoEmUmaGarrafa: Um ser benevolente é selado antes de ser eventualmente libertado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7313,6 +7395,18 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T205048Z" creationid="Luan" creationdate="20240221T205048Z">
         <seg>* Br/ColonizarAFronteira: Pode servir como ambientação ou como Br/{{Trama}} para uma história.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SevenHeavenlyVirtues
+* SexIsGood
+* SexyVillainsChasteHeroes: Sexualized villains' designs contrast with the designs of more modest heroes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T170627Z" creationid="Luan" creationdate="20240314T170627Z">
+        <seg>* Br/SeteVirtudesCelestiais
+* Br/SexoEBom
+* Br/ViloesSensuaisHeroisCastos: O design sexualizado dos vilões contrasta com a aparência mais modesta dos heróis.</seg>
       </tuv>
     </tu>
     <tu>

@@ -7429,6 +7429,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SacredBowAndArrows
+* SafeSaneAndConsensual: If no one gets seriously hurt, no one's under the influence of anything, and everyone wants to do this, then it's fine.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240315T011854Z" creationid="Luan" creationdate="20240315T011854Z">
+        <seg>* Br/ArcoEFlechaSagrados
+* Br/SeguroSaoEConsensual: Se ninguém se machuca seriamente, ninguém está sob influência de nada e todos querem fazer, então está tudo certo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SaintlyChurch: A religious organization that actually wants to do good and righteous deeds for the world.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T035237Z" creationid="Luan" creationdate="20240314T035237Z">
@@ -9612,6 +9622,30 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T023657Z" creationid="Luan" creationdate="20240314T023657Z">
         <seg>* Br/SerLealOuSerBom: Um personagem deve escolher entre fazer o que é honrado e fazer o que é bom/justo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TokenGoodCop: A cop who's still doing the right thing, despite being surrounded by corruption or incompetence.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240315T012114Z" creationid="Luan" creationdate="20240315T012114Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TokenGoodTeammate: The one member of a villain team who is actually a good guy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240315T012007Z" creationid="Luan" creationdate="20240315T012007Z">
+        <seg>* Br/ParceiroCotistaDoBem: O único membro de um time de vilões que na verdade é um cara bom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TokenHeroicOrc: The only heroic member of [[AlwaysChaoticEvil a species that is (otherwise) evil]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240315T012042Z" creationid="Luan" creationdate="20240315T012042Z">
+        <seg>* Br/OrcHeroicoCotista: O único membro heroico de [[Br/SempreCaoticoEMau uma espécie que é má]].</seg>
       </tuv>
     </tu>
     <tu>

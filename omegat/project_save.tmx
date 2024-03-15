@@ -6503,6 +6503,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* OfficerAndAGentleman: A cultured, refined, polite, and honorable military officeholder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240315T011254Z" creationid="Luan" creationdate="20240315T011254Z">
+        <seg>* Br/OficialECavalheiro: Um oficial militar culto, refinado, polido e honrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* OffingTheAnnoyance: Murdering someone for irritating you.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T142310Z" creationid="Luan" creationdate="20240104T142310Z">
@@ -6749,6 +6757,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* PayingItForward: Doing good for those to whom you don't owe anything, just for its own sake.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240315T011222Z" creationid="Luan" creationdate="20240315T011222Z">
+        <seg>* Br/PagandoAdiantado: Fazer o bem para aqueles que você não deve nada, apenas porque sim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* PaymentPlanPitch (in advertising)
 * PleaseSubscribeToOurChannel, in some cases.</seg>
       </tuv>
@@ -6907,6 +6923,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* PositiveFriendInfluence: A friend who has a positive influence on their other friends.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240315T011328Z" creationid="Luan" creationdate="20240315T011328Z">
+        <seg>* Br/AmigoDeInfluenciaPositiva: Um amigo que é uma influência positiva em todos os outros amigos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* PossessiveParadise: A paradise setting with an unfortunate tendency towards the {{yandere}}.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T202519Z" creationid="Luan" creationdate="20240221T202519Z">
@@ -7039,6 +7063,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T191336Z" creationid="Luan" creationdate="20240131T191336Z">
         <seg>* Br/DistritoDaLuzVermelha: A parte da cidade onde todos os bares, bordéis e outros locais de entretenimento noturno podem ser encontrados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RedemptionDemotion: A character who makes a HeelFaceTurn gets substantially weaker.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240315T011411Z" creationid="Luan" creationdate="20240315T011411Z">
+        <seg>* Br/RebaixamentoPosRedencao: Um personagem que resolve Br/PassarParaOLadoDosMocinhos fica significativamente mais fraco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7617,6 +7649,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T193308Z" creationid="Luan" creationdate="20240314T193308Z">
         <seg>* Br/DesejoAltruista: Um personagem abre mão de seu desejo em nome de outra pessoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SensibleHeroesSkimpyVillains: Good guys dress modestly while villains wear revealing attire.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240315T011757Z" creationid="Luan" creationdate="20240315T011757Z">
+        <seg>* Br/HeroisRecatadosViloesExibidos: Os mocinhos se vestem de maneira modesta enquanto os vilões usam trajes reveladores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11031,6 +11071,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T222259Z" creationid="Luan" creationdate="20231101T222259Z">
         <seg>** Ou se os níveis de dificuldade na verdade são justos, pode ser que haja um nível de dificuldade opcional [[Br/MaisDificilQueODificil que faz com que os outros níveis, até o difícil, se pareçam com brincadeira de criança]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** RedemptionPromotion: A harmless/ful or incompetent character gets substantially stronger post-HeelFaceTurn.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240315T011501Z" creationid="Luan" creationdate="20240315T011501Z">
+        <seg>** Br/PromocaoPosRedencao: Um personagem inofensivo ou incompetente fica muito mais forte após Br/PassarParaOLadoDosMocinhos.</seg>
       </tuv>
     </tu>
     <tu>

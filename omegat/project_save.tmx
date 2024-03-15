@@ -7389,6 +7389,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* RushmoreRefacement: Heroes sometimes have their faces placed on Mount Rushmore [[CelebratingTheHeroes due to their good deeds]] they've done.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T193945Z" creationid="Luan" creationdate="20240314T193945Z">
+        <seg>* Br/RemodelandoRushmore: Os heróis às vezes têm seus rostos entalhados no Monte Rushmore [[Br/CelebrarOsHerois devido aos seus bons feitos]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SaintlyChurch: A religious organization that actually wants to do good and righteous deeds for the world.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T035237Z" creationid="Luan" creationdate="20240314T035237Z">
@@ -10301,6 +10309,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T193723Z" creationid="Luan" creationdate="20240314T193723Z">
         <seg>* Br/NaoMachucariaUmaCrianca: O limite do personagem acaba quando se trata de ferir crianças.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* WoundedHeroWeakerHelper: A hero is wounded and needs help from a comparatively weaker/frailer character.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240314T193835Z" creationid="Luan" creationdate="20240314T193835Z">
+        <seg>* Br/HeroiFeridoAjudanteFraco: Um herói está machucado e precisa de ajuda de um personagem comparativamente fraco ou frágil.</seg>
       </tuv>
     </tu>
     <tu>

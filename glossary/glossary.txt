@@ -3086,3 +3086,7 @@ PositiveFriendInfluence	Br/AmigoDeInfluenciaPositiva
 RedemptionDemotion	Br/RebaixamentoPosRedencao
 RedemptionPromotion	Br/PromocaoPosRedencao
 SensibleHeroesSkimpyVillains	Br/HeroisRecatadosViloesExibidos
+SacredBowAndArrows	Br/ArcoEFlechaSagrados
+SafeSaneAndConsensual	Br/SeguroSaoEConsensual
+TokenGoodTeammate	Br/ParceiroCotistaDoBem
+TokenHeroicOrc	Br/OrcHeroicoCotista

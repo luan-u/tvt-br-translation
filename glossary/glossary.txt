@@ -3078,3 +3078,5 @@ SetRightWhatOnceWentWrong	Br/CorrigirOQueDeuErrado
 SubbingForSanta	Br/SubstituirONoel
 WeHelpTheHelpless	Br/NosAmparamosOsDesamparados
 WouldntHurtAChild	Br/NaoMachucariaUmaCrianca
+WoundedHeroWeakerHelper	Br/HeroiFeridoAjudanteFraco
+RushmoreRefacement	Br/RemodelandoRushmore

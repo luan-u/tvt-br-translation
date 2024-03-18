@@ -3165,3 +3165,7 @@ GuardianOfTheMultiverse	Br/GuardiaoDoMultiverso
 LoveGoddess	Br/DeusaDoAmor
 TheXenophile	Br/OXenofilo
 PartTimeHero	Br/HeroiEmMeioPeriodo
+BadassUnintentional	Br/FodaoNaoIntencional
+BenevolentAbomination	Br/AbominacaoBenevolente
+BullyHunter	Br/CacadorDeValentoes
+TheCaptain	Br/OCapitao

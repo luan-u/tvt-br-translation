@@ -1438,10 +1438,82 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AccidentalHero: A character who does a heroic deed completely by accident.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T135013Z" creationid="Luan" creationdate="20240318T135013Z">
+        <seg>* Br/HeroiAcidental: Um personagem que faz um feito heroico completamente por acidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ActionDad
+* ActionDuo: Capable hero meets ordinary person.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T135133Z" creationid="Luan" creationdate="20240318T135133Z">
+        <seg>* Br/PaiDeAcao
+* Br/DuplaDeAcao: Um herói capaz encontra uma pessoa comum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ActionGenreHeroGuy
+* ActionGirl: A female combatant who rescues innocents, and faces dangerous foes and deadly obstacles, eventually succeeding.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T135234Z" creationid="Luan" creationdate="20240318T135234Z">
+        <seg>* Br/CaraHeroicoDoGeneroDeAcao
+* Br/GarotaDeAcao: Uma combatente que resgata inocentes e enfrenta inimigos perigosos e obstáculos mortais, eventualmente tendo êxito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ActionMom
+* ActionHero: The protagonist of any action/adventure story must be good at beating the crap out of their enemies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T135315Z" creationid="Luan" creationdate="20240318T135315Z">
+        <seg>* Br/MaeDeAcao
+* Br/HeroiDeAcao: O protagonista de qualquer história de ação/aventura deve ser bom em derrotar seus inimigos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ActionPet
+* ActionSurvivor: They're not a skilled fighter, but prove to be quite capable of handling a dangerous situation anyways.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T135430Z" creationid="Luan" creationdate="20240318T135430Z">
+        <seg>* Br/BichinhoDeAcao
+* Br/SobreviventeDeAcao: Eles não são lutadores habilidosos, mas provam ser bastante capazes de lidar com uma situação perigosa de qualquer maneira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ActualPacifist: Someone who refuses to physically harm other people no matter what.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T135447Z" creationid="Luan" creationdate="20240318T135447Z">
+        <seg>* Br/PacifistaReal: Alguém que se recusa a prejudicar fisicamente outras pessoas, não importa o que aconteça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AdaptationalHeroism: The adaptation makes a character more heroic than they were in the original work.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T210600Z" creationid="Luan" creationdate="20240313T203205Z">
         <seg>* Br/HeroismoInduzidoPorAdaptacao: A adaptação torna um personagem mais heróico do que era na obra original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* AdaptationalHeroism: The villain character from the original work is a hero in the adaptation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T135459Z" creationid="Luan" creationdate="20240318T135459Z">
+        <seg>* Br/HeroismoInduzidoPorAdaptacao: O personagem vilão da obra original é um herói na adaptação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* AdaptationalNiceGuy: A character is made nicer in the adaptation than they were in the original work.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T135534Z" creationid="Luan" creationdate="20240318T135534Z">
+        <seg>* Br/CaraLegalInduzidoPorAdaptacao: Um personagem fica mais legal na adaptação do que na obra original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1482,6 +1554,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T144401Z" creationid="Luan" creationdate="20240131T144401Z">
         <seg>* Br/CidadesDeAventura: Viaje entre cidades para obter novas missões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* AdventurerArchaeologist
+* AdoptTheDog: Neutral character does something nice and becomes a good guy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T135629Z" creationid="Luan" creationdate="20240318T135629Z">
+        <seg>* Br/ArqueologistaAventureiro
+* Br/AdotarOCachorro: O personagem neutro faz algo legal e se torna um cara legal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1628,6 +1710,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T223349Z" creationid="Luan" creationdate="20240124T223349Z">
         <seg>* Br/IncrivelMundoEmTechnicolor: Um mundo colorido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* AmnesiacHero: The protagonist has little or no memory of who they are, and how they got themselves in their current situation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T135713Z" creationid="Luan" creationdate="20240318T135713Z">
+        <seg>* Br/HeroiAmnesico: O protagonista tem pouca ou nenhuma memória de quem é e de como chegou à situação atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1808,6 +1898,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ArcHero: A prominent co-hero for an episode or series installment, then dropped afterwards.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T135759Z" creationid="Luan" creationdate="20240318T135759Z">
+        <seg>* Br/HeroiDeArco: Um co-herói proeminente para um episódio ou série, e depois abandonado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Area51: A top-secret research facility in the desert.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T144238Z" creationid="Luan" creationdate="20240118T144238Z">
@@ -1828,6 +1926,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143232Z" creationid="Luan" creationdate="20240105T143232Z">
         <seg>* Br/SequenciaComMudancaArtistica: Uma sequência usa um estilo de arte diferente do original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ArtifactOfHope: A powerful, benevolent artifact with only good, or at least holy, applications.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T135906Z" creationid="Luan" creationdate="20240318T135906Z">
+        <seg>* Br/ArtefatoDaEsperanca: Um artefato poderoso e benevolente que pode ser usado apenas para coisas boas ou sagradas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9052,6 +9158,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheAce: A character who is good at everything.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T135043Z" creationid="Luan" creationdate="20240318T135043Z">
+        <seg>* Br/OAs: Um personagem que é bom em tudo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheAlcatraz: A high-security prison where there's lava instead of the ocean and the guards are huge robots.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T220051Z" creationid="Luan" creationdate="20240124T220051Z">
@@ -9060,10 +9174,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheAntiNihilist: A character who knows how terrible the world is, but instead of succumbing to despair, decides to create meaning, values and purpose in life out of it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T135742Z" creationid="Luan" creationdate="20240318T135742Z">
+        <seg>* Br/AntiNiilista: Um personagem que sabe o quão terrível o mundo é, mas em vez de sucumbir ao desespero, decide criar significado, valores e propósito na vida a partir dele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheApunkalypse: Punks usher in the collapse of civilization; the apocalypse ushers in the age of the punks.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T144140Z" creationid="Luan" creationdate="20240117T144140Z">
         <seg>* Br/OApunkalipse: Os punks emergem no colapso da civilização; o apocalipse emerge na era dos punks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheArmiesOfHeaven: Angels depicted as a military force.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T135819Z" creationid="Luan" creationdate="20240318T135819Z">
+        <seg>* Br/ExercitosDoCeu: Anjos retratados como uma força militar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18091,6 +18221,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T155315Z" creationid="Luan" creationdate="20240125T155315Z">
         <seg>Costuma conter telescópios, planetários, [[Br/BauDeTesouroInexplicavel artefatos ocultos]], [[Br/PassagemSecreta passagens secretas]], [[Br/TomoDeConhecimentoAlien tomos de conhecimento alien]], entre outros.
 * Br/BibliotecaMagica: Uma biblioteca com livros mágicos, geralmente encantada e protegendo artefatos mágicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Often done with heroic characters whose rudeness might prevent them from being sympathetic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T135539Z" creationid="Luan" creationdate="20240318T135539Z">
+        <seg>Frequentemente feito com personagens heroicos cuja grosseria pode impedi-los de serem solidários</seg>
       </tuv>
     </tu>
     <tu>

@@ -3105,3 +3105,8 @@ HeroBall	Br/BolaDeHeroibol
 IndexToTheRescue	Br/IndiceAoResgate
 MentorIndex	Br/IndiceDeMentores
 PleasantAnimalsIndex	Br/IndiceDeAnimaisAgradaveis
+AffablyEvil	Br/AfavelmenteDoMal
+PositiveStereotypeTropes	Br/TroposDeEstereotipoPositivo
+SuperheroTropes	Br/TroposDeSuperHeroi
+NonPlayerCharacter	Br/PersonagemNaoJogavel
+NinetiesAntiHero	Br/AntiHeroiDosAnos90

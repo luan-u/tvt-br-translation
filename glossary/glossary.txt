@@ -3127,3 +3127,9 @@ ArcHero	Br/HeroiDeArco
 TheArmiesOfHeaven	Br/ExercitosDoCeu
 TheParagon	Br/OExemplo
 TheAlliance	Br/AAlianca
+AmericaSavesTheDay	Br/AAmericaSalvaODia
+AmicableAnts	Br/FormigasAmigaveis
+AllAmericanFace	Br/RostoTodoAmericano
+TheAntichrist	Br/OAnticristo
+AntiAntichrist	Br/AntiAnticristo
+LegacyCharacter	Br/PersonagemLegado

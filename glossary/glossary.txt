@@ -3125,3 +3125,5 @@ AmnesiacHero	Br/HeroiAmnesico
 TheAntiNihilist	Br/AntiNiilista
 ArcHero	Br/HeroiDeArco
 TheArmiesOfHeaven	Br/ExercitosDoCeu
+TheParagon	Br/OExemplo
+TheAlliance	Br/AAlianca

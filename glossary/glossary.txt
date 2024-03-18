@@ -3187,3 +3187,12 @@ FriendlyNeighborhoodSpider	Br/AranhaAmigavelDaVizinhanca
 FriendlySkeleton	Br/EsqueletoAmigavel
 FriendlyZombie	Br/ZumbiAmigavel
 HauntedHeroine	Br/HeroinaAssombrada
+HerosMuse	Br/MusaDoHeroi
+HeroOfAnotherStory	Br/HeroiDeOutraHistoria
+HeroProtagonist	Br/HeroiProtagonista
+HeroStoleMyBike	Br/OHeroiRoubouMinhaBicicleta
+HeroicBystander	Br/ObservadorHeroico
+HeroicDolphin	Br/GolfinhoHeroico
+HeroicResolve	Br/DeterminacaoHeroica
+HeroicSeductress	Br/SedutoraHeroica
+HorrifyingHero	Br/HeroiHorripilante

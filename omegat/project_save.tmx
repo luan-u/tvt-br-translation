@@ -1672,6 +1672,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AllLovingHero: A good guy who's kind to everybody.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T142522Z" creationid="Luan" creationdate="20240318T142522Z">
+        <seg>* Br/HeroiTodoAmoroso: Um cara legal que é gentil com todos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AllLovingHero: The hero loves everyone.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T220450Z" creationid="Luan" creationdate="20240313T220450Z">
@@ -9182,6 +9190,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheAlliance: Union of good nations against a common enemy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T142548Z" creationid="Luan" creationdate="20240318T142548Z">
+        <seg>* Br/AAlianca: União de boas nações contra um inimigo comum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheAntiNihilist: A character who knows how terrible the world is, but instead of succumbing to despair, decides to create meaning, values and purpose in life out of it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T135742Z" creationid="Luan" creationdate="20240318T135742Z">
@@ -9554,6 +9570,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034712Z" creationid="Luan" creationdate="20240314T034712Z">
         <seg>* Br/OModelo: Um herói encoraja outros a ajudarem a si mesmos e/ou a buscar grandeza em suas habilidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheParagon: The hero who encourages others to be more heroic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T142417Z" creationid="Luan" creationdate="20240318T142417Z">
+        <seg>* Br/OExemplo: O herói que encoraja outros a serem mais heroicos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18317,6 +18341,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T224613Z" creationid="Luan" creationdate="20240131T224613Z">
         <seg>Costuma ser pulado pelos botões no elevador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Often willing to give even nasty villains another chance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T142530Z" creationid="Luan" creationdate="20240318T142530Z">
+        <seg>Muitas vezes disposto a dar outra chance até mesmo aos vilões desagradáveis.</seg>
       </tuv>
     </tu>
     <tu>

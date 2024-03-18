@@ -3141,3 +3141,9 @@ AscendedDemon	Br/DemonioAscendido
 AmateurSleuth	Br/DetetiveAmador
 BenevolentDictator	Br/DitadorBenevolente
 AntiHeroTeam	Br/EquipeDeAntiHerois
+BespectacledCutie	Br/FofinhaDeOculos
+BarbarianHero	Br/HeroiBarbarico
+BenevolentAI	Br/IABenevolente
+BenevolentPrecursors	Br/PrecursoresBenevolentes
+AntiHeroSubstitute	Br/SubstitutoDoAntiHeroi
+WarHero	Br/HeroiDeGuerra

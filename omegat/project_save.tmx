@@ -2823,6 +2823,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* CaptainSpaceDefenderOfEarth: A parody of space opera heroes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T220753Z" creationid="Luan" creationdate="20240318T220753Z">
+        <seg>* Br/CapitaoEspacoDefensorDaTerra: Uma paródia dos heróis de ópera espacial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* CaptainSuperhero: A superhero named Captain ________.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T151952Z" creationid="Luan" creationdate="20240318T151952Z">
@@ -2875,6 +2883,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T212227Z" creationid="Luan" creationdate="20240313T212227Z">
         <seg>* Br/ArcanjosEModelosCelestiais: Os mocinhos angélicos mais elevados e poderosos que existem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CelibateHero: A hero who is not interested in pursuing romantic/sexual relationships for some reason or another.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T220831Z" creationid="Luan" creationdate="20240318T220831Z">
+        <seg>* Br/HeroiCelibatario: Um herói que não está interessado em perseguir relacionamentos românticos ou sexuais por algum motivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2949,6 +2965,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231216T211840Z" creationid="Luan" creationdate="20231216T211840Z">
         <seg>* Br/DescarrilhamentoDePersonagem: O personagem muda de personalidade sem explicação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ChasteHero: A hero who is oblivious to the feelings of someone who is in love with them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T221131Z" creationid="Luan" creationdate="20240318T221131Z">
+        <seg>* Br/HeroiCasto: Um herói que é alheio aos sentimentos de alguém que está apaixonado por ele.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3479,6 +3503,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* DarkIsNotEvil: Being associated with darkness doesn't make the character less of a hero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T221442Z" creationid="Luan" creationdate="20240318T221442Z">
+        <seg>* Br/AsTrevasNaoSaoMas: Estar associado com as trevas não torna o personagem menos herói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* DarkShepherd: A character gives out threats of punishments to discourage immoral behavior.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T211301Z" creationid="Luan" creationdate="20240313T211301Z">
@@ -3843,6 +3875,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* EarthyBarefootCharacter: A character who is [[NatureLover close to nature]] is regularly seen barefoot.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T221524Z" creationid="Luan" creationdate="20240318T221524Z">
+        <seg>* Br/PersonagemTerrenoEDescalco: Um personagem que é [[Br/AmanteDaNatureza próximo da natureza]] é regularmente visto descalço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* EarthyBarefootCharacter: More dual or nature dwelling characters tend to go barefoot and people who go barefoot tend to be more [[NatureLover in touch with nature]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T212459Z" creationid="Luan" creationdate="20240313T212459Z">
@@ -3953,6 +3993,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T153313Z" creationid="Luan" creationdate="20240125T153313Z">
         <seg>* Br/PrisaoEpifanica: Para sair, tenha uma epifania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* EternalHero: The hero has existed for eons and will likely continue existing for eons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T221630Z" creationid="Luan" creationdate="20240318T221630Z">
+        <seg>* Br/HeroiEterno: O herói existiu por eras e provavelmente continuará existindo por muito mais eras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9798,6 +9846,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T145751Z" creationid="Luan" creationdate="20240125T145751Z">
         <seg>* Br/OSofa: É muito macio e fica sempre no centro do palco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheCowl: The archetypal superhero who works in the shadows, codified by ComicBook/{{Batman}}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T221410Z" creationid="Luan" creationdate="20240318T221410Z">
+        <seg>* Br/OEncapuzado: O super herói arquetípico que trabalha nas sombras, codificado pelo BrQuadrinhos/{{Batman}}.</seg>
       </tuv>
     </tu>
     <tu>

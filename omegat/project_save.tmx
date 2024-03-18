@@ -2122,6 +2122,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BadassUnintentional: The hero is completely oblivious of their great power.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T215725Z" creationid="Luan" creationdate="20240318T215725Z">
+        <seg>* Br/FodaoNaoIntencional: O herói está completamente alheio ao seu grande poder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BagOfSpilling: In a video game sequel, a character won't keep what they collected in the previous game.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143408Z" creationid="Luan" creationdate="20240105T143408Z">
@@ -2302,6 +2310,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BenevolentAbomination: An EldritchAbomination with good, or at least non-malevolent, intentions towards humanity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T215808Z" creationid="Luan" creationdate="20240318T215808Z">
+        <seg>* Br/AbominacaoBenevolente: Uma Br/AbominacaoSobrenatural com boas intenções (ou pelo menos não-maliciosas) para com a humanidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BenevolentBoss: A boss who cares a lot about their employees and their well-being.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T145516Z" creationid="Luan" creationdate="20240318T145516Z">
@@ -2418,6 +2434,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T224310Z" creationid="Luan" creationdate="20240313T224310Z">
         <seg>* Br/GrandeEgoProfundidadeEscondida: Uma pessoa compassiva que se esconde atrás de um comportamento arrogante, ou um personagem orgulhoso que mesmo assim possui boas qualidades morais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BigEgoHiddenDepths: There's more to an arrogant character than one would realize.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T215913Z" creationid="Luan" creationdate="20240318T215913Z">
+        <seg>* Br/GrandeEgoProfundidadeEscondida: Existe mais coisas sobre um personagem arrogante do que se poderia imaginar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2663,6 +2687,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BullyHunter: A character who is quick to give bullies their comeuppance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T215958Z" creationid="Luan" creationdate="20240318T215958Z">
+        <seg>* Br/CacadorDeValentoes: Um personagem que é rápido em dar aos valentões o que eles merecem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ButNotTooEvil: The villains can't do things that are too evil, lest the work be too shocking or controversial.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231216T211506Z" creationid="Luan" creationdate="20231216T211506Z">
@@ -2699,6 +2731,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T160513Z" creationid="Luan" creationdate="20240125T160513Z">
         <seg>* Br/UniversidadeCalifornia: Quando os garotos de um drama de Br/EscolaDeEnsinoMedio ficam velhos demais para transmitirem credibilidade, a maioria deles vem estudar aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CallToAdventure: The story's hero learns they must do something, leading them to decide whether they should embark on an adventure or not.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T220243Z" creationid="Luan" creationdate="20240318T220243Z">
+        <seg>* Br/ChamadoParaAAventura: O herói da história descobre que precisa fazer algo, o que o leva a decidir se deveria ou não embarcar em uma aventura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9646,6 +9686,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheBigGuy: The physically strongest member of the group.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T215928Z" creationid="Luan" creationdate="20240318T215928Z">
+        <seg>* Br/OGrandao: O membro mais forte do grupo fisicamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheBigRottenApple: Where New York is a squalid decaying crime-ridden Hell on Earth.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T150615Z" creationid="Luan" creationdate="20240131T150540Z">
@@ -9676,6 +9724,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T210411Z" creationid="Luan" creationdate="20240313T210411Z">
         <seg>* Br/ACapa: O super-herói clássico dedicado a proteger os inocentes, defender a verdade, a justiça, etc.
 * Br/CapitaoSuperHeroi: Um super-herói chamado Capitão ________.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheCaptain: The person in charge of and responsible for a vessel, its crew, passengers, and everything that happens with it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T220313Z" creationid="Luan" creationdate="20240318T220313Z">
+        <seg>* Br/OCapitao: A pessoa no comando e responsável por uma embarcação, sua tripulação, passageiros e tudo que acontece nela.</seg>
       </tuv>
     </tu>
     <tu>

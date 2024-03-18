@@ -3133,3 +3133,11 @@ AllAmericanFace	Br/RostoTodoAmericano
 TheAntichrist	Br/OAnticristo
 AntiAntichrist	Br/AntiAnticristo
 LegacyCharacter	Br/PersonagemLegado
+BaldMystic	Br/CalvoMistico
+BaldOfAuthority	Br/CalvoDeAutoridade
+BatmanColdOpen	Br/AberturaBatman
+BenevolentBoss	Br/ChefeBenevolente
+AscendedDemon	Br/DemonioAscendido
+AmateurSleuth	Br/DetetiveAmador
+BenevolentDictator	Br/DitadorBenevolente
+AntiHeroTeam	Br/EquipeDeAntiHerois

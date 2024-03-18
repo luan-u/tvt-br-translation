@@ -1382,6 +1382,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AFatherToHisMen: A leader in the military is seen as a fatherly figure by his soldiers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T221752Z" creationid="Luan" creationdate="20240318T221752Z">
+        <seg>* Br/UmPaiParaSeusHomens: Um líder nas forças armadas é visto como figura paterna pelos seus soldados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AFoolAndHisNewMoneyAreSoonParted: A character suddenly comes into wealth and it is quickly lost, spent, or stolen, especially if the character is established as [[PerpetualPoverty always hard-up for money]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T154739Z" creationid="Luan" creationdate="20231208T154739Z">
@@ -4177,6 +4185,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FakeDefector: A character who fakes a FaceHeelTurn to get closer to the villain.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T221706Z" creationid="Luan" creationdate="20240318T221706Z">
+        <seg>* Br/PseudoDesertor: Um personagem que finge Br/PassarParaOLadoDosViloes para se aproximar do vilão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* FakeTown: A fake town or city built to look like a real one.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T132737Z" creationid="Luan" creationdate="20240202T132737Z">
@@ -4257,10 +4273,28 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FarmBoy: When the hero is just a simple peasant from the countryside.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T221728Z" creationid="Luan" creationdate="20240318T221728Z">
+        <seg>* Br/GarotoDoCampo: Quando o herói é um simples camponês do interior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* FatCamp: A summer camp where parents send overweight kids to diet and to get off their butts and go outside.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T132918Z" creationid="Luan" creationdate="20240202T132918Z">
         <seg>* Br/AcampamentoDeGordos: Um acampamento de verão para onde os pais mandam seus filhos para fazerem dieta e tirarem o traseiro da cadeira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FauxActionGirl
+* TheFettered: The hero's strength is their moral limitations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T221823Z" creationid="Luan" creationdate="20240318T221823Z">
+        <seg>* Br/PseudoGarotaDeAcao
+* Br/OAcorrentado: A força do herói são suas limitações morais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4309,6 +4343,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145555Z" creationid="Luan" creationdate="20240105T145555Z">
         <seg>* Br/APrimeiraEntradaVence: Certa obra recebe uma ou mais sequências, mas o original é aquele que todo mundo lembra e ama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FirstPersonSmartass
+* FiveManBand: Most hero teams tend to fit into this classic mold.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T221856Z" creationid="Luan" creationdate="20240318T221856Z">
+        <seg>* Br/EngracadinhoEmPrimeiraPessoa
+* Br/GrupoDeCincoCaras: A maioria das equipes heroicas se encaixa nesse padrão clássico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4393,6 +4437,24 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FolkHero: A hero who became the subject of popular myths and legends, [[ShroudedInMyth though certain aspects of their reputation may have been greatly exaggerated]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T222006Z" creationid="Luan" creationdate="20240318T222006Z">
+        <seg>* Br/HeroiFolclorico: Um herói que se tornou assunto de mitos e lendas populares, [[Br/EnvoltoEmMito apesar de certos aspectos de sua reputação terem sido muito exagerados]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ForGreatJustice: The good guys' motive is "justice", "goodness", etc.
+* FriendInThePress: A Journalist who holds an amicable relationship with the detective, and who can provide them with assistance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T222054Z" creationid="Luan" creationdate="20240318T222054Z">
+        <seg>* Br/PelaGrandeJustica: O motivo dos mocinhos é "justiça", "bondade", etc.
+* Br/AmigoNaImprensa: Um jornalista que possui uma relação amigável com o detetive e que pode dar apoio a ele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ForGreatJustice: The heroes' motives are unspecified values of "justice", "goodness", etc.
 ** JusticeWillPrevail: A character confirms their commitment to justice.</seg>
       </tuv>
@@ -4451,6 +4513,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FriendOnTheForce: A police officer who is quite amicable with the PrivateDetective or AmateurSleuth, and who can provide them with assistance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T222134Z" creationid="Luan" creationdate="20240318T222134Z">
+        <seg>* Br/AmigoNasForcas: Um policial que tem uma relação amistosa com o Br/DetetiveParticular ou o Br/DetetiveAmador e que pode fornecer assistência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* FriendToAllChildren: A hero who cares deeply for and protects kids.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T160620Z" creationid="Luan" creationdate="20240318T160545Z">
@@ -4491,6 +4561,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FriendlyGhost: A friendly ghost.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T222151Z" creationid="Luan" creationdate="20240318T222151Z">
+        <seg>* Br/FantasmaAmigavel: Um fantasma amigável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* FriendlyLocalChinatown: Sections of large American cities where Chinese culture can be found close at hand.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T133721Z" creationid="Luan" creationdate="20240202T133721Z">
@@ -4499,10 +4577,34 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FriendlyNeighborhoodSpider: Spiders portrayed as friendly, well-disposed and heroic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T222237Z" creationid="Luan" creationdate="20240318T222237Z">
+        <seg>* Br/AranhaAmigavelDaVizinhanca: Aranhas retratadas como amigáveis, bem dispostas e heroicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* FriendlyNeighborhoodVampire: A benevolent vampire.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T160638Z" creationid="Luan" creationdate="20240318T160638Z">
         <seg>* Br/VampiroAmigavelDaVizinhanca: Um vampiro benevolente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FriendlySkeleton: An undead skeleton that is nice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T222255Z" creationid="Luan" creationdate="20240318T222255Z">
+        <seg>* Br/EsqueletoAmigavel: Um esqueleto morto-vivo que é legal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FriendlyZombie: A zombie who is nice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T222309Z" creationid="Luan" creationdate="20240318T222309Z">
+        <seg>* Br/ZumbiAmigavel: Um zumbi que é amigável.</seg>
       </tuv>
     </tu>
     <tu>

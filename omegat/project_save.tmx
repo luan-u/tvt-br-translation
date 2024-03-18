@@ -2106,6 +2106,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BadPowersGoodPeople: A hero has superpowers that are usually associated with villains.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T151856Z" creationid="Luan" creationdate="20240318T151856Z">
+        <seg>* Br/PoderesRuinsPessoasBoas: Um herói tem superpoderes que geralmente são associados a vilões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BadassPacifist: While they would never beat the crap out of their enemies, they're brave enough to stand up for their beliefs anyways.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T140127Z" creationid="Luan" creationdate="20240318T140127Z">
@@ -7261,6 +7269,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* PragmaticHero: A hero who does morally questionable deeds for the greater good.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T151748Z" creationid="Luan" creationdate="20240318T151748Z">
+        <seg>* Br/HeroiPragmatico: Um herói que faz coisas questionáveis em nome do bem maior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* PragmaticHero: Characters who resort to morally ambiguous methods to get positive results for the greater good.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034902Z" creationid="Luan" creationdate="20240314T034902Z">
@@ -7413,6 +7429,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* RedshirtArmy
+* TheRedeemer: The hero reforms a majority of villains they meet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T151435Z" creationid="Luan" creationdate="20240318T151435Z">
+        <seg>* Br/ExercitoDeCamisasVermelhas
+* Br/ORedentor: O herói corrije a maioria dos vilões que ele encontra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ReedRichardsIsUseless: Fantastic technology is only used as a plot device, and barely affects the lives of the unnamed masses.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T150000Z" creationid="Luan" creationdate="20231208T150000Z">
@@ -7449,6 +7475,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T192650Z" creationid="Luan" creationdate="20240105T192650Z">
         <seg>* Br/RecusouOSegundoChamado: O herói da história original está disponível para ajudar a salvar o dia, mas se recusa a ajudar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ReluctantWarrior: Heroes who only fight when it's absolutely necessary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T151413Z" creationid="Luan" creationdate="20240318T151413Z">
+        <seg>* Br/GuerreiroRelutante: Heróis que só lutam quando é absolutamente necessário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8942,6 +8976,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TechnicalPacifist: A pacifist who is fine with using violence so long as it's non-lethal, or will only commit lethal violence as an absolute last resort.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T151333Z" creationid="Luan" creationdate="20240318T151333Z">
+        <seg>* Br/TecnicamentePacifista: Um pacifista que não vê problemas em usar violência desde que não seja letal, ou que só comete violência letal como último recurso absoluto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TechnoDystopia
 * TelevisionGeography
 * TerminallyDependentSociety
@@ -9450,6 +9492,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T151128Z" creationid="Luan" creationdate="20240131T151128Z">
         <seg>* Br/APonte: Onde o pessoal de uma obra sci-fi se junta para [[Br/TodosEncontramATodos se conhecerem entre si]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheCape: The archetypal superhero codified by ComicBook/{{Superman}}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T151925Z" creationid="Luan" creationdate="20240318T151925Z">
+        <seg>* Br/ACapa: O super herói arquetípico que é codificado pelo BrQuadrinhos/{{Superman}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10012,6 +10062,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TokenGoodTeammate: The only nice person among a gang of scoundrels.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T151243Z" creationid="Luan" creationdate="20240318T151243Z">
+        <seg>* Br/ParceiroCotistaDoBem: A única pessoa boa em uma gangue de patifes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TokenHeroicOrc: The only heroic member of [[AlwaysChaoticEvil a species that is (otherwise) evil]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240315T012042Z" creationid="Luan" creationdate="20240315T012042Z">
@@ -10060,6 +10118,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TookALevelInKindness: Characters become nicer over time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T151210Z" creationid="Luan" creationdate="20240318T151210Z">
+        <seg>* Br/SubiuDeNivelEmBondade: Personagens se tornam mais legais com o tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TortureCellar: The room in which unspeakable things are done to captives.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T213933Z" creationid="Luan" creationdate="20240221T213933Z">
@@ -10088,6 +10154,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T213707Z" creationid="Luan" creationdate="20240221T213707Z">
         <seg>* Br/CidadeComUmSegredoSombrio: Todos na cidade sabem de algum segredo que o herói desconhece.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TragicHero: A hero who's motivated by their DarkAndTroubledPast, or has otherwise suffered great hardship.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T151158Z" creationid="Luan" creationdate="20240318T151158Z">
+        <seg>* Br/HeroiTragico: Um herói que é motivado por seu Br/PassadoSombrioEComplicado ou que sofreu muitas dificuldades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10254,6 +10328,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* UnfazedEveryman
+* UnintentionallyKarmic: They save the day and ruin things for the bad guy…but not on purpose.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T151134Z" creationid="Luan" creationdate="20240318T151134Z">
+        <seg>* Br/SujeitoInabalavel
+* Br/KarmicoNaoIntencional: Eles salvam o dia e arruinam as coisas para o cara mau... mas não de propósito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* UnholyGround
 * UnitedEurope: Europe is one, united superpower, acting as a single unit.</seg>
       </tuv>
@@ -10268,6 +10352,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T173204Z" creationid="Luan" creationdate="20240314T173204Z">
         <seg>* Br/KarmicoNaoIntencional: um personagem Br/EstupidoEBom ou Br/InocentementeInsensivel que é sempre gentil com um babaca e tenta agradá-lo ou se tornar um amigo, mas suas tentativas dão errado para o cara mau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* UnlikelyHero: Nobody really expects them to rise up to the challenge of saving the day.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T151028Z" creationid="Luan" creationdate="20240318T151028Z">
+        <seg>* Br/HeroiImprovavel: Ninguém espera que ele surja para aceitar o desafio de salvar o dia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10292,6 +10384,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T151318Z" creationid="Luan" creationdate="20231208T151318Z">
         <seg>* Br/DemissaoNaoProcessada: Um personagem larga o emprego, no entanto consegue recuperá-lo no final do episódio porque o chefe se recusou a processar a papelada requerida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* UnscrupulousHero: A hero who is considered one because the villains are worse than him.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T151110Z" creationid="Luan" creationdate="20240318T151110Z">
+        <seg>* Br/HeroiInescrupuloso: Um herói que é considerado como um porque os vilões são piores que ele.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10385,6 +10485,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T031922Z" creationid="Luan" creationdate="20240314T031922Z">
         <seg>* Br/VirtudeEFraqueza
 * Br/VegetarianismoVirtuoso: A recusa de um personagem em consumir carne é usada como símbolo de bondade interior ou pureza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* VirtuousBees: Thanks to their gentle character, work ethic, and their willingness to sacrifice themselves for the greater good, bees are seen as virtuous and noble insects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T151001Z" creationid="Luan" creationdate="20240318T151001Z">
+        <seg>* Br/AbelhasVirtuosas: Graças à sua personalidade gentil, ética trabalhista e disposição em se sacrificar pelo bem maior, abelhas são vistas como insetos virtuosos e nobres.</seg>
       </tuv>
     </tu>
     <tu>

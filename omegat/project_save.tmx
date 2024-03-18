@@ -1722,6 +1722,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AlwaysLawfulGood: An entire race of completely benign beings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T150430Z" creationid="Luan" creationdate="20240318T150430Z">
+        <seg>* Br/SempreLealEBom: Uma raça inteira de seres completamente benignos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AmateurSleuth: A character that solves mysteries, despite solving mysteries not being what they're usually expected to do.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T145754Z" creationid="Luan" creationdate="20240318T145754Z">
@@ -1902,6 +1910,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204035Z" creationid="Luan" creationdate="20240313T204035Z">
         <seg>* Br/AntiHeroi: Um herói que não é exatamente totalmente limpo e tem algumas falhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* AntiHeroSubstitute: A heroic character is [[LegacyCharacter replaced]] by a [[DarkerAndEdgier darker]] replacement who adopts the hero's mantle.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T150538Z" creationid="Luan" creationdate="20240318T150538Z">
+        <seg>* Br/SubstitutoDoAntiHeroi: Um personagem heróico é [[Br/PersonagemLegado substituído]] por um substituto [[Br/MaisSombrioEPesado mais sombrio]] que adota o manto do herói.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2148,6 +2164,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BarbarianHero: A "savage" warrior who's rather brave and noble.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T150216Z" creationid="Luan" creationdate="20240318T150216Z">
+        <seg>* Br/HeroiBarbarico: Um guerreiro "selvagem" bastante corajoso e nobre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BaseOnWheels: How is it possible to keep an entire city on wheels that can drive anywhere, even submerge?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T220502Z" creationid="Luan" creationdate="20240124T220502Z">
@@ -2262,6 +2286,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BenevolentAI: When ArtificialIntelligence and[=/=]or robots care for the well-being of their creators and other living individuals rather than turn against them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T150245Z" creationid="Luan" creationdate="20240318T150245Z">
+        <seg>* Br/IABenevolente: Quando a Inteligência Artificial e/ou robôs cuidam do bem-estar de seus criadores e de outros indivíduos vivos, em vez de se voltarem contra eles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BenevolentBoss: A boss who cares a lot about their employees and their well-being.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T145516Z" creationid="Luan" creationdate="20240318T145516Z">
@@ -2294,6 +2326,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BenevolentGenie: A genie that gives their masters their wish, with the best possible interpretation for them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T145942Z" creationid="Luan" creationdate="20240318T145942Z">
+        <seg>* Br/GenioBenevolente: Um gênio que realiza o desejo de seus mestres, com a melhor interpretação possível para eles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BenevolentGenie: A genie whose only concern is that their master is safe and satisfied with the wishes granted.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204518Z" creationid="Luan" creationdate="20240313T204518Z">
@@ -2306,6 +2346,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T220627Z" creationid="Luan" creationdate="20240313T220627Z">
         <seg>* Br/GovernanteMagoBenevolente: Conjuradores governando os outros com sabedoria e justiça.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BenevolentPrecursors: The {{Precursors}} were actually good people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T150411Z" creationid="Luan" creationdate="20240318T150411Z">
+        <seg>* Br/PrecursoresBenevolentes: Br/OsPrecursores eram na verdade pessoas boas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BespectacledCutie: A pleasant girl who wears glasses tends to be on the heroes' side.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T150045Z" creationid="Luan" creationdate="20240318T150045Z">
+        <seg>* Br/FofinhaDeOculos: Uma garota simpática que usa óculos tende a estar do lado dos heróis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2382,10 +2438,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BigFun: An overweight character is fun, lovable, and funny.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T150602Z" creationid="Luan" creationdate="20240318T150602Z">
+        <seg>* Br/GrandaoDivertido: Um personagem com excesso de peso é divertido, adorável e engraçado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BigGood: The highest-ranking force of good in the work.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T220714Z" creationid="Luan" creationdate="20240313T220714Z">
         <seg>* Br/GrandeBem: A força do bem de mais alto nível na obra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BigGood: The most powerful and significant force of good who exists in the story.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T150103Z" creationid="Luan" creationdate="20240318T150103Z">
+        <seg>* Br/GrandeBem: A força do bem mais poderosa e significativa que existe na história.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10317,6 +10389,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* VirtuousVegetarianism: A character's refusal to eat meat is used as a symbol of inner goodness or purity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T150917Z" creationid="Luan" creationdate="20240318T150917Z">
+        <seg>* Br/VegetarianismoVirtuoso: A recusa de um personagem em consumir carne é usada como símbolo de bondade interior ou pureza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* VolcanoLair: A SupervillainLair in a (usually inactive) volcano.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T222833Z" creationid="Luan" creationdate="20240124T222833Z">
@@ -10337,6 +10417,30 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T173416Z" creationid="Luan" creationdate="20240314T173416Z">
         <seg>* Br/AcordarIrPraEscolaSalvarOMundo: Um Br/HeroiGaroto tem tantos problemas em lidar com as pressões sociais da vida escolar quanto em salvar o mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* WakeUpGoToSchoolSaveTheWorld: Young heroes have to balance their school life with fighting evil.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T150846Z" creationid="Luan" creationdate="20240318T150846Z">
+        <seg>* Br/AcordarIrPraEscolaSalvarOMundo: Heróis jovens precisam equilibrar a vida escolar com o combate ao mal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* WarHero: A character who served/serves in the military and been decorated for heroism on the battlefield.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T150810Z" creationid="Luan" creationdate="20240318T150810Z">
+        <seg>* Br/HeroiDeGuerra: Um personagem que serve/serviu nas forças armadas e foi condecorado por heroísmo nos campos de batalha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* WeHelpTheHelpless: Heroes will lend a hand to anyone in need of their help.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T150826Z" creationid="Luan" creationdate="20240318T150826Z">
+        <seg>* Br/NosAmparamosOsDesamparados: Heróis estendem a mão para qualquer um que necessite de sua ajuda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10489,6 +10593,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* WhiteMansBurden: A white character sets out to help improve the lives of a (usually racial) minority.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T150738Z" creationid="Luan" creationdate="20240318T150738Z">
+        <seg>* Br/FardoDoHomemBranco: Um personagem branco embarca em uma jornada para melhorar as vidas de uma minoria (geralmente racial).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* WhiteSheep: A good character who rebels against their evil family.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T173649Z" creationid="Luan" creationdate="20240314T173649Z">
@@ -10541,6 +10653,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T023956Z" creationid="Luan" creationdate="20240314T023956Z">
         <seg>* Br/ComGrandesPoderesVemGrandesResponsabilidades: Um herói usa seus poderes e habilidades para defender os fracos e oprimidos ao invés de usá-los para benefício próprio ou para vingança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* WithGreatPowerComesGreatResponsibility: The newcomer hero realizes that they should use their powers to protect and help people rather than for personal gain.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T150704Z" creationid="Luan" creationdate="20240318T150704Z">
+        <seg>* Br/ComGrandesPoderesVemGrandesResponsabilidades: O herói novato compreende que ele deve usar seus poderes para proteger e ajudar pessoas ao invés de visar ganhos pessoais.</seg>
       </tuv>
     </tu>
     <tu>

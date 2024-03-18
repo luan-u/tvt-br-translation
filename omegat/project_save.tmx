@@ -3123,8 +3123,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>* ClassicalAntiHero: A mostly noble hero who suffers from flaws and hindrances that must be overcome.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240313T210210Z" creationid="Luan" creationdate="20240313T210210Z">
-        <seg>* Br/AntiHeroiClassico: Um herói principalmente nobre que sofre de falhas e obstáculos que devem ser superados.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T222554Z" creationid="Luan" creationdate="20240313T210210Z">
+        <seg>* Br/AntiHeroiClassico: Um herói nobre no geral que sofre de falhas e obstáculos que devem ser superados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4633,6 +4633,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FromZeroToHero: A character starts as a nobody, and rises up in the world through their heroic deeds.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T222650Z" creationid="Luan" creationdate="20240318T222650Z">
+        <seg>* Br/DeZeroAHeroi: Um personagem vem do nada e ascende no mundo graças a seus feitos heroicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* FunPersonified: A character taking a role as a mood-maker who shields others from feelings of despair or doom and generally prevents the plot from getting overly grim.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T035523Z" creationid="Luan" creationdate="20240314T035523Z">
@@ -4693,6 +4701,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032432Z" creationid="Luan" creationdate="20240314T032432Z">
         <seg>* Br/GiganteGentil: Uma pessoa muito alta que é amigável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GentlemanAndAScholar: A hero who manages to be both highly intelligent and a well adjusted, socially engaging and charming person.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T222721Z" creationid="Luan" creationdate="20240318T222721Z">
+        <seg>* Br/CavalheiroECulto: Um herói que consegue ao mesmo tempo ser muito inteligente e uma pessoa encantadora e bem-ajustada na sociedade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4817,6 +4833,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GoldAndWhiteAreDivine: Gold and White are considered divine colors and usually used by the heroes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T222808Z" creationid="Luan" creationdate="20240318T222808Z">
+        <seg>* Br/BrancoEDouradoSaoDivinos: Branco e dourado são consideradas cores divinas e costumam ser usadas pelos heróis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GoldAndWhiteAreDivine: Gold and white are considered benign colors.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032808Z" creationid="Luan" creationdate="20240314T032808Z">
@@ -4829,6 +4853,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T130313Z" creationid="Luan" creationdate="20240314T130313Z">
         <seg>* Br/BomOTempoTodo: Um personagem que parece ser do mal a princípio é demonstrado depois como sendo parte dos caras bons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GoodAllAlong: Someone assumed to be a bad guy was really a good guy this whole time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T222748Z" creationid="Luan" creationdate="20240318T222748Z">
+        <seg>* Br/BomOTempoTodo: Alguém que se supunha ser um cara mau na verdade era um cara bom esse tempo todo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4885,6 +4917,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GoodGuyBar: A place for heroes to hang out after saving the day, just right across the street from the BadGuyBar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T222837Z" creationid="Luan" creationdate="20240318T222837Z">
+        <seg>* Br/BarDosMocinhos: Um lugar para os heróis passarem tempo após salvar do dia, que fica do lado oposto da rua a um Br/BarDosMalvados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GoodGuyBar: Where the heroes hang out after hours.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T143632Z" creationid="Luan" creationdate="20240118T143632Z">
@@ -4915,10 +4955,34 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GoodIsNotDumb: A character who is good gets underestimated because of it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223002Z" creationid="Luan" creationdate="20240318T223002Z">
+        <seg>* Br/SerBomNaoESerBurro: Um personagem que é bom é subestimado por causa disso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GoodIsNotNice: A hero who acts like a {{jerk|ass}} most of the time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223021Z" creationid="Luan" creationdate="20240318T223021Z">
+        <seg>* Br/SerBomNaoESerBonzinho: Um herói que age como um Br/{{babaca}} na maior parte do tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GoodIsNotNice: Being the good guy does not mean that you are not a jerk.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033138Z" creationid="Luan" creationdate="20240314T033138Z">
         <seg>* Br/SerBomNaoESerBonzinho: Ser o cara bom não significa que você não seja um babaca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GoodIsNotSoft: A hero who has no qualms about severely punishing villains.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223036Z" creationid="Luan" creationdate="20240318T223036Z">
+        <seg>* Br/SerBomNaoESerMole: Um herói que não tem reservas em relação a punir severamente os vilões.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4957,6 +5021,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GoodParents: Parents who do a pretty good job of protecting and raising their children.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223110Z" creationid="Luan" creationdate="20240318T223110Z">
+        <seg>* Br/PaisBons: Pais que fazem um bom trabalho em proteger e criar seus filhos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GoodPaysBetter
 * GoodProstheticEvilProsthetic
 * GoodRunningEvil
@@ -4971,12 +5043,28 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GoodSamaritan: A person does a good deed simply for others' well-being.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223130Z" creationid="Luan" creationdate="20240318T223130Z">
+        <seg>* Br/BomSamaritano: Uma pessoa faz uma boa ação apenas por querer o bem estar de outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GoodScarsEvilScars
 * GoodShepherd: A priest who only wants what is best for his people.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T132258Z" creationid="Luan" creationdate="20240314T132258Z">
         <seg>* Br/CicatrizesBoasCicatrizesMas
 * Br/BomPastor: Um padre/sacerdote/etc que só quer o que é melhor para o seu povo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GoodShepherd: A religious leader who is also a good person.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223140Z" creationid="Luan" creationdate="20240318T223140Z">
+        <seg>* Br/BomPastor: Um líder religioso que também é uma boa pessoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5001,12 +5089,28 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GoodVersusGood: Where two heroes are in conflict against each other.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223153Z" creationid="Luan" creationdate="20240318T223153Z">
+        <seg>* Br/BemContraBem: Quando dois heróis estão em conflito entre si.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GoodWeaponEvilWeapon
 * GoodWearsWhite: Heroic characters dress in white clothing.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T132454Z" creationid="Luan" creationdate="20240314T132454Z">
         <seg>* Br/ArmaBoaArmaMa
 * Br/OBemVesteBranco: Personagens heróicos se vestem com roupas brancas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GoodWearsWhite: Heroic characters dress in white clothing to symbolize their goodness.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223210Z" creationid="Luan" creationdate="20240318T223210Z">
+        <seg>* Br/OBemVesteBranco: Personagens heroicos se vestem em roupas brancas para simbolizar sua bondade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5077,10 +5181,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GreaterScopeParagon: A heroic being who is indirectly responsible for the heroes existing or being involved in their mission, but is not directly involved with the story.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223309Z" creationid="Luan" creationdate="20240318T223309Z">
+        <seg>* Br/ModeloDeMaiorEscopo: Um ser heroico que indiretamente é responsável pela existência dos heróis ou pela missão deles, mas que não está diretamente envolvido com a história.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GuardianOfTheMultiverse: The being who makes sure that TheMultiverse is neither conquered nor destroyed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T160926Z" creationid="Luan" creationdate="20240318T160926Z">
         <seg>* Br/GuardiaoDoMultiverso: O ser que se certifica que Br/OMultiverso não seja conquistado nem destruído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GuileHero: A hero who relies on saving the day with his wits and quick thinking.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223325Z" creationid="Luan" creationdate="20240318T223325Z">
+        <seg>* Br/HeroiAstuto: Um herói que salva o dia com sua astúcia e pensamento rápido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5129,6 +5249,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T153615Z" creationid="Luan" creationdate="20240125T153615Z">
         <seg>* Br/QuartelGeneralAssombrado: Um lugar assustador onde há monstros e você está preso lá vivendo ou trabalhando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HauntedHeroine: A heroine haunted equally by her own past and the uncanny events around her.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223429Z" creationid="Luan" creationdate="20240318T223429Z">
+        <seg>* Br/HeroinaAssombrada: Uma heroína que é assombrada tanto pelo próprio passado quanto pelos eventos sinistros no entorno dela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5197,6 +5325,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeelFaceTurn: The villain becomes a hero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223445Z" creationid="Luan" creationdate="20240318T223445Z">
+        <seg>* Br/PassarParaOLadoDosMocinhos: O vilão se torna um herói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HeinousnessRetcon: A returning villain's crimes or personality are retconned to make them better/worse than originally established.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T203603Z" creationid="Luan" creationdate="20231215T203603Z">
@@ -5227,6 +5363,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T181113Z" creationid="Luan" creationdate="20240314T181113Z">
         <seg>* Br/AjudarAVovoAAtravessarARua
 * Br/LadoBomImpotente: A personalidade boa não consegue fazer nada para manter a personalidade má sob controle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HelplessGoodSide: The good personality hardly does anything to keep the evil personality in check.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223512Z" creationid="Luan" creationdate="20240318T223512Z">
+        <seg>* Br/LadoBomImpotente: A personalidade boa raramente faz algo para manter a personalidade má sob controle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10042,10 +10186,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheGoodGuysAlwaysWin: As a near-universal rule of fiction, the heroes must always defeat the villains and save the day in the end ([[TheBadGuyWins with some rare exceptions]]).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T222914Z" creationid="Luan" creationdate="20240318T222914Z">
+        <seg>* Br/OsBonzinhosSempreVencem: Como uma regra quase universal da ficção, os heróis sempre devem derrotar os vilões e salvar o dia no fim ([[Br/OCaraMauVence com algumas raras exceções]]).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheGoodGuysAlwaysWin: The near-universal rule that the bad guys must always lose.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T145117Z" creationid="Luan" creationdate="20231208T145117Z">
         <seg>* Br/OsBonzinhosSempreVencem: A regra quase universal de que os malvados sempre devem perder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheGoodKing: A monarch who honestly wants what's best for his people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223055Z" creationid="Luan" creationdate="20240318T223055Z">
+        <seg>* Br/OReiBondoso: Um monarca que legitimamente quer o melhor para o seu povo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10070,6 +10230,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T161835Z" creationid="Luan" creationdate="20240201T161835Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheGunslinger
+* HairOfGoldHeartOfGold: A good guy/girl with blonde hair.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223354Z" creationid="Luan" creationdate="20240318T223330Z">
+        <seg>* Br/OPistoleiro
+* Br/CabeloDeOuroCoracaoDeOuro: Um cara bom ou moça boa com cabelo loiro.</seg>
       </tuv>
     </tu>
     <tu>

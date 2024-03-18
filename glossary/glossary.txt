@@ -3204,3 +3204,4 @@ IndianMaiden	Br/DonzelaIndigena
 IronLady	Br/DamaDeFerro
 ItSucksToBeTheChosenOne	Br/SerOEscolhidoEUmaDroga
 ALighterShadeOfGrey	Br/UmTomMaisClaroDeCinza
+ByronicHero	Br/HeroiByroniano

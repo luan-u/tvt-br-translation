@@ -14842,6 +14842,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Generally the central figure in ActionSeries and AdventureSeries.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T132627Z" creationid="Luan" creationdate="20240318T132627Z">
+        <seg>Geralmente é a figura central em Br/SeriesDeAcao e Br/SeriesDeAventura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Get it?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T145358Z" creationid="Luan" creationdate="20240125T145358Z">
@@ -18464,6 +18472,20 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please do not replace or remove without discussion in the Caption Repair thread:
+%% https://tvtropes.org/pmwiki/posts.php?discussion=1404492079030138900
+%%
+-&gt; ''"You see that you and I are of a different stripe, don't you?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T132321Z" creationid="Luan" creationdate="20240318T132302Z">
+        <seg>Please do not replace or remove without discussion in the Caption Repair thread:
+%% https://tvtropes.org/pmwiki/posts.php?discussion=1404492079030138900
+%%
+-&gt; ''"Você vê que você e eu somos de um tipo diferente, não é?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please note: this Trope is actually ''very'' inaccurate [[RealityIsUnrealistic when you compare it]] to RealLife.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T201738Z" creationid="Luan" creationdate="20231221T201738Z">
@@ -21656,6 +21678,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This index covers all tropes about and related to them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T132659Z" creationid="Luan" creationdate="20240318T132659Z">
+        <seg>Este índice cobre todos os tropos que são relacionados a eles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is ''especially'' noticeable when plot-relevant events of ''huge importance" are going on!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T161803Z" creationid="Luan" creationdate="20231210T153002Z">
@@ -22676,6 +22706,24 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We '''are.'''"''
+--&gt;-- '''Mr. House''', ''VideoGame/FalloutNewVegas''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T132358Z" creationid="Luan" creationdate="20240318T132358Z">
+        <seg>Nós '''somos.'''"''
+--&gt;-- '''Mr. House''', ''BrVideoGame/FalloutNewVegas''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We don't have to dream that we're important.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T132332Z" creationid="Luan" creationdate="20240318T132332Z">
+        <seg>Não precisamos sonhar que somos importantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T215840Z" creationid="Luan" creationdate="20240103T215840Z">
@@ -23333,6 +23381,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You might be looking for the 2006 TV show ''Series/{{Heroes}}'', the 1998 Creator/RobertCormier novel ''Literature/{{Heroes}}'', or the 1977 Music/DavidBowie album ''[[Music/HeroesDavidBowieAlbum "Heroes"]]''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T133033Z" creationid="Luan" creationdate="20240318T133033Z">
+        <seg>É possível que você esteja procurando o programa de televisão de 2006, ''BrSerie/{{Heroes}}'', o romance ''BrLiteratura/{{Heroes}}'' por BrCriador/RobertCormier, ou o álbum ''[[BrMusica/HeroesDeDavidBowie "Heroes"]]'' por BrMusica/DavidBowie em 1977.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You put food in your mouth and chew it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T152833Z" creationid="Luan" creationdate="20231210T152833Z">
@@ -23726,6 +23782,22 @@ Contrastar com ??? {{Unishment}} (uma punição que não é realmente uma puniç
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T183947Z" creationid="Luan" creationdate="20240221T183947Z">
         <seg>Coisas ruins costumam acontecer lá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[TheGoodGuysAlwaysWin Always wins in the end]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T132640Z" creationid="Luan" creationdate="20240318T132640Z">
+        <seg>[[Br/OsBonzinhosSempreVencem Sempre vence no final]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[TheHero The good guy]], seeks to defeat the villain, save the [[LoveInterests princess]], find the treasure, etc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T132446Z" creationid="Luan" creationdate="20240318T132446Z">
+        <seg>[[Br/OHeroi O mocinho]] que busca derrotar o vilão, salvar a [[Br/InteresseAmoroso princesa]], encontrar o tesouro, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24258,6 +24330,18 @@ Isso acontece quando um Br/{{tropo}} é tão ridiculamente específico que ele s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[[quoteright:350:https://static.tvtropes.org/pmwiki/pub/images/heroes_0.png]]
+[[caption-width-right:350:[[Music/BonnieTyler ♫ He's gotta be strong, and he's gotta be fast\\
+And he's gotta be fresh from the fight!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T132007Z" creationid="Luan" creationdate="20240318T131909Z">
+        <seg>[[quoteright:350:https://static.tvtropes.org/pmwiki/pub/images/heroes_0.png]]
+[[caption-width-right:350:[[BrMusica/BonnieTyler ♫ Ele tem que ser forte, ele tem que ser rápido\\
+E ele tem que estar disposto a lutar!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[[quoteright:350:https://static.tvtropes.org/pmwiki/pub/images/mounted_templar.jpg]]
 [[caption-width-right:350: Templar on Horseback, carrying the standard]]</seg>
       </tuv>
@@ -24346,6 +24430,20 @@ Isso acontece quando um Br/{{tropo}} é tão ridiculamente específico que ele s
 || ''Bom'' || Leal e Bom || Neutro e Bom || Caótico e Bom ||
 || ''Neutro'' || Leal e Neutro || Neutro Neutro || Caótico e Neutro ||
 || ''Mau'' || Leal e Mau || Neutro e Mau || Caótico e Mau ||</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>♪]]\\
+[-L - R, top to bottom: ComicBook/WonderWoman, [[Franchise/SuperMarioBros Mario]], [[Franchise/DragonBall Goku]], and [[WesternAnimation/TheLegendOfKorra Korra]]-].]]
+%%
+%% Caption selected per above IP thread.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T132220Z" creationid="Luan" creationdate="20240318T132013Z">
+        <seg>♪]]\\
+[-E - D, de cima para baixo: BrQuadrinhos/MulherMaravilha, [[BrFranquia/SuperMarioBros Mario]], [[BrFranquia/DragonBall Goku]], e [[BrAnimacaoOcidental/ALendaDeKorra Korra]]-].]]
+%%
+%% Caption selected per above IP thread.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

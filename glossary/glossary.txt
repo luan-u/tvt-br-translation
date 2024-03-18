@@ -3216,3 +3216,4 @@ MartialPacifist	Br/PacifistaMarcial
 LittleOldLadyInvestigates	Br/SenhorinhaInvestigativa
 HeroicDog	Br/CachorroHeroico
 HeroesPreferSwords	Br/HeroisPreferemEspadas
+HeroesFightBarehanded	Br/HeroisLutamDeMaosVazias

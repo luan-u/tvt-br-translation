@@ -4365,8 +4365,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>* FriendToAllChildren: A hero who cares deeply for and protects kids.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T160545Z" creationid="Luan" creationdate="20240318T160545Z">
-        <seg>* Br/AmigoDasCriancas: Um herói que se importa muito com as crianças e as protege.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T160620Z" creationid="Luan" creationdate="20240318T160545Z">
+        <seg>* Br/AmigoDasCriancas: Um herói que protege e se importa muito com as crianças.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4387,6 +4387,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FriendToAllLivingThings: A hero who protects and cares deeply for animals.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T160603Z" creationid="Luan" creationdate="20240318T160603Z">
+        <seg>* Br/AmigoDeTudoQueVive: Um herói que protege e se importa muito com os animais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* FriendToBugs: A type of AnimalLover who likes and cares for insects and other creatures.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032243Z" creationid="Luan" creationdate="20240314T032243Z">
@@ -4403,10 +4411,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FriendlyNeighborhoodVampire: A benevolent vampire.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T160638Z" creationid="Luan" creationdate="20240318T160638Z">
+        <seg>* Br/VampiroAmigavelDaVizinhanca: Um vampiro benevolente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* FrivolousLawsuit: Suing people over flagrantly trivial slights.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T141343Z" creationid="Luan" creationdate="20240104T141343Z">
         <seg>* Br/ProcessoFutil: Processar pessoas por causa de questões flagrantemente triviais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FromHeroToMentor: A character who, after being the hero, becomes the mentor for an intended subsequent hero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T160714Z" creationid="Luan" creationdate="20240318T160714Z">
+        <seg>* Br/DeHeroiAMentor: Um personagem que, após ser um herói, se torna o mentor do herói que virá depois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4463,6 +4487,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T221807Z" creationid="Luan" creationdate="20240117T153141Z">
         <seg>* ??? GenteelInterbellumSetting: Em algum momento entre 1918 e 1939.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GentleGiant: A big, tall guy who's pretty nice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T160728Z" creationid="Luan" creationdate="20240318T160728Z">
+        <seg>* Br/GiganteGentil: Um cara grande e alto que é muito legal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4575,6 +4607,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032722Z" creationid="Luan" creationdate="20240314T032722Z">
         <seg>* Br/DeusEBondoso: Deus é inquestionavelmente benevolente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GodOfGood: A benevolent deity who treats mortals well.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T160743Z" creationid="Luan" creationdate="20240318T160743Z">
+        <seg>* Br/DeusDaBondade: Uma divindade benevolente que trata bem os mortais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4843,6 +4883,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T132544Z" creationid="Luan" creationdate="20240314T132544Z">
         <seg>* Br/ModeloDeMaiorEscopo: Um ser benigno que é indiretamente responsável pela existência dos heróis ou por eles fazerem o que fazem, mas que não é parte da história ativamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GuardianOfTheMultiverse: The being who makes sure that TheMultiverse is neither conquered nor destroyed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T160926Z" creationid="Luan" creationdate="20240318T160926Z">
+        <seg>* Br/GuardiaoDoMultiverso: O ser que se certifica que Br/OMultiverso não seja conquistado nem destruído.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9742,6 +9790,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T035547Z" creationid="Luan" creationdate="20240314T035547Z">
         <seg>* Br/OBomCapitao: Um herói com o título de "Capitão".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheGoodChancellor: A character who serves their kingdom or nation with utmost earnestness.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T160854Z" creationid="Luan" creationdate="20240318T160854Z">
+        <seg>* Br/ChancelerBondoso: Um personagem que serve seu reino ou nação com seriedade.</seg>
       </tuv>
     </tu>
     <tu>

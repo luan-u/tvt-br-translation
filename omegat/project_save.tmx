@@ -6141,6 +6141,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LoveGoddess: A deity of love.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T161046Z" creationid="Luan" creationdate="20240318T161046Z">
+        <seg>* Br/DeusaDoAmor: Uma divindade do amor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LoveRedeems: An antagonistic character is redeemed due to their love of another character.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165021Z" creationid="Luan" creationdate="20240314T165021Z">
@@ -6391,6 +6399,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T150935Z" creationid="Luan" creationdate="20240118T150935Z">
         <seg>* Br/MuseuAmeacador: Um museu retratado como ominoso, perigoso ou simplesmente do mal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MentorArchetype: A character whose role is to ensure the heroes' CharacterDevelopment in case they can't do their pupils' tasks themselves.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T161344Z" creationid="Luan" creationdate="20240318T161344Z">
+        <seg>* Br/MentorArquetipico: Um personagem cujo papel é assegurar o Br/DesenvolvimentoDePersonagem do heróis caso ele mesmo não possa fazer as tarefas de seus pupilos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7215,6 +7231,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T131803Z" creationid="Luan" creationdate="20240201T131803Z">
         <seg>* Br/GaragemDeEstacionamento: Nada de bom acontece em uma garagem de estacionamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* PartTimeHero
+* PatrickStewartSpeech: A character defends humanity by pointing out its strengths.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T161253Z" creationid="Luan" creationdate="20240318T161253Z">
+        <seg>* Br/HeroiEmMeioPeriodo
+* Br/DiscursoDoPatrickStewart: Um personagem defende a humanidade ao ressaltar suas forças.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9996,6 +10022,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ThePowerOfRock: A hero can defeat the villain via rock music.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T161217Z" creationid="Luan" creationdate="20240318T161217Z">
+        <seg>* Br/OPoderDoRock: O herói consegue derrotar o vilão com o uso do rock.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ThePowerOfRock: Heroes defeat an evil force using music, especially rock &amp; roll.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034833Z" creationid="Luan" creationdate="20240314T034833Z">
@@ -10086,6 +10120,14 @@ Br/ExemplosEmFalta.</seg>
 * Br/MundoDeTrocadilhos
 * Br/MundoDeSimbolismo
 * Br/MundoDeEsquisitice: O mundano é misturado com o sobrenatural e ninguém liga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheXenophile: Human characters who are fascinated by space aliens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T161146Z" creationid="Luan" creationdate="20240318T161146Z">
+        <seg>* Br/OXenofilo: Personagens humanos que são fascinados por alienígenas do espaço.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11793,6 +11835,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** MentorInSourArmor: A mentor who is snarky, cynical, and harsh on the surface, but is a good person underneath.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T161412Z" creationid="Luan" creationdate="20240318T161412Z">
+        <seg>** Br/MentorEmArmaduraAzeda: Um mentor que é sarcástico, cínico e rude superficialmente, mas que no fundo é uma boa pessoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>** MentorInSourArmor: Bitter mentors with soft hearts.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T185751Z" creationid="Luan" creationdate="20240314T185751Z">
@@ -11869,6 +11919,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T185906Z" creationid="Luan" creationdate="20240314T185906Z">
         <seg>** Br/MentorDeAfundarOuNadar: Um personagem ensina uma habilidade a outro personagem ao colocá-lo em uma situação de vida ou morte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** SinkOrSwimMentor: A mentor teaches another character a skill by putting them in a life-or-death situation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T161433Z" creationid="Luan" creationdate="20240318T161433Z">
+        <seg>** Br/MentorDeAfundarOuNadar: Um mentor ensina uma habilidade a outro personagem ao colocá-lo em uma situação de vida ou morte.</seg>
       </tuv>
     </tu>
     <tu>

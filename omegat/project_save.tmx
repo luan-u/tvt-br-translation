@@ -3185,6 +3185,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ComedicHero: A hero prone to humorously foolish behavior.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T233704Z" creationid="Luan" creationdate="20240318T233704Z">
+        <seg>* Br/HeroiComico: Um herói propenso a comportamento humoristicamente idiota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ComedicHero: A less-than-competent heroic character who nevertheless succeeds despite their best efforts.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T224041Z" creationid="Luan" creationdate="20240313T224041Z">
@@ -5459,6 +5467,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224404Z" creationid="Luan" creationdate="20240318T224404Z">
         <seg>* Br/HeroiComMaPublicidade: Um cara bom que possui má reputação (não merecida) entre a população.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroesFightBarehanded: Many heroes prefer to use their fists and feet instead of using any weapons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T233620Z" creationid="Luan" creationdate="20240318T233620Z">
+        <seg>* Br/HeroisLutamDeMaosVazias: Muitos heróis preferem usar seus punhos e pés ao invés de usar armas.</seg>
       </tuv>
     </tu>
     <tu>

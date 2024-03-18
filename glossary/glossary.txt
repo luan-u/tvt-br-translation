@@ -3169,3 +3169,7 @@ BadassUnintentional	Br/FodaoNaoIntencional
 BenevolentAbomination	Br/AbominacaoBenevolente
 BullyHunter	Br/CacadorDeValentoes
 TheCaptain	Br/OCapitao
+CaptainSpaceDefenderOfEarth	Br/CapitaoEspacoDefensorDaTerra
+CelibateHero	Br/HeroiCelibatario
+ChasteHero	Br/HeroiCasto
+EternalHero	Br/HeroiEterno

@@ -3147,3 +3147,10 @@ BenevolentAI	Br/IABenevolente
 BenevolentPrecursors	Br/PrecursoresBenevolentes
 AntiHeroSubstitute	Br/SubstitutoDoAntiHeroi
 WarHero	Br/HeroiDeGuerra
+VirtuousBees	Br/AbelhasVirtuosas
+UnlikelyHero	Br/HeroiImprovavel
+UnscrupulousHero	Br/HeroiInescrupuloso
+TechnicalPacifist	Br/TecnicamentePacifista
+ReluctantWarrior	Br/GuerreiroRelutante
+ReformedBully	Br/ValentaoReformado
+ReformedCriminal	Br/CriminosoReformado

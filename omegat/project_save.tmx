@@ -2026,6 +2026,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BadassPacifist: While they would never beat the crap out of their enemies, they're brave enough to stand up for their beliefs anyways.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T140127Z" creationid="Luan" creationdate="20240318T140127Z">
+        <seg>* Br/PacifistaFodao: Embora eles nunca derrotem seus inimigos, eles são corajosos o suficiente para defender suas crenças de qualquer maneira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BagOfSpilling: In a video game sequel, a character won't keep what they collected in the previous game.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143408Z" creationid="Luan" creationdate="20240105T143408Z">
@@ -9202,6 +9210,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204156Z" creationid="Luan" creationdate="20240313T204156Z">
         <seg>* Br/OExpiador: Um personagem que cometeu um erro agora deseja reparar seus erros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheAtoner: The hero really wants to redeem themselves for bad deeds or horrible mistakes they've made in the past.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T135920Z" creationid="Luan" creationdate="20240318T135920Z">
+        <seg>* Br/OExpiador: O herói realmente quer se redimir por más ações ou erros horríveis que cometeu no passado.</seg>
       </tuv>
     </tu>
     <tu>

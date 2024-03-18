@@ -11261,6 +11261,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>+ BeingTheHeroSucks
++ BenevolentMonsters: [[DarkIsNotEvil Scary-looking creatures]] who would much rather befriend humans instead of harming them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T133328Z" creationid="Luan" creationdate="20240318T133328Z">
+        <seg>+ Br/SerOHeroiEUmaDroga
++ Br/MonstrosBenevolentes: [[Br/AsTrevasNaoSaoMas Criaturas assustadoras]] que preferem se amigar com os humanos ao invés de machucá-los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>+ BuildingTropes: All types of artificial structures.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T134605Z" creationid="Luan" creationdate="20240117T134605Z">
@@ -11275,6 +11285,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T135215Z" creationid="Luan" creationdate="20240117T135142Z">
         <seg>* Br/IndiceDoCirco
 * Br/ACidade: Assentamentos urbanos grandes e subúrbios adjacentes à áreas metropolitanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>+ CopsAndDetectives: Characters who protect and serve their country and value the people's lives.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T133425Z" creationid="Luan" creationdate="20240318T133425Z">
+        <seg>+ Br/PoliciaisEDetetives: Personagens que protegem e servem seu país e valorizam a vida das pessoas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11303,6 +11321,24 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>+ GoodGuysGarb
++ GoodnessTropes
++ TheHero
++ HeroBall
++ HeroicSpirit
++ HunterOfMonsters: Someone who fights and slays dangerous supernatural creatures to protect other people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T133634Z" creationid="Luan" creationdate="20240318T133634Z">
+        <seg>+ Br/TrajesDeMocinhos
++ Br/TroposDeBondade
++ Br/OHeroi
++ Br/BolaDeHeroibol
++ Br/EspiritoHeroico
++ Br/CacadorDeMonstros: Alguém que combate e mata criaturas sobrenaturais perigosas para proteger outras pessoas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>+ HollywoodAtlas: The general geography of Earth.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T135850Z" creationid="Luan" creationdate="20240117T135711Z">
@@ -11327,6 +11363,32 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>+ IndexToTheRescue: Characters who come to rescue others from certain dangers and save many lives.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T133703Z" creationid="Luan" creationdate="20240318T133703Z">
+        <seg>+ Br/IndiceAoResgate: Personagens que surgem para resgatar outros do perigo certo e salvam muitas vidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>+ IndexWithAHeartOfGold: Characters who act or seem harsh on the outside, [[JerkWithAHeartOfGold but are actually kinder people on the inside]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T133733Z" creationid="Luan" creationdate="20240318T133733Z">
+        <seg>+ Br/IndiceComUmCoracaoDeOuro: Personagens que agem ou parecem ríspidos por fora [[Br/BabacaComUmCoracaoDeOuro mas que são gente boa por dentro]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>+ MentorIndex
++ PleasantAnimalsIndex: Animals that we humans believe are adorable and/or awesome will often play a protagonistic role.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T134004Z" creationid="Luan" creationdate="20240318T134004Z">
+        <seg>+ Br/IndiceDeMentores
++ Br/IndiceDeAnimaisAgradaveis: Animais que nós humanos consideramos adoráveis e fofos costumam desempenhar papel de protagonismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>+ OtherworldTropes: Parallel realms separate from the one we live in.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T140318Z" creationid="Luan" creationdate="20240117T140318Z">
@@ -11339,6 +11401,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T140907Z" creationid="Luan" creationdate="20240117T140907Z">
         <seg>* Br/TroposDeEsgoto: Instalações subterrâneas para manuseio de rejeitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>+ TheChosenOne: According to fate and prophecy, this hero is destined to save the world.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T133347Z" creationid="Luan" creationdate="20240318T133347Z">
+        <seg>+ Br/OEscolhido: De acordo com o destino e a profecia, este herói é destinado a salvar o mundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13886,6 +13956,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T151245Z" creationid="Luan" creationdate="20231220T151245Z">
         <seg>Contrastar com o previamente mencionado Br/KarmaGuiadoPorLaser, quando a punição do vilão chega em um momento incrivelmente oportuno e é diretamente rastreável para a transgressão; Br/GarantiaDoKarmaHoudini, quando a punição só acontece na sequência, e Br/MorteKarmica, quando a punição leva à morte do vilão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contrast this index with its antithesis, {{Villains}}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T133121Z" creationid="Luan" creationdate="20240318T133121Z">
+        <seg>Comparar este índice com a sua antítese, Br/{{Viloes}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20940,6 +21018,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There's also a [[https://hero.fandom.com/wiki/Heroes_Wiki Wiki]] on this trope.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T133127Z" creationid="Luan" creationdate="20240318T133127Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There's just no tension anymore, as it's been pushed aside in favour of gawking at a character.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T192623Z" creationid="Luan" creationdate="20231210T192623Z">
@@ -23854,6 +23940,16 @@ LawfulEvil | NeutralEvil | ChaoticEvil-]]]]]</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T134302Z" creationid="Luan" creationdate="20240117T134302Z">
         <seg>[[folder:'''Categorias''']]
 * Br/LugarAbandonado: Locais em ruínas que não são mais usados por pessoas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[folder:'''Indexes''']]
++ AntiHero: A morally questionable hero who lacks conventional heroic qualities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T133206Z" creationid="Luan" creationdate="20240318T133135Z">
+        <seg>[[folder:'''Índices''']]
++ Br/AntiHeroi: Um herói moralmente questionável que carece de qualidades heroicas convencionais.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1406,6 +1406,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ALighterShadeOfGrey: When an AntiHero is more heroic than an AntiVillain.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225514Z" creationid="Luan" creationdate="20240318T225514Z">
+        <seg>* Br/UmTomMaisClaroDeCinza: Quando um Br/AntiHeroi é mais heroico que um Br/AntiVilao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ALongTimeAgoInAGalaxyFarFarAway: Far distant in space, time or both.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T153801Z" creationid="Luan" creationdate="20240117T153801Z">
@@ -5731,6 +5739,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HumbleHero: A hero has no ego and believes themself to be ordinary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224605Z" creationid="Luan" creationdate="20240318T224605Z">
+        <seg>* Br/HeroiHumilde: Um herói não tem nada de ego e acredita ser uma pessoa normal qualquer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HungryJungle: Jungles are out to kill you.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T202625Z" creationid="Luan" creationdate="20240131T202625Z">
@@ -5761,6 +5777,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T133615Z" creationid="Luan" creationdate="20240314T133615Z">
         <seg>* Br/EuQueroQueMeuAmorSejaFeliz: Um personagem decide parar de perseguir alguém romanticamente para que essa pessoa possa ficar com aquele que realmente ama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* IWantSong: Heroes express their desires or dreams through a musical number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224624Z" creationid="Luan" creationdate="20240318T224624Z">
+        <seg>* Br/CancaoDeEuQuero: Heróis expressam seus desejos e sonhos através de uma apresentação musical.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5805,10 +5829,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* IdealHero: A hero who's held up as being a near-perfect role model.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224638Z" creationid="Luan" creationdate="20240318T224638Z">
+        <seg>* Br/HeroiIdeal: Um herói que é tido como um modelo quase perfeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* IdealistVsPragmatist: A conflict between TheIdealist and a PragmaticHero.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033938Z" creationid="Luan" creationdate="20240314T033938Z">
         <seg>* Br/IdealistaContraPragmatico: Um conflito entre Br/OIdealista e um Br/HeroiPragmatico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* IdiotHero: The hero is [[TheDitz not really smart]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224734Z" creationid="Luan" creationdate="20240318T224734Z">
+        <seg>* Br/HeroiIdiota: O herói [[Br/OIdiota não é particularmente inteligente]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -5833,6 +5873,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145228Z" creationid="Luan" creationdate="20240105T145228Z">
         <seg>* Br/SequenciaImediata: Uma sequência em que a trama continua imediatamente no ponto onde a obra anterior termina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ImmortalHero: Heroes never die in the story, unlike villains.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224752Z" creationid="Luan" creationdate="20240318T224752Z">
+        <seg>* Br/HeroiImortal: Ao contrário dos vilões, os heróis nunca morrem na história.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5909,10 +5957,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* IncorruptiblePurePureness: The hero who is morally pure and is immune to temptation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224809Z" creationid="Luan" creationdate="20240318T224809Z">
+        <seg>* Br/PurezaPuraIncorruptivel: O herói que é moralmente puro e imune à tentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* IndianBurialGround: A place where someone desecrated the graves of Native Americans by building something on it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T220746Z" creationid="Luan" creationdate="20240124T220746Z">
         <seg>* Br/CemiterioIndigena: Um lugar onde alguém profanou os túmulos de nativos ao construir alguma coisa em cima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* IndianMaiden: A woman who is the calming force behind her father or chieftain, aiding him through the difficult times of woe in an age that threatens their way of life.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224859Z" creationid="Luan" creationdate="20240318T224859Z">
+        <seg>* Br/DonzelaIndigena: Uma mulher que é a força apaziguadora entre seu pai ou o cacique, auxiliando-o em tempos de dificuldade em uma era que ameaça o seu estilo de vida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5989,6 +6053,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* InnocentSoprano: In musical theater, the innocent romantic heroine has a high singing voice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224917Z" creationid="Luan" creationdate="20240318T224917Z">
+        <seg>* Br/SopranoInocente: No teatro musical, a heroína romântica inocente possui uma voz aguda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* InnocentSoprano: In opera and musical theater, the roles of TheIngenue and other young, romantic, and [[BeautyEqualsGoodness virtuous beautiful maidens]] are traditionally sung by lyric sopranos.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T184106Z" creationid="Luan" creationdate="20240314T184106Z">
@@ -6021,10 +6093,28 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* InvincibleHero: A hero who is so super-competent that they seem to be outright unstoppable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224939Z" creationid="Luan" creationdate="20240318T224939Z">
+        <seg>* Br/HeroiInvencivel: Um herói que é tão competente que parece ser imparável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* IronButtMonkey: A ButtMonkey is exposed to extreme physical abuse, yet [[NighInvulnerability it never dies or gets hurt at all]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T154901Z" creationid="Luan" creationdate="20231208T154901Z">
         <seg>* Br/CorinhoDeFerro: Um Br/{{Corinho}} é exposto a extremo abuso físico, mas [[Br/PraticamenteInvulneravel ele nunca morre nem se machuca]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* IronLady
+* IronWoobie: The hero is [[TheWoobie a miserable person]], [[{{Determinator}} but that won't stop them from quitting their journey]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225033Z" creationid="Luan" creationdate="20240318T225033Z">
+        <seg>* Br/DamaDeFerro
+* Br/CoitadinhoCalejado: O herói é [[Br/OCoitadinho um coitado]], [[Br/ODeterminado mas isso não vai impedir que ele conclua sua jornada]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -6137,6 +6227,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ItSucksToBeTheChosenOne: The hero dislikes being forced to face their destiny.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225057Z" creationid="Luan" creationdate="20240318T225057Z">
+        <seg>* Br/SerOEscolhidoEUmaDroga: O herói não gosta de ser forçado a encarar seu destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ItsAlwaysSpring: Perpetual sunshine and blue skies, because anything else would be inconvenient.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T145326Z" creationid="Luan" creationdate="20231208T145326Z">
@@ -6163,10 +6261,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* JeanneDArchetype: A young ActionGirl in military combat who is viewed as an inspiring symbol of the cause.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225128Z" creationid="Luan" creationdate="20240318T225128Z">
+        <seg>* Br/JoanaDArquetipo: Uma Br/GarotaDeAcao jovem nas forças armadas que é considerada como um símbolo inspirador da causa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* JerkWithAHeartOfGold: A character who often comes off as [[{{Jerkass}} mean]] occasionally proves that they're not a completely bad person and are perfectly capable of showing kindness.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034113Z" creationid="Luan" creationdate="20240314T034113Z">
         <seg>* Br/BabacaComUmCoracaoDeOuro: Um personagem que costuma ser retratado como [[Br/{{Babaca}} maldoso]] ocasionalmente prova que ele não é uma pessoa completamente ruim e que é capaz de mostrar bondade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* JerkWithAHeartOfGold: Some heroes are mean, but have a soft side deep down.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225146Z" creationid="Luan" creationdate="20240318T225146Z">
+        <seg>* Br/BabacaComUmCoracaoDeOuro: Alguns heróis são maldosos, mas possuem um lado bom lá no fundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6291,6 +6405,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* KneelBeforeFrodo: A heroic character is unexpectedly bowed to.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225223Z" creationid="Luan" creationdate="20240318T225223Z">
+        <seg>* Br/AjoelheSeDianteDeFrodo: Um personagem heroico inesperadamente recebe honrarias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* KneelBeforeFrodo: High praise is given to a hero lower on the social scale.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T134612Z" creationid="Luan" creationdate="20240314T134612Z">
@@ -6307,10 +6429,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* KnightInShiningArmor: A hero who champions the weak and innocent, especially women in distress.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225301Z" creationid="Luan" creationdate="20240318T225301Z">
+        <seg>* Br/CavaleiroEmArmaduraReluzente: Um herói que ajuda os fracos e oprimidos, especialmente mulheres em perigo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* KnightInShiningArmor: A noble knight with a strong sense of justice who slays the dragon and rescues the princess.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034155Z" creationid="Luan" creationdate="20240314T034155Z">
         <seg>* Br/CavaleiroEmArmaduraReluzente: Um nobre cavaleiro com um forte senso de justiça que derrota o dragão e salva a princesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* KnightInSourArmor: A cynical hero who nonetheless continues to do good.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225316Z" creationid="Luan" creationdate="20240318T225316Z">
+        <seg>* Br/CavaleiroEmArmaduraAzeda: Um herói cínico que persiste no caminho do bem mesmo assim.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6327,6 +6465,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034240Z" creationid="Luan" creationdate="20240314T034240Z">
         <seg>* Br/CavaleiroTemplario: O personagem possui objetivos nobres, mas leva suas ações longe demais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* KnightTemplar: Character who has noble goals, but can be self-righteous and extremist in achieving them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225339Z" creationid="Luan" creationdate="20240318T225339Z">
+        <seg>* Br/CavaleiroTemplario: Personagem que possui objetivos nobres, mas que pode ser extremista no processo de alcançá-los.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6387,6 +6533,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LanternJawOfJustice: Good guys with huge chins.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225354Z" creationid="Luan" creationdate="20240318T225354Z">
+        <seg>* Br/MandibulaDaJustica: Um cara bom com um queixo protuberante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LastFertileRegion: The last bit of nature and greenery in a wasteland dystopia.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T223441Z" creationid="Luan" creationdate="20240131T223441Z">
@@ -6423,6 +6577,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T001728Z" creationid="Luan" creationdate="20240314T001728Z">
         <seg>* Br/LealEBom: Um alinhamento de personagem que envolve o bem e a ordem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* LawfulGood: Involving good and order.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225405Z" creationid="Luan" creationdate="20240318T225405Z">
+        <seg>* Br/LealEBom: Envolvendo o bem e a ordem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6515,6 +6677,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LightIsGood: Heroes are usually associated with the light and bright colors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225447Z" creationid="Luan" creationdate="20240318T225447Z">
+        <seg>* Br/ALuzEBoa: Heróis costumam ser associados com a luz e com cores vistosas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LighthousePoint: An atmospheric lighthouse.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T183812Z" creationid="Luan" creationdate="20240221T183812Z">
@@ -6575,6 +6745,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T185205Z" creationid="Luan" creationdate="20240314T185205Z">
         <seg>* Br/BirutaComUmCoracaoDeOuro: Um personagem que é peculiar ou insano é também um dos mais bondosos e compassivos, mais até que a maioria dos "normais".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* LordErrorProne: A klutzy or incompetent hero or quest-doer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225538Z" creationid="Luan" creationdate="20240318T225538Z">
+        <seg>* Br/LordePropensoAErros: Um herói atrapalhado ou incompetente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10420,6 +10598,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheIdealistWasRight: A character who was scoffed at for being idealistic ends up having the best solution for their problems.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224709Z" creationid="Luan" creationdate="20240318T224709Z">
+        <seg>* Br/OIdealistaEstavaCerto: Um personagem que foi desprezado por ser idealista acaba tendo a melhor solução para os problemas apresentados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheLancer: The {{foil}} for a [[TheHero hero]] of the closely allied variety.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034309Z" creationid="Luan" creationdate="20240314T034309Z">
@@ -10432,6 +10618,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T154123Z" creationid="Luan" creationdate="20240125T154123Z">
         <seg>* Br/CavernasVulcanicasDeNovaIorque: Lava ou magma em locais que geralmente não apresentam atividade vulcânica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheLeader: A role always filled by [[TheHero the main hero/protagonist]] of the story.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225431Z" creationid="Luan" creationdate="20240318T225431Z">
+        <seg>* Br/OLider: Um papel que sempre é ocupado pelo [[Br/OHeroi herói principal/protagonista]] da história.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3154,3 +3154,9 @@ TechnicalPacifist	Br/TecnicamentePacifista
 ReluctantWarrior	Br/GuerreiroRelutante
 ReformedBully	Br/ValentaoReformado
 ReformedCriminal	Br/CriminosoReformado
+TheCavalry	Br/ACavalaria
+Deuteragonist	Br/{{Deuteragonista}}
+ExBigBad	Br/ExMalvadao
+ExperiencedProtagonist	Br/ProtagonistaExperiente
+FailureKnight	Br/CavaleiroFalho
+FairyGodmother	Br/FadaMadrinha

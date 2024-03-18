@@ -2743,6 +2743,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ByronicHero: A character who is a melancholic, brooding loner with a DarkAndTroubledPast, and is flawed, yet sympathetic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T232550Z" creationid="Luan" creationdate="20240318T232550Z">
+        <seg>* Br/HeroiByroniano: Um personagem que é um tipo solitário introspectivo e melancólico com um Br/PassadoSombrioEComplicado, falho, porém simpático.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* CaliforniaUniversity: When kids in a HighSchool drama get too old to be believable, expect most of them to go here.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T160513Z" creationid="Luan" creationdate="20240125T160513Z">
@@ -10266,6 +10274,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T220051Z" creationid="Luan" creationdate="20240124T220051Z">
         <seg>* Br/AAlcatraz: Uma prisão de segurança máxima onde o oceano é lava e os guardas são robôs enormes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheAllAmericanBoy: The stereotypical innocent, jolly boy archetype that was abundant in 20[[superscript:th]] century American media.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T232350Z" creationid="Luan" creationdate="20240318T232350Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>

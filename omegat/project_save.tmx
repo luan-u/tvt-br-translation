@@ -5399,10 +5399,58 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeroAntagonist: When the antagonist role is filled in by a good guy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223639Z" creationid="Luan" creationdate="20240318T223639Z">
+        <seg>* Br/HeroiAntagonista: Quando o papel de antagonista é preenchido por um cara bom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HeroDoesPublicService: Heroes help out in the community when not busy with their day job.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T181205Z" creationid="Luan" creationdate="20240314T181205Z">
         <seg>* Br/OHeroiFazServicoPublico: Heróis ajudam na comunidade quando não estão ocupados com seu trabalho usual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroOfAnotherStory: Good guys who have their own adventures, despite not being part of the main story.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223733Z" creationid="Luan" creationdate="20240318T223733Z">
+        <seg>* Br/HeroiDeOutraHistoria: Caras bons que têm suas próprias aventuras apesar de não serem parte da história principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroProtagonist: The main character of the story is almost always a good guy ([[VillainProtagonist with some exceptions]]).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223804Z" creationid="Luan" creationdate="20240318T223804Z">
+        <seg>* Br/HeroiProtagonista: O personagem principal da história quase sempre é um cara bom ([[Br/VilaoProtagonista com algumas exceções]]).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroStoleMyBike: The hero needs to get somewhere fast so he steals a ride.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223908Z" creationid="Luan" creationdate="20240318T223908Z">
+        <seg>* Br/OHeroiRoubouMinhaBicicleta: O herói precisa chegar rapidamente em algum lugar, então ele rouba um veículo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroWithBadPublicity: A good guy who has an (undeservedly) bad reputation among the citizens.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224404Z" creationid="Luan" creationdate="20240318T224404Z">
+        <seg>* Br/HeroiComMaPublicidade: Um cara bom que possui má reputação (não merecida) entre a população.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroesFrontierStep: A character commits an action so noble that it proves that they're a hero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223948Z" creationid="Luan" creationdate="20240318T223948Z">
+        <seg>* Br/PassoDaFronteiraHeroica: Um personagem faz algo tão nobre que isso prova que ele é um herói.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5423,6 +5471,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeroesGoneFishing: The heroes take a break from their mission to enjoy some fun and relaxation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224008Z" creationid="Luan" creationdate="20240318T224008Z">
+        <seg>* Br/OsHeroisForamPescar: Os heróis dão uma pausa de suas missões para se divertir e relaxar um pouco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HeroesLoveDogs: The hero have a dog which they love and spend quality time with.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T181506Z" creationid="Luan" creationdate="20240314T181506Z">
@@ -5435,6 +5491,30 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T181509Z" creationid="Luan" creationdate="20240314T181509Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroicBSOD: A hero experiences an emotional breakdown.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224031Z" creationid="Luan" creationdate="20240318T224031Z">
+        <seg>* Br/ColapsoHeroico: Um herói experimenta um colapso emocional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroicBystander: Someone who performs a worthy heroic act without any formal or professional training.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224117Z" creationid="Luan" creationdate="20240318T224117Z">
+        <seg>* Br/ObservadorHeroico: Alguém que executa um ato heroico sem treinamento formal ou profissional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroicDolphin: Dolphins are portrayed as heroic and/or friendly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224138Z" creationid="Luan" creationdate="20240318T224138Z">
+        <seg>* Br/GolfinhoHeroico: Golfinhos são retratados como heroicos ou amigáveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5455,6 +5535,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeroicResolve: A hero, when being beaten, finds an inner strength and the will to win.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224239Z" creationid="Luan" creationdate="20240318T224239Z">
+        <seg>* Br/DeterminacaoHeroica: Um herói, quando derrotado, encontra força interior e o desejo de vencer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HeroicSacrifice: A heroic character makes a sacrifice, typically their life, to achieve a particular objective, such as saving other lives.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033809Z" creationid="Luan" creationdate="20240314T033802Z">
@@ -5471,10 +5559,34 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeroicSeductress: A highly attractive but virtuous woman who uses her looks to advance her heroic goals.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224319Z" creationid="Luan" creationdate="20240318T224319Z">
+        <seg>* Br/SedutoraHeroica: Uma mulher muito atrativa e virtuosa que usa sua aparência para dar andamento a seus objetivos heroicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HerosMuse: TheHero is inspired or led by an idealized woman.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223620Z" creationid="Luan" creationdate="20240318T223620Z">
+        <seg>* Br/MusaDoHeroi: Br/OHeroi é inspirado ou guiado por uma mulher idealizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HiddenElfVillage: A secret, safe place far from the eyes of those other meddling nations.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T204818Z" creationid="Luan" creationdate="20240131T204818Z">
         <seg>* Br/VilaDeElfosOculta: Um lugar seguro e secreto longe da interferência de outras nações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HiddenHeartOfGold: A character doesn't want others to know about their benevolent side.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224445Z" creationid="Luan" creationdate="20240318T224445Z">
+        <seg>* Br/CoracaoDeOuroOculto: Um personagem não quer que os outros saibam do seu lado benevolente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5541,6 +5653,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T204858Z" creationid="Luan" creationdate="20240131T204858Z">
         <seg>* Br/LarDeMonstros: Qualquer lugar que os monstros considerem como casa, seja esse lugar um covil, uma Br/CidadeMonstro, uma Br/IlhaDeMisterio ou uma dimensão inteira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HopeBringer: A hero who rallies and inspires others to act.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224501Z" creationid="Luan" creationdate="20240318T224501Z">
+        <seg>* Br/EmissarioDaEsperanca: Um herói que inspira outros a agirem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HorrifyingHero: Heroes' looks and abilities seem more like they'd conventionally belong on a villain than a good guy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224531Z" creationid="Luan" creationdate="20240318T224531Z">
+        <seg>* Br/HeroiHorripilante: A aparência e habilidades dos heróis se parecem mais com algo que usualmente seria visto em um vilão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10268,6 +10396,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheHero: The character who performs heroic deeds with a heroic motivation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223529Z" creationid="Luan" creationdate="20240318T223529Z">
+        <seg>* Br/OHeroi: O personagem que faz feitos heroicos com motivação heroica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheHerosJourney: A basic function of narratives that illustrates a character's path to becoming a hero.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033559Z" creationid="Luan" creationdate="20240314T033559Z">
@@ -14128,6 +14264,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T024832Z" creationid="Luan" creationdate="20231220T024832Z">
         <seg>E ele pode até mesmo ter ''revertido'' a Br/CongaDaHumilhacao que estava preparada pra ele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And usually the biggest force of good in the story.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223539Z" creationid="Luan" creationdate="20240318T223539Z">
+        <seg>Costuma ser a maior força do bem na história.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18333,6 +18477,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T142838Z" creationid="Luan" creationdate="20240105T142838Z">
         <seg>Tal como a sequência, a prequência é feita depois que a obra original foi lançada, mas acontece antes cronologicamente na histórias dos fatos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Likely TheLeader of any FiveManBand, though lone-wolf Heroes who prefer to go solo also exist.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223559Z" creationid="Luan" creationdate="20240318T223559Z">
+        <seg>Provavelmente é Br/OLider do Br/GrupoDeCincoCaras, mas heróis do tipo "lobo solitário" também existem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22650,6 +22802,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They're usually the main opponent of a VillainProtagonist.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223658Z" creationid="Luan" creationdate="20240318T223658Z">
+        <seg>Ele costuma ser o oponente principal de um Br/VilaoProtagonista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They're wild, carefree and selfish, but not so callous or sadistic as to be actually evil.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231103T205215Z" creationid="Luan" creationdate="20231103T205215Z">
@@ -24405,6 +24565,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T044809Z" creationid="Luan" creationdate="20231208T044809Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Which may be the result of manipulations by [[VillainWithGoodPublicity a bad guy with a better reputation]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224431Z" creationid="Luan" creationdate="20240318T224431Z">
+        <seg>Isso pode ser o resultado de manipulações feitas por um [[Br/VilaoComBoaPublicidade cara mau com reputação melhor]].</seg>
       </tuv>
     </tu>
     <tu>

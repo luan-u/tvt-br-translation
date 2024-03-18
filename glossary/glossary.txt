@@ -3173,3 +3173,16 @@ CaptainSpaceDefenderOfEarth	Br/CapitaoEspacoDefensorDaTerra
 CelibateHero	Br/HeroiCelibatario
 ChasteHero	Br/HeroiCasto
 EternalHero	Br/HeroiEterno
+FakeDefector	Br/PseudoDesertor
+FarmBoy	Br/GarotoDoCampo
+AFatherToHisMen	Br/UmPaiParaSeusHomens
+FauxActionGirl	Br/PseudoGarotaDeAcao
+ShroudedInMyth	Br/EnvoltoEmMito
+FolkHero	Br/HeroiFolclorico
+FriendInThePress	Br/AmigoNaImprensa
+PrivateDetective	Br/DetetiveParticular
+FriendOnTheForce	Br/AmigoNasForcas
+FriendlyGhost	Br/FantasmaAmigavel
+FriendlyNeighborhoodSpider	Br/AranhaAmigavelDaVizinhanca
+FriendlySkeleton	Br/EsqueletoAmigavel
+FriendlyZombie	Br/ZumbiAmigavel

@@ -1664,6 +1664,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AllAmericanFace: A good guy in wrestling matches who loves America.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T143227Z" creationid="Luan" creationdate="20240318T143227Z">
+        <seg>* Br/RostoTodoAmericano: Um cara legal nos combates de luta livre que ama a América.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AllGhoulsSchool: Faculty for the freaky and fanged.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T181720Z" creationid="Luan" creationdate="20240131T181720Z">
@@ -1718,6 +1726,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T223349Z" creationid="Luan" creationdate="20240124T223349Z">
         <seg>* Br/IncrivelMundoEmTechnicolor: Um mundo colorido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* AmericaSavesTheDay: When the world is in trouble, it's America that rolls up its sleeves and saves the day.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T143109Z" creationid="Luan" creationdate="20240318T143109Z">
+        <seg>* Br/AAmericaSalvaODia: Quando o mundo está em apuros, é a América que arregaça as mangas e salva o dia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* AmicableAnts: Ants are depicted as heroic or friendly bugs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T143128Z" creationid="Luan" creationdate="20240318T143128Z">
+        <seg>* Br/FormigasAmigaveis: As formigas são descritas como insetos heróicos ou amigáveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1854,6 +1878,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T203417Z" creationid="Luan" creationdate="20240313T203417Z">
         <seg>* Br/BenfeitorAnonimo: Uma ajuda dada a um personagem por uma identidade desconhecida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* AntiAntichrist: TheAntichrist is expected to help the forces of evil with conquering/destroying the world.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T143342Z" creationid="Luan" creationdate="20240318T143342Z">
+        <seg>* Br/AntiAnticristo: Espera-se que Br/OAnticristo ajude as forças do mal a conquistar/destruir o mundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15048,6 +15080,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T210046Z" creationid="Luan" creationdate="20240103T210046Z">
         <seg>Para mundos que são quase que ''literalmente'' sacos de lixo, consultar Br/IdadeDasMerdas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fortunately, this Antichrist wants to ''save'' the world instead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T143354Z" creationid="Luan" creationdate="20240318T143354Z">
+        <seg>Felizmente, este Anticristo quer ''salvar'' o mundo.</seg>
       </tuv>
     </tu>
     <tu>

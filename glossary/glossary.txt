@@ -212,7 +212,7 @@ BadFuture	Br/FuturoRuim
 BadGuyBar	Br/BarDosMalvados
 BadPowersGoodPeople	Br/PoderesRuinsPessoasBoas
 BadassDecay	Br/DecaimentoFodanico
-BadassPacifist	Br/FodaoPacifista
+BadassPacifist	Br/PacifistaFodao
 BaitAndSwitch	Br/PescaETroca
 BaitTheDog	Br/AtrairOCachorro
 BalanceBetweenGoodAndEvil	Br/EquilibrioEntreOBemEOMal

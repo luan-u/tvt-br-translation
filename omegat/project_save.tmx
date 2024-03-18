@@ -1722,6 +1722,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AmateurSleuth: A character that solves mysteries, despite solving mysteries not being what they're usually expected to do.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T145754Z" creationid="Luan" creationdate="20240318T145754Z">
+        <seg>* Br/DetetiveAmador: Um personagem que resolve mistérios, apesar de resolver mistérios não ser o que normalmente se espera que eles façam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AmazingTechnicolorWorld: A colorful world.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T223349Z" creationid="Luan" creationdate="20240124T223349Z">
@@ -1898,6 +1906,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AntiHeroTeam: The team that consists of anti-heroes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T145919Z" creationid="Luan" creationdate="20240318T145919Z">
+        <seg>* Br/EquipeDeAntiHerois: A equipe formada por anti-heróis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AntiIntellectualism: Poking fun at intellectuals.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231216T210824Z" creationid="Luan" creationdate="20231216T210824Z">
@@ -2002,6 +2018,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AscendedDemon: Demonic beings redeem themselves to become divine guardians.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T145717Z" creationid="Luan" creationdate="20240318T145717Z">
+        <seg>* Br/DemonioAscendido: Seres demoníacos se redimem para se tornarem guardiões divinos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AsceticAesthetic: In this setting, less is more.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T220410Z" creationid="Luan" creationdate="20240124T220410Z">
@@ -2100,6 +2124,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BaldMystic: Bold characters who use their wisdom and enlightenment to provide guidance and advice in a MentorArchetype fashion.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T145212Z" creationid="Luan" creationdate="20240318T145212Z">
+        <seg>* Br/CalvoMistico: Personagens ousados que usam sua sabedoria e iluminação para fornecer orientação e conselhos no estilo do Br/MentorArquetipico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BaldOfAuthority: A bald character is typically TheLeader.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T145454Z" creationid="Luan" creationdate="20240318T145247Z">
+        <seg>* Br/CalvoDeAutoridade: Um personagem careca normalmente é Br/OLider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BarFullOfAliens: The clientele of this place is kind of... alien.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T143549Z" creationid="Luan" creationdate="20240125T143549Z">
@@ -2112,6 +2152,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T220502Z" creationid="Luan" creationdate="20240124T220502Z">
         <seg>* Br/BaseSobreRodas: Como é possível manter sobre rodas uma cidade inteira que pode ser pilotada para qualquer lugar e até mesmo submergir?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BatmanColdOpen: A scene showing the hero's typical adventures before the actual plot begins.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T145420Z" creationid="Luan" creationdate="20240318T145420Z">
+        <seg>* Br/AberturaBatman: Uma cena que mostra as aventuras típicas do herói antes do início da trama propriamente dita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2138,6 +2186,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204315Z" creationid="Luan" creationdate="20240313T204315Z">
         <seg>* Br/BelezaSignificaBondade: Ser bonito significa que você é uma boa pessoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BeautyEqualsGoodness: Most heroes tend to be very physically attractive.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T145433Z" creationid="Luan" creationdate="20240318T145433Z">
+        <seg>* Br/BelezaSignificaBondade: A maioria dos heróis tende a ser muito atraente fisicamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2206,10 +2262,34 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BenevolentBoss: A boss who cares a lot about their employees and their well-being.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T145516Z" creationid="Luan" creationdate="20240318T145516Z">
+        <seg>* Br/ChefeBenevolente: Um chefe que se preocupa muito com seus funcionários e com seu bem-estar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BenevolentConspiracy: TheConspiracy as a force for good.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T145529Z" creationid="Luan" creationdate="20240318T145529Z">
+        <seg>* Br/ConspiracaoBenevolente: Br/AConspiracao como uma força para o bem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BenevolentConspiracy: TheConspiracy is presented as a force of good.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204455Z" creationid="Luan" creationdate="20240313T204455Z">
         <seg>* Br/ConspiracaoBenevolente: Br/AConspiracao é apresentada como uma força do bem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BenevolentDictator: An all-powerful dictator is a benevolent ruler who works for the well-being of his subjects, and most of them like him.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T145815Z" creationid="Luan" creationdate="20240318T145815Z">
+        <seg>* Br/DitadorBenevolente: Um ditador todo-poderoso é um governante benevolente que trabalha para o bem-estar de seus súditos, e a maioria deles gosta dele.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2234,6 +2314,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T211009Z" creationid="Luan" creationdate="20240313T211009Z">
         <seg>* Br/CuidadoComOsBonzinhos: Um personagem pacífico, brando ou benevolente é capaz de raiva mortal ou retribuição surpreendentemente eficaz se for suficientemente provocado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BewareTheNiceOnes: Heroes who can be quite dangerous and formidable when pushed too far.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T145550Z" creationid="Luan" creationdate="20240318T145550Z">
+        <seg>* Br/CuidadoComOsBonzinhos: Heróis que podem ser bastante perigosos e formidáveis quando levados longe demais.</seg>
       </tuv>
     </tu>
     <tu>

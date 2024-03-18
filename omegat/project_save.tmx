@@ -5503,9 +5503,25 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeroesPreferSwords: A group's heroic leader is the only one with a sword.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T233551Z" creationid="Luan" creationdate="20240318T233551Z">
+        <seg>* Br/HeroisPreferemEspadas: O líder heroico de um grupo é o único que possui uma espada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HeroesRUs: An organized group of heroes and other good guys.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T181509Z" creationid="Luan" creationdate="20240314T181509Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroesRUs: An organized group of heroes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T233528Z" creationid="Luan" creationdate="20240318T233528Z">
         <seg></seg>
       </tuv>
     </tu>
@@ -5523,6 +5539,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224117Z" creationid="Luan" creationdate="20240318T224117Z">
         <seg>* Br/ObservadorHeroico: Alguém que executa um ato heroico sem treinamento formal ou profissional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroicDog: A canine who really is man's best friend.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T233519Z" creationid="Luan" creationdate="20240318T233519Z">
+        <seg>* Br/CachorroHeroico: Um canino que realmente é o melhor amigo do homem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6717,6 +6741,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LittleOldLadyInvestigates
+* LoadBearingHero: A hero that holds a falling object to save the members of main cast or others.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T233448Z" creationid="Luan" creationdate="20240318T233448Z">
+        <seg>* Br/SenhorinhaInvestigativa
+* Br/HeroiDeSuporteDeCarga: Um herói que segura um objeto em queda para salvar os demais membros do elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LoadBearingHero: Heroes hold a falling object to save the members of main cast or others.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T185004Z" creationid="Luan" creationdate="20240314T185004Z">
@@ -6991,6 +7025,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225702Z" creationid="Luan" creationdate="20240318T225702Z">
         <seg>* Br/HomemDaCidade: O herói que assegura a segurança e bem-estar da cidade em que ele vive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MartialPacifist: They would personally prefer a peaceful solution, but that doesn't mean they aren't willing to put up a good fight if they have to.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T233344Z" creationid="Luan" creationdate="20240318T233344Z">
+        <seg>* Br/PacifistaMarcial: Eles preferem uma solução pacífica, mas isso não significa que eles são avessos à luta se for necessário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7941,6 +7983,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* PayingItForward: A character helps another because someone else helped them in a similar situation before.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T233257Z" creationid="Luan" creationdate="20240318T233257Z">
+        <seg>* Br/PagandoAdiantado: Um personagem ajuda outro porque alguma outra pessoa o ajudou antes em uma situação parecida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* PayingItForward: Doing good for those to whom you don't owe anything, just for its own sake.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240315T011222Z" creationid="Luan" creationdate="20240315T011222Z">
@@ -8223,6 +8273,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T154937Z" creationid="Luan" creationdate="20240117T154937Z">
         <seg>* ??? RaygunGothic: Espaçonaves brilhantes, armas de raios artisticamente desenhadas, robôs de lata e mochilas a jato, tudo feito em estilo Art Deco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RebelLeader: The character who leads LaResistance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T233215Z" creationid="Luan" creationdate="20240318T233215Z">
+        <seg>* Br/LiderRebelde: O personagem que lidera Br/LaResistance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8657,12 +8715,28 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SaintlyChurch: TheChurch that means well.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T233111Z" creationid="Luan" creationdate="20240318T233111Z">
+        <seg>* Br/IgrejaSantificada: Br/AIgreja que possui boas intenções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SamePlotSequel: When a sequel is basically a retelling of the original
 * SalvagedGameplayMechanic: When a video game sequel fixes a disliked mechanic in the previous entry.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T155951Z" creationid="Luan" creationdate="20240105T155951Z">
         <seg>* Br/SequenciaComAMesmaTrama: Quando uma sequência é basicamente uma recontagem do original.
 * Br/MecanicaDeJogoRestaurada: Quando uma sequência de videogame corrige uma mecânica controversa do jogo anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SantaClaus: The ultimate representation of goodwill and holiday cheer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T233051Z" creationid="Luan" creationdate="20240318T233051Z">
+        <seg>* Br/PapaiNoel: A representação suprema da bondade e da alegria das festividades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9562,6 +9636,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203932Z" creationid="Luan" creationdate="20240105T203932Z">
         <seg>* Br/FranquiaNatimorta: Sequências foram planejadas mas nunca foram feitas por causa de uma falha comercial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* StockShonenHero: The stereotypical protagonist of most {{Shonen}} anime.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T232941Z" creationid="Luan" creationdate="20240318T232941Z">
+        <seg>* Br/HeroiPadraoDeShonen: O protagonista estereotípico da maioria dos animes tipo Br/{{shonen}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10848,6 +10930,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheSmartGuy: The most intelligent member of the group.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T233008Z" creationid="Luan" creationdate="20240318T233008Z">
+        <seg>* Br/OCaraEsperto: O membro mais inteligente do grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheTimeOfMyths: Ancient Myths (Bronze Age Greek, what-have-you) are not only real, they are mashed together into one time period.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T155631Z" creationid="Luan" creationdate="20240117T155631Z">
@@ -11106,6 +11196,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T151210Z" creationid="Luan" creationdate="20240318T151210Z">
         <seg>* Br/SubiuDeNivelEmBondade: Personagens se tornam mais legais com o tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ToothFairy: A (mostly) benevolent faerie that collects teeth from human children.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T232832Z" creationid="Luan" creationdate="20240318T232832Z">
+        <seg>* Br/FadaDoDente: Uma fada benevolente (geralmente) que coleta os dentes de crianças humanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11565,6 +11663,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T215608Z" creationid="Luan" creationdate="20240124T215608Z">
         <seg>* Br/NoFuturoNosUsaremosLasers: Uma ambientação onde [[Br/ArmaDeEnergia armas de energia]] são retratadas como superiores à armas cinéticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* WelcomeBackTraitor: A party member changes sides only to come back and is received in open arms.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T232754Z" creationid="Luan" creationdate="20240318T232754Z">
+        <seg>* Br/BemVindoDeVoltaTraidor: Um membro do time muda de lado, volta e é recebido de braços abertos.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3196,3 +3196,11 @@ HeroicDolphin	Br/GolfinhoHeroico
 HeroicResolve	Br/DeterminacaoHeroica
 HeroicSeductress	Br/SedutoraHeroica
 HorrifyingHero	Br/HeroiHorripilante
+HumbleHero	Br/HeroiHumilde
+TheIdealistWasRight	Br/OIdealistaEstavaCerto
+IdiotHero	Br/HeroiIdiota
+ImmortalHero	Br/HeroiImortal
+IndianMaiden	Br/DonzelaIndigena
+IronLady	Br/DamaDeFerro
+ItSucksToBeTheChosenOne	Br/SerOEscolhidoEUmaDroga
+ALighterShadeOfGrey	Br/UmTomMaisClaroDeCinza

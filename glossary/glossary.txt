@@ -2644,6 +2644,7 @@ TheShangriLa	Br/OShangriLa
 TheSingularity	Br/ASingularidade
 TheSixties	Br/Anos60
 TheSmartGuy	Br/CaraEsperto
+TheSmartGuy	Br/OCaraEsperto
 TheSnarkKnight	Br/CavaleiroSarcastico
 TheSocialDarwinist	Br/DarwinistaSocial
 TheSocialExpert	Br/OEspecialistaSocial
@@ -3205,3 +3206,13 @@ IronLady	Br/DamaDeFerro
 ItSucksToBeTheChosenOne	Br/SerOEscolhidoEUmaDroga
 ALighterShadeOfGrey	Br/UmTomMaisClaroDeCinza
 ByronicHero	Br/HeroiByroniano
+ToothFairy	Br/FadaDoDente
+StockShonenHero	Br/HeroiPadraoDeShonen
+TheChurch	Br/AIgreja
+LaResistance	Br/LaResistance
+LaResistance	Br/AResistencia
+RebelLeader	Br/LiderRebelde
+MartialPacifist	Br/PacifistaMarcial
+LittleOldLadyInvestigates	Br/SenhorinhaInvestigativa
+HeroicDog	Br/CachorroHeroico
+HeroesPreferSwords	Br/HeroisPreferemEspadas

@@ -2783,6 +2783,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* CaptainSuperhero: A superhero named Captain ________.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T151952Z" creationid="Luan" creationdate="20240318T151952Z">
+        <seg>* Br/CapitaoSuperHeroi: Um super herói chamado Capitão ________.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* CardboardPrison: A prison that is way too easy to escape, so that villains can be reused.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T144438Z" creationid="Luan" creationdate="20240125T144438Z">
@@ -2885,6 +2893,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204714Z" creationid="Luan" creationdate="20240313T204714Z">
         <seg>* Br/CaoticoEBom: Um alinhamento de personagem envolvendo bem e liberdade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ChaoticGood: No order, all justice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T152034Z" creationid="Luan" creationdate="20240318T152034Z">
+        <seg>* Br/CaoticoEBom: Nada de ordem, apenas justiça.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3431,6 +3447,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* DarkShepherd: Character who uses threats of punishment to discourage evil.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T152102Z" creationid="Luan" creationdate="20240318T152102Z">
+        <seg>* Br/PastorSombrio: Um personagem que usa ameaças de punição para desencorajar o mal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* DarkestAfrica: Everyone in Africa has a bone in their nose and hair, dances around a bonfire, and lives in a straw hut.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T145556Z" creationid="Luan" creationdate="20240118T145556Z">
@@ -3543,6 +3567,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* DesignatedHero: The character is ''supposed to be'' a hero, but their actions say otherwise.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T152120Z" creationid="Luan" creationdate="20240318T152120Z">
+        <seg>* Br/HeroiDesignado: O personagem que ''deveria ser'' um herói, mas suas ações demonstram o contrário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* DesolationShot
 * DividedStatesOfAmerica
 * DoublingForLondon
@@ -3651,6 +3683,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231216T211913Z" creationid="Luan" creationdate="20231216T211913Z">
         <seg>* Br/NaoTenteIssoEmCasa (consideravelmente mais apropriado que os demais itens da lista).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DorkKnight: A hero who is brave and righteous in spite of their awkwardness.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T152241Z" creationid="Luan" creationdate="20240318T152241Z">
+        <seg>* Br/CavaleiroTonto: Um herói que é corajoso e correto apesar de ser desajeitado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3885,10 +3925,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* EthicalSlut: This character is a moral and benevolent person, at least when it comes to matters of romance and sexuality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T152335Z" creationid="Luan" creationdate="20240318T152335Z">
+        <seg>* Br/VadiaEtica: O personagem é uma pessoa moral e benevolente, pelo menos quando se trata de questões de romance e sexualidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* EvenBetterSequel: When a sequel is widely considered superior to the original, or at least to the immediately preceding installment(s) which themselves were already beloved and considered good.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T152012Z" creationid="Luan" creationdate="20240105T152012Z">
         <seg>* Br/SequenciaAindaMelhor: Quando uma sequência é amplamente considerada como superior ao original, ou pelo menos às entradas imediatamente anteriores que, por si só, já eram consideradas boas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* EvenTheLovingHeroHasHatedOnes: An AllLovingHero has at least one exception to their rule of loving others.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T152355Z" creationid="Luan" creationdate="20240318T152355Z">
+        <seg>* Br/AteOAmorosoHeroiPossuiSeusOdiados: Um Br/HeroiTodoAmoroso tem pelo menos uma exceção à sua regra de amar os outros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3973,6 +4029,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ExperiencedProtagonist: A veteran hero who clearly isn't a rookie or newbie.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T152606Z" creationid="Luan" creationdate="20240318T152606Z">
+        <seg>* Br/ProtagonistaExperiente: Um herói veterano que definitivamente não é um novato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ExtranormalInstitute: Super-trope of all your schools for people with weird powers or abilities.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T202907Z" creationid="Luan" creationdate="20240131T202907Z">
@@ -3993,6 +4057,26 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T001048Z" creationid="Luan" creationdate="20240314T001048Z">
         <seg>* Br/CaraDeBandido: Um mocinho que se parece com um criminoso durão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FaceOfAThug: A person who is good or neutral in spite of having a menacing appearance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T152624Z" creationid="Luan" creationdate="20240318T152624Z">
+        <seg>* Br/CaraDeBandido: Uma pessoa que é boa ou neutra apesar de ter uma aparência ameaçadora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FailureHero
+* FailureKnight
+* FairyGodmother: A character who magically helps the protagonist find their HappilyEverAfter.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T152707Z" creationid="Luan" creationdate="20240318T152707Z">
+        <seg>* Br/HeroiFalho
+* Br/CavaleiroFalho
+* Br/FadaMadrinha: Um personagem que magicamente ajuda o protagonista a encontrar o seu Br/FelizesParaSempre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9532,6 +9616,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheCavalry: Reinforcements for a last-second dramatic rescue of the heroes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T152018Z" creationid="Luan" creationdate="20240318T152018Z">
+        <seg>* Br/ACavalaria: Reforços para um resgate dramático dos heróis no último momento possível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheCharmer relies on general charisma.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231213T192105Z" creationid="Luan" creationdate="20231213T192105Z">
@@ -9580,6 +9672,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheDrifter: Character who walks the Earth, helps in a place for a time and always leaves in the end.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T152309Z" creationid="Luan" creationdate="20240318T152309Z">
+        <seg>* Br/OErrante: Personagem que vaga pela terra, para em algum lugar para ajudar por um tempo e vai embora no fim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheDungAges: Happens during Dark Age Britain.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T151050Z" creationid="Luan" creationdate="20240117T151050Z">
@@ -9594,6 +9694,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T152517Z" creationid="Luan" creationdate="20240117T152417Z">
         <seg>* Br/EraEdwardiana: De 1901 até 1910, entre a morte da BrNotasUteis/RainhaVictoria até o estouro da BrNotasUteis/PrimeiraGuerraMundial.
 * Br/NiveisImpostosDeTecnologia: Apenas certos tipos de tecnologia (ou certos níveis de tecnologia) são permitidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheEveryman: The protagonist is a (mostly) average, normal, ordinary guy just trying to deal with everyday life.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T152425Z" creationid="Luan" creationdate="20240318T152425Z">
+        <seg>* Br/OMediano: O protagonista é uma pessoa normal, média e comum simplesmente tentando lidar com a vida cotidiana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11210,6 +11318,32 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T185103Z" creationid="Luan" creationdate="20240131T185103Z">
         <seg>* Br/{{Comuna}}: Um lugar onde todos vivem juntos em uma comunidade autossuficiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* {{Determinator}}: Absolutely nothing can make the hero give up.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T152135Z" creationid="Luan" creationdate="20240318T152135Z">
+        <seg>* Br/ODeterminado: Absolutamente nada pode fazer o herói desistir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* {{Deuteragonist}}
+* DidWeJustHaveTeaWithCthulhu: A character has a cordial encounter with an EldritchAbomination, who may be genuinely benevolent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T152217Z" creationid="Luan" creationdate="20240318T152217Z">
+        <seg>* Br/{{Deuteragonista}}
+* Br/AcabamosDeTomarChaComCthulhu: Um personagem possui um encontro cordial com uma Br/AbominacaoSobrenatural, que pode ser genuinamente benevolente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* {{Face}}: A good guy in wrestling terms.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T152630Z" creationid="Luan" creationdate="20240318T152630Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -22914,6 +23048,16 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T183931Z" creationid="Luan" creationdate="20240103T183931Z">
         <seg>Apesar de haverem mil caindo ao seu lado e dez mil à tua direita, a obra provavelmente tem Br/ContinuidadeNegativa para facilitar o sofrimento dos moradores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Though sometimes they get forced into dealing with extraordinary problems...
+* ExBigBad: A BigBad who has undergone a HeelFaceTurn, joins the heroes, or even become TheAtoner.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T152539Z" creationid="Luan" creationdate="20240318T152539Z">
+        <seg>Mas às vezes eles são forçados a lidar com problemas extraordinários...
+* Br/ExMalvadao: Um Br/{{Malzao}} que resolve Br/PassarParaOLadoDosMocinhos e se junta aos heróis ou se torna Br/OExpiador.</seg>
       </tuv>
     </tu>
     <tu>

@@ -6773,6 +6773,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LovableCoward: They're too chicken to confront danger, but end up being forced to do so anyways.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225558Z" creationid="Luan" creationdate="20240318T225558Z">
+        <seg>* Br/CovardeAdoravel: Eles são muito frouxos para enfrentar o perigo, mas são forçados a fazê-lo mesmo assim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* LovableLizard: Heroic (or at least friendly) lizards.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225615Z" creationid="Luan" creationdate="20240318T225615Z">
+        <seg>* Br/LagartoAdoravel: Lagartos heroicos (ou pelo menos amigáveis).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LovableLizard: Lizards are seen as cute and heroic among reptiles.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T140132Z" creationid="Luan" creationdate="20240314T140132Z">
@@ -6809,6 +6825,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034409Z" creationid="Luan" creationdate="20240314T034409Z">
         <seg>* Br/AmadoPorTodos: O personagem que é amado por todos os outros costuma ter a melhor índole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* LovedByAll: The hero is universally liked by everyone.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225628Z" creationid="Luan" creationdate="20240318T225628Z">
+        <seg>* Br/AmadoPorTodos: O herói é universalmente bem-quisto por todos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6883,6 +6907,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MainCharacterFinalBoss: The hero of the story also plays the role of its final boss.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225645Z" creationid="Luan" creationdate="20240318T225645Z">
+        <seg>* Br/PersonagemPrincipalChefeFinal: O herói da história também faz o papel de chefe final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MajorWorldCities: An index of the largest and most important real world cities used in fiction.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T125734Z" creationid="Luan" creationdate="20240201T125734Z">
@@ -6943,6 +6975,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T185434Z" creationid="Luan" creationdate="20240314T185434Z">
         <seg>* Br/HomemDaCidade: Um personagem toma pra si a atividade de proteger uma cidade como missão de vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ManOfTheCity: The hero who ensures the safety and well-being of the city they live in.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225702Z" creationid="Luan" creationdate="20240318T225702Z">
+        <seg>* Br/HomemDaCidade: O herói que assegura a segurança e bem-estar da cidade em que ele vive.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21986,6 +22026,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T151343Z" creationid="Luan" creationdate="20231221T151343Z">
         <seg>O último grão-mestre, Jacques de Molay, foi queimado na fogueira no ano 1314, sete anos após ter sido preso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The less fortunate classes of society are no exception.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225735Z" creationid="Luan" creationdate="20240318T225735Z">
+        <seg>As classes mais baixas da sociedade não são exceção.</seg>
       </tuv>
     </tu>
     <tu>

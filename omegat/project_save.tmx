@@ -6359,6 +6359,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* NinetiesAntiHero: A violent, ruthless Anti-Hero with a gritty design and an aggressive and/or rough personality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T134914Z" creationid="Luan" creationdate="20240318T134914Z">
+        <seg>* Br/AntiHeroiDosAnos90: Um anti-herói violento e inescrupuloso com aparência áspera e personalidade agressiva e ríspida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* NoCommunitiesWereHarmed: The geographic equivalent of a BlandNameProduct or CaptainErsatz.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T190407Z" creationid="Luan" creationdate="20240221T190407Z">
@@ -11237,6 +11245,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>+ APoliteIndex: All types of characters who tend towards acting nice and respectful towards others (but are not necessarily always good people, [[AffablyEvil as bad guys can be friendly too]]).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T134132Z" creationid="Luan" creationdate="20240318T134132Z">
+        <seg>+ Br/UmIndiceCortes: Todos os tipos de personagem que tendem a agir com educação e respeito com os outros (mas não necessariamente apenas pessoas boas, [[Br/AfavelmenteDoMal pois os malvados também podem ser amigáveis]]).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>+ AnimeSettings: Places which are often found in {{anime}} and {{manga}} stories.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T134336Z" creationid="Luan" creationdate="20240117T134336Z">
@@ -11397,10 +11413,28 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>+ PositiveStereotypeTropes: Stereotypes and races are portrayed as heroes, or at least depicted in a positive light.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T134240Z" creationid="Luan" creationdate="20240318T134240Z">
+        <seg>+ Br/TroposDeEstereotipoPositivo: Estereótipos e raças retratadas como heróis, ou no mínimo retratados por um ângulo positivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>+ SewerTropes: Underground waste storage facilities.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T140907Z" creationid="Luan" creationdate="20240117T140907Z">
         <seg>* Br/TroposDeEsgoto: Instalações subterrâneas para manuseio de rejeitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>+ SuperheroTropes
+[[/folder]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T134652Z" creationid="Luan" creationdate="20240318T134652Z">
+        <seg>+ Br/TroposDeSuperHeroi
+[[/folder]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -11457,6 +11491,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T141621Z" creationid="Luan" creationdate="20240117T141621Z">
         <seg>* Br/VoceNaoVaiQuererViverNesteIndice: Várias ambientações nada agradáveis em que ninguém ficaria se fosse possível sair.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>+ {{Sidekick}}: The ever-reliable number two guy to every hero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T134632Z" creationid="Luan" creationdate="20240318T134632Z">
+        <seg>+ ??? {{Sidekick}}: O sujeito número dois sempre confiável que anda ao lado do herói.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24116,6 +24158,16 @@ LawfulEvil | NeutralEvil | ChaoticEvil-]]]]]</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T221520Z" creationid="Luan" creationdate="20240118T144503Z">
         <seg>[[folder:A-Z]]
 * Br/EsgotoAbsurdamenteEspacoso: Esgotos com tetos altos o bastante para que se possa andar no interior e espaço suficiente para abrigar um castelo inteiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[folder]]
+* HundredPercentHeroismRating: A fame-earning game mechanic that makes the {{Non Player Character}}s in a game respect you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T134746Z" creationid="Luan" creationdate="20240318T134746Z">
+        <seg>[[folder]]
+* Br/ClassificacaoDeCemPorCentoDeHeroismo: Um mecanismo do jogo para obtenção de fama que faz com que os personagens não-jogáveis em um jogo respeitem você.</seg>
       </tuv>
     </tu>
     <tu>

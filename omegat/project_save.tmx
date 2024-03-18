@@ -4363,6 +4363,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FriendToAllChildren: A hero who cares deeply for and protects kids.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T160545Z" creationid="Luan" creationdate="20240318T160545Z">
+        <seg>* Br/AmigoDasCriancas: Um herói que se importa muito com as crianças e as protege.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* FriendToAllChildren: A person who is very fond of children and enjoys interacting with and helping them.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T032321Z" creationid="Luan" creationdate="20240314T032321Z">

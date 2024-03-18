@@ -2563,7 +2563,6 @@ TheFuture	Br/OFuturo
 TheFutureIsNoir	Br/OFuturoENoir
 TheGambler	Br/OApostador
 TheGoodCaptain	Br/OBomCapitao
-TheGoodChancellor	ChancelerBondoso
 TheGoodGuysAlwaysWin	Br/OsBonzinhosSempreVencem
 TheGoodKing	Br/OReiBondoso
 TheGoodKingdom	Br/OBomReino
@@ -3160,3 +3159,6 @@ ExBigBad	Br/ExMalvadao
 ExperiencedProtagonist	Br/ProtagonistaExperiente
 FailureKnight	Br/CavaleiroFalho
 FairyGodmother	Br/FadaMadrinha
+TheGoodChancellor	Br/ChancelerBondoso
+FromHeroToMentor	Br/DeHeroiAMentor
+GuardianOfTheMultiverse	Br/GuardiaoDoMultiverso

@@ -3090,3 +3090,8 @@ SacredBowAndArrows	Br/ArcoEFlechaSagrados
 SafeSaneAndConsensual	Br/SeguroSaoEConsensual
 TokenGoodTeammate	Br/ParceiroCotistaDoBem
 TokenHeroicOrc	Br/OrcHeroicoCotista
+ComicBook/WonderWoman	BrQuadrinhos/MulherMaravilha
+WesternAnimation/TheLegendOfKorra	BrAnimacaoOcidental/ALendaDeKorra
+ActionSeries	Br/SeriesDeAcao
+AdventureSeries	Br/SeriesDeAventura
+Music/HeroesDavidBowieAlbum	BrMusica/HeroesDeDavidBowie

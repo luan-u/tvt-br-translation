@@ -3095,3 +3095,13 @@ WesternAnimation/TheLegendOfKorra	BrAnimacaoOcidental/ALendaDeKorra
 ActionSeries	Br/SeriesDeAcao
 AdventureSeries	Br/SeriesDeAventura
 Music/HeroesDavidBowieAlbum	BrMusica/HeroesDeDavidBowie
+BenevolentMonsters	Br/MonstrosBenevolentes
+BeingTheHeroSucks	Br/SerOHeroiEUmaDroga
+CopsAndDetectives	Br/PoliciaisEDetetives
+GoodnessTropes	Br/TroposDeBondade
+HeroicSpirit	Br/EspiritoHeroico
+HunterOfMonsters	Br/CacadorDeMonstros
+HeroBall	Br/BolaDeHeroibol
+IndexToTheRescue	Br/IndiceAoResgate
+MentorIndex	Br/IndiceDeMentores
+PleasantAnimalsIndex	Br/IndiceDeAnimaisAgradaveis

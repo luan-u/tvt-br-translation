@@ -6707,6 +6707,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* KnightErrant: [[TheDrifter Drifting]] heroes who do good deeds as they [[WalkingTheEarth pass by]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T152546Z" creationid="Luan" creationdate="20240319T152546Z">
+        <seg>* Br/CavaleiroErrante: Heróis [[Br/OErrante errantes]] que fazem boas ações enquanto eles [[Br/AndarPelaTerra estão passando]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* KnightInShiningArmor: A hero who champions the weak and innocent, especially women in distress.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225301Z" creationid="Luan" creationdate="20240318T225301Z">
@@ -7175,6 +7183,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165057Z" creationid="Luan" creationdate="20240314T165057Z">
         <seg>* Br/FeitoDeBondade
 * Br/HeroiMagnetico: Um herói com um magnetismo pessoal impressionante ganha amigos e aliados com muita facilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MadonnaArchetype: Characters modeled after the Virgin Mary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T152658Z" creationid="Luan" creationdate="20240319T152658Z">
+        <seg>* Br/ArquetipoMadonna: Personagens modelados com base na Virgem Maria.</seg>
       </tuv>
     </tu>
     <tu>

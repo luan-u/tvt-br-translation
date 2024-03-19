@@ -3807,6 +3807,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* DistressedDude
+* DoomedMoralVictor: TheHeroDies after making his LastStand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T142321Z" creationid="Luan" creationdate="20240319T142321Z">
+        <seg>* Br/PrincesoEmPerigo
+* Br/VitoriosoMoralCondenado: Br/OHeroiMorre após fazer a linha de defesa final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* DividedForAdaptation: A singular work is adapted into several planned installments (such as movies).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T151738Z" creationid="Luan" creationdate="20240105T151738Z">
@@ -4081,6 +4091,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T153258Z" creationid="Luan" creationdate="20240125T153258Z">
         <seg>* Br/CorredorInterminavel: Continue andando para sempre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* EnglishRose: A beautiful young English lady who is virtuous and possesses a certain type of modest, natural beauty.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T142421Z" creationid="Luan" creationdate="20240319T142421Z">
+        <seg>* Br/RosaInglesa: Uma bela e jovem dama inglesa que é virtuosa e possui um certo tipo de beleza modesta e natural.</seg>
       </tuv>
     </tu>
     <tu>

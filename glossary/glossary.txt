@@ -3237,3 +3237,12 @@ HeroesActVillainsHinder	Br/HeroisAgemViloesAtrapalham
 HeroWithAUniqueName	Br/HeroiComNomeUnico
 HeroicBastard	Br/BastardoHeroico
 HeroicHost	Br/HospedeiroHeroico
+HeroicRematch	Br/RevancheHeroica
+HeroicVow	Br/VotoHeroico
+HiddenAgendaHero	Br/HeroiComMotivosOcultos
+TheHeroSucksSong	Br/CancaoDeOHeroiEUmaDroga
+TheVillainSucksSong	Br/CancaoDeOVilaoEUmaDroga
+AHeroToHisHometown	Br/UmHeroiEmSuaCidadeNatal
+HeroWithAnFInGood	Br/HeroiComZeroEmBondade
+InnocentAliens	Br/AlienigenasInocentes
+BenevolentAlienInvasion	Br/InvasaoDosAlienigenasBenevolentes

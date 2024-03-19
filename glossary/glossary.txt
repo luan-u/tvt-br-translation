@@ -3231,3 +3231,9 @@ FromShameHeroism	Br/DaVergonhaHeroismo
 GodBeforeDogma	Br/DeusAntesDeDogma
 GreatWhiteHunter	Br/GrandeCacadorBranco
 TheHashshashin	Br/OsHashshashin
+HenshinHero	Br/HeroiHenshin
+HerosSlaveHarem	Br/HaremDeEscravosDoHeroi
+HeroesActVillainsHinder	Br/HeroisAgemViloesAtrapalham
+HeroWithAUniqueName	Br/HeroiComNomeUnico
+HeroicBastard	Br/BastardoHeroico
+HeroicHost	Br/HospedeiroHeroico

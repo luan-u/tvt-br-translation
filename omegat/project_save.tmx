@@ -9193,6 +9193,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* RichKidTurnedSocialActivist: An idealistic person who's from a very rich background, but tries to help the poor and downtrodden personally and directly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T190328Z" creationid="Luan" creationdate="20240319T190328Z">
+        <seg>* Br/GarotoRicoTransformadoEmAtivistaSocial: Uma pessoa idealista que vem de família rica, mas tenta ajudar os pobres e oprimidos pessoalmente e diretamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* RichReclusesRealm: A private domain bought and/or built by a super-rich recluse.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T202849Z" creationid="Luan" creationdate="20240221T202849Z">
@@ -9879,6 +9887,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SeriesMascot: Most good guys serve as iconic characters chosen to represent a fictional universe or media franchise.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T190542Z" creationid="Luan" creationdate="20240319T190542Z">
+        <seg>* Br/MascoteDaSerie: A maioria dos caras bons servem como personagens icônicos escolhidos para representar um universo fictício ou franquia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SeriousBusiness: Treating something more seriously than necessary.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T141519Z" creationid="Luan" creationdate="20240104T141519Z">
@@ -10039,6 +10055,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T023337Z" creationid="Luan" creationdate="20240314T023337Z">
         <seg>* Br/CalaABocaKirk: O herói diz ao vilão que ele inevitavelmente vai perder e o vilão responde dizendo que ele não liga e que vai superar ele mesmo assim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SidekickSong: The hero's sidekick has a moment to shine with a song.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T190610Z" creationid="Luan" creationdate="20240319T190610Z">
+        <seg>* ??? SidekickSong: O ajudante do herói tem seu momento de brilhar com uma canção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10816,6 +10840,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T172751Z" creationid="Luan" creationdate="20240314T172751Z">
         <seg>* Br/TemGostoDeAmizade: Um personagem se torna amigo de outro após receber comida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TeamChef: The member of a hero team who does the cooking.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T190842Z" creationid="Luan" creationdate="20240319T190842Z">
+        <seg>* Br/ChefDaEquipe: O membro do time de heróis que cuida da cozinha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11948,6 +11980,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T233008Z" creationid="Luan" creationdate="20240318T233008Z">
         <seg>* Br/OCaraEsperto: O membro mais inteligente do grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheSoftHeartedWarrior: A warrior feared on the battlefield but not at home.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T190646Z" creationid="Luan" creationdate="20240319T190646Z">
+        <seg>* Br/GuerreiroDeCoracaoMole: Um guerreiro temido no campo de batalha, mas não em casa.</seg>
       </tuv>
     </tu>
     <tu>

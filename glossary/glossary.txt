@@ -3257,3 +3257,4 @@ ThePowerOfFriendship	Br/OPoderDaAmizade
 PrincessProtagonist	Br/PrincesaProtagonista
 ProtoSuperhero	Br/ProtoSuperHeroi
 PunchClockHero	Br/HeroiBatedorDePonto
+TheRealHeroes	Br/OsVerdadeirosHerois

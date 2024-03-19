@@ -9365,8 +9365,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>* SealedGoodInACan: A hero who has somehow been imprisoned for a long time.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T154918Z" creationid="Luan" creationdate="20240319T154918Z">
-        <seg>* Br/BemSeladoEmUmaGarrafa: Um personagem que de algum modo ficou aprisionado por muito tempo.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T155005Z" creationid="Luan" creationdate="20240319T154918Z">
+        <seg>* Br/OBemSeladoEmUmaGarrafa: Um personagem que de algum modo ficou aprisionado por muito tempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9417,6 +9417,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T204725Z" creationid="Luan" creationdate="20240221T204725Z">
         <seg>* Br/PassagemSecretaSubterranea
 * Br/InfernoAutoInfligido: Um personagem sofre no pós-vida apenas por acreditar que eles merecem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SecularHero: A hero who doesn't hold religious beliefs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T154936Z" creationid="Luan" creationdate="20240319T154936Z">
+        <seg>* Br/HeroiSecular: Um herói que não possui crenças religiosas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9617,6 +9625,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SexyVillainsChasteHeroes: Sexualized villains' designs contrast with the designs of more modest heroes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T155034Z" creationid="Luan" creationdate="20240319T155034Z">
+        <seg>* Br/ViloesSensuaisHeroisCastos: O design sexualizado dos vilões contrasta com a aparência mais modesta dos heróis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ShaggyDogStory: A story's buildup has no payoff.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T155915Z" creationid="Luan" creationdate="20231208T155915Z">
@@ -9645,6 +9661,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T170842Z" creationid="Luan" creationdate="20240314T170842Z">
         <seg>* Br/CordeiroEmPeleDeCordeiro: Uma pessoa boa traz sobre si a suspeita de secretamente não ser tão boa quanto se supõe, mas então se descobre que suas supostas ações ruins tinham motivos nobres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SheepInSheepsClothing: A good-natured character is suspected to be not-so-nice, but turns out to be exactly as initially perceived.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T155114Z" creationid="Luan" creationdate="20240319T155114Z">
+        <seg>* Br/CordeiroEmPeleDeCordeiro: Um personagem de boa índole traz sobre si a suspeita de não ser tão bom, mas então se descobre que ele era tal qual como inicialmente percebido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9775,6 +9799,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SmallStepsHero: A hero who does immediate good and worries about evil later.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T155445Z" creationid="Luan" creationdate="20240319T155445Z">
+        <seg>* Br/HeroiDePequenosPassos: Um herói que faz o bem imediato e se preocupa com o mal depois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SmallTownBigHell: A small town with literally no secrets between their inhabitants.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T210411Z" creationid="Luan" creationdate="20240221T210411Z">
@@ -9821,6 +9853,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T210740Z" creationid="Luan" creationdate="20240221T210740Z">
         <seg>* ??? SoapboxSquare: Uma praça ou parque público onde agitadores fazem discursos inflamados para multidões que o saúdam ou o vaiam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SociopathicHero: TheSociopath is a "hero".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T155502Z" creationid="Luan" creationdate="20240319T155502Z">
+        <seg>* Br/HeroiSociopata: Br/OSociopata é um "herói".</seg>
       </tuv>
     </tu>
     <tu>
@@ -9893,6 +9933,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T134512Z" creationid="Luan" creationdate="20240201T134512Z">
         <seg>* Br/QuartoSemAlma: Alguém que não tem emoções possui um quarto estranhamente limpo, com poucos objetos pessoais ou nenhum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SouthernGentleman: A polite and proper guy from the American south, typically with a few unpleasant traits.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T155511Z" creationid="Luan" creationdate="20240319T155511Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -9981,6 +10029,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T171128Z" creationid="Luan" creationdate="20240314T171128Z">
         <seg>* Br/PouparUmMensageiro
 * Br/PouparOUltimoCapanga: Depois de derrotar vários capangas sozinho, o personagem heroico deixa viver um último, geralmente sugerindo que ele caia no chão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SparkOfTheRebellion: A small act of defiance against TheEmpire kickstarts a rebellion.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T155551Z" creationid="Luan" creationdate="20240319T155551Z">
+        <seg>* Br/FagulhaDaRebeliao: Um pequeno ato de desafio contra Br/OImperio desencadeia uma rebelião.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10130,6 +10186,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* StockShoujoHeroine: The stereotypical protagonist of most {{Shoujo}} anime.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T155631Z" creationid="Luan" creationdate="20240319T155631Z">
+        <seg>* Br/HeroinaPadraoDeShoujo: A protagonista estereotípica da maioria dos animes tipo Br/{{shoujo}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* StockStarSystems: Star systems (such as Betelgeuse, Arcturus, or Alpha Centuari) which are well known by audiences and authors alike.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T222034Z" creationid="Luan" creationdate="20240124T222034Z">
@@ -10266,6 +10330,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SuperSentaiStance: Superheroes go into a coordinated posing routine designed to look "cool".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T155806Z" creationid="Luan" creationdate="20240319T155806Z">
+        <seg>* Br/PoseSuperSentai: Os super heróis fazem uma pose coordenada que é pensada para parecer irada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SuperZeroes: Incompetent superheroes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T155825Z" creationid="Luan" creationdate="20240319T155825Z">
+        <seg>* Br/SuperZeros: Super heróis incompetentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SuperheroCapitalOfTheWorld: A location with an overwhelming surplus of superheroes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T190919Z" creationid="Luan" creationdate="20240131T190919Z">
@@ -10278,6 +10358,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T222157Z" creationid="Luan" creationdate="20240124T222157Z">
         <seg>* Br/EscolaDeSuperHerois Para onde as crianças com super poderes vão para aprender a serem super heróis (e talvez aprender as matérias do ensino regular).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SuperheroTrophyShelf: The hero's lair contains souvenirs from their adventures.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T155651Z" creationid="Luan" creationdate="20240319T155651Z">
+        <seg>* Br/EstanteDeTrofeusDoSuperHeroi: A toca do herói contém lembranças de suas aventuras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13057,6 +13145,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* {{Tsundere}}
+* UnclePennybags: A wealthy person who often uses their fortune to help the needy and/or give those less fortunate than them a good time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T155917Z" creationid="Luan" creationdate="20240319T155917Z">
+        <seg>* Br/{{Tsundere}}
+* Br/TioPennybags: Uma pessoa rica que costuma usar sua fortuna para ajudar os necessitados ou para dar a eles um momento agradável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* {{Undercity}}: A city that suffered some calamity has been built-over and forgotten -- but it's still there.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T215607Z" creationid="Luan" creationdate="20240221T215607Z">
@@ -13367,6 +13465,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T192328Z" creationid="Luan" creationdate="20240105T192328Z">
         <seg>** Br/EmaranhadoDeNumeroDaSequencia: Quando a numeração das sequências começa a ficar... estranha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** SheepInWolfsClothing: A character who has been turned non-human and infiltrates the non-humans to help their human friends.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T155151Z" creationid="Luan" creationdate="20240319T155151Z">
+        <seg>** Br/CordeiroEmPeleDeLobo: Um personagem que foi transformado em algo não-humano e se infiltra nos não-humanos para ajudar seus amigos.</seg>
       </tuv>
     </tu>
     <tu>

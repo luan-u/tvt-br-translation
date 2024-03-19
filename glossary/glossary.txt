@@ -3340,3 +3340,7 @@ RecklessPacifist	Br/PacifistaImprudente
 RebelliousRebel	Br/RebeldeRevoltado
 RecruitTeenagersWithAttitude	Br/RecrutarAdolescentesComAtitude
 Redshirt	Br/CamisaVermelha
+RichKidTurnedSocialActivist	Br/GarotoRicoTransformadoEmAtivistaSocial
+SeriesMascot	Br/MascoteDaSerie
+TheSoftHeartedWarrior	Br/GuerreiroDeCoracaoMole
+TeamChef	Br/ChefDaEquipe

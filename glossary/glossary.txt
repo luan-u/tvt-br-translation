@@ -3318,3 +3318,5 @@ HeroSecretService	Br/ServicoSecretoParaHerois
 HeroOnHiatus	Br/HeroiEmHiato
 HeelFaceBrainwashing	Br/PassarParaOLadoDaLavagemCerebral
 HammyVillainSeriousHero	Br/HeroiSerioVilaoGalhofa
+HandsomeHeroicCaveman	Br/HomemDasCavernasHeroicoEBonito
+FrazettaMan	Br/HomemFrazetta

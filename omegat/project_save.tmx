@@ -10103,6 +10103,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SpannerInTheWorks: The hero foils the villain's plan by accident or because the villain failed to anticipate their involvement.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T171342Z" creationid="Luan" creationdate="20240319T171342Z">
+        <seg>* ??? SpannerInTheWorks: O herói estraga o plano do vilão por acidente ou porque o vilão falhou em considerar o envolvimento dele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SpareAMessenger
 * SparingTheFinalMook: After beating a number of mooks single-handedly, a heroic character spares a final one, often telling the last one to take a dive.</seg>
       </tuv>
@@ -10133,6 +10141,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203628Z" creationid="Luan" creationdate="20240105T203628Z">
         <seg>* Br/SucessorEspiritual: Uma sequência "em espírito" que é similar a um trabalho anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SpoiledSweet: A rich, sheltered and optimistic character who can be genuinely affable and use their wealth to help people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T171412Z" creationid="Luan" creationdate="20240319T171412Z">
+        <seg>* Br/QueridoMimado: Um personagem rico, recluso e otimista que pode ser genuinamente afável e capaz de usar sua riqueza para o bem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10254,6 +10270,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203932Z" creationid="Luan" creationdate="20240105T203932Z">
         <seg>* Br/FranquiaNatimorta: Sequências foram planejadas mas nunca foram feitas por causa de uma falha comercial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* StockLightNovelHero: The stereotypical protagonist of most LightNovel stories.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T171956Z" creationid="Luan" creationdate="20240319T171956Z">
+        <seg>* Br/HeroiPadraoDeRomanceLeve: O protagonista estereotípico da maioria das histórias de Br/RomanceLeve.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11658,6 +11682,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T233008Z" creationid="Luan" creationdate="20240318T233008Z">
         <seg>* Br/OCaraEsperto: O membro mais inteligente do grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheSpymaster: The character who commands all of a faction's spies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T171709Z" creationid="Luan" creationdate="20240319T171709Z">
+        <seg>* Br/MestreEspiao: O personagem que comanda todos os espiões de uma facção.</seg>
       </tuv>
     </tu>
     <tu>

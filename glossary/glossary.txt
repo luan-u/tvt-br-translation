@@ -3258,3 +3258,10 @@ PrincessProtagonist	Br/PrincesaProtagonista
 ProtoSuperhero	Br/ProtoSuperHeroi
 PunchClockHero	Br/HeroiBatedorDePonto
 TheRealHeroes	Br/OsVerdadeirosHerois
+RedIsHeroic	Br/VermelhoEHeroico
+Criminals	Br/{{Criminosos}}
+TheRepublic	Br/ARepublica
+RetiredBadass	Br/FodaoAposentado
+RightManInTheWrongPlace	Br/HomemCertoNoLugarErrado
+SaintBernardRescue	Br/ResgateDoSaoBernardo
+ScaryBlackMan	Br/HomemNegroAssustador

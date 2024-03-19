@@ -3363,6 +3363,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* CoolUncle: An uncle or aunt who is well-loved by their nieces/nephews.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T140736Z" creationid="Luan" creationdate="20240319T140736Z">
+        <seg>* Br/TioLegal: Um tio ou tia que é muito amado por seus sobrinhos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* CoolestClubEver: So great, it's always packed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T185801Z" creationid="Luan" creationdate="20240131T185801Z">
@@ -3391,10 +3399,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* CourteousCanadian: Canadians stereotyped as overly affable, nonconfrontational.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T140902Z" creationid="Luan" creationdate="20240319T140902Z">
+        <seg>* Br/CanadenseCortes: Canadenses retratados como pessoas muito afáveis que evitam conflitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* CrappyCarnival: Like Disneyland, if Mickey was a grubby ConMan.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T145916Z" creationid="Luan" creationdate="20240125T145916Z">
         <seg>* Br/FestivalPodre: Como a Disneylândia se o Mickey fosse [[Br/OTrambiqueiro um trambiqueiro]] sujo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CreateYourOwnHero: A villain's actions inadvertently lead to someone rising up to oppose them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T141036Z" creationid="Luan" creationdate="20240319T141036Z">
+        <seg>* Br/CriarSeuProprioHeroi: As ações de um vilão inadvertidamente levam alguém a se levantar contra eles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3439,6 +3463,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T150206Z" creationid="Luan" creationdate="20240125T150206Z">
         <seg>* Br/CemiterioAssustador: O lugar com a reputação de ser uma linha de produção de mortos-vivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CreepyGood: Heroes' looks might creep people out, but their hearts and intentions are just as noble.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T141101Z" creationid="Luan" creationdate="20240319T141101Z">
+        <seg>* Br/AssustadorEBom: A aparência dos heróis pode assustar as pessoas, mas seus corações e intenções são justos e nobres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3507,6 +3539,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T015752Z" creationid="Luan" creationdate="20231218T015752Z">
         <seg>* Apelos cinícos para reações sobre a Br/VerdadeiraArte (''i.e.'' o show X teve pouco esforço na produção, mas foi feito para parecer superficialmente artístico na expectativa de que os espectadores idiotas o assistiriam não por apreço legítimo, mas para se sentirem inteligentes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DamselInDistress: A female character is kidnapped or otherwise in danger and in need of rescue.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T141123Z" creationid="Luan" creationdate="20240319T141123Z">
+        <seg>* Br/DonzelaEmPerigo: Uma mulher é sequestrada ou se encontra em perigo e necessita de resgate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3703,6 +3743,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* DestructiveSaviour: Heroes that cause a lot of collateral damage as a side effect of their heroism.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T141339Z" creationid="Luan" creationdate="20240319T141339Z">
+        <seg>* Br/SalvadorDestrutivo: Heróis que causam muito dano colateral como um efeito secundário de seu heroísmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DeterminedDoctor: A health practitioner who believes medical care must be given no matter who's receiving it, where they are, or what the problem is.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T141422Z" creationid="Luan" creationdate="20240319T141422Z">
+        <seg>* Br/DoutorDeterminado: Um praticante das artes médicas que acredita que cuidado deve ser dado não importa quem o esteja recebendo, onde estão ou qual é o problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* DidNotGetTheGirl: No matter what they do or how hard they try, the character will never get the girl/boy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T144218Z" creationid="Luan" creationdate="20231208T144218Z">
@@ -3723,6 +3779,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T141154Z" creationid="Luan" creationdate="20240104T141154Z">
         <seg>* ??? DieForOurShip: Os fãs atacam personagens simplesmente por interferirem com o casal predileot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DiligentHeroSlothfulVillain: In this dynamic, the hero is defined by his strong work ethic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T142225Z" creationid="Luan" creationdate="20240319T142225Z">
+        <seg>* Br/HeroiDiligenteVilaoPreguicoso: Nessa dinâmica, o herói é definido por sua forte ética em relação ao trabalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10524,6 +10588,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheChosenMany: TheChosenOne is not the only hero destined to save the world.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T140648Z" creationid="Luan" creationdate="20240319T140648Z">
+        <seg>* Br/OsMuitosEscolhidos: Br/OEscolhido não é o único herói destinado a salvar o mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheChosenOne: The ancient prophecy says that only a certain person can save the world.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204724Z" creationid="Luan" creationdate="20240313T204724Z">
@@ -12645,6 +12717,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** DamselOutOfDistress: A DamselInDistress who puts up a decent or successful escape from her captors, before the hero arrives.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T141228Z" creationid="Luan" creationdate="20240319T141228Z">
+        <seg>** Br/DonzelaForaDePerigo: Uma Br/DonzelaEmPerigo que consegue elaborar e executar um plano de escape dos seus captores antes que o herói chegue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>** Even worse, [[PointOfNoContinues no more continues once you get to the homestretch]].[[note]]On [[UsefulNotes/ArcadeGame Arcade Games]] (where mostly seen) that was meant to prevent excessive credit-feeding, a practice deemed very unprofessional (as opposed to learning and memorizing the levels and/or bosses).[[/note]]
 * No way to [[DifficultyLevels adjust the difficulty]], or doing so is pretty much superficial.</seg>
       </tuv>
@@ -12867,6 +12947,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T005432Z" creationid="Luan" creationdate="20240105T005432Z">
         <seg>** O oposto pode acontecer também -- onde uma história intencionalmente excêntrica baseada na Br/RegraDoLegal e na Br/RegraDaGraca [[Br/SindromeDeCerebus tenta se firmar no solo e ser mais realista na sequência]], perdendo no processo o encanto original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** TheSacredDarkness: Dark is not only not evil; it's benevolent and holy in and of itself.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T141303Z" creationid="Luan" creationdate="20240319T141303Z">
+        <seg>** Br/SagradaEscuridao: As trevas não apenas não são más; elas são benevolentes e sacras por si só.</seg>
       </tuv>
     </tu>
     <tu>

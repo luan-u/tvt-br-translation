@@ -2293,7 +2293,9 @@ SeaSinkhole	Br/RaloMarinho
 SeaStories	Br/HistoriasDoMar
 SealedCastInAMultipack	Br/ElencoSeladoEmUmaMochila
 SealedEvilInACan	Br/MalSeladoEmUmaGarrafa
+SealedEvilInACan	Br/OMalSeladoEmUmaGarrafa
 SealedGoodInACan	Br/BemSeladoEmUmaGarrafa
+SealedGoodInACan	Br/OBemSeladoEmUmaGarrafa
 SeasonFinale	Br/FinalDaTemporada
 SeasonFluidity	Br/FluidezDeTemporada
 SeasonalRot	Br/PodridaoSazonal
@@ -3265,3 +3267,10 @@ RetiredBadass	Br/FodaoAposentado
 RightManInTheWrongPlace	Br/HomemCertoNoLugarErrado
 SaintBernardRescue	Br/ResgateDoSaoBernardo
 ScaryBlackMan	Br/HomemNegroAssustador
+SecularHero	Br/HeroiSecular
+SheepInWolfsClothing	Br/CordeiroEmPeleDeLobo
+ComplexityAddiction	Br/VicioEmComplexidade
+SparkOfTheRebellion	Br/FagulhaDaRebeliao
+StockShoujoHeroine	Br/HeroinaPadraoDeShoujo
+SuperSentaiStance	Br/PoseSuperSentai
+SuperZeroes	Br/SuperZeros

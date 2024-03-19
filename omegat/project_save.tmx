@@ -2785,6 +2785,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ByTheBookCop: A police officer who follows rules and regulations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T182342Z" creationid="Luan" creationdate="20240319T182342Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ByronicHero: A character who is a melancholic, brooding loner with a DarkAndTroubledPast, and is flawed, yet sympathetic.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T232550Z" creationid="Luan" creationdate="20240318T232550Z">
@@ -5453,6 +5461,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T182025Z" creationid="Luan" creationdate="20240319T182025Z">
         <seg>* Br/HeroiSerioVilaoGalhofa: A seriedade de um herói é contrastada com os gracejos do vilão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HandsomeHeroicCaveman: A caveman is both physically and morally appealing, in contrast to the brutish Neanderthals or the FrazettaMan.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T182308Z" creationid="Luan" creationdate="20240319T182308Z">
+        <seg>* Br/HomemDasCavernasHeroicoEBonito: Um homem das cavernas que é fisicamente e moralmente atraente, contrastando com os neandertais ou com o Br/HomemFrazetta.</seg>
       </tuv>
     </tu>
     <tu>

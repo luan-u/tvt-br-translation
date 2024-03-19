@@ -3248,3 +3248,5 @@ InnocentAliens	Br/AlienigenasInocentes
 BenevolentAlienInvasion	Br/InvasaoDosAlienigenasBenevolentes
 IntrepidReporter	Br/ReporterIntrepido
 JapaneseSpirit	Br/EspiritoJapones
+WalkingTheEarth	Br/AndarPelaTerra
+MadonnaArchetype	Br/ArquetipoMadonna

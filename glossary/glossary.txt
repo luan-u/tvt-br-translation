@@ -3312,3 +3312,9 @@ HeroicMime	Br/MimicoHeroico
 HeroicNeutral	Br/NeutroEHeroico
 HeroismMotiveSpeech	Br/DiscursoMotivacionalDeHeroismo
 HeroicSelfDeprecation	Br/AutoDepreciacaoHeroica
+HeroismEqualsJobQualification	Br/HeroismoSignificaQualificacaoProfissional
+HeroismWontPayTheBills	Br/HeroismoNaoPagaAsContas
+HeroSecretService	Br/ServicoSecretoParaHerois
+HeroOnHiatus	Br/HeroiEmHiato
+HeelFaceBrainwashing	Br/PassarParaOLadoDaLavagemCerebral
+HammyVillainSeriousHero	Br/HeroiSerioVilaoGalhofa

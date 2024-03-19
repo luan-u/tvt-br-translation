@@ -3335,3 +3335,8 @@ PoliteVillainsRudeHeroes	Br/HeroisRudesViloesEducados
 TheChooserOfTheOne	Br/OEscolhedor
 ThePoorlyChosenOne	Br/OEscolhidoErrado
 RagtagBunchOfMisfits	Br/BandoDeDesajustados
+Protectorate	Br/{{Protetorado}}
+RecklessPacifist	Br/PacifistaImprudente
+RebelliousRebel	Br/RebeldeRevoltado
+RecruitTeenagersWithAttitude	Br/RecrutarAdolescentesComAtitude
+Redshirt	Br/CamisaVermelha

@@ -8471,6 +8471,18 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* OutdatedHeroVsImprovedSociety
+* OutsideContextProblem, when they are the good guys
+* PajamaCladHero: A hero who does good deeds while in sleepwear.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T184140Z" creationid="Luan" creationdate="20240319T184140Z">
+        <seg>* Br/HeroiObsoletoContraSociedadeMelhorada
+* Br/ProblemaDeContextoExterno, quando eles são os bonzinhos
+* Br/HeroiTrajadoEmPijama: Um herói que faz boas ações enquanto usa roupas de dormir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* OutlawTown: A town run for the benefit of criminals or one entirely populated by criminals.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T131405Z" creationid="Luan" creationdate="20240201T131405Z">
@@ -8645,6 +8657,18 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* PinkHeroine
+* PluckyGirl
+* PoliteVillainsRudeHeroes: GoodIsNotNice versus AffablyEvil.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T184746Z" creationid="Luan" creationdate="20240319T184746Z">
+        <seg>* Br/HeroinaDeRosa
+* Br/GarotaCorajosa
+* Br/HeroisRudesViloesEducados: Br/SerBomNaoESerBonzinho contra Br/AfavelmenteDoMal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* PlaceBeyondTime: A place out of time.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T154455Z" creationid="Luan" creationdate="20240117T154455Z">
@@ -8721,6 +8745,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* PoliticallyIncorrectHero: A hero who holds some very controversial beliefs about other people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T184810Z" creationid="Luan" creationdate="20240319T184810Z">
+        <seg>* Br/HeroiPoliticamenteIncorreto: Um herói que possui algumas crenças controversas sobre outras pessoas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* PollutedWasteland: A land destroyed by pollution.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T202115Z" creationid="Luan" creationdate="20240221T202115Z">
@@ -8749,6 +8781,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T203748Z" creationid="Luan" creationdate="20240221T203748Z">
         <seg>* Br/MundoEncruzilhada: O mundo a partir do qual se pode viajar facilmente para muitos outros mundos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* PositiveFriendInfluence: A character that helps others within their social circle (friends, family, RagtagBunchOfMisfits, etc) to start making their way on overcoming their issues and become better people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T185328Z" creationid="Luan" creationdate="20240319T185328Z">
+        <seg>* Br/AmigoDeInfluenciaPositiva: Um personagem que ajuda outros em seu círculo social (amigos, família, Br/BandoDeDesajustados, etc) a superarem seus problemas e se tornarem pessoas melhores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11774,6 +11814,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T142417Z" creationid="Luan" creationdate="20240318T142417Z">
         <seg>* Br/OExemplo: O herói que encoraja outros a serem mais heroicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ThePoorlyChosenOne: Unfortunately, they totally failed to achieve their great destiny.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T184935Z" creationid="Luan" creationdate="20240319T184935Z">
+        <seg>* Br/OEscolhidoErrado: Infelizmente eles falharam em alcançar seu grande destino.</seg>
       </tuv>
     </tu>
     <tu>

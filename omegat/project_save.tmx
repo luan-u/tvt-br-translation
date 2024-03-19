@@ -6355,6 +6355,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* IntrepidReporter: A reporter actively seeks out and gets involved in their stories.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T145657Z" creationid="Luan" creationdate="20240319T145657Z">
+        <seg>* Br/ReporterIntrepido: Um repórter que ativamente busca e se envolve em suas histórias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* InvincibleHero: A hero who is so super-competent that they seem to be outright unstoppable.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224939Z" creationid="Luan" creationdate="20240318T224939Z">
@@ -6519,6 +6527,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T133734Z" creationid="Luan" creationdate="20240314T133734Z">
         <seg>* Br/OculosCorDeJade
 * Br/JoanaDArquetipo: Uma Br/GarotaDeAcao jovem nas forças armadas que é considerada como um símbolo inspirador da causa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* JapaneseSpirit: The belief that everyone (or rather, everyone "good") is or can become better by a certain virtue, whether it's a born-with trait, a faith that cannot be shaken, or undying willpower.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T145813Z" creationid="Luan" creationdate="20240319T145813Z">
+        <seg>* Br/EspiritoJapones: A crença de que todos (ou melhor dizendo, todos que são "bons") são ou podem se tornar melhores através de uma certa virtude, seja ela uma característica inata, uma fé inabalável ou força de vontade intensa.</seg>
       </tuv>
     </tu>
     <tu>

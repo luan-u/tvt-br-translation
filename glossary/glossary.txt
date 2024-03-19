@@ -3227,3 +3227,7 @@ DeterminedDoctor	Br/DoutorDeterminado
 DiligentHeroSlothfulVillain	Br/HeroiDiligenteVilaoPreguicoso
 DoomedMoralVictor	Br/VitoriosoMoralCondenado
 EnglishRose	Br/RosaInglesa
+FromShameHeroism	Br/DaVergonhaHeroismo
+GodBeforeDogma	Br/DeusAntesDeDogma
+GreatWhiteHunter	Br/GrandeCacadorBranco
+TheHashshashin	Br/OsHashshashin

@@ -1406,6 +1406,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AHeroIsBorn: A heroic character's birth or the character as an infant is shown in the beginning.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T180228Z" creationid="Luan" creationdate="20240319T180228Z">
+        <seg>* Br/UmHeroiNasce: O início da obra mostra o nascimento de um personagem heróico ou o personagem enquanto criança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AHeroToHisHometown
 * HeroWithAnFInGood: A character who isn't very good at being a hero.</seg>
       </tuv>
@@ -5773,10 +5781,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeroicBuild: Many heroic men have an impressively muscular body.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T180434Z" creationid="Luan" creationdate="20240319T180434Z">
+        <seg>* Br/RobustezHeroica: Muitos homens heroicos possuem um corpo atlético e musculoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HeroicBystander: Someone who performs a worthy heroic act without any formal or professional training.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224117Z" creationid="Luan" creationdate="20240318T224117Z">
         <seg>* Br/ObservadorHeroico: Alguém que executa um ato heroico sem treinamento formal ou profissional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroicComedicSociopath: A sort of comic relief who works toward a positive, morally affirming goal whilst being as vicious as possible along the way.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T180613Z" creationid="Luan" creationdate="20240319T180613Z">
+        <seg>* Br/SociopataComicoHeroico: Um certo tipo de alívio cômico que caminha na direção de um objetivo positivo moralmente enquanto tenta ser tão imoral quanto possível ao longo do caminho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5821,6 +5845,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeroicMime: A good guy who never talks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T180640Z" creationid="Luan" creationdate="20240319T180640Z">
+        <seg>* Br/MimicoHeroico: Um cara bom que nunca fala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroicNeutral: A character wants to be left alone, but will jump into to the scene if there is danger aboard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T180726Z" creationid="Luan" creationdate="20240319T180726Z">
+        <seg>* Br/NeutroEHeroico: Um personagem quer ser deixado sozinho, mas entra em ação se houver perigo se aproximando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HeroicRematch: The hero loses against an important enemy early on, but wins against them when it counts the most later.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T144711Z" creationid="Luan" creationdate="20240319T144711Z">
@@ -5833,6 +5873,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224239Z" creationid="Luan" creationdate="20240318T224239Z">
         <seg>* Br/DeterminacaoHeroica: Um herói, quando derrotado, encontra força interior e o desejo de vencer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroicRussianEmigre: Anti-bolshevik Russian expats are portrayed positively.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T180900Z" creationid="Luan" creationdate="20240319T180900Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -5869,6 +5917,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeroicSelfDeprecation: The hero belittles themselves.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T180928Z" creationid="Luan" creationdate="20240319T180928Z">
+        <seg>* Br/AutoDepreciacaoHeroica: O herói faz pouco caso de si mesmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HeroicVow: The hero makes a promise that they intend to keep at all costs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T144831Z" creationid="Luan" creationdate="20240319T144831Z">
@@ -5881,6 +5937,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T144901Z" creationid="Luan" creationdate="20240319T144901Z">
         <seg>* Br/ForcaDeVontadeHeroica: O herói corre risco de ser corrompido por uma força maléfica, mas consegue evitar isso ao fazer o seu melhor para não ceder à loucura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroismMotiveSpeech: A good guy makes a speech about why they became the hero and/or what being a hero means to them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T180803Z" creationid="Luan" creationdate="20240319T180803Z">
+        <seg>* Br/DiscursoMotivacionalDeHeroismo: Um cara bom faz um discurso sobre porque se tornou o herói ou sobre o que significa ser um herói.</seg>
       </tuv>
     </tu>
     <tu>

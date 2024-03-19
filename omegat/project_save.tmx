@@ -8153,6 +8153,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* NobleSavage: Someone from a primitive tribe, who is generally more decent and wise than people from civilized society.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T183745Z" creationid="Luan" creationdate="20240319T183745Z">
+        <seg>* Br/SelvagemNobre: Alguém de uma tribo primitiva que é mais decente e sábio que as pessoas da sociedade civilizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Non-American productions going for [[{{Americanization}} Hollywood]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T221951Z" creationid="Luan" creationdate="20231210T221951Z">
@@ -8339,6 +8347,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* OmniscientHero
+* TheOneWithAPersonalLife: The one member of the crew who still has a life outside of adventuring.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T183845Z" creationid="Luan" creationdate="20240319T183845Z">
+        <seg>* Br/HeroiOnisciente
+* Br/AqueleComUmaVidaPessoal: O membro da equipe que ainda tem uma vida além das atividades de aventura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* One of the cast members gets into an embarrassing real-life scandal.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T222800Z" creationid="Luan" creationdate="20231210T222800Z">
@@ -8397,6 +8415,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T185618Z" creationid="Luan" creationdate="20240221T185618Z">
         <seg>* Br/UnicaLojaNaCidade: Vilarejos (ou, em videogames, cidades de qualquer tamanho) possuem uma única loja em que o balconista é também o proprietário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* OnlyTheChosenMayWield: A weapon only wieldable by [[TheChosenOne the Chosen One]] or one with certain special attributes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T184041Z" creationid="Luan" creationdate="20240319T184041Z">
+        <seg>* Br/ApenasOEscolhidoPodeEmpunhar: Uma arma que só pode ser brandida pelo [[Br/OEscolhido Escolhido]] ou alguém com atributos especiais.</seg>
       </tuv>
     </tu>
     <tu>

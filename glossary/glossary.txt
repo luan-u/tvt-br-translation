@@ -3282,3 +3282,7 @@ CaptainEthnic	Br/CapitaoEtnico
 ChivalrousPervert	Br/CavalheiroPervertido
 DarkMagicalGirl	Br/GarotaMagicaSombria
 InternalReformist	Br/ReformistaInterno
+TheSpymaster	Br/MestreEspiao
+LightNovel	Br/LightNovel
+LightNovel	Br/RomanceLeve
+StockLightNovelHero	Br/HeroiPadraoDeRomanceLeve

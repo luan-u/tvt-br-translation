@@ -4731,6 +4731,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FromShameHeroism: A character is ashamed of something they've done, and turns to heroism as a result.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T143028Z" creationid="Luan" creationdate="20240319T143028Z">
+        <seg>* Br/DaVergonhaHeroismo: Um personagem fica envergonhado de algo que fez e, como resultado, se volta para o heroísmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* FromZeroToHero: A character comes from nothing, and rises up in the world thanks to their goodness and heroism.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T001406Z" creationid="Luan" creationdate="20240314T001406Z">
@@ -4911,6 +4919,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T001457Z" creationid="Luan" creationdate="20240314T001457Z">
         <seg>* Br/VaENaoPequesMais: O herói poupa o vilão e diz que ele deve se redimir por seus crimes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GodBeforeDogma: A religious hero opposes the religious beliefs of a villain of the same religion.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T143107Z" creationid="Luan" creationdate="20240319T143107Z">
+        <seg>* Br/DeusAntesDeDogma: Um herói religioso se opõe às crenças de um vilão da mesma religião.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5267,6 +5283,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T143414Z" creationid="Luan" creationdate="20240118T143414Z">
         <seg>* Br/GrandeEVastaBibliotecaDeTudo: Uma biblioteca absurdamente enorme e bem estocada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GreatWhiteHunter: Heroic or semi-heroic big game poacher.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T143350Z" creationid="Luan" creationdate="20240319T143350Z">
+        <seg>* Br/GrandeCacadorBranco: Um caçador de feras grandes heroico ou semi-heroico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10704,6 +10728,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheFriendlyTexan: Texans are depicted as friendly, affable and benevolent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T142949Z" creationid="Luan" creationdate="20240319T142949Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheFuture: 100 -- 200 years into the future.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T152906Z" creationid="Luan" creationdate="20240117T152906Z">
@@ -10790,6 +10822,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223354Z" creationid="Luan" creationdate="20240318T223330Z">
         <seg>* Br/OPistoleiro
 * Br/CabeloDeOuroCoracaoDeOuro: Um cara bom ou moça boa com cabelo loiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheHashshashin: The order of assassins from the Medieval Middle East.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T143812Z" creationid="Luan" creationdate="20240319T143812Z">
+        <seg>* Br/OsHashshashin: A ordem de assassinos do Oriente Médio medieval.</seg>
       </tuv>
     </tu>
     <tu>

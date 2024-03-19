@@ -3225,3 +3225,5 @@ DamselOutOfDistress	Br/DonzelaForaDePerigo
 DestructiveSaviour	Br/SalvadorDestrutivo
 DeterminedDoctor	Br/DoutorDeterminado
 DiligentHeroSlothfulVillain	Br/HeroiDiligenteVilaoPreguicoso
+DoomedMoralVictor	Br/VitoriosoMoralCondenado
+EnglishRose	Br/RosaInglesa

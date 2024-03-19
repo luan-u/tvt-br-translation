@@ -3246,3 +3246,5 @@ AHeroToHisHometown	Br/UmHeroiEmSuaCidadeNatal
 HeroWithAnFInGood	Br/HeroiComZeroEmBondade
 InnocentAliens	Br/AlienigenasInocentes
 BenevolentAlienInvasion	Br/InvasaoDosAlienigenasBenevolentes
+IntrepidReporter	Br/ReporterIntrepido
+JapaneseSpirit	Br/EspiritoJapones

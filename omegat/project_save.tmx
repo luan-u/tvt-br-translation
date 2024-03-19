@@ -1406,6 +1406,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AHeroToHisHometown
+* HeroWithAnFInGood: A character who isn't very good at being a hero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T145433Z" creationid="Luan" creationdate="20240319T145433Z">
+        <seg>* Br/UmHeroiEmSuaCidadeNatal
+* Br/HeroiComZeroEmBondade: Um personagem que não é muito bom em ser um herói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ALighterShadeOfGrey: When an AntiHero is more heroic than an AntiVillain.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225514Z" creationid="Luan" creationdate="20240318T225514Z">
@@ -5739,6 +5749,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeroicRematch: The hero loses against an important enemy early on, but wins against them when it counts the most later.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T144711Z" creationid="Luan" creationdate="20240319T144711Z">
+        <seg>* Br/RevancheHeroica: O herói perde contra um inimigo importante no começo, mas vence posteriormente, que é quando importa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HeroicResolve: A hero, when being beaten, finds an inner strength and the will to win.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224239Z" creationid="Luan" creationdate="20240318T224239Z">
@@ -5751,6 +5769,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033809Z" creationid="Luan" creationdate="20240314T033802Z">
         <seg>* Br/SacrificioHeroico: Um personagem heroico faz um sacrifício, tipicamente da própria vida, apra alcançar um objetivo particular, tal como salvar outras vidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroicSacrifice: Getting oneself killed in a selfless effort to save other people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T144736Z" creationid="Luan" creationdate="20240319T144736Z">
+        <seg>* Br/SacrificioHeroico: Morrer em um esforço altruísta de salvar outras pessoas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5771,6 +5797,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeroicVow: The hero makes a promise that they intend to keep at all costs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T144831Z" creationid="Luan" creationdate="20240319T144831Z">
+        <seg>* Br/VotoHeroico: O herói faz uma promessa que ele pretende manter a qualquer custo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroicWillpower: The hero is in danger of being corrupted by an evil force, but manages to fight it off by doing their best not to give in to the madness.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T144901Z" creationid="Luan" creationdate="20240319T144901Z">
+        <seg>* Br/ForcaDeVontadeHeroica: O herói corre risco de ser corrompido por uma força maléfica, mas consegue evitar isso ao fazer o seu melhor para não ceder à loucura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HerosMuse: TheHero is inspired or led by an idealized woman.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223620Z" creationid="Luan" creationdate="20240318T223620Z">
@@ -5783,6 +5825,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T143952Z" creationid="Luan" creationdate="20240319T143952Z">
         <seg>* Br/HaremDeEscravosDoHeroi: Os heróis possuem ou controlam múltiplos escravos ou servos que também cumprem o papel de Br/InteresseAmoroso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HiddenAgendaHero: The hero's motive is a mystery.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T144958Z" creationid="Luan" creationdate="20240319T144958Z">
+        <seg>* Br/HeroiComMotivosOcultos: A motivação do herói é um mistério.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6245,6 +6295,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T135730Z" creationid="Luan" creationdate="20240202T135730Z">
         <seg>* Br/EscolaDePeriferia: Uma escola pobre onde os professores já desistiram de qualquer coisa e os estudantes estão em uma via expressa para a prisão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* InnocentAliens: Extraterrestrials who [[BenevolentAlienInvasion truly come in peace]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T145536Z" creationid="Luan" creationdate="20240319T145536Z">
+        <seg>* Br/AlienigenasInocentes: Extraterrestres que [[Br/InvasaoDosAlienigenasBenevolentes legitimamente vêm em paz]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -10912,6 +10970,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223529Z" creationid="Luan" creationdate="20240318T223529Z">
         <seg>* Br/OHeroi: O personagem que faz feitos heroicos com motivação heroica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheHeroSucksSong: Characters, usually villains, insult the hero through a song.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T145237Z" creationid="Luan" creationdate="20240319T145237Z">
+        <seg>* Br/CancaoDeOHeroiEUmaDroga: Personagens, geralmente vilões, insultam o herói através de uma canção.</seg>
       </tuv>
     </tu>
     <tu>

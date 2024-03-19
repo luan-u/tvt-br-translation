@@ -2617,6 +2617,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BlueIsHeroic: Many good guys like to wear blue clothes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T163029Z" creationid="Luan" creationdate="20240319T163029Z">
+        <seg>* Br/AzulEHeroico: Muitos caras bons gostam de usar roupas azuis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BoardingSchoolOfHorrors: The breeding ground of [[SadistTeacher Sadist Teachers]] and cutthroat battles for social dominance.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T151021Z" creationid="Luan" creationdate="20240131T151021Z">
@@ -2833,6 +2841,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* CaptainEthnic: A superhero whose theme is their ethnicity or nationality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T163211Z" creationid="Luan" creationdate="20240319T163211Z">
+        <seg>* Br/CapitaoEtnico: Um super herói cujo tema é sua etnicidade ou nacionalidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* CaptainObvious: Stating the obvious.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231216T211620Z" creationid="Luan" creationdate="20231216T211620Z">
@@ -3027,10 +3043,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ChivalrousPervert: A character (usually male) who is rather horny but nonetheless a genuinely good-hearted person.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T163329Z" creationid="Luan" creationdate="20240319T163329Z">
+        <seg>* Br/CavalheiroPervertido: Um personagem (geralmente homem) que é muito pervertido mas que é uma pessoa de bom coração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ChristmasTown: Home of SantaClaus, the ChristmasElves and Christmas Magic!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T144732Z" creationid="Luan" creationdate="20240125T144732Z">
         <seg>* Br/CidadeDoNatal: A casa do Br/PapaiNoel, dos Br/ElfosNatalinos e da Magia do Natal!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ChronicHeroSyndrome: The hero can't resist helping out anyone and everyone in need who they may come across.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T163402Z" creationid="Luan" creationdate="20240319T163402Z">
+        <seg>* Br/SindromeDeHeroismoCronico: O herói não consegue deixar de ajudar todo e qualquer necessitado que apareça no caminho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3589,6 +3621,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T221442Z" creationid="Luan" creationdate="20240318T221442Z">
         <seg>* Br/AsTrevasNaoSaoMas: Estar associado com as trevas não torna o personagem menos herói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DarkMagicalGirl: A MagicalGirl with a DarkAndTroubledPast, who starts out as an EvilCounterpart to TheHero, but usually [[HeelFaceTurn switches sides]] after being taught ThePowerOfLove, [[ThePowerOfFriendship Friendship]], and Acceptance [[DefeatMeansFriendship after a big showdown]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T163634Z" creationid="Luan" creationdate="20240319T163634Z">
+        <seg>* Br/GarotaMagicaSombria: Uma Br/GarotaMagica com um Br/PassadoSombrioEComplicado que começa como uma Br/ContraparteDoMal para Br/OHeroi, mas que costuma [[Br/PassarParaOLadoDosMocinhos mudar de lado]] depois que é ensinada sobre Br/OPoderDoAmor, Br/OPoderDaAmizade e aceitação [[Br/DerrotaSignificaAmizade após um grande confronto]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -6351,6 +6391,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T135815Z" creationid="Luan" creationdate="20240202T135815Z">
         <seg>* Br/DentroDeUmSistemaDeComputador: Dentro de um mundo virtual auto-contido (diferente do Br/{{Ciberespaco}}, em que as localizações possuem correspondência com o mundo real).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* InternalReformist: A character who is part of a corrupt system works to improve it, or at least refuses to engage in wrongdoing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T163733Z" creationid="Luan" creationdate="20240319T163733Z">
+        <seg>* Br/ReformistaInterno: Um personagem que faz parte de um sistema corrupto tenta melhorá-lo ou, no mínimo, se recusa a participar dos atos errados.</seg>
       </tuv>
     </tu>
     <tu>

@@ -5449,6 +5449,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HammyVillainSeriousHero: A hero's seriousness is contrasted with their villain's hamminess.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T182025Z" creationid="Luan" creationdate="20240319T182025Z">
+        <seg>* Br/HeroiSerioVilaoGalhofa: A seriedade de um herói é contrastada com os gracejos do vilão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HappyEndingOverride: Sequel starts out with a previous victory negated and things much worse than when they began.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145157Z" creationid="Luan" creationdate="20240105T145157Z">
@@ -5647,6 +5655,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223733Z" creationid="Luan" creationdate="20240318T223733Z">
         <seg>* Br/HeroiDeOutraHistoria: Caras bons que têm suas próprias aventuras apesar de não serem parte da história principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroOnHiatus
+* HeroSecretService: The people who protect the important one.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T181259Z" creationid="Luan" creationdate="20240319T181259Z">
+        <seg>* Br/HeroiEmHiato
+* Br/ServicoSecretoParaHerois: As pessoas que protegem o sujeito importante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5941,6 +5959,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeroismEqualsJobQualification
+* HeroismWontPayTheBills: Fighting for all that's good isn't a well-paying job.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T181134Z" creationid="Luan" creationdate="20240319T181134Z">
+        <seg>* Br/HeroismoSignificaQualificacaoProfissional
+* Br/HeroismoNaoPagaAsContas: Lutar pelas causas nobres não paga muito bem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HeroismMotiveSpeech: A good guy makes a speech about why they became the hero and/or what being a hero means to them.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T180803Z" creationid="Luan" creationdate="20240319T180803Z">
@@ -5993,6 +6021,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T183041Z" creationid="Luan" creationdate="20240314T183041Z">
         <seg>* Br/CoracaoDeOuroOculto: Um personagem não quer que os outros saibam de suas boas ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HighHeelFaceTurn: When a villainous group has just one woman, then she's the one who will turn good in the end.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T181335Z" creationid="Luan" creationdate="20240319T181335Z">
+        <seg>* ??? HighHeelFaceTurn: Quando um grupo de vilões tem apenas uma mulher, então ela é quem vai passar para o lado dos mocinhos no final.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13659,8 +13695,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>** HeelFaceBrainwashing: Heroes use brainwashing in order to reform a bad guy.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T143821Z" creationid="Luan" creationdate="20240319T143821Z">
-        <seg></seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T181602Z" creationid="Luan" creationdate="20240319T143821Z">
+        <seg>** Br/PassarParaOLadoDaLavagemCerebral: Heróis usam lavagem cerebral para corrigir um malvado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13675,16 +13711,16 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>** HeelFaceReturn: The villain gets PutOnABus and returns as a good guy.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T143824Z" creationid="Luan" creationdate="20240319T143824Z">
-        <seg></seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T181645Z" creationid="Luan" creationdate="20240319T143824Z">
+        <seg>** ??? HeelFaceReturn: O vilão é Br/ColocadoEmUmOnibus e retorna como um cara bom.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>** HeelFaceTown: When a city goes from a WretchedHive to something more positive, without necessarily being an opportunistic takeover.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T143827Z" creationid="Luan" creationdate="20240319T143827Z">
-        <seg></seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T181726Z" creationid="Luan" creationdate="20240319T143827Z">
+        <seg>** ??? HeelFaceTown: Quando uma cidade deixa de ser um completo caos e passa a ser algo mais positivo sem que isso seja uma tomada oportunista da cidade.</seg>
       </tuv>
     </tu>
     <tu>

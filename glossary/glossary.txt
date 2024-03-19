@@ -3320,3 +3320,7 @@ HeelFaceBrainwashing	Br/PassarParaOLadoDaLavagemCerebral
 HammyVillainSeriousHero	Br/HeroiSerioVilaoGalhofa
 HandsomeHeroicCaveman	Br/HomemDasCavernasHeroicoEBonito
 FrazettaMan	Br/HomemFrazetta
+NobleSavage	Br/SelvagemNobre
+OmniscientHero	Br/HeroiOnisciente
+TheOneWithAPersonalLife	Br/AqueleComUmaVidaPessoal
+OnlyTheChosenMayWield	Br/ApenasOEscolhidoPodeEmpunhar

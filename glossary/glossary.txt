@@ -3286,3 +3286,9 @@ TheSpymaster	Br/MestreEspiao
 LightNovel	Br/LightNovel
 LightNovel	Br/RomanceLeve
 StockLightNovelHero	Br/HeroiPadraoDeRomanceLeve
+TeamDad	Br/PaiDaEquipe
+TeamMom	Br/MaeDaEquipe
+TeenSuperspy	Br/AdolescenteSuperEspiao
+ThingsIWillDoIfIAmEverTheHero	BrApenasPorLazer/CoisasQueEuFareiSeAlgumDiaEuMeTornarHeroi
+TrenchcoatBrigade	Br/BrigadaDeSobretudo
+VillainKiller	Br/MatadorDeViloes

@@ -3305,3 +3305,10 @@ ZombieApocalypseHero	Br/HeroiDoApocalipseZumbi
 BadassBookworm	Br/RatoDeBibliotecaFodao
 FinalGirl	Br/GarotaFinal
 GeniusBruiser	Br/BrutoInteligente
+AHeroIsBorn	Br/UmHeroiNasce
+HeroicBuild	Br/RobustezHeroica
+HeroicComedicSociopath	Br/SociopataComicoHeroico
+HeroicMime	Br/MimicoHeroico
+HeroicNeutral	Br/NeutroEHeroico
+HeroismMotiveSpeech	Br/DiscursoMotivacionalDeHeroismo
+HeroicSelfDeprecation	Br/AutoDepreciacaoHeroica

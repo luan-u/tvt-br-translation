@@ -8651,6 +8651,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ReasonableAuthorityFigure: The authority figure who mostly aids the heroes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T153956Z" creationid="Luan" creationdate="20240319T153956Z">
+        <seg>* Br/FiguraDeAutoridadeRazoavel: A figura de autoridade que mais ajuda os heróis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* RebelLeader: The character who leads LaResistance.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T233215Z" creationid="Luan" creationdate="20240318T233215Z">
@@ -8679,6 +8687,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165545Z" creationid="Luan" creationdate="20240314T165545Z">
         <seg>* Br/CuidadoOlhosVermelhos: Alguns caras bons possuem olhos vermelhos para mostrar que [[Br/SerBomNaoESerMole eles não estão pra brincadeira]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RedIsHeroic: Many good guys like to wear red clothes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T154018Z" creationid="Luan" creationdate="20240319T154018Z">
+        <seg>* Br/VermelhoEHeroico: Muitos caras bons gostam de usar roupas vermelhas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8741,6 +8757,24 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ReformedBully
+* ReformedCriminal: Small time {{Criminals}} who have a change of heart and join the good guys.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T154201Z" creationid="Luan" creationdate="20240319T154201Z">
+        <seg>* Br/ValentaoReformado
+* Br/CriminosoReformado: Br/{{Criminosos}} que mudam de ideia e se juntam aos caras bons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ReformedButNotTamed: A villainous character [[HeelFaceTurn turns to the good side]], but [[AntiHero retains some of their evil qualities]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T154100Z" creationid="Luan" creationdate="20240319T154100Z">
+        <seg>* Br/ReformadoMasNaoDomado: Um personagem vilanesco [[Br/PassarParaOLadoDosMocinhos passa para o lado bom]] mas [[Br/AntiHeroi retém algumas de suas características más]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ReformedButNotTamed: A villainous character turns to the good side, but retains some of their negative qualities.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165635Z" creationid="Luan" creationdate="20240314T165635Z">
@@ -8793,6 +8827,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T141729Z" creationid="Luan" creationdate="20240314T141729Z">
         <seg>* Br/RestaurouMinhaFeNaHumanidade: Um personagem aprende que a humanidade não é tão ruim assim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RetiredBadass: A hero who is retired (but no less brave or competent).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T154323Z" creationid="Luan" creationdate="20240319T154323Z">
+        <seg>* Br/FodaoAposentado: Um herói que se aposentou (mas não é menos corajoso ou competente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8869,6 +8911,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* RightManInTheWrongPlace
+* RighteousRabbit: Heroic rabbits.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T154412Z" creationid="Luan" creationdate="20240319T154412Z">
+        <seg>* Br/HomemCertoNoLugarErrado
+* Br/CoelhoHonrado: Coelhos heroicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* RighteousRabbit: A rabbit or hare is portrayed as a heroic character.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165844Z" creationid="Luan" creationdate="20240314T165844Z">
@@ -8923,6 +8975,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T142628Z" creationid="Luan" creationdate="20240104T142628Z">
         <seg>* Br/RonOComensalDaMorte: Fãs retratam um personagem como mais cruel e pior do que o cânone simplesmente por não gostarem dele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RoseHairedSweetie: A girl with pink hair has a magnanimous and optimistic personality to match.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T154434Z" creationid="Luan" creationdate="20240319T154434Z">
+        <seg>* Br/QueridaDeCabelosRosados: Uma garota com cabelo rosa possui uma personalidade magnânima e otimista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9081,6 +9141,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SaintBernardRescue: A Saint-Bernard that carries a barrel of brandy around its neck comes to the rescue when somebody is dying of hypothermia.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T154534Z" creationid="Luan" creationdate="20240319T154534Z">
+        <seg>* Br/ResgateDoSaoBernardo: Um São Bernardo que carrega um barril de conhaque no pescoço quando vai resgatar alguém que está morrendo de hipotermia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SaintlyChurch: A religious organization that actually wants to do good and righteous deeds for the world.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T035237Z" creationid="Luan" creationdate="20240314T035237Z">
@@ -9119,6 +9187,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T155547Z" creationid="Luan" creationdate="20240125T155547Z">
         <seg>* Br/NaveSapiente: A sua espaçonave tem uma mente própria e se pilota sozinha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SatanIsGood: Satan is portrayed as a heroic figure.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T154552Z" creationid="Luan" creationdate="20240319T154552Z">
+        <seg>* Br/SataEBom: Satã retratado como uma figura heroica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9163,10 +9239,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SavingTheWorld: The ubiquitous goal of many stock heroes: Preventing TheEndOfTheWorldAsWeKnowIt or the world from being conquered.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T154612Z" creationid="Luan" creationdate="20240319T154612Z">
+        <seg>* Br/SalvarOMundo: O objetivo ubíquo de muitos heróis padrão: Impedir Br/OFimDoMundoComoNosConhecemos ou que ele seja conquistado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SavingTheWorld: The ubiquitous goal of many stock heroes: Preventing the end of the world or the world from being conquered.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T170221Z" creationid="Luan" creationdate="20240314T170221Z">
         <seg>* Br/SalvarOMundo: O objetivo ubíquo de muitos heróis padrão: impedir o fim do mundo ou que este seja conquistado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ScaryBlackMan: Some good guys are heavy-set or very muscular dark-skinned male character is perceived as particularly threatening or badass.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T154657Z" creationid="Luan" creationdate="20240319T154657Z">
+        <seg>* Br/HomemNegroAssustador: Alguns caras bons muito musculosos e de pele escura são percebidos como particularmente ameaçadores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9219,6 +9311,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ScienceHero: The hero is a scholar who uses his scientific knowledge to fight evil.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T154738Z" creationid="Luan" creationdate="20240319T154738Z">
+        <seg>* Br/HeroiCientifico: O herói é um cientista que usa o conhecimento científico para combater o mal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ScienceIsGood
 * ScrewTheRulesImDoingWhatsRight: A character disobeys the laws, customs, or their instructions so they can follow their conscience.</seg>
       </tuv>
@@ -9259,6 +9359,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T170457Z" creationid="Luan" creationdate="20240314T170431Z">
         <seg>* Br/BemSeladoEmUmaGarrafa: Um ser benevolente é selado antes de ser eventualmente libertado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SealedGoodInACan: A hero who has somehow been imprisoned for a long time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T154918Z" creationid="Luan" creationdate="20240319T154918Z">
+        <seg>* Br/BemSeladoEmUmaGarrafa: Um personagem que de algum modo ficou aprisionado por muito tempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11336,10 +11444,28 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheRealHeroes: Ordinary servicemen and everyday civilians should deserve more respect for their good deeds.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T153942Z" creationid="Luan" creationdate="20240319T153942Z">
+        <seg>* Br/OsVerdadeirosHerois: Prestadores de serviço e civis comuns que deveriam receber mais respeito por suas boas ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheRedeemer: A character whose personality allows them to get others to turn over a new leaf.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T141530Z" creationid="Luan" creationdate="20240314T141530Z">
         <seg>* Br/ORedentor: Um personagem cuja personalidade permite que outros possam virar a página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheRepublic
+* LaResistance: A group of people who intend to fight back against and overthrow the tyrannical regime oppressing them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T154254Z" creationid="Luan" creationdate="20240319T154254Z">
+        <seg>* Br/ARepublica
+* Br/AResistencia: Um grupo de pessoas que pretende enfrentar e depôr o regime tirânico instalado.</seg>
       </tuv>
     </tu>
     <tu>

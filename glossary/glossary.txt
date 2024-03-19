@@ -768,6 +768,9 @@ DreamWithinADream	Br/SonhoDentroDoSonho
 DreamingOfThingsToCome	Br/SonhandoComAquiloQueVira
 Dreamville	Br/VilaDosSonhos
 DressCodedForYourConvenience	Br/CodigoDeVestimentaParaSuaConveniencia
+ColourCodedForYourConvenience	Br/CodigoDeCoresParaSuaConveniencia
+ColorCodedForYourConvenience	Br/CodigoDeCoresParaSuaConveniencia
+ManlyMan	Br/HomemMasculo
 DriveInTheater	Br/CinemaDriveIn
 DrivenToMadness	Br/LevadoALoucura
 DroppedABridgeOnHim	Br/CaiuUmaPonteNele
@@ -3324,3 +3327,11 @@ NobleSavage	Br/SelvagemNobre
 OmniscientHero	Br/HeroiOnisciente
 TheOneWithAPersonalLife	Br/AqueleComUmaVidaPessoal
 OnlyTheChosenMayWield	Br/ApenasOEscolhidoPodeEmpunhar
+OutdatedHeroVsImprovedSociety	Br/HeroiObsoletoContraSociedadeMelhorada
+OutsideContextProblem	Br/ProblemaDeContextoExterno
+PinkHeroine	Br/HeroinaDeRosa
+PluckyGirl	Br/GarotaCorajosa
+PoliteVillainsRudeHeroes	Br/HeroisRudesViloesEducados
+TheChooserOfTheOne	Br/OEscolhedor
+ThePoorlyChosenOne	Br/OEscolhidoErrado
+RagtagBunchOfMisfits	Br/BandoDeDesajustados

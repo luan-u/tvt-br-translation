@@ -5505,6 +5505,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HenshinHero: The hero has a super mode where they become stronger.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T143917Z" creationid="Luan" creationdate="20240319T143917Z">
+        <seg>* Br/HeroiHenshin: O herói possui um super modo em que ele se torna mais forte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HereThereWereDragons: Once upon a time, Kings had wizards as courtiers and knights slew dragons.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T153329Z" creationid="Luan" creationdate="20240117T153329Z">
@@ -5569,6 +5577,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeroWithAUniqueName
+* HeroesActVillainsHinder: Good guys kickstart the plot, and the bad guys are holding them back.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T144410Z" creationid="Luan" creationdate="20240319T144410Z">
+        <seg>* Br/HeroiComNomeUnico
+* Br/HeroisAgemViloesAtrapalham: Os mocinhos fazem a trama andar e os malvados impedem que a trama ande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HeroWithBadPublicity: A good guy who has an (undeservedly) bad reputation among the citizens.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224404Z" creationid="Luan" creationdate="20240318T224404Z">
@@ -5617,6 +5635,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeroesLoveDogs: Good guys like to keep pet dogs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T144433Z" creationid="Luan" creationdate="20240319T144433Z">
+        <seg>* Br/OsHeroisAmamCachorros: Os caras bons gostam de ter cachorros de estimação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HeroesLoveDogs: The hero have a dog which they love and spend quality time with.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T181506Z" creationid="Luan" creationdate="20240314T181506Z">
@@ -5657,6 +5683,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeroicBastard: A good guy born to unmarried parents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T144450Z" creationid="Luan" creationdate="20240319T144450Z">
+        <seg>* Br/BastardoHeroico: Um cara bom que nasce de pais não casados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HeroicBystander: Someone who performs a worthy heroic act without any formal or professional training.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224117Z" creationid="Luan" creationdate="20240318T224117Z">
@@ -5685,6 +5719,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T181546Z" creationid="Luan" creationdate="20240314T181546Z">
         <seg>* Br/ResgateHeroicoDeIncendio: Um personagem heroico mostra seu heroísmo ao resgatar alguém de um prédio em chamas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HeroicHost: A heroic person gains powers through something inhabiting their body.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T144535Z" creationid="Luan" creationdate="20240319T144535Z">
+        <seg>* Br/HospedeiroHeroico: Uma pessoa heroica ganha poderes por causa de algo que habita o próprio corpo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5733,6 +5775,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T223620Z" creationid="Luan" creationdate="20240318T223620Z">
         <seg>* Br/MusaDoHeroi: Br/OHeroi é inspirado ou guiado por uma mulher idealizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HerosSlaveHarem: Heroes owns or controls multiple slaves or servants who double as LoveInterests.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T143952Z" creationid="Luan" creationdate="20240319T143952Z">
+        <seg>* Br/HaremDeEscravosDoHeroi: Os heróis possuem ou controlam múltiplos escravos ou servos que também cumprem o papel de Br/InteresseAmoroso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12817,9 +12867,33 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** HeelFaceBrainwashing: Heroes use brainwashing in order to reform a bad guy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T143821Z" creationid="Luan" creationdate="20240319T143821Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>** HeelFaceReincarnation: A villain is reincarnated as a good person.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T180703Z" creationid="Luan" creationdate="20240314T180703Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** HeelFaceReturn: The villain gets PutOnABus and returns as a good guy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T143824Z" creationid="Luan" creationdate="20240319T143824Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** HeelFaceTown: When a city goes from a WretchedHive to something more positive, without necessarily being an opportunistic takeover.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T143827Z" creationid="Luan" creationdate="20240319T143827Z">
         <seg></seg>
       </tuv>
     </tu>

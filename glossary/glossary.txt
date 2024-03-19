@@ -2275,6 +2275,8 @@ SchoolIsMurder	Br/EscolaSignificaMorte
 SchoolTropes	Br/TroposDeEscola
 SciFiGhetto	Br/GuetoSciFi
 SciFiWritersHaveNoSenseOfScale	Br/EscritoresDeSciFiNaoTemSensoDeEscala
+Blackmail	Br/{{Chantagem}}
+DoubleReverseQuadrupleAgent	Br/AgenteQuadruploDuploInvertido
 ScienceAtTheSpeedOfPlot	Br/CienciaNaVelocidadeDaTrama
 ScienceDestroysMagic	Br/ACienciaDestroiAMagia
 ScienceFiction	Br/FiccaoCientifica
@@ -3292,3 +3294,12 @@ TeenSuperspy	Br/AdolescenteSuperEspiao
 ThingsIWillDoIfIAmEverTheHero	BrApenasPorLazer/CoisasQueEuFareiSeAlgumDiaEuMeTornarHeroi
 TrenchcoatBrigade	Br/BrigadaDeSobretudo
 VillainKiller	Br/MatadorDeViloes
+VirtuousCharacterCopy	Br/CopiaVirtuosaDePersonagem
+WeakerTwinSavesTheDay	Br/OGemeoMaisFracoSalvaODia
+WealthyPhilanthropist	Br/FilantropistaRico
+TheWisePrince	Br/PrincipeSabio
+WiseTree	Br/ArvoreSabia
+YouMeddlingKids	Br/SuasCriancasEnxeridas
+ZombieApocalypse	Br/ApocalipseZumbi
+ZombieApocalypseHero	Br/HeroiDoApocalipseZumbi
+BadassBookworm	Br/RatoDeBibliotecaFodao

@@ -3344,3 +3344,4 @@ RichKidTurnedSocialActivist	Br/GarotoRicoTransformadoEmAtivistaSocial
 SeriesMascot	Br/MascoteDaSerie
 TheSoftHeartedWarrior	Br/GuerreiroDeCoracaoMole
 TeamChef	Br/ChefDaEquipe
+PrimaryColorChampion	Br/CampeaoEmCoresPrimarias

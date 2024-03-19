@@ -8857,6 +8857,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* PrimaryColorChampion: Heroes tend to wear primary colors, particularly red and blue.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T191546Z" creationid="Luan" creationdate="20240319T191546Z">
+        <seg>* Br/CampeaoEmCoresPrimarias: Heróis tendem a usar cores primárias, em especial o vermelho e o azul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* PrincessProtagonist: When the heroine is a member of royalty.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T153447Z" creationid="Luan" creationdate="20240319T153447Z">

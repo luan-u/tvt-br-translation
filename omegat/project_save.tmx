@@ -8929,6 +8929,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* RagtagBunchOfMisfits: A ramshackle group of characters has to save the day.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T185530Z" creationid="Luan" creationdate="20240319T185530Z">
+        <seg>* Br/BandoDeDesajustados: Um grupo improvisado de personagens precisa salvar o dia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* RailroadToHorizon: A railroad disappearing into the distance is used as a metaphor for the journey ahead.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T150516Z" creationid="Luan" creationdate="20240201T150516Z">
@@ -8957,6 +8965,18 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T233215Z" creationid="Luan" creationdate="20240318T233215Z">
         <seg>* Br/LiderRebelde: O personagem que lidera Br/LaResistance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RebelliousRebel
+* RecklessPacifist
+* RecruitTeenagersWithAttitude: Instead of trained adults or the average superheroes, random teenagers are asked to save the day.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T185706Z" creationid="Luan" creationdate="20240319T185706Z">
+        <seg>* Br/RebeldeRevoltado
+* Br/PacifistaImprudente
+* Br/RecrutarAdolescentesComAtitude: Ao invés de adultos treinados ou os heróis convencionais, adolescentes aleatórios são solicitados a salvar o dia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13535,6 +13555,22 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T202726Z" creationid="Luan" creationdate="20240221T202726Z">
         <seg>* Br/{{Prisao}}
 * Br/SociedadeDaPropriedadePrivada: Tudo pertence a indivíduos, nada é gerido pelo governo (pelo menos não de maneira eficaz).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* {{Protectorate}}: A character swears to defend something from harm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T185459Z" creationid="Luan" creationdate="20240319T185459Z">
+        <seg>* Br/{{Protetorado}}: Um personagem jura defender algo do mal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* {{Redshirt}}s: The GoodCounterpart of evil {{Mooks}}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T185756Z" creationid="Luan" creationdate="20240319T185756Z">
+        <seg>* Br/CamisaVermelha: A Br/ContraparteDoBem dos Br/{{Capangas}} do mal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25504,6 +25540,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231226T155104Z" creationid="Luan" creationdate="20231226T155104Z">
         <seg>Infelizmente isso tende a tornar o personagem menos assustador, causando Br/DecaimentoFodanico e Br/DecaimentoVilanico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unfortunately, they're not any more useful in a fight.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T185816Z" creationid="Luan" creationdate="20240319T185816Z">
+        <seg>Infelizmente, eles são pouco úteis em combate.</seg>
       </tuv>
     </tu>
     <tu>

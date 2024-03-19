@@ -7427,6 +7427,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MentorsNewHope: Training a new student inspires an old mentor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T160351Z" creationid="Luan" creationdate="20240319T160351Z">
+        <seg>* Br/ANovaEsperancaDoMentor: Treinar um novo estudante inspira um mentor idoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MerchantCity: A trade city, ruled or mostly populated by merchants, bankers, and traders.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T143012Z" creationid="Luan" creationdate="20240118T142957Z">
@@ -7595,6 +7603,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MoralPragmatist: Characters join the side of good because it's practical.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T160252Z" creationid="Luan" creationdate="20240319T160252Z">
+        <seg>* Br/PragmaticoMoral: Personagens se juntam ao lado do bem porque é prático.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MoralityGuidedAttack
 * MoralPragmatist: Joining the side of good because it's practical.</seg>
       </tuv>
@@ -7617,6 +7633,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T140538Z" creationid="Luan" creationdate="20240314T140538Z">
         <seg>* Br/SouMaisHeroiQueVoce: Personagens discutem sobre quem deve fazer o sacrifício nobre com base em seu heroísmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MoreHeroThanThou: Good guys have a dispute over who gets to make the noble sacrifice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T160318Z" creationid="Luan" creationdate="20240319T160318Z">
+        <seg>* Br/SouMaisHeroiQueVoce: Caras bons entram em disputa para decidir quem fará o sacrifício heróico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MosesArchetype: Character that acts as a leader to their people as Moses had done, liberating them from slavery and guiding them to a promised land.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T160236Z" creationid="Luan" creationdate="20240319T160236Z">
+        <seg>* Br/ArquetipoMoises: Personagem que age como líder para seu povo como Moisés fez, libertando-os da escravidão e os guiando até a terra prometida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12327,6 +12359,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* WellIntentionedExtremist: Some good guys who resort to extreme methods to achieve their good goals.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T155953Z" creationid="Luan" creationdate="20240319T155953Z">
+        <seg>* Br/ExtremistaBemIntencionado: Alguns caras bons recorrem a métodos extremos para alcançar seus objetivos nobres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* WellIntentionedExtremist: The villain/AntiHero is only doing what they do because they have noble goals.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T023825Z" creationid="Luan" creationdate="20240314T023825Z">
@@ -12559,6 +12599,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T204859Z" creationid="Luan" creationdate="20240105T204859Z">
         <seg>* Br/SequenciaComPalavra: As sequências seguem o padrão: ''Nome, Nome II, Nome III, Nome: Palavra''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* WorkingClassHero: The hero comes from a lower-class background.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T160152Z" creationid="Luan" creationdate="20240319T160152Z">
+        <seg>* Br/HeroiDaClasseTrabalhadora: O herói vem das classes mais baixas.</seg>
       </tuv>
     </tu>
     <tu>

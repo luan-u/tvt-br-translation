@@ -3277,3 +3277,8 @@ SuperZeroes	Br/SuperZeros
 WorkingClassHero	Br/HeroiDaClasseTrabalhadora
 MosesArchetype	Br/ArquetipoMoises
 MentorsNewHope	Br/ANovaEsperancaDoMentor
+BlueIsHeroic	Br/AzulEHeroico
+CaptainEthnic	Br/CapitaoEtnico
+ChivalrousPervert	Br/CavalheiroPervertido
+DarkMagicalGirl	Br/GarotaMagicaSombria
+InternalReformist	Br/ReformistaInterno

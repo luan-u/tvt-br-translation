@@ -3274,3 +3274,6 @@ SparkOfTheRebellion	Br/FagulhaDaRebeliao
 StockShoujoHeroine	Br/HeroinaPadraoDeShoujo
 SuperSentaiStance	Br/PoseSuperSentai
 SuperZeroes	Br/SuperZeros
+WorkingClassHero	Br/HeroiDaClasseTrabalhadora
+MosesArchetype	Br/ArquetipoMoises
+MentorsNewHope	Br/ANovaEsperancaDoMentor

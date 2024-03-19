@@ -10586,6 +10586,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TeamDad: The surrogate father to the heroic team.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T172415Z" creationid="Luan" creationdate="20240319T172336Z">
+        <seg>* Br/PaiDaEquipe: O pai postiço para o time de heróis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TeamMom: The surrogate mother to the heroic team.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T172426Z" creationid="Luan" creationdate="20240319T172426Z">
+        <seg>* Br/MaeDaEquipe: A mãe postiça para o time de heróis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TechnicalPacifist: A pacifist who is fine with using violence so long as it's non-lethal, or will only commit lethal violence as an absolute last resort.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T151333Z" creationid="Luan" creationdate="20240318T151333Z">
@@ -10622,6 +10638,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T231917Z" creationid="Luan" creationdate="20231210T231917Z">
         <seg>* Br/AMarchaDaTecnologia acontece de um modo que muda fundamentalmente a produção enquanto o show tenta continuar no novo formato como se nada tivesse acontecido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TeenSuperspy: A hero with all of the style, panache and gadgetry, who exists to save the world (or maybe just the kids) from megalomaniacs bent on world domination.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T172528Z" creationid="Luan" creationdate="20240319T172528Z">
+        <seg>* Br/AdolescenteSuperEspiao: Um herói com todo o estilo, brio e traquitanas requeridas e que existe para salvar o mundo (ou apenas as crianças) de megalomaníacos obcecados por dominação mundial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11796,6 +11820,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ThingsIWillDoIfIAmEverTheHero
+* ToAbsentFriends: Two or more heroes gather to grieve for a dead comrade, with a toast or without a formalized structure, usually after their heroic cause.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T172746Z" creationid="Luan" creationdate="20240319T172746Z">
+        <seg>* BrApenasPorLazer/CoisasQueEuFareiSeAlgumDiaEuMeTornarHeroi
+* Br/AosAmigosAusentes: Dois ou mais heróis se juntam para honrar um companheiro morto, geralmente por causa de seus feitos heroicos, talvez com um brinde e não necessariamente com uma estrutura formal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Thinking about what you watch and acting critically toward it ''makes you an active, intelligent viewer,'' pulling you away from the LowestCommonDenominator who just buys whatever the media pushes on him.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T155054Z" creationid="Luan" creationdate="20231214T155054Z">
@@ -12060,6 +12094,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TrenchcoatBrigade
+* ATrueHero: An exploration of what makes someone a legitimate or better hero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T172901Z" creationid="Luan" creationdate="20240319T172901Z">
+        <seg>* Br/BrigadaDeSobretudo
+* Br/UmVerdadeiroHeroi: Uma exploração do que torna alguém um herói legítimo ou melhor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TrophyRoom: Where a character keeps mementos of their greatest adventures.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T160014Z" creationid="Luan" creationdate="20240125T160014Z">
@@ -12297,6 +12341,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T220123Z" creationid="Luan" creationdate="20240221T220123Z">
         <seg>* Br/MundoDeViloes
 * Br/DesolacaoVilanicaArcadiaHeroica: Os heróis vivem em locais idílicos (ou pelo menos cosmeticamente belos) enquanto os vilões vivem em locais arruinados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* VillainKiller: A (oftentimes) heroic character who has killed numerous villains (including {{Big Bad}}s, {{The Dragon}}s, and or villainous factions).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T172956Z" creationid="Luan" creationdate="20240319T172956Z">
+        <seg>* Br/MatadorDeViloes: Um personagem heroico (às vezes) que já matou múltiplos vilões (incluindo facções vilanescas, Br/ODragao e o Br/GrandeMal).</seg>
       </tuv>
     </tu>
     <tu>

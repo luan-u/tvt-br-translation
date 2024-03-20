@@ -3143,6 +3143,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ChummyCommies: Communists who are benign, friendly and/or heroic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T133504Z" creationid="Luan" creationdate="20240320T133504Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ChummyMummy: An undead mummy who's friendly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T133458Z" creationid="Luan" creationdate="20240320T133458Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* CircleOfStandingStones: A ring of giant stones where important events often occur.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T144818Z" creationid="Luan" creationdate="20240125T144818Z">
@@ -3255,6 +3271,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* CleanUpTheTown: Newcomer takes position of responsibility and makes things better.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T133648Z" creationid="Luan" creationdate="20240320T133648Z">
+        <seg>* Br/LimparACidade: O novato toma a posição de responsabilidade e torna as coisas melhores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* CliffhangerWall: Instead of moving forward in the timeline, a series/franchise spends a few entries doing interquels and prequels instead (usually disregarding a sequel hook in the process).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T144633Z" creationid="Luan" creationdate="20240105T144633Z">
@@ -3323,6 +3347,18 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T143842Z" creationid="Luan" creationdate="20231208T143842Z">
         <seg>* Br/FusoQuadrinhos: O tempo congela in-universo, apesar da progressão dele no tempo real.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ComicallyInvincibleHero
+* CommandingCoolness
+* ContrastingSequelMainCharacter: The protagonist of a sequel differs significantly from the protagonist of a previous installment in the series.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T134403Z" creationid="Luan" creationdate="20240320T134403Z">
+        <seg>* Br/HeroiComicamenteInvencivel
+* Br/ComandandoEstilo
+* Br/ProtagonistaContrastanteDaSequencia: O protagonista de uma sequência difere significativamente do protagonista de uma obra anterior da série.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11528,6 +11564,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204724Z" creationid="Luan" creationdate="20240313T204724Z">
         <seg>* Br/OEscolhido: A antiga profecia diz que apenas uma determinada pessoa pode salvar o mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheChosenZero: But they're kind of a loser as well.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T133613Z" creationid="Luan" creationdate="20240320T133613Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>

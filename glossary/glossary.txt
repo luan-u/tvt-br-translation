@@ -1467,6 +1467,8 @@ InsideAComputerSystem	Br/DentroDeUmSistemaDeComputador
 InspiredBy	Br/InspiradoPor
 InstantIndexJustAddWater	Br/IndiceInstantaneoBastaAcrescentarAgua
 InstantIndexJustAddWater	Br/IndiceInstantaneoBastaAdicionarAgua
+YouRebelScum	Br/SuaRaleRebelde
+YouRebelScum	Br/SuaEscoriaRebelde
 InstantlyProvenWrong	Br/InstantaneamenteProvadoErrado
 InsufferableGenius	Br/GenioInsuportavel
 InsufferableImbecile	Br/ImbecilInsuportavel
@@ -3383,3 +3385,12 @@ LancerVsDragon	Br/LanceiroContraDragao
 AlphaBitch	Br/CadelaAlfa
 LovableAlphaBitch	Br/CadelaAlfaAdoravel
 LovableSexManiac	Br/ManiacoSexualAdoravel
+MagicalAsian	Br/AsiaticoMagico
+MagicalJew	Br/JudeuMagico
+MagicalNegro	Br/NegroMagico
+MagicalQueer	Br/QueerMagico
+MagicalRomani	Br/CiganoMagico
+MagicalRomani	Br/RomaniMagico
+MagicianDetective	Br/DetetiveMagico
+MeanCharacterNiceActor	Br/PersonagemMauAtorLegal
+TheMeddlingKidsAreUseless	Br/AsCriancasEnxeridasSaoInuteis

@@ -3358,3 +3358,8 @@ ContrastingSequelMainCharacter	Br/ProtagonistaContrastanteDaSequencia
 CoolTeacher	Br/ProfessorLegal
 CowardlyLion	Br/CovardementeLeao
 CowboyCop	Br/PolicialCauboi
+DefendsAgainstTheirOwnKind	Br/DefenderContraOsSeus
+DelightfulDragon	Br/DragaoAgradavel
+ExcitedKidsShowHost	Br/ApresentadorAnimadoDeProgramaInfantil
+DepravedKidsShowHost	Br/ApresentadorDepravadoDeProgramaInfantil
+FallenPrincess	Br/PrincesaCaida

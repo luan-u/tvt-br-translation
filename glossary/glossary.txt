@@ -3363,3 +3363,8 @@ DelightfulDragon	Br/DragaoAgradavel
 ExcitedKidsShowHost	Br/ApresentadorAnimadoDeProgramaInfantil
 DepravedKidsShowHost	Br/ApresentadorDepravadoDeProgramaInfantil
 FallenPrincess	Br/PrincesaCaida
+HollywoodActionHero	Br/HeroiDeAcaoHollywoodiano
+HomelessHero	Br/HeroiSemTeto
+HomegrownHero	Br/HeroiDeCasa
+HonestCorporateExecutive	Br/ExecutivoCorporativoHonesto
+InjuredSelfDrag	Br/RastejarComFerimentos

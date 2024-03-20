@@ -7023,6 +7023,30 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* KidDetective: A child who solves crime.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T141310Z" creationid="Luan" creationdate="20240320T141310Z">
+        <seg>* Br/DetetiveMirim: Uma criança que soluciona crimes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* KidHero: The hero is a young child or teenager.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T141319Z" creationid="Luan" creationdate="20240320T141319Z">
+        <seg>* Br/HeroiGaroto: O herói é uma criança ou adolescente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* KidHeroAllGrownUp: They've entered a full-time career of heroism in adulthood.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T141350Z" creationid="Luan" creationdate="20240320T141350Z">
+        <seg>* Br/HeroiGarotoCrescido: Agora que cresceu, ele entra em uma carreira de heroísmo em tempo integral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* KindheartedCatLover: A character's fondness for cats is portrayed as a benevolent quality.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T184705Z" creationid="Luan" creationdate="20240314T184705Z">
@@ -7031,10 +7055,34 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* KindheartedCatLover: A kind hero who loves cats.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T141400Z" creationid="Luan" creationdate="20240320T141400Z">
+        <seg>* Br/AmanteDeGatosComBomCoracao: Um herói bondoso que ama gatos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* KindheartedSimpleton: A generally pig-ignorant, stupid character who makes up for their idiocy and denseness by being morally nice and show any sort of likability in them.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T134427Z" creationid="Luan" creationdate="20240314T134427Z">
         <seg>* Br/EstupidoDeBomCoracao: Um personagem estúpido no geral que compensa sua idiotice com o fato de que é moralmente bom e demonstra traços agradáveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* KindlyVet: A character who is a veterinarian is also as kind as can be.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T141414Z" creationid="Luan" creationdate="20240320T141414Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* KingInTheMountain: A legendary figure is believed to be in hibernation until the people they've protected need them again rather than dead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T142146Z" creationid="Luan" creationdate="20240320T142146Z">
+        <seg>* Br/ReiNaMontanha: Uma figura lendária supostamente em hibernação até que o seu povo necessite dele novamente (ao invés de ter morrido).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11920,6 +11968,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224709Z" creationid="Luan" creationdate="20240318T224709Z">
         <seg>* Br/OIdealistaEstavaCerto: Um personagem que foi desprezado por ser idealista acaba tendo a melhor solução para os problemas apresentados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheKindnapper: Someone kidnaps others for reasons that are (or are believed to be) benevolent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T141504Z" creationid="Luan" creationdate="20240320T141418Z">
+        <seg>* Br/SequestradorGentil: Alguém sequestra outra pessoa por motivos benevolentes (supostamente).</seg>
       </tuv>
     </tu>
     <tu>

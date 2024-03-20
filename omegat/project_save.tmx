@@ -7895,6 +7895,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MegaCorp: A (nominally heroic) business institution with government-like powers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T144400Z" creationid="Luan" creationdate="20240320T144400Z">
+        <seg>* Br/MegaCorp: Uma empresa heroica (nominalmente) com poderes quase governamentais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MegaDungeon: A dungeon-like environment that's big enough to spend the whole story there.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T224522Z" creationid="Luan" creationdate="20240131T224522Z">

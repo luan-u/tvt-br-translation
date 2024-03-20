@@ -1466,6 +1466,7 @@ InnocuouslyImportantEpisode	Br/EpisodioInocuamenteImportante
 InsideAComputerSystem	Br/DentroDeUmSistemaDeComputador
 InspiredBy	Br/InspiradoPor
 InstantIndexJustAddWater	Br/IndiceInstantaneoBastaAcrescentarAgua
+InstantIndexJustAddWater	Br/IndiceInstantaneoBastaAdicionarAgua
 InstantlyProvenWrong	Br/InstantaneamenteProvadoErrado
 InsufferableGenius	Br/GenioInsuportavel
 InsufferableImbecile	Br/ImbecilInsuportavel
@@ -2602,9 +2603,12 @@ SteelMill	Br/{{Aciaria}}
 StellarStation	Br/EstacaoEstelar
 StillbornFranchise	Br/FranquiaNatimorta
 StockLightNovelHero	Br/HeroiPadraoDeRomanceLeve
+StockLightNovelHero	Br/TipicoHeroiDeLightNovel
 StockParody	Br/ParodiaPronta
 StockShonenHero	Br/HeroiPadraoDeShonen
+StockShonenHero	Br/TipicoHeroiDeShonen
 StockShoujoHeroine	Br/HeroinaPadraoDeShoujo
+StockShoujoHeroine	Br/TipicaHeroinaDeShoujo
 StockStarSystems	Br/SistemasEstelaresProntos
 StoicWoobie	Br/CoitadinhoEstoico
 StopWorshippingMe	Br/PareDeMeIdolatrar
@@ -3368,3 +3372,7 @@ HomelessHero	Br/HeroiSemTeto
 HomegrownHero	Br/HeroiDeCasa
 HonestCorporateExecutive	Br/ExecutivoCorporativoHonesto
 InjuredSelfDrag	Br/RastejarComFerimentos
+KidDetective	Br/DetetiveMirim
+KidHeroAllGrownUp	Br/HeroiGarotoCrescido
+TheKindnapper	Br/SequestradorGentil
+KingInTheMountain	Br/ReiNaMontanha

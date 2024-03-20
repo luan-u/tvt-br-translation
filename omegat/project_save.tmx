@@ -3493,6 +3493,15 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* CoolOldGuy
+* CoolTeacher: A educator who actually seems to make learning fun, serving as an unambiguously positive influence in their students' lives.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T134641Z" creationid="Luan" creationdate="20240320T134641Z">
+        <seg>* Br/ProfessorLegal: Um educador que gosta de tornar o aprendizado divertido, servindo como uma influência positiva na vida dos seus estudantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* CoolShip: Anything that's called a ship and has lasers.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T152813Z" creationid="Luan" creationdate="20240125T152813Z">
@@ -3549,6 +3558,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T140902Z" creationid="Luan" creationdate="20240319T140902Z">
         <seg>* Br/CanadenseCortes: Canadenses retratados como pessoas muito afáveis que evitam conflitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CowardlyLion: A hero who manages to accomplish daunting tasks despite his/her own fears and doubts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T134742Z" creationid="Luan" creationdate="20240320T134742Z">
+        <seg>* Br/CovardementeLeao: Um herói que consegue fazer tarefas desafiadoras apesar de seus próprios medos e dúvidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CowboyCop: A rogue police officer who bucks authority and plays by his own rules, in order to solve crimes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T134903Z" creationid="Luan" creationdate="20240320T134903Z">
+        <seg>* Br/PolicialCauboi: Um policial insubordinado que despreza autoridade e segue suas próprias regras para resolver crimes.</seg>
       </tuv>
     </tu>
     <tu>

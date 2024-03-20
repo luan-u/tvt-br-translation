@@ -3351,3 +3351,7 @@ CaringGardener	Br/JardineiroCuidadoso
 BigHeroicRun	Br/GrandeCorridaHeroica
 BrokenHero	Br/HeroiDespedacado
 BrotherSisterTeam	Br/TimeDeIrmaoEIrma
+CleanUpTheTown	Br/LimparACidade
+ComicallyInvincibleHero	Br/HeroiComicamenteInvencivel
+CommandingCoolness	Br/ComandandoEstilo
+ContrastingSequelMainCharacter	Br/ProtagonistaContrastanteDaSequencia

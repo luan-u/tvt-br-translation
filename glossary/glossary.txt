@@ -3376,3 +3376,10 @@ KidDetective	Br/DetetiveMirim
 KidHeroAllGrownUp	Br/HeroiGarotoCrescido
 TheKindnapper	Br/SequestradorGentil
 KingInTheMountain	Br/ReiNaMontanha
+KleptomaniacHero	Br/HeroiCleptomaniaco
+LadyOfAdventure	Br/DamaDeAventura
+LadyOfWar	Br/DamaDeGuerra
+LancerVsDragon	Br/LanceiroContraDragao
+AlphaBitch	Br/CadelaAlfa
+LovableAlphaBitch	Br/CadelaAlfaAdoravel
+LovableSexManiac	Br/ManiacoSexualAdoravel

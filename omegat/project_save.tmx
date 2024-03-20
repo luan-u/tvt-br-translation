@@ -2544,6 +2544,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BigHeroicRun: In which the hero runs at full tilt to save the day or fulfill his goals, usually scored with a rousing fanfare.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T132215Z" creationid="Luan" creationdate="20240320T132215Z">
+        <seg>* Br/GrandeCorridaHeroica: Onde o herói corre em plena velocidade para salvar o dia ou alcançar seus objetivos, geralmente com uma fanfarra animada e estimulante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BigLabyrinthineBuilding: A huge building consisting of nothing but a maze.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T220539Z" creationid="Luan" creationdate="20240124T220539Z">
@@ -2697,6 +2705,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BreakoutCharacter: A minor character who is so popular that s/he becomes a major character, as well as a new hero and ally to TheHero.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T132337Z" creationid="Luan" creationdate="20240320T132337Z">
+        <seg>* ??? BreakoutCharacter: Um personagem menor que fica popular a ponto de se tornar um personagem importante, assim como um novo herói e aliado para Br/OHeroi principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BreatherEpisode: An installment that goes LighterAndSofter or even DenserAndWackier, especially when following a WhamEpisode.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T143459Z" creationid="Luan" creationdate="20240105T143459Z">
@@ -2709,6 +2725,18 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T151144Z" creationid="Luan" creationdate="20240131T151144Z">
         <seg>* Br/CasteloReluzente: Um belo castelo de contos de fadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BrokenHero
+* BrotherSisterTeam
+* BruiserWithASoftCenter: Tough characters are capable of having soft hearts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T133446Z" creationid="Luan" creationdate="20240320T133446Z">
+        <seg>* Br/HeroiDespedacado
+* Br/TimeDeIrmaoEIrma
+* Br/BrutoDeCoracaoMole: Personagens durões são capazes de terem corações moles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2933,6 +2961,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T143531Z" creationid="Luan" creationdate="20231208T143531Z">
         <seg>* Br/PrisaoDePapelao: Relacionado à Br/ImunidadeDeCoringa; nem mesmo a mais longa sentença prisional vai durar para um criminoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CaringGardener: Characters who grow and nurture plants which shows their care to living things in general.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T132101Z" creationid="Luan" creationdate="20240320T132101Z">
+        <seg>* Br/JardineiroCuidadoso: Personagens que criam e cuidam de plantas, o que mostra o seu cuidado para com coisas vivas em geral.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13805,6 +13841,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T185324Z" creationid="Luan" creationdate="20231101T185324Z">
         <seg>** Mas se ele/ela consegue aguentar pelo menos um ataque sem repercussões sérias, cair no Br/FossoSemFundo ou ser esmagado ainda vai causar morte instantânea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** CaptainGeographic: A superhero with a name, outfit and/or characteristics based around their country of origin.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T131950Z" creationid="Luan" creationdate="20240320T131950Z">
+        <seg>** Br/CapitaoGeografico: Um super herói com nome, traje e/ou características baseadas em seu país de origem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** CaptainPatriotic: A superhero serves the ideals of his nation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T132018Z" creationid="Luan" creationdate="20240320T132018Z">
+        <seg>** Br/CapitaoPatriota: Um super herói que serve aos ideais de sua nação.</seg>
       </tuv>
     </tu>
     <tu>

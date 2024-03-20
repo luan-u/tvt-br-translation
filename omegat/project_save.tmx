@@ -7095,6 +7095,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* KleptomaniacHero: "Take everything that isn't nailed down or too heavy, and anything that can be pried loose is not considered nailed down".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T142302Z" creationid="Luan" creationdate="20240320T142302Z">
+        <seg>* Br/HeroiCleptomaniaco: "Leve tudo que não esteja preso ou que não seja muito pesado, e qualquer coisa que possa ser arrancada não conta como estar presa".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* KneelBeforeFrodo: A heroic character is unexpectedly bowed to.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225223Z" creationid="Luan" creationdate="20240318T225223Z">
@@ -7203,6 +7211,26 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T183655Z" creationid="Luan" creationdate="20240221T183655Z">
         <seg>* Br/TerraDeMulheres: Onde as mulheres dominam e os homens são inexistentes ou subservientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* LadyOfAdventure
+* LadyOfWar
+* TheLancer: The hero's second-in-command.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T142350Z" creationid="Luan" creationdate="20240320T142350Z">
+        <seg>* Br/DamaDeAventura
+* Br/DamaDeGuerra
+* Br/OLanceiro: O segundo na cadeia de comando depois do herói.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* LancerVsDragon: When TheLancer takes on their EvilCounterpart TheDragon.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T142415Z" creationid="Luan" creationdate="20240320T142415Z">
+        <seg>* Br/LanceiroContraDragao: Quando Br/OLanceiro enfrenta a sua Br/ContraparteDoMal, Br/ODragao.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7481,10 +7509,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LovableAlphaBitch: The AlphaBitch is actually a good person underneath.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T142547Z" creationid="Luan" creationdate="20240320T142547Z">
+        <seg>* Br/CadelaAlfaAdoravel: A Br/CadelaAlfa na verdade é uma boa pessoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LovableCoward: They're too chicken to confront danger, but end up being forced to do so anyways.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225558Z" creationid="Luan" creationdate="20240318T225558Z">
         <seg>* Br/CovardeAdoravel: Eles são muito frouxos para enfrentar o perigo, mas são forçados a fazê-lo mesmo assim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* LovableJock: The sports guy is more warm-hearted than his domineering look would imply.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T142804Z" creationid="Luan" creationdate="20240320T142804Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -7501,6 +7545,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T140132Z" creationid="Luan" creationdate="20240314T140132Z">
         <seg>* Br/LagartoAdoravel: Lagartos são vistos como bonitos e heroicos entre os répteis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* LovableSexManiac: A sex-crazed character who is portrayed as likable and heroic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T142848Z" creationid="Luan" creationdate="20240320T142825Z">
+        <seg>* Br/ManiacoSexualAdoravel: Um personagem obcecado por sexo que é retratado como amável e heroico.</seg>
       </tuv>
     </tu>
     <tu>

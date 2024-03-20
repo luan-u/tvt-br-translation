@@ -3654,6 +3654,15 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* CrimefightingWithCash: Heroes use financial resources to deal with the forces of evil
+* CrusadingLawyer: An attorney who genuinely tries hard to help out their client without ulterior motives.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T134934Z" creationid="Luan" creationdate="20240320T134934Z">
+        <seg>* Br/CombaterOCrimeComDinheiro: Heróis que usam recursos financeiros para lidar com as forças do mal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* CriminalConvention
 * CrystalLandscape: A setting filled with or completely composed of crystals, gemstones and jewels.</seg>
       </tuv>
@@ -3846,6 +3855,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204910Z" creationid="Luan" creationdate="20240313T204910Z">
         <seg>* Br/DerrotaSignificaAmizade: Um oponente torna-se amigo da pessoa que o derrotou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DefendsAgainstTheirOwnKind
+* DelightfulDragon: Benevolent dragons who prove that dragons and other reptilians [[DarkIsNotEvil are capable of as much good as any other species]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T135212Z" creationid="Luan" creationdate="20240320T135212Z">
+        <seg>* Br/DefenderContraOsSeus
+* Br/DragaoAgradavel: Dragões benevolentes que provam que eles e outros répteis [[Br/AsTrevasNaoSaoMas são tão capazes de fazer o bem quanto qualquer outra espécie]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -4402,6 +4421,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ExcitedKidsShowHost: A kids' show host who does his best to be as honest and good-natured as the character he plays on television, unlike [[DepravedKidsShowHost their counterpart]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T135323Z" creationid="Luan" creationdate="20240320T135323Z">
+        <seg>*Br/ApresentadorAnimadoDeProgramaInfantil: Um apresentador de um programa infantil que faz o seu melhor para ser tão honesto e bom quanto o personagem que ele interpreta na televisão, diferentemente de [[Br/ApresentadorDepravadoDeProgramaInfantil sua contraparte]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ExclusiveCliqueClubhouse: Certain student groups get their own hideouts and housing.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T133219Z" creationid="Luan" creationdate="20240202T133219Z">
@@ -4482,6 +4509,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T132737Z" creationid="Luan" creationdate="20240202T132737Z">
         <seg>* Br/CidadeFalsa: Uma cidade ou povoado falsos construídos para se parecerem com um de verdade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FallenPrincess: A privileged and/or wealthy girl loses her status, but usually becomes a better person through her hardship.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T140508Z" creationid="Luan" creationdate="20240320T140508Z">
+        <seg>* Br/PrincesaCaida: Uma garota privilegiada ou rica perde seu status, mas se torna uma pessoa melhor através das dificuldades.</seg>
       </tuv>
     </tu>
     <tu>

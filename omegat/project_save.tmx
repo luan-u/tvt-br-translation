@@ -6205,6 +6205,18 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HollywoodActionHero
+* HomegrownHero
+* HomelessHero: A nomadic hero who wanders around to fight evil.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T140714Z" creationid="Luan" creationdate="20240320T140714Z">
+        <seg>* Br/HeroiDeAcaoHollywoodiano
+* Br/HeroiDeCasa
+* Br/HeroiSemTeto: Um herói nômade que vaga por aí combatendo o mal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HollywoodPrehistory: Hollywood Stone Age.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T153354Z" creationid="Luan" creationdate="20240117T153354Z">
@@ -6235,6 +6247,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T204858Z" creationid="Luan" creationdate="20240131T204858Z">
         <seg>* Br/LarDeMonstros: Qualquer lugar que os monstros considerem como casa, seja esse lugar um covil, uma Br/CidadeMonstro, uma Br/IlhaDeMisterio ou uma dimensão inteira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HonestCorporateExecutive: The head of a corporation is a good person and refuses to use their company for unethical purposes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T140756Z" creationid="Luan" creationdate="20240320T140756Z">
+        <seg>* Br/ExecutivoCorporativoHonesto: O chefe de uma corporação é uma boa pessoa e se recusa a usar sua empresa para propósitos antiéticos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6283,6 +6303,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T204937Z" creationid="Luan" creationdate="20240131T204937Z">
         <seg>* Br/CasaDeEspelhosQuebrados: Onde alguém que ficou muito irritado por causa da aparência quebrou todos os espelhos e foi embora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HouseboatHero: A hero who live in a houseboat.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T140802Z" creationid="Luan" creationdate="20240320T140802Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -6591,6 +6619,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T135342Z" creationid="Luan" creationdate="20240202T135342Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* InjuredSelfDrag: What a hero will do if they're badly beaten or injured, because a hero will refuse to give up.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T141015Z" creationid="Luan" creationdate="20240320T141015Z">
+        <seg>* Br/RastejarComFerimentos: O que um herói faz após estar criticamente ferido porque ele se recusa a desistir.</seg>
       </tuv>
     </tu>
     <tu>

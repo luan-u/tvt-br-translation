@@ -3355,3 +3355,6 @@ CleanUpTheTown	Br/LimparACidade
 ComicallyInvincibleHero	Br/HeroiComicamenteInvencivel
 CommandingCoolness	Br/ComandandoEstilo
 ContrastingSequelMainCharacter	Br/ProtagonistaContrastanteDaSequencia
+CoolTeacher	Br/ProfessorLegal
+CowardlyLion	Br/CovardementeLeao
+CowboyCop	Br/PolicialCauboi

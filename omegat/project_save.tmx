@@ -7667,10 +7667,54 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MagicalAsian: A wise Asian mentors a usually white character.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T143228Z" creationid="Luan" creationdate="20240320T143155Z">
+        <seg>* Br/AsiaticoMagico: Um asiático sábio age como mentor de um personagem (geralmente branco).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MagicalGirl: Young girls learning to find their place in the world while secretly fighting to protect it with magical powers.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T152736Z" creationid="Luan" creationdate="20240319T152736Z">
         <seg>* Br/GarotaMagica: Jovens moças aprendendo a encontrar seu lugar no mundo enquanto secretamente lutam para protegê-lo com poderes mágicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MagicalJew: A Jewish character becomes a source of wisdom or a mentor for other (usually non-Jewish) characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T143222Z" creationid="Luan" creationdate="20240320T143222Z">
+        <seg>* Br/JudeuMagico: Um personagem judeu se torna fonte de sabedoria ou um mentor para outros personagens (geralmente não-judeus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MagicalNegro: A minority character will step forward to help the hero, with their pure heart and folksy wisdom, and possibly magic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T143315Z" creationid="Luan" creationdate="20240320T143315Z">
+        <seg>* Br/NegroMagico: Um personagem de minoria racial se erguerá para ajudar o herói com seu coraçao puro, sabedoria folclórica e talvez um pouco de magia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MagicalQueer: A character that has all of the wisdom in the world because they are gay, and has been persecuted because of it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T143351Z" creationid="Luan" creationdate="20240320T143351Z">
+        <seg>* Br/QueerMagico: Um personagem que possui toda a sabedoria do mundo por ser homossexual e é perseguido por causa disso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MagicalRomani
+* MagicianDetective
+* MagneticHero: A hero with remarkable personal magnetism gains friends and allies with astonishing ease.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T143740Z" creationid="Luan" creationdate="20240320T143740Z">
+        <seg>* Br/RomaniMagico
+* Br/DetetiveMagico
+* Br/HeroiMagnetico: Um herói com um magnetismo pessoal impressionante ganha amigos e aliados com muita facilidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7799,6 +7843,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T155722Z" creationid="Luan" creationdate="20231208T155722Z">
         <seg>* Br/QueIssoNuncaAcontecaDeNovo: Se o motivo pelo qual há esforço pra não se repetir a história é porque uma repetição mudaria o status quo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MeanCharacterNiceActor: The character is mean and nasty, but the actor behind that character is not.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T143809Z" creationid="Luan" creationdate="20240320T143809Z">
+        <seg>* Br/PersonagemMauAtorLegal: O personagem é malvado e repugnante, mas o ator por trás do personagem não é.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12094,6 +12146,16 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T150709Z" creationid="Luan" creationdate="20240118T150709Z">
         <seg>* Br/OLabirinto
 * Br/EcossistemaMecanico: Uma réplica mecanizada de um ambiente natural.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheMeddlingKidsAreUseless
+* TheMedic: A character serves to heal while all his teammates do the fighting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240320T143856Z" creationid="Luan" creationdate="20240320T143856Z">
+        <seg>* Br/AsCriancasEnxeridasSaoInuteis
+* Br/OMedico: Um personagem que se concentra na cura enquanto os seus colegas se encarregam da luta.</seg>
       </tuv>
     </tu>
     <tu>

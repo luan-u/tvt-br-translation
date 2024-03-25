@@ -3404,3 +3404,4 @@ MonsterFacade	Br/DeMonstroSoTemACara
 NaziHunter	Br/CacadorDeNazistas
 NominalHero	Br/HeroiNominal
 SnoopingLittleKid	Br/CriancaXereta
+SuperiorSpecies	Br/EspecieSuperior

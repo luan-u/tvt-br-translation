@@ -3396,3 +3396,6 @@ MeanCharacterNiceActor	Br/PersonagemMauAtorLegal
 TheMeddlingKidsAreUseless	Br/AsCriancasEnxeridasSaoInuteis
 MegaCorp	Br/MegaCorp
 MightyWhitey	Br/PoderosoBranco
+MissionControl	Br/ControleDaMissao
+MistakenForSuperpowered	Br/ConfundidoComSuperHeroi
+TheMole	Br/AToupeira	Acho que deve existir um termo melhor em português, mas não sei qual.

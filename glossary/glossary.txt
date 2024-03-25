@@ -3429,3 +3429,4 @@ MultiformBalance	Br/EquilibrioMultiformas
 SympatheticInspectorAntagonist	Br/InspetorAntagonistaSimpatico
 TheDreaded	Br/OTemido
 TerrorHero	Br/HeroiAterrorizante
+ShowyInvincibleHero	Br/HeroiPomposamenteInvencivel

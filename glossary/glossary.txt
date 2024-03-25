@@ -2047,7 +2047,7 @@ ParentalBonus	Br/BonusAosPais
 ParentalNeglect	Br/NegligenciaParental
 ParkingGarage	Br/GaragemDeEstacionamento
 Parody	Br/{{Parodia}}
-PartTimeHero	Br/HeroiEmMeioPeriodo
+PartTimeHero	Br/HeroiNasHorasVagas
 PastRightNow	Br/OPassadoEAgora
 PatchedTogetherFromTheHeadlines	Br/CosturadoComManchetes
 PatchworkMap	Br/MapaDeRetalhos
@@ -3430,3 +3430,7 @@ SympatheticInspectorAntagonist	Br/InspetorAntagonistaSimpatico
 TheDreaded	Br/OTemido
 TerrorHero	Br/HeroiAterrorizante
 ShowyInvincibleHero	Br/HeroiPomposamenteInvencivel
+ProdigalHero	Br/HeroiProdigo
+PropagandaHero	Br/HeroiPropaganda
+TheFace	Br/ORosto
+ProhibitedHeroSavesTheDay	Br/HeroiProibidoSalvaODia

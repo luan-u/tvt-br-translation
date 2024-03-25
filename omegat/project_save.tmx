@@ -11130,6 +11130,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SuperheroEpisode: An episode where a character temporarily gains superpowers (or at least a costume) and fights crime.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T214040Z" creationid="Luan" creationdate="20240325T214040Z">
+        <seg>* Br/EpisodioDeSuperHeroi: Um episódio em que um personagem ganha temporariamente super poderes (ou um traje) e combate o crime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SuperheroSchool: Where kids with superpowers go to learn to be superheroes (and maybe math and stuff).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T222157Z" creationid="Luan" creationdate="20240124T222157Z">
@@ -11158,6 +11166,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240325T210359Z" creationid="Luan" creationdate="20240325T210359Z">
         <seg>* Br/EspecieSuperior: Uma raça que, no mínimo, tem o potencial para ser melhor que os humanos em praticamente todo jeito relevante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SupermanSubstitute: A character clearly designed as an {{Expy}} or CaptainErsatz of Franchise/{{Superman}}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T214405Z" creationid="Luan" creationdate="20240325T214405Z">
+        <seg>* Br/SupermanSubstituto: Um personagem claramente pensado como uma cópia ou um Br/CapitaoErsatz de BrFranquia/{{Superman}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11230,6 +11246,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T190841Z" creationid="Luan" creationdate="20240131T190841Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SwissArmyHero: The hero can [[MultiformBalance change forms]] to cover many different situations or roles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T214602Z" creationid="Luan" creationdate="20240325T214602Z">
+        <seg>* Br/HeroiCaniveteSuico: O herói consegue [[Br/EquilibrioMultiformas mudar de forma]] para cobrir muitas situações ou papéis diferentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SympatheticInspectorAntagonist: The antagonist of a work is a sympathetic police officer trying to capture the law-breaking criminal protagonist.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T215435Z" creationid="Luan" creationdate="20240325T215435Z">
+        <seg>* Br/InspetorAntagonistaSimpatico: O antagonista de uma obra é um policial simpático que está tentando capturar o protagonista criminoso e fora-da-lei.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21363,6 +21395,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T155533Z" creationid="Luan" creationdate="20231214T155533Z">
         <seg>Agora nós devemos te avisar sobre a quantidade de tempo que será gasta neste site nas suas primeiras semanas o visitando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Obviously enough, they're the opposite of {{supervillain}}s.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T214000Z" creationid="Luan" creationdate="20240325T214000Z">
+        <seg>Obviamente, eles são o oposto de um Br/SuperVilao.</seg>
       </tuv>
     </tu>
     <tu>

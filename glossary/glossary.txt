@@ -3395,3 +3395,4 @@ MagicianDetective	Br/DetetiveMagico
 MeanCharacterNiceActor	Br/PersonagemMauAtorLegal
 TheMeddlingKidsAreUseless	Br/AsCriancasEnxeridasSaoInuteis
 MegaCorp	Br/MegaCorp
+MightyWhitey	Br/PoderosoBranco

@@ -3405,3 +3405,8 @@ NaziHunter	Br/CacadorDeNazistas
 NominalHero	Br/HeroiNominal
 SnoopingLittleKid	Br/CriancaXereta
 SuperiorSpecies	Br/EspecieSuperior
+WithholdingTheBigGood	Br/SegurarOGrandeBem
+WonderfulWerewolf	Br/LobisomemMaravilhoso
+WhiteMagicianGirl	Br/GarotaMagaBranca
+UnderhandedHero	Br/HeroiFurtivo
+SupportingLeader	Br/LiderDeApoio

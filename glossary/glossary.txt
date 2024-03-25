@@ -2831,7 +2831,7 @@ TheHomewardJourney	Br/AViagemDeVolta
 TheHorseshoeEffect	Br/EfeitoFerradura
 TheIdealist	Br/OIdealista
 TheIdealistWasRight	Br/OIdealistaEstavaCerto
-TheIngenue	Br/OIngenuo
+TheIngenue	Br/AIngenua
 TheJoysOfTorturingMooks	Br/AsAlegriasDeTorturarCapangas
 TheJuggernaut	Br/OIrrefreavel
 TheKlutz	Br/ODesastrado
@@ -3434,3 +3434,7 @@ ProdigalHero	Br/HeroiProdigo
 PropagandaHero	Br/HeroiPropaganda
 TheFace	Br/ORosto
 ProhibitedHeroSavesTheDay	Br/HeroiProibidoSalvaODia
+MyHeroZero	Br/MeuHeroiZero
+MyGirlBackHome	Br/MinhaGarotaLaEmCasa
+MysteryWriterDetective	Br/DetetiveEscritorDeMisterio
+NaiveEverygirl	Br/GarotaIngenua

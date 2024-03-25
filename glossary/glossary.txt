@@ -2071,8 +2071,10 @@ PetTheDog	Br/FazerCarinhoNoCachorro
 PhallicWeapon	Br/ArmaFalica
 PhantomZone	Br/ZonaFantasma
 PhlebotinumDuJour	Br/CoisoniumDuJour
+ImportedAlienPhlebotinum	Br/CoisoniumImportadoDosAliens
 PhysicalGod	Br/DeusFisico
 PhysicalHeaven	Br/CeuFisico
+DisasterDominoes	Br/DominoDeDesastre
 PhysicalHell	Br/InfernoFisico
 PinkHeroine	Br/HeroinaDeRosa
 PintSizedPowerhouse	Br/PotenciaDeTamanhoMinusculo
@@ -2792,6 +2794,7 @@ TrappedInAnotherWorld	Br/AprisionadoEmOutroMundo
 CastFromHitPoints	Br/ConjuradoComPontosDeVida
 CastFromLifespan	Br/ConjuradoComTempoDeVida
 CastFromExperiencePoints	Br/ConjuradoComPontosDeExperiencia
+SerialNumbersFiledOff	Br/NumeroSerialRaspado
 TheEvilGenius	Br/GenioDoMal
 TheEvilsOfFreeWill	Br/OsMalesDoLivreArbitrio
 TheExactCenterOfEverything	Br/OCentroExatoDeTudo
@@ -3418,3 +3421,9 @@ WhiteMagicianGirl	Br/GarotaMagaBranca
 UnderhandedHero	Br/HeroiFurtivo
 SupportingLeader	Br/LiderDeApoio
 SummonEverymanHero	Br/InvocarHeroiMediocre
+SuperVillain	Br/SuperVilao
+SuperheroEpisode	Br/EpisodioDeSuperHeroi
+SupermanSubstitute	Br/SupermanSubstituto
+SwissArmyHero	Br/HeroiCaniveteSuico
+MultiformBalance	Br/EquilibrioMultiformas
+SympatheticInspectorAntagonist	Br/InspetorAntagonistaSimpatico

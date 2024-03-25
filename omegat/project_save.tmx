@@ -10966,6 +10966,18 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* StoicWoobie
+* SummonEverymanHero
+* {{Superhero}}es: Heroes who are defined by possessing special skills, abilities, superpowers, or at least a gimmicky theme and grandiose personality that sets them apart from more mundane heroes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T213924Z" creationid="Luan" creationdate="20240325T213924Z">
+        <seg>* Br/CoitadinhoEstoico
+* Br/InvocarHeroiMediocre
+* Br/{{Super Heroi}}s: Heróis cujo traço definidor é a posse de habilidades especiais e super poderes, ou alguma peculiaridade junto com personalidade engrandecida que o diferencia dos heróis mais mundanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* StoicWoobie: A miserable character who tries their hardest [[TheStoic to hide]] how much they're really hurting on the inside.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240228T143158Z" creationid="Luan" creationdate="20240228T143158Z">
@@ -11158,6 +11170,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SupportingLeader: A secondary character who leads the forces of good in their struggle against the villain.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T211733Z" creationid="Luan" creationdate="20240325T211733Z">
+        <seg>* Br/LiderDeApoio: Um personagem secundário que lidera as forças do bem contra o vilão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Surprise attacks that can only be avoided by sheerest luck or [[TrialAndErrorGameplay memorizing their locations]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T184947Z" creationid="Luan" creationdate="20231101T184947Z">
@@ -11185,6 +11205,14 @@ Br/ExemplosEmFalta.</seg>
         <seg>* SweetBaker: A person who regularly bakes has a sweet personality.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T172357Z" creationid="Luan" creationdate="20240314T172357Z">
+        <seg>* Br/DocePadeiro: Uma pessoa que regularmente assa coisas possui uma personalidade amável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SweetBaker: A person who regularly bakes has an amicable personality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T211751Z" creationid="Luan" creationdate="20240325T211751Z">
         <seg>* Br/DocePadeiro: Uma pessoa que regularmente assa coisas possui uma personalidade amável.</seg>
       </tuv>
     </tu>

@@ -8291,6 +8291,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MyGirlBackHome
+* MyHeroZero: A protagonist named "Zero".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T224413Z" creationid="Luan" creationdate="20240325T224413Z">
+        <seg>* Br/MinhaGarotaLaEmCasa
+* Br/MeuHeroiZero: Um protagonista chamado "Zero".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MyLocal: A pub, where the main cast usually hangs out.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T130924Z" creationid="Luan" creationdate="20240201T130924Z">
@@ -8303,6 +8313,18 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T192147Z" creationid="Luan" creationdate="20240131T192147Z">
         <seg>* Br/AntartidaMisteriosa: Um dos últimos lugares a serem explorados na superfície da Terra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MysteryWriterDetective
+* NaiveEverygirl
+* NatureHero: Heroes with an affinity to nature and the wilderness or derive their powers from such.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T225106Z" creationid="Luan" creationdate="20240325T225106Z">
+        <seg>* Br/DetetiveEscritorDeMisterio
+* Br/GarotaIngenua
+* Br/HeroiDaNatureza: Heróis com afinidade com a natureza ou que derivam seu poder dela.</seg>
       </tuv>
     </tu>
     <tu>

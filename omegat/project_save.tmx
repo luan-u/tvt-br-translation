@@ -11142,6 +11142,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SuperiorSpecies: A race that is at least apt to being better than humans in practically every relevant way.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T210359Z" creationid="Luan" creationdate="20240325T210359Z">
+        <seg>* Br/EspecieSuperior: Uma raça que, no mínimo, tem o potencial para ser melhor que os humanos em praticamente todo jeito relevante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SupervillainLair: The cliche, surprisingly elaborate facility in which a supervillain plots and prepares for their villainy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T155935Z" creationid="Luan" creationdate="20240125T155935Z">

@@ -800,7 +800,8 @@ DubInducedPlotlineChange	Br/MudancaDeTramaInduzidaPorDublagem
 DudeNotFunny	Br/CaraNaoFoiLegal
 DudeWheresMyRespect	Br/CaraCadeMeuRespeito
 DudeWheresMyReward	Br/CaraCadeMinhaRecompensa
-DudleyDoRightStopsToHelp	Br/DudleyCertinhoParaParaAjudar	Derivado do filme "Polícia Desmontada" que em inglês é "Dudley Do-Right".
+DudleyDoRightStopsToHelp	Br/DudleyCertinhoFicaParaAjudar	Derivado do filme "Polícia Desmontada" que em inglês é "Dudley Do-Right".
+DickDastardlyStopsToCheat	Br/DickVigaristaFicaParaTrapacear
 DugTooDeep	Br/CavaramFundoDemais
 DumbIsGood	Br/IdiotaEBom
 DumbMuscle	Br/MusculoImbecil
@@ -3399,3 +3400,7 @@ MightyWhitey	Br/PoderosoBranco
 MissionControl	Br/ControleDaMissao
 MistakenForSuperpowered	Br/ConfundidoComSuperHeroi
 TheMole	Br/AToupeira	Acho que deve existir um termo melhor em português, mas não sei qual.
+MonsterFacade	Br/DeMonstroSoTemACara
+NaziHunter	Br/CacadorDeNazistas
+NominalHero	Br/HeroiNominal
+SnoopingLittleKid	Br/CriancaXereta

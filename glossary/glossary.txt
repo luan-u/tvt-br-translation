@@ -2785,6 +2785,13 @@ TheEmpire	Br/OImperio
 TheEndOfTheWorldAsWeKnowIt	Br/OFimDoMundoComoNosConhecemos
 TheEndOrIsIt	Br/OFimOuSeraQueNao
 TheEveryman	Br/OMediano
+TheEveryman	Br/SujeitoComum
+DangerousForbiddenTechnique	Br/TecnicaProibidaPerigosa
+LethalHarmlessPowers	Br/PoderesLetaisInofensivos
+TrappedInAnotherWorld	Br/AprisionadoEmOutroMundo
+CastFromHitPoints	Br/ConjuradoComPontosDeVida
+CastFromLifespan	Br/ConjuradoComTempoDeVida
+CastFromExperiencePoints	Br/ConjuradoComPontosDeExperiencia
 TheEvilGenius	Br/GenioDoMal
 TheEvilsOfFreeWill	Br/OsMalesDoLivreArbitrio
 TheExactCenterOfEverything	Br/OCentroExatoDeTudo
@@ -3410,3 +3417,4 @@ WonderfulWerewolf	Br/LobisomemMaravilhoso
 WhiteMagicianGirl	Br/GarotaMagaBranca
 UnderhandedHero	Br/HeroiFurtivo
 SupportingLeader	Br/LiderDeApoio
+SummonEverymanHero	Br/InvocarHeroiMediocre

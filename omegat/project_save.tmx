@@ -11158,6 +11158,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SupportingLeader
+* SweetBaker: A person who regularly bakes has an amicable personality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T211528Z" creationid="Luan" creationdate="20240325T211528Z">
+        <seg>* Br/LiderDeApoio: Um personagem secundário que lidera as forças do bem contra o vilão.
+* Br/DocePadeiro: Uma pessoa que assa coisas possui personalidade amigável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Surprise attacks that can only be avoided by sheerest luck or [[TrialAndErrorGameplay memorizing their locations]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T184947Z" creationid="Luan" creationdate="20231101T184947Z">
@@ -12936,6 +12946,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* UnderhandedHero: A heroic character who is skilled in a combination of thievery, stealth, deception, acrobatics, and manipulation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T211304Z" creationid="Luan" creationdate="20240325T211304Z">
+        <seg>* Br/HeroiFurtivo: Um personagem heroico que é habilidoso em uma combinação de ladroagem, discrição, acrobacia, manipulação e fraude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* UnderwaterBase: An underwater SupervillainLair.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T222742Z" creationid="Luan" creationdate="20240124T222742Z">
@@ -13357,6 +13375,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* WhiteMagicianGirl: A healing specialist whose role is the party's resident healer, nurturer and source of feminine wisdom.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T211015Z" creationid="Luan" creationdate="20240325T211015Z">
+        <seg>* Br/GarotaMagaBranca: Uma especialista em curas cujo papel é o de curandeira residente do grupo e fonte de sabedoria feminia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* WhiteMansBurden: A well-to-do white character selflessly works to help an unfortunate person of color.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T173607Z" creationid="Luan" creationdate="20240314T173607Z">
@@ -13441,6 +13467,18 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T150704Z" creationid="Luan" creationdate="20240318T150704Z">
         <seg>* Br/ComGrandesPoderesVemGrandesResponsabilidades: O herói novato compreende que ele deve usar seus poderes para proteger e ajudar pessoas ao invés de visar ganhos pessoais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* WithholdingTheBigGood
+* WonderfulWerewolf
+* TheWonka: The owner of a business who runs the business well in spite of being completely bonkers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T210910Z" creationid="Luan" creationdate="20240325T210910Z">
+        <seg>* Br/SegurarOGrandeBem
+* Br/LobisomemMaravilhoso
+* Br/OWonka: O proprietário de um negócio que o gere perfeitamente bem apesar de ser meio lelé da cabeça.</seg>
       </tuv>
     </tu>
     <tu>

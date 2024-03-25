@@ -8063,10 +8063,28 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MissionControl: A character who assists another one (usually an agent) on their objectives via long-distance communication.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T203532Z" creationid="Luan" creationdate="20240325T203532Z">
+        <seg>* Br/ControleDaMissao: Um personagem que auxilia outro (geralmente um agente) com seus objetivos através de comunicação à distância.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MissionPackSequel: Same game, different levels.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T191718Z" creationid="Luan" creationdate="20240105T191718Z">
         <seg>* Br/SequenciaDePacoteDeMissoes: Mesmo jogo, fases diferentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MistakenForSuperpowered
+* MisunderstoodLonerWithAHeartOfGold: A character may seem evil, but he/she is actually a good person.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T203707Z" creationid="Luan" creationdate="20240325T203707Z">
+        <seg>* Br/ConfundidoComSuperHeroi
+* Br/SolitarioMalCompreendidoComUmCoracaoDeOuro: Um personagem pode parecer mau, mas na verdade é  uma boa pessoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12180,6 +12198,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T185719Z" creationid="Luan" creationdate="20240314T185719Z">
         <seg>* Br/OsHomensPrimeiro: O chefe, líder ou capitão deseja livrar seus soldados de uma situação ruim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheMole: A hero who is secretly working for the other side.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T204547Z" creationid="Luan" creationdate="20240325T204547Z">
+        <seg>* Br/AToupeira: Um herói que secretamente trabalha para o outro lado.</seg>
       </tuv>
     </tu>
     <tu>

@@ -8962,8 +8962,8 @@ Br/ExemplosEmFalta.</seg>
         <seg>* PartTimeHero
 * PatrickStewartSpeech: A character defends humanity by pointing out its strengths.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T161253Z" creationid="Luan" creationdate="20240318T161253Z">
-        <seg>* Br/HeroiEmMeioPeriodo
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T220953Z" creationid="Luan" creationdate="20240318T161253Z">
+        <seg>* Br/HeroiNasHorasVagas
 * Br/DiscursoDoPatrickStewart: Um personagem defende a humanidade ao ressaltar suas forças.</seg>
       </tuv>
     </tu>
@@ -9279,6 +9279,24 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034940Z" creationid="Luan" creationdate="20240314T034940Z">
         <seg>* Br/TranshumanoProHumanos: O herói aprimorado ainda se importa com o bem estar dos outros, tenham melhorias ou não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ProdigalHero: A character who lives in the lap of luxury, then run away from home, live in exile, and return home to save the day.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T220544Z" creationid="Luan" creationdate="20240325T220544Z">
+        <seg>* Br/HeroiProdigo: Um personagem que vive no luxo, foge de casa, vive em exílio e então volta para casa pra salvar o dia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ProhibitedHeroSavesTheDay
+* PropagandaHero: A hero who is made into [[TheFace the symbol]] of a cause.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T220918Z" creationid="Luan" creationdate="20240325T220918Z">
+        <seg>* Br/HeroiProibidoSalvaODia
+* Br/HeroiPropaganda: Um herói que se torna [[Br/ORosto o símbolo]] de uma causa.</seg>
       </tuv>
     </tu>
     <tu>

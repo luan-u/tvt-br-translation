@@ -11394,6 +11394,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TerrorHero: A heroic character who [[TheDreaded exploits the villains' fears]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T215651Z" creationid="Luan" creationdate="20240325T215651Z">
+        <seg>* Br/HeroiAterrorizante: Um personagem heroico que [[Br/OTemido explora o medo dos vilões]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ThatNostalgiaShow: Our world, as you remember it, 20-50 years ago.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T141035Z" creationid="Luan" creationdate="20240201T141035Z">
@@ -12707,6 +12715,14 @@ Br/ExemplosEmFalta.</seg>
         <seg>* TokenGoodCop: A cop who's still doing the right thing, despite being surrounded by corruption or incompetence.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240315T012114Z" creationid="Luan" creationdate="20240315T012114Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TokenGoodCop: The only law-enforcement officer shown who isn't corrupt, incompetent, or otherwise ineffective.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T215702Z" creationid="Luan" creationdate="20240325T215702Z">
         <seg></seg>
       </tuv>
     </tu>

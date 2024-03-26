@@ -1592,7 +1592,8 @@ KindheartedCatLover	Br/AmanteDeGatosComBomCoracao
 KindheartedSimpleton	Br/EstupidoDeBomCoracao
 KirksRock	Br/RochaDeKirk
 KneeHighPerspective	Br/PerspectivaDaAlturaDoJoelho
-KneelBeforeFrodo	Br/AjoelheSeDianteDeFrodo
+KneelBeforeFrodo	Br/AjoelhePeranteFrodo
+KneelBeforeZod	Br/AjoelhePeranteZod
 KnightErrant	Br/CavaleiroErrante
 KnightInShiningArmor	Br/CavaleiroEmArmaduraReluzente
 KnightInShiningTropes	Br/CavaleiroEmTroposReluzentes
@@ -3512,3 +3513,5 @@ TropeEnjoymentLoophole	Br/BrechaParaAproveitamentoDeTropos
 NarmCharm	Br/EncantoNarm
 StayInTheKitchen	Br/FiqueNaCozinha
 UnfortunateImplications	Br/ImplicacoesInfelizes
+DecoyProtagonist	Br/ProtagonistaIsca
+EvilAllAlong	Br/EraDoMalOTempoTodo

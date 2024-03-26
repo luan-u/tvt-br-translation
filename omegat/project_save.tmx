@@ -9525,6 +9525,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* RedeemingReplacement: The identity of a villain is assumed by someone who instead uses the identity to be a hero so as to make amends for their predecessor's crimes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T003745Z" creationid="Luan" creationdate="20240326T003745Z">
+        <seg>* Br/SubstitutoRedentor: A identidade de um vilão é assumida por alguém que deseja usar a identidade para ser um herói com o propósito de corrigir os crimes de seu predecessor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* RedemptionDemotion: A character who makes a HeelFaceTurn gets substantially weaker.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240315T011411Z" creationid="Luan" creationdate="20240315T011411Z">
@@ -9751,6 +9759,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165844Z" creationid="Luan" creationdate="20240314T165844Z">
         <seg>* Br/CoelhoHonrado: Um coelho ou lebre é retratado como um personagem heroico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RightlySelfRighteous: These heroes may brag and boast a lot about their goodness, but they really are as good as they claim themselves to be.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T003928Z" creationid="Luan" creationdate="20240326T003928Z">
+        <seg>* Br/JustoComJusticaPropria: Estes heróis podem se vangloriar sobre sua bondade, mas eles realmente são tão bons quanto dizem ser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10635,6 +10651,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SixthRanger: An additional team member who joins the hero team a good while after the other members have been active.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T004500Z" creationid="Luan" creationdate="20240326T004500Z">
+        <seg>* Br/OSextoRanger: Um membro adicional da equipe que se junta um bom tempo depois dos demais membros já estarem na ativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SlidingScaleOfShinyVersusGritty
 * SmallSecludedWorld
 * SomewhereSong
@@ -10707,6 +10731,15 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T023448Z" creationid="Luan" creationdate="20240314T023448Z">
         <seg>* Br/SorrisoDeAprovacao: Um personagem sorri a outro personagem inicialmente rejeitado como forma de admiração ou respeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SmithOfTheYard
+* SmitingEvilFeelsGood: Heroes get enjoyment and satisfaction from hurting evil.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T004706Z" creationid="Luan" creationdate="20240326T004706Z">
+        <seg>* Br/PunirOMalFazBem: Heróis sentem satisfação em ferir o mal.</seg>
       </tuv>
     </tu>
     <tu>

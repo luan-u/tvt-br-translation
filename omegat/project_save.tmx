@@ -5695,6 +5695,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HandWave: A convenient or very simple explanation is given for a problem that should, logically, be much more prevalent or detrimental to the story.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T183305Z" creationid="Luan" creationdate="20240326T183305Z">
+        <seg>* Br/SoUmaPincelada: Uma explicação conveniente ou simples é dada para um problema que, logicamente, deveria ser mais prevalente ou inconveniente para o andamento da história.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HandsomeHeroicCaveman: A caveman is both physically and morally appealing, in contrast to the brutish Neanderthals or the FrazettaMan.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T182308Z" creationid="Luan" creationdate="20240319T182308Z">
@@ -21632,6 +21640,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Naturally, other creators or savvy audiences will notice them, but these are the types of things an audience isn't supposed to notice as they take the "magic" away, like knowing how a stage trick works.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T182210Z" creationid="Luan" creationdate="20240326T182210Z">
+        <seg>Naturalmente, outros criadores ou espectadores ligados no assunto vão percebê-los, mas isso é o tipo de coisa que o público não deve notar, pois ele acaba com a "magia" da coisa, que nem quando se sabe como um truque de ilusionismo funciona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Naturally, they always resolve negatively.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240229T143149Z" creationid="Luan" creationdate="20240229T143149Z">
@@ -26687,6 +26703,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tropes in this section are basic development tricks that creators will try to seamlessly use in the work or its production.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T182030Z" creationid="Luan" creationdate="20240326T182030Z">
+        <seg>Tropos nesta seção são truques básicos de desenvolvimento que os criadores tentarão usar de maneira transparente na obra ou na produção dela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Try not to confuse the dialogue with BuffySpeak.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231029T141349Z" creationid="Luan" creationdate="20231029T141349Z">
@@ -27756,6 +27780,18 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[[/folder]]
+[[/index]]
+----</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T182613Z" creationid="Luan" creationdate="20240326T182613Z">
+        <seg>[[/folder]]
+[[/index]]
+----</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[[/index]]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231103T210406Z" creationid="Luan" creationdate="20231103T210406Z">
@@ -28241,6 +28277,16 @@ LawfulEvil | NeutralEvil | ChaoticEvil-]]]]]</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[[folder:Hidden in Context and Patterns]]
+!!!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T182546Z" creationid="Luan" creationdate="20240326T182535Z">
+        <seg>[[folder:Ocultos no contexto e padrões]]
+!!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[[folder:Other / Multiple]]
 * AdventureFriendlyWorld
 * {{Avalon}}
@@ -28323,6 +28369,16 @@ LawfulEvil | NeutralEvil | ChaoticEvil-]]]]]</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[[folder:Plot Convenience or Cop-Out Tropes]]
+!!!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T182443Z" creationid="Luan" creationdate="20240326T182314Z">
+        <seg>[[folder:Conveniência de trama ou tropos de esquiva]]
+!!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[[folder:Plot Development]]
 * The show's premise is [[{{Retool}} radically altered]], such as having the cast change careers or move to a new location, especially when the cast doesn't seem to have the skills (or the financial resources) for such a move.</seg>
       </tuv>
@@ -28339,6 +28395,36 @@ LawfulEvil | NeutralEvil | ChaoticEvil-]]]]]</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T141806Z" creationid="Luan" creationdate="20240117T141806Z">
         <seg>[[folder:Tropos de Tempo]]
 * Br/VinteMinutosNoFuturo: No futuro próximo todo mundo é robótico e fala 10 idiomas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[folder:Tropes Designed to Exploit or Trick an Audience]]
+!!!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T182433Z" creationid="Luan" creationdate="20240326T182407Z">
+        <seg>[[folder:Tropos pensados para explorar ou ludibriar o público]]
+!!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[folder:Tropes Hidden in Context and Double Standards]]
+!!!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T182521Z" creationid="Luan" creationdate="20240326T182458Z">
+        <seg>[[folder:Tropos escondidos no contexto e casos de "dois pesos, duas medidas"]]
+!!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[folder:YMMV, Trivia, Flame Bait and Audience Reactions]]
+* AssPull: A plot development or revelation comes out of nowhere; typically, audiences are not meant to notice the lack of prior establishment or {{Foreshadowing}}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T182726Z" creationid="Luan" creationdate="20240326T182726Z">
+        <seg>[[folder:Subjetivo, trivia, isca de discórdia e reações do público]]
+* Br/SolucaoTiradaDaBunda: Uma revelação ou desenvolvimento de trama sai de lugar nenhum; tipicamente o público não deve perceber a falta de estabelecimento prévio ou de Br/{{Prenuncio}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28367,6 +28453,20 @@ LawfulEvil | NeutralEvil | ChaoticEvil-]]]]]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T172009Z" creationid="Luan" creationdate="20231210T172009Z">
         <seg>[[foldercontrol]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[foldercontrol]]
+[[folder:"Tricks of the Trade"]]
+[[index]]
+!!!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T182003Z" creationid="Luan" creationdate="20240326T181954Z">
+        <seg>[[foldercontrol]]
+[[folder:"Truques do Ofício"]]
+[[index]]
+!!!</seg>
       </tuv>
     </tu>
     <tu>

@@ -3479,3 +3479,7 @@ AmazonBrigade	Br/BrigadaDeAmazonas
 AlwaysMale	Br/SempreUmHomem
 StatuesqueStunner	Br/EstonteanteEscultural
 AmazonianBeauty	Br/BelezaAmazoniana
+ButchLesbian	Br/LesbicaMachuda
+ViolentlyProtectiveGirlfriend	Br/NamoradaViolentamenteProtetora
+Tsundere	Br/{{Tsundere}}
+TheStrongman	Br/OMusculoso

@@ -2190,6 +2190,7 @@ PunishedForSympathy	Br/PunidoPorSimpatia
 PunkPunk	Br/PunkPunk
 PurityPersonified	Br/PurezaPersonificada
 OrcusOnHisThrone	Br/OcupadoDemaisSentandoNoTrono
+StrawCharacter	Br/PersonagemEspantalho
 GlovedFistOfDoom	Br/PunhoEnluvadoDaDestruicao
 ThenLetMeBeEvil	Br/EntaoEuVouSerDoMalMesmo
 ArsonMurderAndAdmiration	Br/RouboHomicidioEAdmiracao

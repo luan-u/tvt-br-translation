@@ -8417,6 +8417,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* NeighbourhoodFriendlyGangsters: Local criminals try to protect their neighbors and communities from other bad guys.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T005225Z" creationid="Luan" creationdate="20240326T005225Z">
+        <seg>* Br/BandidosAmigaveisDaVizinhanca: Criminosos locais tentam proteger seus vizinhos e comunidades de outros caras maus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* NerdActionHero
 * NeutralGood: Involving selflessness, without substantial favor for or outside rules.</seg>
       </tuv>
@@ -8615,6 +8623,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* NonActionProtagonist: A protagonist who shows no combat ability, but overcomes obstacles through non-action means.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T005135Z" creationid="Luan" creationdate="20240326T005135Z">
+        <seg>* Br/ProtagonistaSemAcao: Um protagonista que não mostra habilidades de combate, mas que supera obstáculos por meios que não dependem de ação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* NonHeteronormativeSociety: Where being queer is seen as normal.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T142817Z" creationid="Luan" creationdate="20240118T142817Z">
@@ -8635,6 +8651,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T191642Z" creationid="Luan" creationdate="20240105T191642Z">
         <seg>* Br/SequenciaNaoLinear: A sequência não acontece após a primeira história.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* NonPoweredCostumedHero: A character that dresses up in a non-standard costume to fight crime/evil or to save people, but has no special powers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T004950Z" creationid="Luan" creationdate="20240326T004950Z">
+        <seg>* Br/HeroiTrajadoSemPoderes: Um personagem que se veste com um traje não-padrão para combater o crime ou para salvar pessoas, mas que não possui poderes especiais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11351,6 +11375,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SuperpoweredEvilSide: The malicious personality of a good person has superpowers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T004853Z" creationid="Luan" creationdate="20240326T004853Z">
+        <seg>* Br/LadoMauComSuperpoderes: A personalidade maliciosa de uma pessoa boa possui superpoderes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SupervillainLair: The cliche, surprisingly elaborate facility in which a supervillain plots and prepares for their villainy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T155935Z" creationid="Luan" creationdate="20240125T155935Z">
@@ -13948,8 +13980,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>* YouMeddlingKids: Villains blame it on the "meddling kids" when caught.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240319T173459Z" creationid="Luan" creationdate="20240319T173459Z">
-        <seg>* Br/SuasCriancasEnxeridas: Vilões botam a culpa nas "crianças enxeridas"[[note]]e esse cachorro idiota[[/note]] quando são pegos.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T005634Z" creationid="Luan" creationdate="20240319T173459Z">
+        <seg>* Br/SuasCriancasEnxeridas: Vilões botam a culpa nas "crianças enxeridas"[[note]]e nesse cachorro idiota[[/note]] quando são pegos.</seg>
       </tuv>
     </tu>
     <tu>

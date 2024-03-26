@@ -3446,3 +3446,5 @@ Sidekick	Br/{{Parceiro}}
 NoHeroToHisValet	Br/NaoEHeroiParaSeuCriado
 NoBadassToHisValet	Br/NaoEFodaoParaSeuCriado
 NoMoreHoldingBackSpeech	Br/DiscursoDeChegaDeSeLimitar
+NonIronicClown	Br/PalhacoNaoIronico
+NotTooDeadToSaveTheDay	Br/NaoEstouMortoDemaisParaSalvarODia

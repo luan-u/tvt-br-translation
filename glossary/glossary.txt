@@ -3538,3 +3538,4 @@ SocialSemicircle	Br/SemicirculoSocial
 GunsAreUseless	Br/ArmasDeFogoSaoInuteis
 CompetitiveBalance	Br/EquilibrioCompetitivo
 ThereAreNoTherapists	Br/NaoExistemTerapeutas
+ThePiratesWhoDontDoAnything	Br/PiratasQueNaoFazemNada

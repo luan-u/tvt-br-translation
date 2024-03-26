@@ -304,6 +304,8 @@ BewareTheNiceOnes	Br/CuidadoComOsBonzinhos
 BeyondRedemption	Br/AlemDaRedencao
 BeyondTheImpossible	Br/AlemDoImpossivel
 BiasSteamroller	Br/RoloCompressorDeVies
+RogueProtagonist	Br/ProtagonistaInsurgente
+SurvivorshipBias	Br/ViesDoSobrevivente
 BibleTimes	Br/TemposBiblicos
 BigBad	Br/GrandeMal
 BigBad	Br/{{Malvadao}}
@@ -3448,3 +3450,6 @@ NoBadassToHisValet	Br/NaoEFodaoParaSeuCriado
 NoMoreHoldingBackSpeech	Br/DiscursoDeChegaDeSeLimitar
 NonIronicClown	Br/PalhacoNaoIronico
 NotTooDeadToSaveTheDay	Br/NaoEstouMortoDemaisParaSalvarODia
+PresidentSuperhero	Br/SuperHeroiPresidente
+OurPresidentsAreDifferent	Br/NossosPresidentesSaoDiferentes
+PuttingThePalInPrincipal	Br/DiretorAmigo

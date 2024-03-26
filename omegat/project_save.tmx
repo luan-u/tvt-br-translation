@@ -22384,10 +22384,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Perhaps noticing them breaks immersion.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T161756Z" creationid="Luan" creationdate="20240326T161756Z">
+        <seg>Talvez percebê-las quebre a imersão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Perhaps taking down the villain has resulted in an EvilPowerVacuum, and now even worse guys are fighting to fill the void that the previous villain left, causing even more havoc than that previous villain could have ever dreamed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T183446Z" creationid="Luan" creationdate="20240104T183446Z">
         <seg>Talvez derrotar o vilão tenha resultado em um Br/VacuoDePoderMaligno, e agora sujeitos ainda piores estão lutando para preencher o vazio que o vilão anterior deixou, causando ainda mais caos do que o vilão anterior poderia ter sonhado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Perhaps they're {{Cliche}}s or rely too heavily on [[WriterCopOut Cop-outs]], {{Stereotype}}s or {{Pandering|ToTheBase}}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T162020Z" creationid="Luan" creationdate="20240326T162020Z">
+        <seg>Talvez sejam Br/{{cliche}}s ou usem excessivamente Br/{{Estereotipo}}s, Br/EsquivaDoAutor ou [[Br/BajularOFaClube bajulação]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -24089,6 +24105,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T225651Z" creationid="Luan" creationdate="20231101T225651Z">
         <seg>O corolário contrapositivo é a Br/QuedaDeDificuldadeDaSequencia. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The creator is aware that there are some conventions which are {{Pet Peeve Trope}}s for one reason or another.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T161748Z" creationid="Luan" creationdate="20240326T161748Z">
+        <seg>O criador sabe que existem algumas convenções que despertam implicância nas pessoas por um motivo ouo outro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26043,6 +26067,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T011749Z" creationid="Luan" creationdate="20240105T011749Z">
         <seg>Isso só faz com que seja mais difícil para os novos fãs determinar a ordem de assistir as coisas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This page indexes tropes or patterns in storytelling/development whose entire purpose is to remain hidden from or fool an audience so that they [[BellisariosMaxim never think about their workings, purpose, meaning or implications]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T161535Z" creationid="Luan" creationdate="20240326T161535Z">
+        <seg>Esta página indexa tropos ou padrões narrativos cujo propósito é permanecer escondido do público para que eles [[Br/MaximaDeBellisario nunca pensem sobre seu funcionamento, propósito, significado ou implicações]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -28474,23 +28506,23 @@ Categories:
 + WriterCopOut
 + WritingPitfallIndex]</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T161223Z" creationid="Luan" creationdate="20240326T161223Z">
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T161443Z" creationid="Luan" creationdate="20240326T161223Z">
         <seg>[floatboxright:
-Categories:
-+ AdvertisingTropes
-+ ArtisticLicense
-+ BallIndex
-+ ContrivedStupidityTropes
-+ DoubleStandard
-+ InformedAttribute
-+ LogicalFallacies
-+ ThePlotDemandedThisIndex
-+ RuleOfIndex
-+ RuleOfPerception
-+ TheSmokingSection
-+ WeaselWords
-+ WriterCopOut
-+ WritingPitfallIndex]</seg>
+Categorias:
++ Br/TroposDePropaganda
++ Br/LicencaArtistica
++ Br/{{Indicebol}}
++ Br/TroposDeEstupidezConveniente
++ Br/DoisPesosDuasMedidas
++ Br/AtributoInformado
++ Br/FalaciasLogicas
++ Br/ATramaExigiuEsteIndice
++ Br/RegraDoIndice
++ Br/RegraDaPercepcao
++ Br/AreaParaFumantes
++ Br/PalavrasEvasivas
++ Br/EsquivaDoAutor
++ Br/IndiceDeArmadilhasDeRoteiro]</seg>
       </tuv>
     </tu>
     <tu>

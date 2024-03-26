@@ -2744,6 +2744,9 @@ TheBadGuyWins	Br/OCaraMauVence
 TheBermudaTriangle	Br/TrianguloDasBermudas
 TheBerserker	Br/OEnfurecido
 TheBigGuy	Br/OGrandao
+NoodleIncident	Br/CasoDoMacarrao
+NoodleImplements	Br/ImplementosDeMacarrao
+ResolvedNoodleIncident	Br/ResolucaoDoCasoDoMacarrao
 TheBridge	Br/APonte
 TheBrute	Br/OBruto
 TheBully	Br/OValentao
@@ -3488,3 +3491,14 @@ OurDwarvesAreAllTheSame	Br/NossosAnoesSaoTodosIguais
 BigGuyFatalitySyndrome	Br/SindromeFatalDeCaraGrande
 BrainsAndBrawn	Br/CerebroEMusculo
 BrainsVersusBrawn	Br/CerebroContraMusculo
+TheSmokingSection	Br/AreaParaFumantes
+WritingPitfallIndex	Br/IndiceDeArmadilhasDeRoteiro
+BallIndex	Br/{{Indicebol}}
+ThePlotDemandedThisIndex	Br/ATramaExigiuEsteIndice
+RuleOfIndex	Br/RegraDoIndice
+RuleOfPerception	Br/RegraDaPercepcao
+DoubleStandard	Br/DoisPesosDuasMedidas
+AdvertisingTropes	Br/TroposDePropaganda
+WeaselWords	Br/PalavrasEvasivas
+WeaselWords	Br/PalavrasDoninha
+WriterCopOut	Br/EsquivaDoAutor

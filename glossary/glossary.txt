@@ -429,6 +429,7 @@ CaptainSpaceDefenderOfEarth	Br/CapitaoEspacoDefensorDaTerra
 CaptainSuperhero	Br/CapitaoSuperHeroi
 CapturedSuperEntity	Br/SuperEntidadeCapturada
 CardCarryingVillain	Br/VilaoDeCrachaETudo
+TheIndexTeam	Br/EquipeDoIndice
 CardboardPrison	Br/PrisaoDePapelao
 CareBearStare	Br/OlharFixoDosUrsinhosCarinhosos
 CartwrightCurse	Br/MaldicaoDoCartwright
@@ -3469,3 +3470,5 @@ AnAdventurerIsYou	Br/UmAventureiroEVoce
 MightyGlacier	Br/PoderosaGeleira
 StoneWall	Br/ParedeDePedra
 LightningBruiser	Br/BrutoRelampago
+DesignatedPointMan	Br/HomemDePontaDesignado
+CarryABigStick	Br/PortarUmBastaoGrande

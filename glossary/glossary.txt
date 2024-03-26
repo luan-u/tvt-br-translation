@@ -3473,3 +3473,5 @@ LightningBruiser	Br/BrutoRelampago
 DesignatedPointMan	Br/HomemDePontaDesignado
 CarryABigStick	Br/PortarUmBastaoGrande
 BareFistedMonk	Br/MongeDeMaosVazias
+GreenThumb	Br/DedoVerde
+DishingOutDirt	Br/DistribuirPedradas

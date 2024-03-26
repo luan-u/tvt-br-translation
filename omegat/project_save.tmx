@@ -2911,10 +2911,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ButNotTooForeign: A character partly belongs to an "exotic" or foreign demographic, but their heritage, upbringing, aesthetics or behavior is close enough to the target audience to not feel completely alien.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T203141Z" creationid="Luan" creationdate="20240326T203141Z">
+        <seg>* Br/MasNaoMuitoEstrangeiro: Um personagem em parte pertence à uma demografia estrangeira ou "exótica", mas sua criação, estética ou comportamento é próximo o suficiente do público alvo para que não pareça totalmente estranho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ButNotTooForeign: Someone is half-foreign.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231216T211526Z" creationid="Luan" creationdate="20231216T211526Z">
         <seg>* Br/MasNaoMuitoEstrangeiro: Alguém é meio-estrangeiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ButThouMust: A videogame offers the player a choice, but only one option is actually allowed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T203502Z" creationid="Luan" creationdate="20240326T203502Z">
+        <seg>* Br/MasTuDeves: Um videogame oferece uma escolha para o jogador, mas apenas uma opção é permitida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5695,6 +5711,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GunsAreUseless: For the sake of storytelling or CompetitiveBalance, guns, often no matter the caliber or ordinance, deal much less damage than less-advanced weapons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T203614Z" creationid="Luan" creationdate="20240326T203614Z">
+        <seg>* Br/ArmasDeFogoSaoInuteis: Em nome da narrativa ou do Br/EquilibrioCompetitivo, armas de fogo, não importa o calibre ou tipo, causam muito menos dano que armas menos avançadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HackerCave: A room filled with an over-the-top mess of computers and monitors and other bits of geekery, where hackers somehow get work done.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T153541Z" creationid="Luan" creationdate="20240125T153541Z">
@@ -7565,6 +7589,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LikeYouWouldReallyDoIt: A character is seemingly killed or in otherwise dire straits, but fans don't believe the threat is genuine because it would ruin what makes the character marketable to the story.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T203830Z" creationid="Luan" creationdate="20240326T203830Z">
+        <seg>* Br/ComoSeVoceRealmenteFosseFazerIsso: Um personagem aparentemente é morto ou deixado em situação crítica, mas os fãs não acreditam que a ameaça é genuína porque isso arruinaria o que torna o personagem atraente na história.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LikeYouWouldReallyDoIt: When the viewer can easily predict that someone won't die due to their importance to the story.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T145519Z" creationid="Luan" creationdate="20231208T145519Z">
@@ -8637,6 +8669,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* NewRulesAsThePlotDemands: Changing the rules for the sake of plot.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T203332Z" creationid="Luan" creationdate="20240326T203332Z">
+        <seg>* Br/NovasRegrasConformeATramaExige: Alterar as regras para fazer a trama andar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* NextSundayAD: Just ahead of the present.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T154348Z" creationid="Luan" creationdate="20240117T154348Z">
@@ -9365,6 +9405,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T202027Z" creationid="Luan" creationdate="20240221T202027Z">
         <seg>* Br/PlanetaDosPrazeres: Um planeta inteiro que é dedicado a ser o local perfeito para lazer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* PlotArmor: A character has survived a situation that would have killed, sincerely hurt, or permanently hindered anyone else.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T203647Z" creationid="Luan" creationdate="20240326T203647Z">
+        <seg>* Br/ArmaduraDeTrama: Um personagem sobreviveu a uma situação que teria matado, ferido gravemente, ou aleijado outra pessoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10964,6 +11012,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SocialSemicircle: Nobody sits with their back to the camera.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T203357Z" creationid="Luan" creationdate="20240326T203357Z">
+        <seg>* Br/SemicirculoSocial: Ninguém senta de costas para a câmera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SociopathicHero: TheSociopath is a "hero".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T155502Z" creationid="Luan" creationdate="20240319T155502Z">
@@ -12357,6 +12413,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheComputerIsACheatingBastard: The computer opponent is cheating, as it is allowed to break the rules that the human player(s) must follow.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T203208Z" creationid="Luan" creationdate="20240326T203208Z">
+        <seg>* Br/OComputadorEUmCanalhaTrapaceiro: O oponente computador está trapaceando, pois ele pode quebrar as regras que o jogador humano (ou jogadores) deve seguir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheConscience: A character that acts as the others' moral compass.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204740Z" creationid="Luan" creationdate="20240313T204740Z">
@@ -12981,6 +13045,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ThereAreNoTherapists: Characters can only deal with their emotional or psychological baggage on their own or with the help of their loved ones.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T203956Z" creationid="Luan" creationdate="20240326T203956Z">
+        <seg>* Br/NaoExistemTerapeutas: Personagens só conseguem lidar com sua bagagem emocional ou psicológica estando sozinhos ou com a ajuda de entes queridos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ThereIsNoKillLikeOverkill: The avenger won't let up even after the victim has stopped breathing.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140825Z" creationid="Luan" creationdate="20240104T140825Z">
@@ -13251,6 +13323,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T214307Z" creationid="Luan" creationdate="20240221T214241Z">
         <seg>* ??? TrashyTrailerHome: O "pior" lugar para se viver, de acordo com a ficção, é dentro de um trailer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TravelingAtTheSpeedOfPlot: Fudging travel times for the sake of plot.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T203745Z" creationid="Luan" creationdate="20240326T203745Z">
+        <seg>* Br/ViajandoNaVelocidadeDaTrama: Ajustar os tempos de viagem de maneira conveniente para a trama.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18139,6 +18219,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Either the audience is not supposed to question why more professional therapy isn't sought out, or they're supposed to accept that it's useless.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T204023Z" creationid="Luan" creationdate="20240326T204023Z">
+        <seg>Ou o público não deve questionar porque apoio profissional não é buscado, ou eles devem aceitar que isso é inútil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Either they have the power of SuperSmoke or {{Intangibility}} completely at will so that you can't attack them, or they may exist in some form that makes direct confrontation just not possible (an AstralProjection, for example, or just a plain old [[OurGhostsAreDifferent ghost]]).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T195501Z" creationid="Luan" creationdate="20231206T195501Z">
@@ -19165,6 +19253,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231231T003830Z" creationid="Luan" creationdate="20231231T003830Z">
         <seg>No entanto, nem todos os exemplos de desculpas freudianas precisam envolver personagens malvados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, since they're important, the author makes sure the danger creates no lasting consequences.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T203716Z" creationid="Luan" creationdate="20240326T203716Z">
+        <seg>No entanto, como ele é importante, o autor se certifica de que ele não vai morrer, apenas ficar um pouco machucadinho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22104,6 +22200,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T131810Z" creationid="Luan" creationdate="20240117T131810Z">
         <seg>Costuma ser acompanhado por Br/MusicaClimatica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Often an attempt to keep a story from being too dark or mature.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T203035Z" creationid="Luan" creationdate="20240326T203035Z">
+        <seg>Costuma ser um método para impedir que uma história fique muito pesada.</seg>
       </tuv>
     </tu>
     <tu>

@@ -8983,6 +8983,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* Others are [[BareFistedMonk powerful martial artists]] who clobber the bad guys with their bare hands.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T150944Z" creationid="Luan" creationdate="20240326T150944Z">
+        <seg>* Outros são [[Br/MongeDeMaosVazias artistas marciais poderosos]] que detonam os caras maus com as mãos vazias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* OutdatedHeroVsImprovedSociety
 * OutsideContextProblem, when they are the good guys
 * PajamaCladHero: A hero who does good deeds while in sleepwear.</seg>

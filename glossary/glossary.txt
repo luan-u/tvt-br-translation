@@ -921,6 +921,7 @@ ExpandedStatesOfAmerica	Br/EstadosExpandidosDaAmerica
 ExpandedUniverse	Br/UniversoExpandido
 ExpansionPackWorld	Br/PacoteDeExpansaoMundial
 ExpendableClone	Br/CloneDescartavel
+MenAreTheExpendableGender	Br/HomensSaoOGeneroDescartavel
 ExperiencedProtagonist	Br/ProtagonistaExperiente
 ExplainExplainOhCrap	Br/ExpliqueExpliqueVishFerrou
 ExponentialPlotDelay	Br/AtrasoExponencialDeTrama
@@ -3483,3 +3484,7 @@ ButchLesbian	Br/LesbicaMachuda
 ViolentlyProtectiveGirlfriend	Br/NamoradaViolentamenteProtetora
 Tsundere	Br/{{Tsundere}}
 TheStrongman	Br/OMusculoso
+OurDwarvesAreAllTheSame	Br/NossosAnoesSaoTodosIguais
+BigGuyFatalitySyndrome	Br/SindromeFatalDeCaraGrande
+BrainsAndBrawn	Br/CerebroEMusculo
+BrainsVersusBrawn	Br/CerebroContraMusculo

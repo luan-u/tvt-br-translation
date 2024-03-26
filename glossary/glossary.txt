@@ -3533,3 +3533,8 @@ EverybodySmokes	Br/TodoMundoFuma
 RandomSmokingScene	Br/CenaAleatoriaComFumante
 RomanticizedAbuse	Br/AbusoRomantizado
 BrokenBridge	Br/PonteQuebrada
+NewRulesAsThePlotDemands	Br/NovasRegrasConformeATramaExige
+SocialSemicircle	Br/SemicirculoSocial
+GunsAreUseless	Br/ArmasDeFogoSaoInuteis
+CompetitiveBalance	Br/EquilibrioCompetitivo
+ThereAreNoTherapists	Br/NaoExistemTerapeutas

@@ -1683,6 +1683,7 @@ LockedInTheDungeon	Br/TrancadoNaMasmorra
 LocomotiveLevel	Br/FaseDeLocomotiva
 LogicalExtreme	Br/ExtremoLogico
 LogicalFallacy	Br/FalaciaLogica
+LogicalFallacies	Br/FalaciasLogicas
 LonelyAtTheTop	Br/SozinhoNoTopo
 LongList	Br/ListaLonga
 LongRunners	Br/LongaDuracao
@@ -3502,3 +3503,5 @@ AdvertisingTropes	Br/TroposDePropaganda
 WeaselWords	Br/PalavrasEvasivas
 WeaselWords	Br/PalavrasDoninha
 WriterCopOut	Br/EsquivaDoAutor
+Cliche	Br/{{Cliche}}
+Stereotype	Br/{{Estereotipo}}

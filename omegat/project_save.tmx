@@ -212,6 +212,14 @@ BrCriador/RobinLaws, em seu livro ''BrLiteratura/HamletsHitPoints'', identifica 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># Also, this index is not for honest [[TheCreatorsForgotAboutThisIndex mistakes]] or oversights like WhatHappenedToTheMouse, unless the trope tricks the audience into not noticing or makes excuses, such as NoEndorHolocaust.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T175415Z" creationid="Luan" creationdate="20240326T175415Z">
+        <seg># Adicionalmente, este índice não é para [[Br/OsCriadoresSeEsqueceramDesteIndice erros]] honestos ou descuidos como Br/MasOQueHouveComORato, a não ser que o tropo consiga persuadir o público a não notar ou a aceitar a justificativa, tipo Br/SemHolocaustoEmEndor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># Best-case scenario, they do not want the audience to notice the trope ''at all''.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T162748Z" creationid="Luan" creationdate="20240326T162748Z">
@@ -21030,6 +21038,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Likewise, "{{Easter Egg}}s" and hidden features are simply extra content added to a work.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T175202Z" creationid="Luan" creationdate="20240326T175202Z">
+        <seg>Por outro lado, Br/{{Easter Egg}}s e outros detalhes escondidos são apenas conteúdo extra adicionado à obra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Likewise, if the character is forced to obey an evil law or geas, rebelling against the oath's intent is good.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240222T140034Z" creationid="Luan" creationdate="20240222T140034Z">
@@ -21948,6 +21964,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T135500Z" creationid="Luan" creationdate="20240202T135500Z">
         <seg>Costuma ser um Br/HotelInfernal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Often a JustifiedTrope, whereas the plot itself will try to explain ''why'' said trope works out well for the story.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T175444Z" creationid="Luan" creationdate="20240326T175444Z">
+        <seg>Costuma ser um Br/TropoJustificado, onde a trama por si só vai tentar explicar ''por que'' o dito tropo funciona bem na história.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24119,6 +24143,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The antithesis of these tropes is FridgeLogic, whereas an audience comes to realize the implications -- often {{unfortunate|implications}} ones.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T181237Z" creationid="Luan" creationdate="20240326T181237Z">
+        <seg>A antítese destes tropos é a Br/LogicaDeGeladeira, quando o público percebe as implicações -- que geralmente são [[Br/ImplicacoesInfelizes infelizes]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The arcade owners have to make money ''somehow'', you know.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T224941Z" creationid="Luan" creationdate="20231101T224941Z">
@@ -24821,6 +24853,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The tropes listed below are only recognized through FridgeLogic, [[UnexpectedReactionsToThisIndex unintended audience reactions]], or being {{cliche}}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T175304Z" creationid="Luan" creationdate="20240326T175304Z">
+        <seg>Os tropos listados abaixo são reconhecidos apenas através da Br/LogicaDeGeladeira, [[Br/ReacoesInesperadasAEsteIndice reações inesperadas do público]] ou por serem Br/{{cliche}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The tropes overlap, but Pyrrhic Victory is when someone succeeds at their goal with a very high price, while Nice Job Breaking It, Hero includes actions that might not be necessary or even intentional.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T190053Z" creationid="Luan" creationdate="20240104T190053Z">
@@ -25251,6 +25291,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T200022Z" creationid="Luan" creationdate="20231221T200022Z">
         <seg>Eles são usados [[Br/LancheDeMonstro para mostrar como o monstro funciona]] e demonstrar que ele é uma ameaça mortal sem que seja necessário perder alguém ''[[Br/ArmaduraDeTrama importante]]''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They aren't tropes that the audience is ''never'' supposed to notice or think about.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T175214Z" creationid="Luan" creationdate="20240326T175214Z">
+        <seg>Eles não são tropos que o público ''nunca'' deve notar ou pensar sobre.</seg>
       </tuv>
     </tu>
     <tu>

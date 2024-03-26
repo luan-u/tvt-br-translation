@@ -220,6 +220,7 @@ AudienceReactions	Br/ReacoesDoPublico
 AudienceShift	Br/MudancaDePublico
 AudienceSurrogate	Br/SuplenteDaPlateia
 AuthorAppeal	Br/ApeloDoAutor
+AuthorAvatar	Br/AvatarDoAutor
 AuthorFilibuster	Br/ObstrucaoDeAutor
 AuthorTract	Br/TratadoDoAutor
 AuthorsSavingThrow	Br/JogadaDefensivaDoAutor
@@ -227,7 +228,7 @@ AutoErotica	Br/AutoErotica
 AvertedTrope	Br/TropoEvitado
 AwesomeButImpractical	Br/FantasticoPoremImpratico
 BBCQuarry	Br/PedreiraBBC
-BFG	Br/ArmaGPC
+BFG	Br/ArmaGPC	"Grande pra cacete".
 BTeamSequel	Br/SequenciaClasseB
 BabiesEverAfter	Br/BebesParaSempre
 BackFromTheDead	Br/DeVoltaDosMortos
@@ -3453,3 +3454,7 @@ NotTooDeadToSaveTheDay	Br/NaoEstouMortoDemaisParaSalvarODia
 PresidentSuperhero	Br/SuperHeroiPresidente
 OurPresidentsAreDifferent	Br/NossosPresidentesSaoDiferentes
 PuttingThePalInPrincipal	Br/DiretorAmigo
+RedeemingReplacement	Br/SubstitutoRedentor
+RightlySelfRighteous	Br/JustoComJusticaPropria
+SixthRanger	Br/OSextoRanger
+SmitingEvilFeelsGood	Br/PunirOMalFazBem

@@ -2150,6 +2150,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AsLongAsItSoundsForeign: Characters are actually speaking gibberish, but audiences are supposed to believe it's an actual foreign language.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T202606Z" creationid="Luan" creationdate="20240326T202606Z">
+        <seg>* Br/DesdeQueSoeEstrangeiro: Os personagens não estão falando nada com nada, mas o público deve acreditar que é de fato um idioma estrangeiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AsLongAsItSoundsForeign: Words that are not foreign, but are put in to "sound" foreign.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231216T210905Z" creationid="Luan" creationdate="20231216T210905Z">

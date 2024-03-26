@@ -3475,3 +3475,7 @@ CarryABigStick	Br/PortarUmBastaoGrande
 BareFistedMonk	Br/MongeDeMaosVazias
 GreenThumb	Br/DedoVerde
 DishingOutDirt	Br/DistribuirPedradas
+AmazonBrigade	Br/BrigadaDeAmazonas
+AlwaysMale	Br/SempreUmHomem
+StatuesqueStunner	Br/EstonteanteEscultural
+AmazonianBeauty	Br/BelezaAmazoniana

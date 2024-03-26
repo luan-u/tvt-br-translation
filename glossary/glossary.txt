@@ -3527,3 +3527,7 @@ EvilAllAlong	Br/EraDoMalOTempoTodo
 UnexpectedReactionsToThisIndex	Br/ReacoesInesperadasAEsteIndice
 TheCreatorsForgotAboutThisIndex	Br/OsCriadoresSeEsqueceramDesteIndice
 TropesInAggregate	Br/TropoAgregado
+ForgottenPhlebotinum	Br/CoisoniumEsquecido
+EverybodySmokes	Br/TodoMundoFuma
+RandomSmokingScene	Br/CenaAleatoriaComFumante
+RomanticizedAbuse	Br/AbusoRomantizado

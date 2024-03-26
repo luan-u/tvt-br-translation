@@ -2230,6 +2230,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BadGuysDoTheDirtyWork: Something unpleasant or morally questionable has to be done in the story, so the person who does it is a villain so that the audience can still view the hero as squeaky clean.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T202923Z" creationid="Luan" creationdate="20240326T202923Z">
+        <seg>* Br/AlguemTemQueFazerOTrabalhoSujo: Algo desagradável ou moralmente questionável precisa ser feito na história, então a pessoa que o faz é um vilão para que o público possa ver o herói como reluzentemente limpo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BadPowersGoodPeople: A good character has powers that would be more appropriate for a villain.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T212529Z" creationid="Luan" creationdate="20240313T212529Z">
@@ -2827,6 +2835,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BrokenBridge: Forcing the player to take a certain path by blocking others until it is time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T202651Z" creationid="Luan" creationdate="20240326T202651Z">
+        <seg>* Br/PonteQuebrada: Forçar o jogador a tomar um certo caminho através do bloqueio de caminhos alternativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BrokenHero
 * BrotherSisterTeam
 * BruiserWithASoftCenter: Tough characters are capable of having soft hearts.</seg>
@@ -2875,6 +2891,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T215958Z" creationid="Luan" creationdate="20240318T215958Z">
         <seg>* Br/CacadorDeValentoes: Um personagem que é rápido em dar aos valentões o que eles merecem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ButNotTooEvil: A character is meant to be an extremely evil villain, but their onscreen acts are nowhere near as horrible as you'd expect for someone who has the motives or ambitions they do.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T203014Z" creationid="Luan" creationdate="20240326T203014Z">
+        <seg>* Br/MasNaoMuitoMau: Um personagem precisa ser um vilão extremamente maldoso, mas seus atos na tela não são horríveis no nível que você esperaria pra alguém com as motivações ou ambições que ele tem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15535,6 +15559,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>----
+* AsLethalAsItNeedsToBe: A weapon or attack is sometimes capable of killing a target, but other times merely wounds them, and this is never brought up or explained to the audience.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T202831Z" creationid="Luan" creationdate="20240326T202831Z">
+        <seg>----
+* Br/TaoLetalQuantoNecessario: Uma arma ou ataque às vezes é capaz de matar o alvo, mas em outras vezes ele apenas sofre alguns ferimentos e isso nunca é trazido à tona ou explicado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>--&gt;-- '''WebVideo/ScreenRantPitchMeetings''' for ''WesternAnimation/FrozenII''</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T155045Z" creationid="Luan" creationdate="20240105T155045Z">
@@ -22512,6 +22546,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T023846Z" creationid="Luan" creationdate="20231221T023846Z">
         <seg>Através dos séculos, os serviços foram estendidos para que houvesse suporte hospitaleiro e bancário; peregrinos podiam armazenar suas riquezas com os Templários em um local e coletá-las dos cofres da ordem em outro local posteriormente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Over time, the trope has become a lot less "hidden" and more lampshaded or mocked in-game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T202732Z" creationid="Luan" creationdate="20240326T202732Z">
+        <seg>Com o tempo esse tropo ficou menos "escondido" e passou a ser [[Br/LancandoLuz iluminado]] ou zombado dentro do jogo.</seg>
       </tuv>
     </tu>
     <tu>

@@ -260,6 +260,14 @@ BrCriador/RobinLaws, em seu livro ''BrLiteratura/HamletsHitPoints'', identifica 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># {{Plot Twist}}s like DecoyProtagonist, EvilAllAlong and UnreliableNarrator may be attempts to "fool" an audience, but only until the particular twist is revealed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T175123Z" creationid="Luan" creationdate="20240326T175123Z">
+        <seg># Br/{{Reviravolta}}s como Br/ProtagonistaIsca, Br/EraDoMalOTempoTodo e Br/NarradorNaoConfiavel podem ser tentativas de "enganar" o público, mas só até a reviravolta ser revelada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>%%
 %%
 %%
@@ -22150,6 +22158,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T185712Z" creationid="Luan" creationdate="20231215T185712Z">
         <seg>Por outro lado, BrAdministrivia/TroposNaoSaoRuins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the other hand, a FauxActionGirl, by definition, almost always insists that a character is an ActionGirl, and does not want the audience to notice the "Faux" part: that she is actually ''bad'' at fighting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T174049Z" creationid="Luan" creationdate="20240326T174049Z">
+        <seg>Por outro lado, uma Br/PseudoGarotaDeAcao, por definição, sempre insiste que um personagem é uma Br/GarotaDeAcao e não quer que o público perceba a "pseudo" parte: que na verdade ela é ''ruim'' em lutas.</seg>
       </tuv>
     </tu>
     <tu>

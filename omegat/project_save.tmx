@@ -9319,6 +9319,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* PresidentSuperhero: A [[OurPresidentsAreDifferent President]] (or otherwise Chief of State) of a sovereign country who happens to have superpowers -- and does use them for heroics as a side job.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T003027Z" creationid="Luan" creationdate="20240326T003027Z">
+        <seg>* Br/SuperHeroiPresidente: Um [[Br/NossosPresidentesSaoDiferentes presidente]] (ou chefe de Estado) de uma nação soberana que por acaso possui super poderes -- e que os usa para atos heroicos no tempo livre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* PrimaryColorChampion: Heroes tend to wear primary colors, particularly red and blue.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T191546Z" creationid="Luan" creationdate="20240319T191546Z">
@@ -9397,6 +9405,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T153634Z" creationid="Luan" creationdate="20240319T153634Z">
         <seg>* Br/HeroiBatedorDePonto: O personagem é um herói porque esse é o trabalho dele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* PuttingThePalInPrincipal: The archetypal personable school principal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T003536Z" creationid="Luan" creationdate="20240326T003536Z">
+        <seg>* Br/DiretorAmigo: Um arquétipo de diretor de escola bem amigável.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3532,3 +3532,4 @@ ForgottenPhlebotinum	Br/CoisoniumEsquecido
 EverybodySmokes	Br/TodoMundoFuma
 RandomSmokingScene	Br/CenaAleatoriaComFumante
 RomanticizedAbuse	Br/AbusoRomantizado
+BrokenBridge	Br/PonteQuebrada

@@ -3509,3 +3509,6 @@ TropeBreaker	Br/DestruidorDeTropo
 Consistency	Br/{{Consistencia}}
 Reconstruction	Br/{{Reconstrucao}}
 TropeEnjoymentLoophole	Br/BrechaParaAproveitamentoDeTropos
+NarmCharm	Br/EncantoNarm
+StayInTheKitchen	Br/FiqueNaCozinha
+UnfortunateImplications	Br/ImplicacoesInfelizes

@@ -2378,6 +2378,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BeautyEqualsGoodness: If a character is beautiful or attractive, then they are more likely to be heroic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T213114Z" creationid="Luan" creationdate="20240326T213114Z">
+        <seg>* Br/BelezaSignificaBondade: Se um personagem é belo ou atraente, então é mais provável que ele seja heroico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BeautyEqualsGoodness: Most heroes tend to be very physically attractive.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T145433Z" creationid="Luan" creationdate="20240318T145433Z">
@@ -3517,6 +3525,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* CompetenceZone: Those within a specific age group are the only ones capable of accomplishing anything.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T213200Z" creationid="Luan" creationdate="20240326T213200Z">
+        <seg>* Br/ZonaDeCompetencia: Aqueles dentro de uma faixa etária específica são os únicos capazes de alcançar qualquer coisa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ConscienceMakesYouGoBack: A character almost abandons someone, but their guilt motivates them to go back and help the person they left to suffer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204801Z" creationid="Luan" creationdate="20240313T204801Z">
@@ -4305,6 +4321,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T210137Z" creationid="Luan" creationdate="20240313T210137Z">
         <seg>* Br/DinamicaAkimbo: Os mocinhos ficam com os pés afastados, o peito estufado e as mãos nos quadris, geralmente durante sua determinação heróica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DynamicDifficulty: Changing the difficulty of the game to match player skill.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T213455Z" creationid="Luan" creationdate="20240326T213455Z">
+        <seg>* Br/DificuldadeDinamica: Alterar a dificuldade do jogo para se adequar à habilidade do jogador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5151,6 +5175,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T225503Z" creationid="Luan" creationdate="20240131T225503Z">
         <seg>* Br/JardimDoMal: Um lugar onde a maioria das plantas (ou todas) são venenosas, carnívoras ou perigosas de outras maneiras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GenderIncompetence: Competence is dependent on gender.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T214012Z" creationid="Luan" creationdate="20240326T214012Z">
+        <seg>* Br/IncompetenciaDeGenero: A competência é dependente do gênero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8913,6 +8945,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ObscuredSpecialEffects: Don't let the audience look too close at the special effects or they might notice it's sub par.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T213537Z" creationid="Luan" creationdate="20240326T213537Z">
+        <seg>* Br/EfeitosEspeciaisEncobertos: Se você deixar o público olhar os efeitos especiais muito de perto, eles podem perceber que eles não são tão bons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Obvious lack of investment in the production.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T204345Z" creationid="Luan" creationdate="20231210T204345Z">
@@ -9855,6 +9895,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T192650Z" creationid="Luan" creationdate="20240105T192650Z">
         <seg>* Br/RecusouOSegundoChamado: O herói da história original está disponível para ajudar a salvar o dia, mas se recusa a ajudar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RelationshipValues: In some videogames, the game tracks how well or how badly you treat certain characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T213635Z" creationid="Luan" creationdate="20240326T213635Z">
+        <seg>* Br/ValoresDeRelacionamento: Em alguns jogos, o jogo toma nota de quão bem ou mal você trata certos personagens.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17003,6 +17051,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Anyone older or younger than that are either useless or a hindrance -- conveniently, those within the competence zone are usually similar to the target audience.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T213245Z" creationid="Luan" creationdate="20240326T213245Z">
+        <seg>Qualquer um que seja mais velho ou mais novo é inútil ou é um fardo -- e, convenientemente, a faixa etária específica é similar à do público alvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Architectural RuleOfCool.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T190349Z" creationid="Luan" creationdate="20240131T190349Z">
@@ -21762,6 +21818,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Most of the time, it's female characters who end on the wrong end of this stick.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T214100Z" creationid="Luan" creationdate="20240326T214100Z">
+        <seg>Geralmente são as mulheres que ficam do lado prejudicado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Most tropers, academics, directors or writers who do this start to find new ways to enjoy media.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T152422Z" creationid="Luan" creationdate="20231214T152422Z">
@@ -22152,6 +22216,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T005746Z" creationid="Luan" creationdate="20231215T005746Z">
         <seg>É claro, quem tem teto de vidro não deveria atirar pedras, e é necessário sempre pensar na própria Br/MiopiaMoral para não recair em um caso de Br/QuemReclamaEstaSempreErrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Of course, women must [[SensibleHeroesSkimpyVillains practice moderation]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T213127Z" creationid="Luan" creationdate="20240326T213127Z">
+        <seg>É claro, mulheres devem [[Br/HeroisRecatadosViloesExibidos ser moderadas]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -25391,6 +25463,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T190707Z" creationid="Luan" creationdate="20231210T190707Z">
         <seg>Atualmente ele às vezes aparece ao longo de invocações do pulo sobre tubarão como forma de Br/LancarLuzSobreOTropo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These days, most games will inform you when a value is raised or lowered, but some games (especially older ones) keep it secret to surprise the player later.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T213710Z" creationid="Luan" creationdate="20240326T213710Z">
+        <seg>Atualmente a maioria dos jogos vai informar quando esse valor aumenta ou diminui, mas alguns jogos (especialmente os mais antigos) deixam isso em segredo para surpreender o jogador depois.</seg>
       </tuv>
     </tu>
     <tu>

@@ -12821,6 +12821,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ThePiratesWhoDontDoAnything: Characters that are supposed to be villainous or mischievous, but hardly ever do anything outside of acceptable behavior.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T212858Z" creationid="Luan" creationdate="20240326T212858Z">
+        <seg>* Br/PiratasQueNaoFazemNada: Personagens que deveriam ser vilões ou arruaceiros, mas que não fazem nada do socialmente aceitável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ThePoorlyChosenOne: Unfortunately, they totally failed to achieve their great destiny.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T184935Z" creationid="Luan" creationdate="20240319T184935Z">

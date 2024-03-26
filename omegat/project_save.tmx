@@ -8575,6 +8575,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* NobleBigotWithABadge: A policeman who tries to uphold the law despite their prejudices.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T001119Z" creationid="Luan" creationdate="20240326T001119Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* NobleProfession: Some occupations are just expected to be benevolent, well-meaning and lovely.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165241Z" creationid="Luan" creationdate="20240314T165241Z">
@@ -8615,6 +8623,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* NonIronicClown: This type of clown who is a good guy in every sense of the word, intending to entertain children in circus.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T001203Z" creationid="Luan" creationdate="20240326T001203Z">
+        <seg>* Br/PalhacoNaoIronico: Este tipo de palhaço é um cara bom em cada sentido da palavra, com a intenção de divertir as crianças em um circo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* NonLinearSequel: The sequel doesn't take place after the first story.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T191642Z" creationid="Luan" creationdate="20240105T191642Z">
@@ -8643,6 +8659,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T225107Z" creationid="Luan" creationdate="20240131T225107Z">
         <seg>* Br/PortoNaoTaoSeguro: Um reduto de vilania marítima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* NotTooDeadToSaveTheDay: Dead or [[NotQuiteDead "dead"]] person comes back just in time to save the day.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T002644Z" creationid="Luan" creationdate="20240326T002644Z">
+        <seg>* Br/NaoEstouMortoDemaisParaSalvarODia: Uma pessoa morta ou [[Br/NaoExatamenteMorto "morta"]] volta no momento certo para salvar o dia.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3255,6 +3255,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* Class 5: A GeniusBruiser who can also fill the role of TheSmartGuy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T134227Z" creationid="Luan" creationdate="20240326T134227Z">
+        <seg>* Classe 5: Um Br/BrutoInteligente que pode preencher o papel de Br/CaraEsperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Class 6: TheBrute, an exaggerated tough guy to the point of being a bully, and normally EvilCounterpart to any of the other Big Guys.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240301T222218Z" creationid="Luan" creationdate="20240301T222218Z">
@@ -18761,6 +18769,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>He may be [[DumbMuscle dumb]], or too savage to do anything else for the team, but he's kept around because he's good in a fight.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T134647Z" creationid="Luan" creationdate="20240326T134647Z">
+        <seg>Ele pode ser [[Br/MusculoImbecil burro]] ou selvagem demais para fazer algo pela equipe, mas ele é mantido por perto porque em uma luta ele se sai bem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>He reacts with appropriate horror to things like Alice's finger and eyeball collection, Gardenia's tendency to attack anyone not believing in her religion, Franklin's experiments to revive the dead with science, and the crimes against nature that Franklin calls pets.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231219T215622Z" creationid="Luan" creationdate="20231219T215622Z">
@@ -24375,6 +24391,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The polar opposite of the DumbMuscle, this version uses their strength intelligently, and may be diligent in their training and studies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T134619Z" creationid="Luan" creationdate="20240326T134619Z">
+        <seg>Sendo o oposto polar do Br/MusculoImbecil, essa versão usa sua força de maneira inteligente e pode ser diligente no treino e nos estudos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The problem with gimmicky characters is that they [[SpotlightStealingSquad demand a lot of attention]], usually at the expense of existing character dynamics.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T185022Z" creationid="Luan" creationdate="20231210T185022Z">
@@ -25425,6 +25449,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163621Z" creationid="Luan" creationdate="20231029T163621Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This character is rare (presumably also for balance reasons), as TheSmartGuy is traditionally unimposing and the NonActionGuy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T134540Z" creationid="Luan" creationdate="20240326T134540Z">
+        <seg>Esse personagem é raro (provavelmente por questões de balanceamento), já que o Br/CaraEsperto tradicionalmente não é imponente, se encaixando mais como um Br/CaraSemAcao.</seg>
       </tuv>
     </tu>
     <tu>

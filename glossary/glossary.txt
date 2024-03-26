@@ -3539,3 +3539,6 @@ GunsAreUseless	Br/ArmasDeFogoSaoInuteis
 CompetitiveBalance	Br/EquilibrioCompetitivo
 ThereAreNoTherapists	Br/NaoExistemTerapeutas
 ThePiratesWhoDontDoAnything	Br/PiratasQueNaoFazemNada
+DynamicDifficulty	Br/DificuldadeDinamica
+RelationshipValues	Br/ValoresDeRelacionamento
+GenderIncompetence	Br/IncompetenciaDeGenero

@@ -3472,3 +3472,4 @@ StoneWall	Br/ParedeDePedra
 LightningBruiser	Br/BrutoRelampago
 DesignatedPointMan	Br/HomemDePontaDesignado
 CarryABigStick	Br/PortarUmBastaoGrande
+BareFistedMonk	Br/MongeDeMaosVazias

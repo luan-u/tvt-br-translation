@@ -3464,3 +3464,8 @@ NonActionProtagonist	Br/ProtagonistaSemAcao
 NeighbourhoodFriendlyGangsters	Br/BandidosAmigaveisDaVizinhanca
 BashBrothers	Br/IrmaosPorrada
 OneManArmy	Br/ExercitoDeUmHomemSo
+NonActionGuy	Br/CaraSemAcao
+AnAdventurerIsYou	Br/UmAventureiroEVoce
+MightyGlacier	Br/PoderosaGeleira
+StoneWall	Br/ParedeDePedra
+LightningBruiser	Br/BrutoRelampago

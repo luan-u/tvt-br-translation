@@ -3458,3 +3458,7 @@ RedeemingReplacement	Br/SubstitutoRedentor
 RightlySelfRighteous	Br/JustoComJusticaPropria
 SixthRanger	Br/OSextoRanger
 SmitingEvilFeelsGood	Br/PunirOMalFazBem
+SuperpoweredEvilSide	Br/LadoMauComSuperpoderes
+NonPoweredCostumedHero	Br/HeroiTrajadoSemPoderes
+NonActionProtagonist	Br/ProtagonistaSemAcao
+NeighbourhoodFriendlyGangsters	Br/BandidosAmigaveisDaVizinhanca

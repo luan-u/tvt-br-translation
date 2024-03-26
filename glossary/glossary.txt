@@ -3505,3 +3505,7 @@ WeaselWords	Br/PalavrasDoninha
 WriterCopOut	Br/EsquivaDoAutor
 Cliche	Br/{{Cliche}}
 Stereotype	Br/{{Estereotipo}}
+TropeBreaker	Br/DestruidorDeTropo
+Consistency	Br/{{Consistencia}}
+Reconstruction	Br/{{Reconstrucao}}
+TropeEnjoymentLoophole	Br/BrechaParaAproveitamentoDeTropos

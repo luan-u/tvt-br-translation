@@ -212,6 +212,30 @@ BrCriador/RobinLaws, em seu livro ''BrLiteratura/HamletsHitPoints'', identifica 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># Best-case scenario, they do not want the audience to notice the trope ''at all''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T162748Z" creationid="Luan" creationdate="20240326T162748Z">
+        <seg># No melhor cenário, eles querem que o público ''sequer'' perceba que o tropo está ali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># They want the [[TropeEnjoymentLoophole audience to feel]] that the trope positively {{deconstruct|ion}}s, {{reconstruct|ion}}s or otherwise satisfactorily plays with an even more "undesirable" trope.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T172757Z" creationid="Luan" creationdate="20240326T172757Z">
+        <seg># Eles querem que [[Br/BrechaParaAproveitamentoDeTropos o público sinta]] que o tropo é [[Br/{{Desconstrucao}} desconstruído]] e [[Br/{{Reconstrucao}} reconstruído]] de maneira satisfatória, ou que ele é usado de maneira satisfatória.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># They want the audience to believe the trope was [[TropeMaker an original idea]], and not a well-worn {{cliche}} or insidious {{stereotype}}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T162827Z" creationid="Luan" creationdate="20240326T162827Z">
+        <seg># Eles querem que o público acredite que o tropo foi [[Br/CriadorDeTropo uma ideia original]] e não um Br/{{cliche}} ou Br/{{estereotipo}} desgastado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>%%
 %%
 %%
@@ -18955,6 +18979,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, because TropesAreTools, the creators still want or feel that they have to use them (often because their effects are still believed to be marketable), but try to create plausible deniability so that the audience doesn't dwell on it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T162718Z" creationid="Luan" creationdate="20240326T162718Z">
+        <seg>No entanto, como Br/TroposSaoFerramentas, os criadores ainda querem ou sentem que precisam usá-los (geralmente porque seus efeitos ainda são tidos como interessantes), mas tentam criar negabilidade plausível para que o público não fique pensando muito nisso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, if a show goes far enough with its violence, it may end up crossing the line not once but ''twice'', as it goes around the planet and crosses it again.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162011Z" creationid="Luan" creationdate="20231029T162011Z">
@@ -22396,6 +22428,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T183446Z" creationid="Luan" creationdate="20240104T183446Z">
         <seg>Talvez derrotar o vilão tenha resultado em um Br/VacuoDePoderMaligno, e agora sujeitos ainda piores estão lutando para preencher o vazio que o vilão anterior deixou, causando ainda mais caos do que o vilão anterior poderia ter sonhado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Perhaps they're just {{discredited|Trope}} or [[TropeBreaker outdated]], ruin or muddle the {{consistency}} of the work, or are just inherently considered {{Bad Writing|Index}}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T162620Z" creationid="Luan" creationdate="20240326T162620Z">
+        <seg>Talvez seja um Br/TropoDesacreditado, [[Br/DestruidorDeTropo desatualizado]], algo que afete a Br/{{Consistencia}} da obra, ou que seja simplesmente considerado [[Br/IndiceDeArmadilhasDeRoteiro escrita ruim]].</seg>
       </tuv>
     </tu>
     <tu>

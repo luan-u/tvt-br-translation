@@ -3462,3 +3462,5 @@ SuperpoweredEvilSide	Br/LadoMauComSuperpoderes
 NonPoweredCostumedHero	Br/HeroiTrajadoSemPoderes
 NonActionProtagonist	Br/ProtagonistaSemAcao
 NeighbourhoodFriendlyGangsters	Br/BandidosAmigaveisDaVizinhanca
+BashBrothers	Br/IrmaosPorrada
+OneManArmy	Br/ExercitoDeUmHomemSo

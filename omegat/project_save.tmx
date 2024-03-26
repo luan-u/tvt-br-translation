@@ -8417,6 +8417,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* NerdActionHero
+* NeutralGood: Involving selflessness, without substantial favor for or outside rules.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T230433Z" creationid="Luan" creationdate="20240325T230433Z">
+        <seg>* Br/NerdHeroiDeAcao
+* Br/NeutroEBom: Envolvendo o altruísmo sem estar inclinado em favor das regras ou contra elas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* NetworkDecay: A TV channel starts to show things that go outside what it's supposed to show (e.g. the nature channel starts showing shows that have nothing to do with nature).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T013502Z" creationid="Luan" creationdate="20231218T013502Z">
@@ -8509,6 +8519,18 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T134914Z" creationid="Luan" creationdate="20240318T134914Z">
         <seg>* Br/AntiHeroiDosAnos90: Um anti-herói violento e inescrupuloso com aparência áspera e personalidade agressiva e ríspida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* NoBadassToHisValet
+* NoHeroToHisValet
+* NoMoreHoldingBackSpeech: The hero makes a speech about the problems they've experienced and how they overcame them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T001113Z" creationid="Luan" creationdate="20240326T001113Z">
+        <seg>* Br/NaoEFodaoParaSeuCriado
+* Br/NaoEHeroiParaSeuCriado
+* Br/DiscursoDeChegaDeSeLimitar: O herói faz um discurso sobre os problemas enfrentados e como ele os superou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9767,6 +9789,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* RudeHeroNiceSidekick: A hero who is a jerk who is accompanied by a nicer sidekick.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T230040Z" creationid="Luan" creationdate="20240325T230040Z">
+        <seg>* Br/HeroiRudeParceiroLegal: Um herói babaca acompanhado de um parceiro muito gente boa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* RuinsOfTheModernAge: The Empire State Building is growing moss and most of its concrete is fading away.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T155303Z" creationid="Luan" creationdate="20240117T155303Z">
@@ -10089,6 +10119,16 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T170409Z" creationid="Luan" creationdate="20240314T170409Z">
         <seg>* Br/CienciaEBoa
 * Br/DanemSeAsRegrasEstouFazendoOQueECerto: Um personagem desobedece as leis, costumes ou ordens para que possam seguir sua consciência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ScrapHeapHero
+* ScrewTheRulesImDoingWhatsRight: A character who listens and does what their heart tells them is the morally right thing to do and not what bureaucratic laws tell them to.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T230009Z" creationid="Luan" creationdate="20240325T230009Z">
+        <seg>* ??? ScrapHeapHero
+* Br/DanemSeAsRegrasEstouFazendoOQueECerto: Um personagem que escuta e faz o que seu coração diz que é moralmente certo ao invés do que as leis dizem que ele deve fazer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10635,6 +10675,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T150450Z" creationid="Luan" creationdate="20231208T150450Z">
         <seg>* ??? SnapBack: Algo acontece ao personagem ou à história, mas de algum modo é desfeito no próximo episódio sem explicação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SnoopingLittleKid
+* SociallyAwkwardHero: While they're eager to help other people, they're not very good at casually socializing with them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T225905Z" creationid="Luan" creationdate="20240325T225905Z">
+        <seg>* Br/CriancaXereta
+* Br/HeroiSocialmenteInepto: Com disposição para ajudar outras pessoas, mas sem habilidade para socializar casualmente com elas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13064,8 +13114,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>* UnderhandedHero: A heroic character who is skilled in a combination of thievery, stealth, deception, acrobatics, and manipulation.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T211304Z" creationid="Luan" creationdate="20240325T211304Z">
-        <seg>* Br/HeroiFurtivo: Um personagem heroico que é habilidoso em uma combinação de ladroagem, discrição, acrobacia, manipulação e fraude.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T230139Z" creationid="Luan" creationdate="20240325T211304Z">
+        <seg>* Br/HeroiGatuno: Um personagem heroico que é habilidoso em uma combinação de ladroagem, discrição, acrobacia, manipulação e fraude.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14997,8 +15047,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>+ {{Sidekick}}: The ever-reliable number two guy to every hero.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T134632Z" creationid="Luan" creationdate="20240318T134632Z">
-        <seg>+ ??? {{Sidekick}}: O sujeito número dois sempre confiável que anda ao lado do herói.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T230335Z" creationid="Luan" creationdate="20240318T134632Z">
+        <seg>+ Br/{{Parceiro}}: O sujeito número dois sempre confiável que anda ao lado do herói.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22153,11 +22203,11 @@ Br/ExemplosEmFalta.</seg>
 %%
 -&gt; ''"You see that you and I are of a different stripe, don't you?</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240318T132321Z" creationid="Luan" creationdate="20240318T132302Z">
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240325T230309Z" creationid="Luan" creationdate="20240318T132302Z">
         <seg>Please do not replace or remove without discussion in the Caption Repair thread:
 %% https://tvtropes.org/pmwiki/posts.php?discussion=1404492079030138900
 %%
--&gt; ''"Você vê que você e eu somos de um tipo diferente, não é?</seg>
+-&gt; ''"Percebe que você e eu somos de um tipo diferente, não é?</seg>
       </tuv>
     </tu>
     <tu>

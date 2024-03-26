@@ -236,10 +236,26 @@ BrCriador/RobinLaws, em seu livro ''BrLiteratura/HamletsHitPoints'', identifica 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># They want the audience to feel that the trope is necessary to avoid stuff like [[WritingPitfallIndex Writing Pitfalls]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T173011Z" creationid="Luan" creationdate="20240326T173011Z">
+        <seg># Eles querem que o público sinta que o tropo é necessário para evitar [[Br/IndiceDeArmadilhasDeRoteiro armadilhas de roteiro]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># They want the audience, if they ''do'' notice the trope and all its implications, to dismiss everything based on WillingSuspensionOfDisbelief or MST3KMantra.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T172904Z" creationid="Luan" creationdate="20240326T172904Z">
         <seg># Eles querem que o público deixe essas coisas de lado com base na Br/SuspensaoVoluntariaDaDescrenca e no Br/MantraMST3K caso o tropo e suas implicações sejam notados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># They want the trope to be [[NarmCharm "part of the work's charm"]], in an [[SoBadItsGood ironically enjoyable]] sense.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T173125Z" creationid="Luan" creationdate="20240326T173125Z">
+        <seg># Eles querem que o tropo seja [[Br/EncantoNarm "parte do encanto da obra"]] de um [[Br/TaoRuimQueEBom jeito irônico]] porém agradável.</seg>
       </tuv>
     </tu>
     <tu>
@@ -447,6 +463,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231226T020904Z" creationid="Luan" creationdate="20231226T020904Z">
         <seg>'''As fórmulas mais eficazes para o terror são:'''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>'''NOTE:''' To qualify for this trope, the audience being ignorant or tolerant of the trope or its implications must be ''an inherent reason'' why the trope exists.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T173644Z" creationid="Luan" creationdate="20240326T173644Z">
+        <seg>'''NOTA:''' Para se enquadrar aqui, a tolerância ou ignorância por parte do público em relação ao tropo ou suas implicações deve ser ''um motivo inerente'' à existência do tropo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18523,6 +18547,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example:
+# "Negative" stereotypes like StayInTheKitchen do not qualify because, while avoided these days, it is still common to see the tropes played completely straight with UnfortunateImplications intact or invoked through DeliberateValuesDissonance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T173931Z" creationid="Luan" creationdate="20240326T173931Z">
+        <seg>Por exemplo:
+# Estereótipos "negativos" como Br/FiqueNaCozinha não se enquadram porque, apesar de evitados atualmente, ainda é comum ver eles sendo usados da maneira típica com o conjunto completo de Br/ImplicacoesInfelizes ou invocado através da Br/DissonanciaDeValoresDeliberada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For instance, the BoardingSchoolOfHorrors in ''Radio/BleakExpectations'' would be abusive if the staff beat the students and deprived them of food.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163605Z" creationid="Luan" creationdate="20231029T163605Z">
@@ -21746,6 +21780,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T170839Z" creationid="Luan" creationdate="20240103T170839Z">
         <seg>Nota: O fato de o tropo ter "Regra do..." no título (ou começar assim) não significa que ele pertence a este índice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now please move on."]][[/note]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T173431Z" creationid="Luan" creationdate="20240326T173431Z">
+        <seg>Agora, circulando."]][[/note]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -25093,6 +25135,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These tropes often skirt a gray area overlapping both {{Trope}}s and AudienceReactions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T173206Z" creationid="Luan" creationdate="20240326T173206Z">
+        <seg>Esses tropos geralmente ficam na fronteira entre os Br/{{Tropo}}s e as Br/ReacoesDoPublico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These two are ''intentional'' exceptions to the simplified version of a law.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240301T145241Z" creationid="Luan" creationdate="20240301T145241Z">
@@ -25105,6 +25155,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T024346Z" creationid="Luan" creationdate="20231220T024346Z">
         <seg>Ele ''não'' recebe o que merece.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They ''were'' put into the work (often intentionally), and thus count as tropes...but the only way they can be talked about is if the ''audience'' "outsmarts" the creator and notices them, because writers will usually not draw attention to them and may sometimes even flat out ''deny'' they exist.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T173323Z" creationid="Luan" creationdate="20240326T173323Z">
+        <seg>Eles ''foram'' inseridos na obra (geralmente com intenção) e por isso contam como tropos... mas o único jeito pelo qual se fala neles é se o ''público'' for "mais esperto" que o criador e notar a presença deles, porque os escritores geralmente não chamarão atenção para eles e, em certos casos, podem até ''negar'' que eles existam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28266,6 +28324,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T150525Z" creationid="Luan" creationdate="20231214T150525Z">
         <seg>[[note]]A não ser que o artigo em questão tenha sido traduzido para o idioma nativo deles. A propósito, estamos trabalhando nisso!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[note]]Even if they ''are'' acknowledged, it's usually with a sly wink to the audience, suggesting [[LampshadeHanging "Yes, we used this dumb trope.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240326T173417Z" creationid="Luan" creationdate="20240326T173417Z">
+        <seg>[[note]]E mesmo se ''forem'' reconhecidos, costuma ser com uma piscadinha manhosa para o público, quase como se dissessem [[Br/LancandoLuz "Sim, nós usamos esse tropo estúpido.</seg>
       </tuv>
     </tu>
     <tu>

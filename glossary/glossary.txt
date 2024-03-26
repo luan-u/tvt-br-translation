@@ -958,6 +958,8 @@ FalseUtopia	Br/FalsaUtopia
 FalselyAdvertisedAccuracy	Br/ExatidaoFalsamenteAnunciada
 FamilyMan	Br/HomemDeFamilia
 FamilyValuesVillain	Br/AMaldadeASeguirELivreParaTodosOsPublicos
+BadGuysDoTheDirtyWork	Br/AlguemTemQueFazerOTrabalhoSujo
+TheGoodTheBadAndTheEvil	Br/OBomORuimEOMalvado
 FanConvention	Br/ConvencaoDeFas
 FanNickname	Br/ApelidoDosFas
 FanSequel	Br/SequenciaDosFas
@@ -2187,10 +2189,17 @@ PunctuatedForEmphasis	Br/PontuadoParaEnfase
 PunishedForSympathy	Br/PunidoPorSimpatia
 PunkPunk	Br/PunkPunk
 PurityPersonified	Br/PurezaPersonificada
+OrcusOnHisThrone	Br/OcupadoDemaisSentandoNoTrono
+GlovedFistOfDoom	Br/PunhoEnluvadoDaDestruicao
+ThenLetMeBeEvil	Br/EntaoEuVouSerDoMalMesmo
+ArsonMurderAndAdmiration	Br/RouboHomicidioEAdmiracao
 PutOnABus	Br/ColocadoEmUmOnibus
 PutOnABusToHell	Br/ColocadoEmUmOnibusParaOInferno
 PutOnAPrisonBus	Br/PostoEmUmOnibusPenitenciario
 PutTheLaughterInSlaughter	Br/ColocarAGracaNaDesgraca
+AndYourLittleDogToo	Br/EOSeuCachorrinhoTambem
+JabbaTableManners	Br/EtiquetaDeJabba
+MillionMookMarch	Br/MarchaDeMilCapangas
 PutTheirHeadsTogether	Br/JuntarAsCabecasDeles
 PuttingOnTheReich	Br/VestindoSeDeReich
 PuzzleThriller	Br/SuspenseEnigmatico
@@ -3515,3 +3524,5 @@ StayInTheKitchen	Br/FiqueNaCozinha
 UnfortunateImplications	Br/ImplicacoesInfelizes
 DecoyProtagonist	Br/ProtagonistaIsca
 EvilAllAlong	Br/EraDoMalOTempoTodo
+UnexpectedReactionsToThisIndex	Br/ReacoesInesperadasAEsteIndice
+TheCreatorsForgotAboutThisIndex	Br/OsCriadoresSeEsqueceramDesteIndice

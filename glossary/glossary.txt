@@ -3570,3 +3570,4 @@ QuicklyDemotedWoman	Br/MulherRapidamenteRebaixada
 TheSmurfettePrinciple	Br/PrincipioDaSmurfette
 MsFanservice	Br/SrtaFanservice
 WomanlinessAsPathos	Br/FeminilidadeComoPathos
+VasquezAlwaysDies	Br/VasquezSempreMorre

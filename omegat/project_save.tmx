@@ -2763,6 +2763,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BloodlessCarnage: A fight uses violence, weaponry or armaments which should cause way more gruesome deaths or injuries than appear onscreen, but the gore is hidden to keep the show from being too serious or mature.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T155101Z" creationid="Luan" creationdate="20240327T155101Z">
+        <seg>* Br/CarnificinaSemSangue: Uma luta usa violência ou armamentos que deveriam causar mortes ou ferimentos mais brutais do que o exibido na tela, mas os detalhes sangrentos são escondidos para impedir que o show fique sério demais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BlueIsHeroic: Many good guys like to wear blue clothes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T163029Z" creationid="Luan" creationdate="20240319T163029Z">
@@ -6941,6 +6949,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T145657Z" creationid="Luan" creationdate="20240319T145657Z">
         <seg>* Br/ReporterIntrepido: Um repórter que ativamente busca e se envolve em suas histórias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* InverseLawOfSharpnessAndAccuracy: The more deadly a weapon is, the more likely it is to miss the target, because otherwise, fights would become boringly predictable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T155245Z" creationid="Luan" creationdate="20240327T155245Z">
+        <seg>* Br/LeiDaInversaoEntrePrecisaoEAfiacao: Quanto mais mortal uma arma é, maior a chance de ela errar o alvo, pois do contrário a luta ficaria óbvia demais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* InverseLawOfUtilityAndLethality: The more utility a weapon or ability has, the less damaging or lethal it is.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T155311Z" creationid="Luan" creationdate="20240327T155311Z">
+        <seg>* Br/LeiDaInversaoEntreUtilidadeELetalidade: Quanto mais utilidade uma arma ou habilidade possui, menos letal ela é.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14334,8 +14358,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>* YouShouldntKnowThisAlready: Admonishing the player for using knowledge they shouldn't have.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T154816Z" creationid="Luan" creationdate="20240327T154816Z">
-        <seg>* Br/VoceNaoDeveriaSaberDissoAgora: Repreender o jogador por usar conhecimento que ele não deveria ter.;</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T154821Z" creationid="Luan" creationdate="20240327T154816Z">
+        <seg>* Br/VoceNaoDeveriaSaberDissoAgora: Repreender o jogador por usar conhecimento que ele não deveria ter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15733,6 +15757,16 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T202831Z" creationid="Luan" creationdate="20240326T202831Z">
         <seg>----
 * Br/TaoLetalQuantoNecessario: Uma arma ou ataque às vezes é capaz de matar o alvo, mas em outras vezes ele apenas sofre alguns ferimentos e isso nunca é trazido à tona ou explicado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>----
+* BlackDudeDiesFirst: Black character(s) are included in the cast, but killed off faster so that the cast once again becomes fully or majority white.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T160533Z" creationid="Luan" creationdate="20240327T160533Z">
+        <seg>----
+* Br/OCaraNegroMorrePrimeiro: Personagens negros são incluídos no elenco, mas mortos rapidamente de modo que o elenco se torna majoritariamente branco novamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22750,6 +22784,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Otherwise, it would raise questions about why ''everyone'' [[LensmanArmsRace isn't using it or trying to copy it]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T155346Z" creationid="Luan" creationdate="20240327T155346Z">
+        <seg>Se não fosse assim, isso levantaria questões sobre porque ''ninguém'' [[Br/CorridaArmamentistaDeLensman está tentando usar ou copiar]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Otherwise, resist the urge to put it on an ongoing work's page.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T153655Z" creationid="Luan" creationdate="20231220T153655Z">
@@ -23529,6 +23571,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T233616Z" creationid="Luan" creationdate="20231206T233616Z">
         <seg>Como muitos tropos podem ser um caso de Br/TropoSubvertido, ''ande cautelosamente''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single, individual examples of these tropes usually can't be noticed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T154854Z" creationid="Luan" creationdate="20240327T154854Z">
+        <seg>Exemplos separados destes tropos geralmente não são notados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25807,6 +25857,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T154059Z" creationid="Luan" creationdate="20240326T154059Z">
         <seg>Eles costumam formar uma relação de Br/CerebroEMusculo com Br/OCaraEsperto da equipe, ou então é usado como Br/{{fundo}} para ele no estilo Br/CerebroContraMusculo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They only become noticed once they appear multiple times within the same work or [[TropesInAggregate in other works]], or when the audience notices the context surrounding the trope.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T154929Z" creationid="Luan" creationdate="20240327T154929Z">
+        <seg>Eles só são percebidos quando aparecem múltiplas vezes dentro da mesma obra ou [[Br/TropoAgregado em outras obras]], ou quando o público percebe o contexto que acompanha o tropo.</seg>
       </tuv>
     </tu>
     <tu>

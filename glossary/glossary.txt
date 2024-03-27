@@ -3587,3 +3587,6 @@ MostWritersAreMale	Br/AMaioriaDosEscritoresSaoHomens
 KarmicRape	Br/EstuproKarmico
 TheAgeless	Br/OEterno
 MenGetOldWomenGetReplaced	Br/HomensFicamVelhosMulheresFicamDeFora
+UsefulNotes/ProfessionalWrestling	BrNotasUteis/LutaLivreProfissional
+Kayfabe	Br/{{Kayfabe}}
+DawsonCasting	Br/ElencoDeDawson

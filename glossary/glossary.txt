@@ -3571,3 +3571,5 @@ TheSmurfettePrinciple	Br/PrincipioDaSmurfette
 MsFanservice	Br/SrtaFanservice
 WomanlinessAsPathos	Br/FeminilidadeComoPathos
 VasquezAlwaysDies	Br/VasquezSempreMorre
+BrokenAesop	Br/EsopoDanificado
+PlayedForDrama	Br/UsadoParaDrama

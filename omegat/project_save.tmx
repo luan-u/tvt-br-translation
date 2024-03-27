@@ -2038,6 +2038,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AntiFrustrationFeatures: Helping out the player to reduce frustration.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T201938Z" creationid="Luan" creationdate="20240327T201938Z">
+        <seg>* Br/MedidasAntiFrustracao: Ajudar o jogador a reduzir a frustração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AntiHero: A hero who isn't exactly squeaky clean and has some flaws.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204035Z" creationid="Luan" creationdate="20240313T204035Z">

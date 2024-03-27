@@ -2943,6 +2943,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ButNotTooGay: The story includes gay characters, but they are not allowed to express it -- either at all, or not to the same degree that the straight characters express their sexuality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T161329Z" creationid="Luan" creationdate="20240327T161329Z">
+        <seg>* Br/MasNaoMuitoGay: A história inclui personagens gays, mas eles não são permitidos a expressar isso -- ou não no mesmo nível que personagens heterossexuais, ou nada de nada mesmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ButThouMust: A videogame offers the player a choice, but only one option is actually allowed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T203502Z" creationid="Luan" creationdate="20240326T203502Z">

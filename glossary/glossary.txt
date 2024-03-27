@@ -3573,3 +3573,9 @@ WomanlinessAsPathos	Br/FeminilidadeComoPathos
 VasquezAlwaysDies	Br/VasquezSempreMorre
 BrokenAesop	Br/EsopoDanificado
 PlayedForDrama	Br/UsadoParaDrama
+NoDelaysForTheWicked	Br/SemAtrasoParaOsPerversos
+PoliticallyCorrectHistory	Br/HistoriaPoliticamenteCorreta
+SummonBackupDancers	Br/InvocarDancarinosReserva
+TakeYourTime	Br/LeveOTempoQuePrecisar
+DesignatedVillain	Br/VilaoDesignado
+DoNotDoThisCoolThing	Br/NaoFacaEssaCoisaIrada

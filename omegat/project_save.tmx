@@ -2911,6 +2911,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ButNotTooBi: A character is meant to be bisexual, but their onscreen sexuality only ever conforms to one ''specific'' orientation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T161453Z" creationid="Luan" creationdate="20240327T161453Z">
+        <seg>* Br/MasNaoMuitoBi: Um personagem é considerado bissexual, mas a sexualidade exibida na tela só se encaixa em uma orientação ''específica''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ButNotTooEvil: A character is meant to be an extremely evil villain, but their onscreen acts are nowhere near as horrible as you'd expect for someone who has the motives or ambitions they do.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T203014Z" creationid="Luan" creationdate="20240326T203014Z">
@@ -4817,6 +4825,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T221823Z" creationid="Luan" creationdate="20240318T221823Z">
         <seg>* Br/PseudoGarotaDeAcao
 * Br/OAcorrentado: A força do herói são suas limitações morais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FauxActionGirl: A female character is billed as being extremely skilled in combat, but the majority of her screentime showcases her failing at it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T161824Z" creationid="Luan" creationdate="20240327T161824Z">
+        <seg>* Br/PseudoGarotaDeAcao: Uma personagem feminina é vendida como sendo extremamente habilidosa em combate, mas a maioria do seu tempo de tela mostra ela falhando no combate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15755,6 +15771,16 @@ Br/ExemplosEmFalta.</seg>
 [floatboxright:
 '''Sub-índice principal:'''
 + Br/TroposDeHeroi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>----
+* AllegedlyFreeGame: A videogame that costs nothing to play...until you actually begin getting invested, in which case having any sort of fun with it ([[BribingYourWayToVictory or winning at it]]) will begin costing more and more real life money.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T161717Z" creationid="Luan" creationdate="20240327T161717Z">
+        <seg>----
+* Br/JogoSupostamenteGratis: Um videogame que custa nada para jogar... até que você começa a investir tempo nele, caso em que qualquer tipo de diversão com ele ([[Br/SubornarOCaminhoParaAVitoria ou vitórias]]) vai custar cada vez mais dinheiro da vida real.</seg>
       </tuv>
     </tu>
     <tu>

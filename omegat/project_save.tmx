@@ -3199,6 +3199,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ChainmailBikini: Armor that only exists to inform the audience that the person wearing it is an (attractive) female, either by conforming to a female body shape or showing off parts of her body.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T175347Z" creationid="Luan" creationdate="20240327T175347Z">
+        <seg>* Br/BiquiniDeCotaDeMalha: Armadura que só existe para comunicar ao público que a pessoa a utilizando é uma mulher (atraente), seja por se encaixar em formas corporais femininas ou por exibir partes do corpo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ChandlerAmericanTime: A nastier relative of GenteelInterbellumSetting
 * CockroachesWillRuleTheEarth: Little vermin become the dominant life form.</seg>
       </tuv>
@@ -4857,6 +4865,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140640Z" creationid="Luan" creationdate="20240104T140640Z">
         <seg>* Br/CrimeDeMauComportamento: tratar uma ação relativamente inócua como um crime sério.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FemalesAreMoreInnocent: The female villains are only evil because a man happened to drove them to do the bad things they did.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T175652Z" creationid="Luan" creationdate="20240327T175652Z">
+        <seg>* Br/MulheresSaoMaisInocentes: As vilãs femininas só são do mal porque um homem levou elas a fazer as coisas más que fizeram.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9779,6 +9795,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ProtagonistCenteredMorality: A protagonist does something that's either outright villainous or is practically identical to what antagonists or other {{designated villain}}s are doing, but the story does not treat it as bad or unheroic ''because'' they're the protagonist.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T175858Z" creationid="Luan" creationdate="20240327T175858Z">
+        <seg>* Br/MoralCentradaNoPersonagem: O protagonista faz algo que é vilanesco ou é idêntico ao que o antagonista ou o Br/VilaoDesignado estão fazendo, mas a história não o trata como mau ''porque'' ele é o protagonista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ProtoSuperhero: Early versions of the modern {{superhero}} archetype.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T153558Z" creationid="Luan" creationdate="20240319T153558Z">
@@ -12641,6 +12665,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T152309Z" creationid="Luan" creationdate="20240318T152309Z">
         <seg>* Br/OErrante: Personagem que vaga pela terra, para em algum lugar para ajudar por um tempo e vai embora no fim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TheDulcineaEffect: A male character immediately resolves to protect or save a woman, without knowing who she is or why she's in the trouble she's in, and the audience is meant to see it as romantic or macho.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T175613Z" creationid="Luan" creationdate="20240327T175613Z">
+        <seg>* Br/EfeitoDulcineia: Um personagem masculino imediatamente resolve proteger ou salvar uma mulher sem saber quem ela é ou como ela ficou em problema, e o público deve considerar isso como romântico ou másculo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26015,6 +26047,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They only become noticeable when comparing {{Double Standard}}s in their use, or when the audience notices the context surrounding the trope.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T175245Z" creationid="Luan" creationdate="20240327T175245Z">
+        <seg>Eles só se tornam perceptíveis quando se comparam casos de Br/DoisPesosDuasMedidas ou quando o público nota o contexto que cerca o tropo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They only become noticed once they appear multiple times within the same work or [[TropesInAggregate in other works]], or when the audience notices the context surrounding the trope.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240327T154929Z" creationid="Luan" creationdate="20240327T154929Z">
@@ -26389,6 +26429,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140228Z" creationid="Luan" creationdate="20240104T140228Z">
         <seg>Isso pode ser o que impede algo de ser um "ato de justiça" ao invés de um "ato de Br/{{vinganca}}".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This disparity between female and male villains (that male villains can only be truly evil, while making the actions of female villains moot) was intended to go unnoticed by audiences.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T175732Z" creationid="Luan" creationdate="20240327T175732Z">
+        <seg>Essa disparidade entre vilãs e vilões (apenas os vilões são legitimamente maus enquanto as vilãs não o são) deveria passar despercebida pelo público.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27385,6 +27433,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231207T144329Z" creationid="Luan" creationdate="20231207T144329Z">
         <seg>Usualmente vem após um ??? HeelRealization, Br/BomTrabalhoEstragandoTudoHeroi ou alguém dizendo Br/QueMerdaEEssaHeroi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Usually impractical for combat, but you're not supposed to think about that.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T175406Z" creationid="Luan" creationdate="20240327T175406Z">
+        <seg>Geralmente não é nada prática para combate, mas você não deve pensar muito a respeito.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3543,3 +3543,7 @@ ThePiratesWhoDontDoAnything	Br/PiratasQueNaoFazemNada
 DynamicDifficulty	Br/DificuldadeDinamica
 RelationshipValues	Br/ValoresDeRelacionamento
 GenderIncompetence	Br/IncompetenciaDeGenero
+FakeNationality	Br/NacionalidadeFalsa
+FakeLongevity	Br/LongevidadeFalsa
+ScullyBox	Br/CaixaDeScully
+YouShouldntKnowThisAlready	Br/VoceNaoDeveriaSaberDissoAgora

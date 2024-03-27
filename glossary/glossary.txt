@@ -2412,6 +2412,7 @@ SeasonFinale	Br/FinalDaTemporada
 SeasonFluidity	Br/FluidezDeTemporada
 SeasonalRot	Br/PodridaoSazonal
 SecondChapterCliffhanger	Br/PenhascoDoSegundoCapitulo
+ApocalypticLogistics	Br/LogisticaDoApocalipse
 SecretGovernmentWarehouse	Br/DepositoSecretoDoGoverno
 SecretHistory	Br/HistoriaSecreta
 SecretMessageWink	Br/PiscadaDaMensagemSecreta
@@ -3565,3 +3566,7 @@ DesignatedLoveInterest	Br/InteresseAmorosoDesignado
 ChainmailBikini	Br/BiquiniDeCotaDeMalha
 TheDulcineaEffect	Br/EfeitoDulcineia	Baseado em Dom Quixote.
 FemalesAreMoreInnocent	Br/MulheresSaoMaisInocentes
+QuicklyDemotedWoman	Br/MulherRapidamenteRebaixada
+TheSmurfettePrinciple	Br/PrincipioDaSmurfette
+MsFanservice	Br/SrtaFanservice
+WomanlinessAsPathos	Br/FeminilidadeComoPathos

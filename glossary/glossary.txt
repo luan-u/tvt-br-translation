@@ -3558,3 +3558,7 @@ HeadsIWinTailsYouLose	Br/CaraEuGanhoCoroaVocePerde
 Shapeshifter	Br/{{Metamorfo}}
 MasterOfIllusion	Br/MestreDaIlusao
 Telepathy	Br/{{Telepatia}}
+StupidSacrifice	Br/SacrificioEstupido
+ThirdActStupidity	Br/EstupidezDoTerceiroAto
+TookAShortcut	Br/PegueiUmAtalho
+DesignatedLoveInterest	Br/InteresseAmorosoDesignado

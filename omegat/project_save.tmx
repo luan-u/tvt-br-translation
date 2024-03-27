@@ -7369,6 +7369,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* KarmicRape: Someone gets sexually assaulted as a form of karma for what they've done.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T191508Z" creationid="Luan" creationdate="20240327T191508Z">
+        <seg>* Br/EstuproKarmico: Alguém é abusado sexualmente como forma de karma pelo que fez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* KeepTheReward: A true hero is blasé about collecting a fee.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T134348Z" creationid="Luan" creationdate="20240314T134348Z">
@@ -8297,6 +8305,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MenGetOldWomenGetReplaced: The female characters in a story either retire or become [[TheAgeless ageless]] at some point before their beauty starts to fade.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T191956Z" creationid="Luan" creationdate="20240327T191956Z">
+        <seg>* Br/HomensFicamVelhosMulheresFicamDeFora: As personagens femininas em uma história se aposentam ou [[Br/OEterno param de envelhecer]] em algum momento antes de a beleza começar a sumir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MenacingMuseum: A museum portrayed as ominous, dangerous or just plain evil.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T150935Z" creationid="Luan" creationdate="20240118T150935Z">
@@ -8605,6 +8621,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MostWritersAreMale: Male creators outnumber female ones, except in specific genres.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T191155Z" creationid="Luan" creationdate="20240327T191155Z">
+        <seg>* Br/AMaioriaDosEscritoresSaoHomens: Criadores homens são mais numerosos que mulheres, exceto em gêneros específicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MountaintopHealthcare: Specialized medical facilities built on a picturesque, inaccessible mountain.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T184355Z" creationid="Luan" creationdate="20240221T184355Z">
@@ -8841,6 +8865,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T224740Z" creationid="Luan" creationdate="20240131T224740Z">
         <seg>* Br/TerraDoNunca: Uma ambientação em que toda a população vive em uma [[Br/NuncaCresceu infância eterna]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* NeverTrustATrailer: A media trailer is designed to make audiences interested enough to buy copies/tickets/viewership; thus, it may be doctored or edited in a deceptive way that doesn't resemble the final product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T191423Z" creationid="Luan" creationdate="20240327T191423Z">
+        <seg>* Br/NuncaConfieNoTrailer: Um trailer é pensado para deixar o público interessado o suficiente para comprar cópias, bilhetes ou assinaturas, por isso ele pode ser ajustado e editado de forma a não lembrar o produto final.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16026,6 +16058,16 @@ Br/ExemplosEmFalta.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>----
+* AlwaysClose: It doesn't matter how long the player took, they just barely had enough time to succeed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T191032Z" creationid="Luan" creationdate="20240327T191032Z">
+        <seg>----
+* Br/SemprePorPouco: Não importa quanto tempo o jogador levou, ele sempre vai ter apenas o tempo necessário para ter êxito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>----
 * AsLethalAsItNeedsToBe: A weapon or attack is sometimes capable of killing a target, but other times merely wounds them, and this is never brought up or explained to the audience.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T202831Z" creationid="Luan" creationdate="20240326T202831Z">
@@ -16923,6 +16965,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T004157Z" creationid="Luan" creationdate="20231215T004157Z">
         <seg>Quase nunca se aplica a quaisquer Br/PoderesQueSejam portadores de uma Br/LicencaDeMoralOnisciente, mas personagens que demonstrem Br/FuriaContraOsCeus talvez tentem isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Almost no works will claim that they outright ''deserve'' to be sexually harassed, but an audience is meant to see it as karma nonetheless.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T191540Z" creationid="Luan" creationdate="20240327T191540Z">
+        <seg>Praticamente nenhuma obra dirá que alguém ''merece'' ser abusado sexualmente, mas o público deve perceber como karma mesmo assim.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27309,6 +27359,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thus, there are often conventions or base assumptions that a writer makes which may make sense to some male audiences, but are confusing or off-putting to some female audiences.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T191235Z" creationid="Luan" creationdate="20240327T191235Z">
+        <seg>Por isso existem convenções ou suposições que um escritor faz que podem fazer sentido para parte do público alvo masculino, mas que podem ser confusos ou estranhos para parte do público feminino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thus, these tropes are designed to either never be noticed, "disguise" themselves as other tropes, or be excused in other ways.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240327T182134Z" creationid="Luan" creationdate="20240327T182134Z">
@@ -27425,6 +27483,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240327T182108Z" creationid="Luan" creationdate="20240327T182108Z">
         <seg>Tropos nesta seção desejam um Br/ReacaoEsperadaDoPublico e sabem que o público não vai reagir assim se eles ''perceberem'' que a intenção do criador é essa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tropes which do not follow logic, probability, plot consistency or real life facts to conveniently cause or delete plot points, and the audience is expected to accept it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T191117Z" creationid="Luan" creationdate="20240327T191117Z">
+        <seg>Tropos que não seguem a lógica, probabilidade, consistência ou fatos da vida real de modo a convenientemente causar ou remover pontos de trama, e o público deve simplesmente aceitar isso.</seg>
       </tuv>
     </tu>
     <tu>

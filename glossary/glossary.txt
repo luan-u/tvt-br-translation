@@ -3547,3 +3547,7 @@ FakeNationality	Br/NacionalidadeFalsa
 FakeLongevity	Br/LongevidadeFalsa
 ScullyBox	Br/CaixaDeScully
 YouShouldntKnowThisAlready	Br/VoceNaoDeveriaSaberDissoAgora
+BloodlessCarnage	Br/CarnificinaSemSangue
+InverseLawOfUtilityAndLethality	Br/LeiDaInversaoEntreUtilidadeELetalidade
+InverseLawOfSharpnessAndAccuracy	Br/LeiDaInversaoEntrePrecisaoEAfiacao
+BlackDudeDiesFirst	Br/OCaraNegroMorrePrimeiro

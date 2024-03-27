@@ -4151,6 +4151,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* DesignatedVillain: A character intended to be villainous instead has understandable (and sometimes even heroic) methods, goals or motives.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T184600Z" creationid="Luan" creationdate="20240327T184600Z">
+        <seg>* Br/VilaoDesignado: Um personagem que deveria ser malvado possui métodos, motivos ou objetivos compreensíveis (e às vezes até heroicos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* DesolationShot
 * DividedStatesOfAmerica
 * DoublingForLondon
@@ -4269,6 +4277,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T161226Z" creationid="Luan" creationdate="20231214T161226Z">
         <seg>* Não fique ''a noite inteira'' editando páginas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DoNotDoThisCoolThing: A story tells the audience that something is very bad or wrong, but makes it look ''extremely'' cool to do.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T184732Z" creationid="Luan" creationdate="20240327T184725Z">
+        <seg>* Br/NaoFacaEssaCoisaIrada: Uma história diz ao público que algo é muito errado ou ruim, mas retrata isso como sendo ''extremamente'' irado e maneiro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6761,6 +6777,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* IdiotPlot: The story only happens because everyone is behaving unbelievably or extremely stupid, and it is ''not'' intended as parody.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T184802Z" creationid="Luan" creationdate="20240327T184802Z">
+        <seg>* Br/TramaDeIdiotas: A história só acontece porque todo mundo se comporta de maneira incrivelmente estúpida e isso ''não tem'' a intenção de ser uma paródia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* IdyllicEnglishVillage: A quintessentially English village full of dainty cottages with thatched roofs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T153734Z" creationid="Luan" creationdate="20240125T153734Z">
@@ -8905,6 +8929,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* NoDelaysForTheWicked: Villains have no problems with their plans unless stated otherwise.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T184202Z" creationid="Luan" creationdate="20240327T184202Z">
+        <seg>* Br/SemAtrasoParaOsPerversos: Vilões não têm problemas com seus planos exceto se declarado o contrário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* NoEndorHolocaust: Some event in the story ''should'' be far more disastrous or harmful than the story explores.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240327T162912Z" creationid="Luan" creationdate="20240327T162912Z">
@@ -9621,6 +9653,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231216T211953Z" creationid="Luan" creationdate="20231216T211953Z">
         <seg>* Br/FuroNaTrama: Um erro na escrita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* PoliticallyCorrectHistory: For some reason, people and groups are more tolerant than they actually were in history because that sort of baggage may be inconvenient to the rest of the story.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T184309Z" creationid="Luan" creationdate="20240327T184309Z">
+        <seg>* Br/HistoriaPoliticamenteCorreta: Por algum motivo, pessoas e grupos são mais tolerantes do que eram em comparação com os registros históricos porque esse tipo de bagagem pode ser inconveniente para o restante da história.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11761,6 +11801,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SummonBackupDancers: Dance numbers have extra participants that shouldn't logically participate, if they even exist in the scene at all.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T184430Z" creationid="Luan" creationdate="20240327T184430Z">
+        <seg>* Br/InvocarDancarinosReserva: Números de dança possuem participantes extras que não deveriam participar, podendo até mesmo vir de fora da cena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SuperMultiPurposeRoom: A room that can be transformed to suit another purpose in an instant.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T140610Z" creationid="Luan" creationdate="20240201T140610Z">
@@ -11981,6 +12029,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T172729Z" creationid="Luan" creationdate="20240314T172729Z">
         <seg>* Br/LeveMinhaEspada: O herói morre, por isso alguém precisa atender o chamado no lugar dele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TakeYourTime: The plot will wait while the player does unrelated stuff.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T184518Z" creationid="Luan" creationdate="20240327T184518Z">
+        <seg>* Br/LeveOTempoQuePrecisar: A trama espera enquanto o jogador faz coisas não relacionadas.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3590,3 +3590,4 @@ MenGetOldWomenGetReplaced	Br/HomensFicamVelhosMulheresFicamDeFora
 UsefulNotes/ProfessionalWrestling	BrNotasUteis/LutaLivreProfissional
 Kayfabe	Br/{{Kayfabe}}
 DawsonCasting	Br/ElencoDeDawson
+AntiFrustrationFeatures	Br/MedidasAntiFrustracao

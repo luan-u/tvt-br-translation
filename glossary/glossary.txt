@@ -3153,6 +3153,7 @@ UrbanHellscape	Br/InfernoUrbano
 UrbanRuins	Br/RuinasUrbanas
 UrbanSegregation	Br/SegregacaoUrbana
 UriahGambit	Br/GambitoDeUrias
+AppointmentTelevision	Br/TelevisaoAgendada
 UsedToBeASweetKid	Br/CostumavaSerUmBomGaroto
 UsefulNotes	BrNotasUteis
 UsefulNotes/ArcadeGame	BrNotasUteis/JogosDeArcade

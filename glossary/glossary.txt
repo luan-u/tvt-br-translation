@@ -3579,3 +3579,4 @@ SummonBackupDancers	Br/InvocarDancarinosReserva
 TakeYourTime	Br/LeveOTempoQuePrecisar
 DesignatedVillain	Br/VilaoDesignado
 DoNotDoThisCoolThing	Br/NaoFacaEssaCoisaIrada
+SpoofAesop	Br/EsopoParodiado

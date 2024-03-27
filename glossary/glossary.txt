@@ -3562,3 +3562,6 @@ StupidSacrifice	Br/SacrificioEstupido
 ThirdActStupidity	Br/EstupidezDoTerceiroAto
 TookAShortcut	Br/PegueiUmAtalho
 DesignatedLoveInterest	Br/InteresseAmorosoDesignado
+ChainmailBikini	Br/BiquiniDeCotaDeMalha
+TheDulcineaEffect	Br/EfeitoDulcineia	Baseado em Dom Quixote.
+FemalesAreMoreInnocent	Br/MulheresSaoMaisInocentes

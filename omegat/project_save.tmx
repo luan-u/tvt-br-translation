@@ -4675,6 +4675,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FakeLongevity: Making a game seem longer than it actually is by adding tedium or busywork, or copy-pasting content before the conclusion.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T154330Z" creationid="Luan" creationdate="20240327T154330Z">
+        <seg>* Br/LongevidadeFalsa: Tornar um jogo mais longo do que ele realmente é através do acréscimo de atividades entediantes ou reaproveitando conteúdo antes da conclusão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FakeNationality: An actor is portraying someone of a different nationality or heritage than they actually are, and their performance is hopefully good enough that the audience doesn't notice or care.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T154417Z" creationid="Luan" creationdate="20240327T154417Z">
+        <seg>* Br/NacionalidadeFalsa: Um ator interpreta alguém de nacionalidade ou ascendência diferente da própria, e seu desempenho é (com sorte) bom o suficiente para que o público não note ou não se importe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* FakeTown: A fake town or city built to look like a real one.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T132737Z" creationid="Luan" creationdate="20240202T132737Z">
@@ -10489,6 +10505,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ScullyBox: Some sort of object used to make actors appear to have a different height than they actually do, without the audience noticing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T154555Z" creationid="Luan" creationdate="20240327T154555Z">
+        <seg>* Br/CaixaDeScully: Algum tipo de objeto usado para fazer com que atores pareçam ter uma altura diferente da real sem que o público note.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SeaSinkhole: Just when you thought falling off the edge of a flat earth wouldn't be a problem.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T155639Z" creationid="Luan" creationdate="20240125T155639Z">
@@ -14304,6 +14328,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T024507Z" creationid="Luan" creationdate="20240314T024507Z">
         <seg>* Br/VoceDeveEstarComFrio: Alguém coloca sua jaqueta sobre o outro para protegê-lo do frio ou da neve a fim de demonstrar que são uma boa pessoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* YouShouldntKnowThisAlready: Admonishing the player for using knowledge they shouldn't have.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T154816Z" creationid="Luan" creationdate="20240327T154816Z">
+        <seg>* Br/VoceNaoDeveriaSaberDissoAgora: Repreender o jogador por usar conhecimento que ele não deveria ter.;</seg>
       </tuv>
     </tu>
     <tu>

@@ -2222,6 +2222,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BackportedDevelopment: A character's current characterization (via {{Flanderization}}, CharacterDevelopment, or CharacterizationMarchesOn) is more recognizable or popular, so they are given said traits even in prequels or flashbacks where they should behave much differently.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T183753Z" creationid="Luan" creationdate="20240327T183753Z">
+        <seg>* Br/DesenvolvimentoRetroativo: A caracterização atual de um personagem (através de Br/{{Flanderizacao}}, Br/DesenvolvimentoDePersonagem ou Br/MarchaDaCaracterizacao) é mais reconhecível ou popular, por isso esses tratos são aplicados também nas prequências ou recordações em que eles deveriam ter agido de maneira muito diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BadGuyBar: Everyone inside is a macho wrestler with an evil look on his face.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T143736Z" creationid="Luan" creationdate="20240118T143736Z">
@@ -2847,6 +2855,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T151144Z" creationid="Luan" creationdate="20240131T151144Z">
         <seg>* Br/CasteloReluzente: Um belo castelo de contos de fadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BrokenAesop: A story teaches a moral lesson that is undermined or contradicted by the events of the story itself.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T183845Z" creationid="Luan" creationdate="20240327T183845Z">
+        <seg>* Br/EsopoDanificado: Uma história ensina uma lição de moral que é minada pelos eventos da própria história.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3643,6 +3659,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T153953Z" creationid="Luan" creationdate="20231208T153953Z">
         <seg>* Br/AbortoEspontaneoConveniente: Se o motivo da conveniência é porque o bebê mudaria o status quo. Não é um exemplo se for conveniente para os ''personagens''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ConvenientMiscarriage: The creators do not want a character to become a parent, thus the mother winds up having a miscarriage that [[StatusQuoIsGod resets things back to normal]], but can also be PlayedForDrama.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T183947Z" creationid="Luan" creationdate="20240327T183947Z">
+        <seg>* Br/AbortoEspontaneoConveniente: Os criadores não querem que um personagem se torne pai, por isso a mãe acaba tendo um aborto espontâneo que [[Br/StatusQuoEDeus coloca as coisas de volta no normal]], mas que também pode ser Br/UsadoParaDrama.</seg>
       </tuv>
     </tu>
     <tu>

@@ -4095,10 +4095,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* DesignatedHero: A character intended to be heroic comes across to the audience as just as (or even more villainous) than the antagonists.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T163344Z" creationid="Luan" creationdate="20240327T163344Z">
+        <seg>* Br/HeroiDesignado: Um personagem que deveria ser heroico é percebido pelo público como tão malvado (ou mais) quanto o vilão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* DesignatedHero: The character is ''supposed to be'' a hero, but their actions say otherwise.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T152120Z" creationid="Luan" creationdate="20240318T152120Z">
         <seg>* Br/HeroiDesignado: O personagem que ''deveria ser'' um herói, mas suas ações demonstram o contrário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DesignatedLoveInterest: Two characters are supposedly taking part in a meaningful or loving romance -- and hopefully the audience doesn't notice that they've barely interacted or had any sort of courtship.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T163434Z" creationid="Luan" creationdate="20240327T163434Z">
+        <seg>* Br/InteresseAmorosoDesignado: Dois personagens supostamente estão envolvidos em um romance -- e com alguma sorte o público não vai perceber que eles quase não interagiram ou não fizeram nenhum tipo de cortejamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8849,6 +8865,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* NoEndorHolocaust: Some event in the story ''should'' be far more disastrous or harmful than the story explores.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T162912Z" creationid="Luan" creationdate="20240327T162912Z">
+        <seg>* Br/SemHolocaustoEmEndor: Algum evento na história ''deveria'' ser mais desastroso ou danoso do que é exibido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* NoOneGetsLeftBehind: Even with imminent danger closing in, one character risks everything to help another get out alive.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T153100Z" creationid="Luan" creationdate="20240319T153100Z">
@@ -9093,6 +9117,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T142310Z" creationid="Luan" creationdate="20240104T142310Z">
         <seg>* Br/SilenciarOIncomodo: Matar alguém por te irritar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* OffscreenTeleportation: Anything not on screen is free to go anywhere, even if it doesn't logically make sense.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T162949Z" creationid="Luan" creationdate="20240327T162949Z">
+        <seg>* Br/TeleporteForaDaTela: Qualquer coisa fora da tela está livre para ir a qualquer lugar, mesmo que logicamente não faça sentido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11593,6 +11625,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* StupidSacrifice: The audience isn't supposed to realize that a character sacrificing their life or well-being for someone else for drama logically shouldn't have needed to make any sacrifice at all.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T163111Z" creationid="Luan" creationdate="20240327T163111Z">
+        <seg>* Br/SacrificioEstupido: O público não deve perceber que um personagem que esteja sacrificando sua vida ou bem-estar em favor de outra pessoa por causa do trama na verdade não deveria precisar fazer sacrifício nenhum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SubStory: A story that takes place on a submarine (not a minor plot in a larger work).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T212547Z" creationid="Luan" creationdate="20240221T212547Z">
@@ -13247,6 +13287,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ThirdActStupidity: The story needs to wrap up, so many characters or events behave in unbelievable, convenient or stupid ways to get the story to the end.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T163213Z" creationid="Luan" creationdate="20240327T163213Z">
+        <seg>* Br/EstupidezDoTerceiroAto: A história precisa ser encerrada, então muitos personagens ou eventos se comportam de maneiras convenientes ou estúpidas para que a história chegue ao fim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ThirdIs3D: The third installment in a series is filmed in 3D (films) or undergoes a VideoGame3DLeap (video games).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T154802Z" creationid="Luan" creationdate="20240105T154802Z">
@@ -13403,6 +13451,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T151210Z" creationid="Luan" creationdate="20240318T151210Z">
         <seg>* Br/SubiuDeNivelEmBondade: Personagens se tornam mais legais com o tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TookAShortcut: Ignoring how people arrived at a location for the sake of plot.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T163308Z" creationid="Luan" creationdate="20240327T163302Z">
+        <seg>* Br/PegueiUmAtalho: Ignorar como pessoas chegaram em um certo local em nome da trama.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22542,6 +22598,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T170131Z" creationid="Luan" creationdate="20231215T170131Z">
         <seg>Isso geralmente é usado para atender a uma nova trama através da mudança de contexto ou expandindo uma ambientação pré existente; no entanto, também acontece quando os criadores estão escrevendo uma história que viola a continuidade e não é muito plausível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Often, some kind of HandWave is meant to assure the audience that it really wasn't ''that'' bad.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T162930Z" creationid="Luan" creationdate="20240327T162930Z">
+        <seg>Geralmente algum tipo de Br/{{Pincelada}} é usada para assegurar o público que não foi ''tão'' ruim assim.</seg>
       </tuv>
     </tu>
     <tu>

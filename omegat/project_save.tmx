@@ -5027,6 +5027,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ForgottenPhlebotinum: A story-breaking phlebotinum is introduced to the story, but discarded without a word once the creators realize how detrimental it is to the story.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T162843Z" creationid="Luan" creationdate="20240327T162843Z">
+        <seg>* Br/CoisoniumEsquecido: Um coisonium que pode acabar com a história é introduzido e depois descartado silenciosamente quando os criadores percebem o quão nocivo ele é para a história.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* FoulBallPit: Filthy and/or dangerous fast-food playgrounds.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T133653Z" creationid="Luan" creationdate="20240202T133653Z">
@@ -9211,6 +9219,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* OpeningACanOfClones: A story introduces doppelgangers, {{shapeshifter}}s, [[MasterOfIllusion illusionists]], {{telepath|y}}s, TimeTravel, or other plot devices to trick an audience into reacting to a major plot point, but later renders it meaningless.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T162347Z" creationid="Luan" creationdate="20240327T162347Z">
+        <seg>* Br/AbrirUmaLataDeClones: Uma história introduz sósias, Br/{{metamorfo}}s, [[Br/MestreDaIlusao ilusionistas]], [[Br/{{Telepatia}} telepatas]], Br/ViagemNoTempo ou algum outro artifício de trama para fazer o público reagir a determinado detalhe da trama, mas depois torna isso inútil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* OpiumDen: A 19th century drug house, often far more romanticized than modern equivalents.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T185226Z" creationid="Luan" creationdate="20240221T185226Z">
@@ -11368,6 +11384,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T203741Z" creationid="Luan" creationdate="20240105T203741Z">
         <seg>* Br/EpisodioAutoContido: Uma sequência que é por si só a sua própria história completa que não requer material prévio para contexto e nem é uma continuação de certos elementos de trama de uma obra anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* StandardHeroReward: A male character performs some sort of heroic deed, and a female LoveInterest is either gifted to him or simply drops into his lap so that the audience feels his actions were rewarded.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T162656Z" creationid="Luan" creationdate="20240327T162656Z">
+        <seg>* Br/RecompensaPadraoDoHeroi: Um personagem masculino faz algum feito heroico e um Br/InteresseAmoroso feminino é concedido a ele ou simplesmente cai em cima do colo dele para que o público sinta que suas ações foram recompensadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14778,6 +14802,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* {{Retirony}}: This trope began as a cheap way for writers to make a character's death "sad" -- usually by introducing the fact that they were close to retirement, or being reunited with loved ones, shortly before their deaths.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T162530Z" creationid="Luan" creationdate="20240327T162530Z">
+        <seg>* Br/{{Aposentaironia}}: Esse tropo começou como um jeito simples de escritores tornarem "triste" a morte de um personagem -- geralmente apresentando o fato de que antes da morte ele estava prestes a se aposentar ou reencontrar entes queridos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* {{Revision}}: A continuity alteration that doesn't directly contradict any previous material.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T203911Z" creationid="Luan" creationdate="20231215T203911Z">
@@ -17035,6 +17067,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T225201Z" creationid="Luan" creationdate="20231101T225201Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And the moment that a writer does this ''once'', audiences no longer know which consequences they should take seriously and which ones they shouldn't.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T162417Z" creationid="Luan" creationdate="20240327T162417Z">
+        <seg>E no momento que o escritor faz isso ''uma vez'', o público não sabe mais quais consequências devem ser levadas a sério e quais podem ser ignoradas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22666,6 +22706,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Once audiences began catching on to the trope, straight examples are either lampshaded, parodied or ''severely'' downplayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T162610Z" creationid="Luan" creationdate="20240327T162610Z">
+        <seg>Quando o público começou a se dar conta do tropo, os usos típicos começaram a ser parodiados, iluminados ou ''muito'' minimizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>One doesn't necessarily cause the other, but smart executives usually time the release of the film at the peak of the show's popularity, so it's all downhill from there.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T213600Z" creationid="Luan" creationdate="20231210T213600Z">
@@ -22806,6 +22854,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T151847Z" creationid="Luan" creationdate="20240326T151847Z">
         <seg>Originalmente, era Br/SempreUmHomem que preenchia a posição deste tropo, mas nos tempos modernos mais e mais mulheres estão assumindo esse papel, o que era uma raridade a não ser que [[Br/BrigadaDeAmazonas toda a equipe fosse composta por mulheres]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Originally, this trope's use as a "reward" for good behavior was downplayed -- however, later works began lampshading, defying or justifying it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240327T162740Z" creationid="Luan" creationdate="20240327T162740Z">
+        <seg>Originalmente o uso desse tropo como "recompensa" por bom comportamento era minimizado -- no entanto, obras posteriores começaram a iluminar, desafiar ou justificar o tropo.</seg>
       </tuv>
     </tu>
     <tu>

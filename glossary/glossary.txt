@@ -3554,3 +3554,7 @@ BlackDudeDiesFirst	Br/OCaraNegroMorrePrimeiro
 ButNotTooBi	Br/MasNaoMuitoBi
 AllegedlyFreeGame	Br/JogoSupostamenteGratis
 BribingYourWayToVictory	Br/SubornarOCaminhoParaAVitoria
+HeadsIWinTailsYouLose	Br/CaraEuGanhoCoroaVocePerde
+Shapeshifter	Br/{{Metamorfo}}
+MasterOfIllusion	Br/MestreDaIlusao
+Telepathy	Br/{{Telepatia}}

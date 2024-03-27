@@ -1853,7 +1853,7 @@ MotivationalLie	Br/MentiraMotivacional
 MotiveRant	Br/RetoricaJustificadora
 MountaintopHealthcare	Br/ClinicaMontanhesa
 MouseWorld	Br/MundoDeRatos
-MrViceGuy	Br/SenhorDasFalhas
+MrViceGuy	Br/SujeitoDefeito
 Muggles	Br/{{Trouxas}}
 MultinationalTeam	Br/EquipeMultinacional
 MultipleGunshotDeath	Br/MortePorTirosMultiplos
@@ -3350,6 +3350,7 @@ WritersCannotDoMath	Br/EscritoresNaoSabemMatematica
 WritersCannotDoMath	Br/RoteiristasNaoSabemMatematica
 WrittenByTheWinners	Br/EscritoPelosVencedores
 WrongGenreSavvy	Br/LigadoNoGeneroErrado
+DeathByGenreSavviness	Br/MortePorConhecimentoDoGenero
 WrongSideOfTheTracks	Br/LadoErradoDosTrilhos
 WrongTurnAtAlbuquerque	Br/CurvaErradaEmAlbuquerque
 XMarksTheHero	Br/OXMarcaOHeroi
@@ -3580,3 +3581,4 @@ TakeYourTime	Br/LeveOTempoQuePrecisar
 DesignatedVillain	Br/VilaoDesignado
 DoNotDoThisCoolThing	Br/NaoFacaEssaCoisaIrada
 SpoofAesop	Br/EsopoParodiado
+CompressedVice	Br/DefeitoComprimido

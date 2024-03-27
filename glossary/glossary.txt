@@ -3582,3 +3582,8 @@ DesignatedVillain	Br/VilaoDesignado
 DoNotDoThisCoolThing	Br/NaoFacaEssaCoisaIrada
 SpoofAesop	Br/EsopoParodiado
 CompressedVice	Br/DefeitoComprimido
+AlwaysClose	Br/SemprePorPouco
+MostWritersAreMale	Br/AMaioriaDosEscritoresSaoHomens
+KarmicRape	Br/EstuproKarmico
+TheAgeless	Br/OEterno
+MenGetOldWomenGetReplaced	Br/HomensFicamVelhosMulheresFicamDeFora

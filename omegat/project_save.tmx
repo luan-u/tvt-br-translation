@@ -15373,6 +15373,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* UnSorcerer: A muggle who is the exception in a supernatural population.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T234125Z" creationid="Luan" creationdate="20240610T234125Z">
+        <seg>* Br/NaoFeiticeiro: um trouxa que é a exceção em um mundo sobrenatural.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* UncannyAtmosphere: Some vague sense of ''wrongness'' in an area sets the heroes on edge.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T222558Z" creationid="Luan" creationdate="20240124T222558Z">
@@ -15533,6 +15541,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T160223Z" creationid="Luan" creationdate="20231208T160223Z">
         <seg>* Br/AdocaoMalSucedidaDeAnimal: Alguém adota um animal de estimação, mas ele foge ou precisa ir embora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* UnwittingMuggleFriend: Supernatural character hides their powers from their muggle friend.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T234201Z" creationid="Luan" creationdate="20240610T234201Z">
+        <seg>* Br/AmigoTrouxaInvoluntario: O personagem sobrenatural esconde seus poderes do amigo trouxa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18076,9 +18092,8 @@ Br/ExemplosEmFalta.</seg>
         <seg>-&gt;''"Sell them a key that keeps shrinking to nothing so they can never find it when they need it… Of course, it's very hard to convict anyone because no Muggle would admit their key keeps shrinking -- they'll insist they just keep losing it.'' ''Bless them, they'll go to any lengths to ignore magic, even if it's staring them in the face…"''
 --&gt;-- '''Arthur Weasley''', ''Literature/HarryPotterAndTheChamberOfSecrets''</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T232403Z" creationid="Luan" creationdate="20240610T232403Z">
-        <seg>-&gt;''"Vendem a eles uma chave que encolhe até desaparecer, de modo que nunca conseguem encontrá-la quando precisam... É claro que é muito difícil processar alguém porque nenhum trouxa vai admitir que a chave dele não para de encolher, insistem que vivem a perdê-las. Deus os abençoe, eles vão a extremos para
-fingir que magia não existe, mesmo que esteja no nariz deles..."''
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T234414Z" creationid="Luan" creationdate="20240610T232403Z">
+        <seg>-&gt;''"Vendem a eles uma chave que encolhe até desaparecer, de modo que nunca conseguem encontrá-la quando precisam... É claro que é muito difícil processar alguém porque nenhum trouxa vai admitir que a chave dele não para de encolher, insistem que vivem a perdê-las. Deus os abençoe, eles vão a extremos para fingir que magia não existe, mesmo que esteja no nariz deles..."''
 --&gt;-- '''Arthur Weasley''', ''BrLiteratura/HarryPotterEACamaraSecreta''</seg>
       </tuv>
     </tu>
@@ -24574,8 +24589,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>More rarely, MugglesDoItBetter comes in to play: mundane people with mundane technology have a real fighting chance in works featuring this trope (often the reason ''why'' the {{Masquerade}} exists -- otherwise, once the WitchHunt starts, the supernatural would get its butt handed over by BadassNormal hunters or mobs with TorchesAndPitchforks).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T221338Z" creationid="Luan" creationdate="20240610T221338Z">
-        <seg>Em casos raros, pode ocorrer um caso de Br/TrouxasFazemIssoMelhor: pessoas mundanas com tecnologia mundana possuem uma chance real em obras que façam uso disso (e geralmente é o motivo ''por que'' o Br/{{Mascaramento}} existe -- do contrário, quando for iniciada a Br/CacaAsBruxas, os sobrenaturais seriam dizimados por caçadores do tipo Br/FodaoNormal ou multidões com Br/TochasEForcados).</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T234516Z" creationid="Luan" creationdate="20240610T221338Z">
+        <seg>Em casos raros, pode ocorrer um caso de Br/TrouxasFazemIssoMelhor: pessoas mundanas com tecnologia mundana possuem uma chance real em obras que façam uso disso (e geralmente é o motivo ''pelo qual'' o Br/{{Mascaramento}} existe -- do contrário, quando for iniciada a Br/CacaAsBruxas, os sobrenaturais seriam dizimados por caçadores do tipo Br/FodaoNormal ou multidões com Br/TochasEForcados).</seg>
       </tuv>
     </tu>
     <tu>

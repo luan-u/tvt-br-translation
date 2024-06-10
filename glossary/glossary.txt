@@ -3827,3 +3827,7 @@ RomanticFalseLead	Br/ParceiroRomanticoFalso
 RuthlessRooftops	Br/TelhadosTraicoeiros
 Cloudcuckoolanguage	Br/DialetoLunatico
 Cuckoosnarker	Br/LunaticoSarcastico
+PluckyComicRelief	Br/CorajosoAlivioComico	Derivado do filme "Heróis Fora de Órbita".
+BarefootLoon	Br/LunaticoDescalco
+ThirdPersonPerson	Br/PessoaEmTerceiraPessoa
+MrImagination	Br/SrImaginacao

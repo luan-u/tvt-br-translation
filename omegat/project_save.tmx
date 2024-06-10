@@ -2478,6 +2478,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BadassNormal: A muggle who can hold their own in a fight against those with supernatural powers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T221519Z" creationid="Luan" creationdate="20240610T221519Z">
+        <seg>* Br/FodaoNormal: um trouxa que consegue se garantir em uma briga contra aqueles que portam poderes sobrenaturais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BadassPacifist: While they would never beat the crap out of their enemies, they're brave enough to stand up for their beliefs anyways.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T140127Z" creationid="Luan" creationdate="20240318T140127Z">
@@ -20043,6 +20051,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Compare VanillaUnit for the playable equivalent of muggles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T221349Z" creationid="Luan" creationdate="20240610T221349Z">
+        <seg>Comparar Br/UnidadePadrao para o equivalente jogável dos trouxas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Compare WeWantOurJerkBack when the hero/villain makes the villain/hero powerless, only to have it backfire and give them a worse villain/hero/[[ArsonMurderAndJaywalking fate]] than expected, resulting in them wanting things to go back the way they were.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T191606Z" creationid="Luan" creationdate="20240104T191606Z">
@@ -20627,6 +20643,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240327T180558Z" creationid="Luan" creationdate="20240327T180558Z">
         <seg>Ela costuma ser usada para [[Br/SrtaFanservice agradar os fãs]], para facilitar a existência de uma sub-trama romântica ou para [[Br/FeminilidadeComoPathos criar algum outro tipo de intriga]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Even muggles with characterization need to watch it: they could be {{Mauve Shirt}}s.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T220913Z" creationid="Luan" creationdate="20240610T220913Z">
+        <seg>Até mesmo trouxas com caracterização precisam ficar atentos, pois eles podem ser [[Br/CamisaLilas camisas lilás]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -24377,6 +24401,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>More rarely, MugglesDoItBetter comes in to play: mundane people with mundane technology have a real fighting chance in works featuring this trope (often the reason ''why'' the {{Masquerade}} exists -- otherwise, once the WitchHunt starts, the supernatural would get its butt handed over by BadassNormal hunters or mobs with TorchesAndPitchforks).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T221338Z" creationid="Luan" creationdate="20240610T221338Z">
+        <seg>Em casos raros, pode ocorrer um caso de Br/TrouxasFazemIssoMelhor: pessoas mundanas com tecnologia mundana possuem uma chance real em obras que façam uso disso (e geralmente é o motivo ''por que'' o Br/{{Mascaramento}} existe -- do contrário, quando for iniciada a Br/CacaAsBruxas, os sobrenaturais seriam dizimados por caçadores do tipo Br/FodaoNormal ou multidões com Br/TochasEForcados).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>More rarely, [[ShockAndAwe electricity]] will be used since it's loud and powerful raw energy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T151500Z" creationid="Luan" creationdate="20240326T151500Z">
@@ -24485,6 +24517,18 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240222T135247Z" creationid="Luan" creationdate="20240222T135247Z">
         <seg>Assim como um Br/JuristaDasRegras fora de um RPG, o personagem utiliza lógica (e aqui nós nos referimos [[Br/EspantalhoVulcano à lógica correta]] [[Br/FalaciaLogica e honesta]]) para levar seu juramento ou ordem à conclusão lógica e, ao fazer isso, usar a ordem ao pé da letra para a desobedecer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Muggle tropes include:
+[[index]]
+* AllTherapistsAreMuggles: A character needs therapy, but the events they need to talk about are part of some [[{{Masquerade}} big secret]] that no human therapist knows about.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T221451Z" creationid="Luan" creationdate="20240610T221451Z">
+        <seg>Tropos de trouxas incluem:
+[[index]]
+* Br/TodosOsTerapeutasSaoTrouxas: Um personagem precisa de terapia, mas os eventos de que ele precisa falar são parte de algum grande segredo que nenhum terapeuta humano conhece.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26552,8 +26596,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>Sometimes reality itself conspires to hide the plot from their minds, in ways like the ExtraStrengthMasquerade, BystanderSyndrome, WeirdnessCensor, and InvisibleToNormals.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T220556Z" creationid="Luan" creationdate="20240610T220556Z">
-        <seg>Às vezes a própria realidade conspira para esconder a trama de suas mentes, geralmente atra´ves de Br/MascaramentoExtraForte, Br/SindromeDoObservador, Br/CensorDeEsquisitice e Br/InvisivelParaOsComuns.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T220836Z" creationid="Luan" creationdate="20240610T220556Z">
+        <seg>Às vezes a própria realidade conspira para esconder a trama de suas mentes, geralmente através de Br/MascaramentoExtraForte, Br/SindromeDoObservador, Br/CensorDeEsquisitice e Br/InvisivelParaOsNormais.</seg>
       </tuv>
     </tu>
     <tu>

@@ -20908,6 +20908,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Expect the {{Red Shirt}}s to be muggles since non-muggles are usually too plot-valuable to waste.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T220821Z" creationid="Luan" creationdate="20240610T220821Z">
+        <seg>Os [[Br/CamisaVermelha camisas vermelhas]] são trouxas porque os não-trouxas são preciosos para a trama e por isso não podem ser desperdiçados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Expect them to resort frequently to BrutalHonesty.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140810Z" creationid="Luan" creationdate="20231029T140810Z">
@@ -23112,6 +23120,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ironically, Muggles often treat extraordinary people like crap, because Muggles are AllOfTheOtherReindeer -- although sometimes this happens [[BewareTheSuperman the other way around]], more cynical [[SmugSuper super-people]] looking down on them as a pathetically bland, underdeveloped species of {{Innocent Bystander}}s.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T220207Z" creationid="Luan" creationdate="20240610T220207Z">
+        <seg>Ironicamente, os trouxas tratam os extraordinários como lixo porque trouxas são Br/TodasAsOutrasRenas -- no entanto isso às vezes acontece [[Br/CuidadoComOSuperman ao contrário]], com super-pessoas olhando para eles com desprezo e os considerando uma espécie subdesenvolvida de [[Br/ObservadorInocente observadores inocentes]]. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Is often, but not always, an OriginsEpisode.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T133022Z" creationid="Luan" creationdate="20240105T133022Z">
@@ -24473,6 +24489,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Muggles are to be protected, avoided, manipulated, or abused (in any combination) by the characters or the plot.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T220719Z" creationid="Luan" creationdate="20240610T220719Z">
+        <seg>Trouxas devem ser protegidos, evitados, manipulados, ou abusados (ou uma combinação destes) pelos personagens da trama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mundane folk who are only aware of their own small section of reality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T215802Z" creationid="Luan" creationdate="20240610T215802Z">
+        <seg>O povo mundano que só conhece o seu próprio fragmento de realidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Narrative beats are not the same as {{Beat}}s and {{Beat Panel}}s, which are presentation techniques of pausing the dialogue/action to let something important sink in with the audience (although that "something" is often an underlying narrative beat).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240229T134226Z" creationid="Luan" creationdate="20240229T134226Z">
@@ -25377,6 +25409,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T230951Z" creationid="Luan" creationdate="20231206T230951Z">
         <seg>Ou então a premissa não é sobre ''o que'' acontece, mas sim ''como'' acontece.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ordinary people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T215742Z" creationid="Luan" creationdate="20240610T215742Z">
+        <seg>Gente comum.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26506,6 +26546,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140652Z" creationid="Luan" creationdate="20231029T140652Z">
         <seg>Às vezes se sobrepõe a Br/LigadoNoGenero e Br/SemSensoDeHumor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes reality itself conspires to hide the plot from their minds, in ways like the ExtraStrengthMasquerade, BystanderSyndrome, WeirdnessCensor, and InvisibleToNormals.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T220556Z" creationid="Luan" creationdate="20240610T220556Z">
+        <seg>Às vezes a própria realidade conspira para esconder a trama de suas mentes, geralmente atra´ves de Br/MascaramentoExtraForte, Br/SindromeDoObservador, Br/CensorDeEsquisitice e Br/InvisivelParaOsComuns.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27742,6 +27790,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The most common SecretIdentity pretends to be this.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T220214Z" creationid="Luan" creationdate="20240610T220214Z">
+        <seg>O caso mais comum de Br/IdentidadeSecreta finge ser um deles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The most evident symptom of this is the word "trope" itself, which is not commonly used outside of this site -- it's only the [[http://wordcount.org/main.php 67,470th]] most frequent English word.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T150844Z" creationid="Luan" creationdate="20231214T150844Z">
@@ -28016,6 +28072,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The source from which most characters spring.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T215807Z" creationid="Luan" creationdate="20240610T215807Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The story itself consists of Riobaldo, an ex-jagunço (mercenary), telling his past to a man from the city.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240417T201122Z" creationid="Luan" creationdate="20240417T201122Z">
@@ -28228,6 +28292,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T150859Z" creationid="Luan" creationdate="20231214T150859Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then again, they may just not want to know because ApathyKilledTheCat.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T220704Z" creationid="Luan" creationdate="20240610T220704Z">
+        <seg>Por outro lado, eles podem não querer saber porque a Br/ApatiaMatouOGato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28594,6 +28666,22 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They are the VictimOfTheWeek eaten by the MonsterOfTheWeek.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T220229Z" creationid="Luan" creationdate="20240610T220229Z">
+        <seg>Eles são a Br/VitimaDaSemana que é engolida pelo Br/MonstroDaSemana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are the ones whom the {{Masquerade}} is used to hide from, who can't get into (or perhaps even perceive) the WainscotSociety, and the ones who are subjected to [[LaserGuidedAmnesia memories wipes]] simply so the more enlightened [[StatusQuoIsGod can retain their secret status]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T220358Z" creationid="Luan" creationdate="20240610T220358Z">
+        <seg>Eles são aqueles de quem se esconde através do Br/{{Mascaramento}}, aqueles que não podem entrar (ou sequer perceber) a Br/SociedadeLambril, aqueles que são sujeitos à [[Br/AmnesiaComMiraLaser apagamentos de memória]] para que os mais iluminados [[Br/StatusQuoEDeus possam manter seu status secreto]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They are used [[MonsterMunch to show how the monster works]], and demonstrate that it is indeed a deadly menace, without having to lose anyone ''[[PlotArmor important]]''.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T200022Z" creationid="Luan" creationdate="20231221T200022Z">
@@ -28918,6 +29006,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231103T210139Z" creationid="Luan" creationdate="20231103T210139Z">
         <seg>Eles fazem o que quer que seja mais prudente para chegar ao objetivo desejado, não importa quem eles precisem machucar ao longo do caminho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They're the "normal" for those [[IJustWantToBeNormal who crave it]] and those who would hate it [[BroughtDownToNormal if it happened]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T220002Z" creationid="Luan" creationdate="20240610T220002Z">
+        <seg>Eles são "normais" para aqueles [[Br/EuSoQueriaSerNormal que o desejam ser]] e para aqueles que odiariam [[Br/RebaixadoANormal se isso acontecesse]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -29882,6 +29978,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T004908Z" creationid="Luan" creationdate="20231215T004908Z">
         <seg>E aqueles malditos [[Br/MentorTrapaceiro mentores trapaceiros]] podem ocasionalmente se encontrar na ponta receptora da Br/FuriaContraOMentor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Those who are not special, like the favored of the plot.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T215753Z" creationid="Luan" creationdate="20240610T215753Z">
+        <seg>Os que não são especiais que nem os favorecidos da trama.</seg>
       </tuv>
     </tu>
     <tu>

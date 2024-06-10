@@ -3851,3 +3851,6 @@ MugglesDoItBetter	Br/TrouxasFazemIssoMelhor
 BadassNormal	Br/FodaoNormal
 WitchHunt	Br/CacaAsBruxas
 AllTherapistsAreMuggles	Br/TodosOsTerapeutasSaoTrouxas
+ThouShaltNotKillMuggles	Br/NaoMatarasTrouxas
+MageBornOfMuggles	Br/MagoNascidoDeTrouxas
+MuggleBornOfMages	Br/TrouxaNascidoDeMagos

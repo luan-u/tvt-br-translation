@@ -3563,6 +3563,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* CharlesAtlasSuperpower: A muggle who is capable of matching those of supernatural powers but lack thereof after going through TrainingFromHell.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T223313Z" creationid="Luan" creationdate="20240610T223313Z">
+        <seg>* Br/SuperpoderEstiloSaitama: Um trouxa que consegue se equiparar a aqueles com poderes sobrenaturais após um regime de treino intensivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ChasteHero: A hero who is oblivious to the feelings of someone who is in love with them.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T221131Z" creationid="Luan" creationdate="20240318T221131Z">
@@ -9507,10 +9515,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MuggleBestFriend: Supernatural protagonist with a muggle sidekick.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T223405Z" creationid="Luan" creationdate="20240610T223405Z">
+        <seg>* Br/MelhorAmigoTrouxa: Protagonista sobrenatural com um parceiro trouxa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MuggleBornOfMages: Muggles with magical ancestors.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240610T222701Z" creationid="Luan" creationdate="20240610T222701Z">
         <seg>* Br/TrouxaNascidoDeMagos: Trouxas com ancestrais mágicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MuggleWithADegreeInMagic: A muggle can't use magic, but still knows all about it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T223444Z" creationid="Luan" creationdate="20240610T223444Z">
+        <seg>* Br/TrouxaGraduadoEmMagia: Um trouxa que não pode usar magia, mas que conhece tudo a respeito dela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9875,6 +9899,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240327T162912Z" creationid="Luan" creationdate="20240327T162912Z">
         <seg>* Br/SemHolocaustoEmEndor: Algum evento na história ''deveria'' ser mais desastroso ou danoso do que é exibido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* NoMoreForMe: Muggles blame whatever otherworldly phenomenon they witness on whatever they're drinking.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T223617Z" creationid="Luan" creationdate="20240610T223617Z">
+        <seg>* Br/JaChegaPraMim: Trouxas colocam a culpa de qualquer que seja o fenômeno sobrenatural testemunhado no que quer que estejam bebendo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22562,6 +22594,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T195437Z" creationid="Luan" creationdate="20231221T195437Z">
         <seg>Em uma série onde Br/OsPersonagensPrincipaisFazemTudo, se você subitamente avistar alguém que você nunca viu antes e que está envolvido na história principal, esse alguém provavelmente é um Camisa Vermelha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In a story with {{Differently Powered Individual}}s, you'll usually have a group of individuals who ''don't'' have those powers -- muggles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T223652Z" creationid="Luan" creationdate="20240610T223652Z">
+        <seg>Em uma história contendo indivíduos com poderes, usualmente você terá um grupo de indivíduos que ''não possuem'' estes poderes -- os trouxas.</seg>
       </tuv>
     </tu>
     <tu>

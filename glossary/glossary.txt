@@ -3825,3 +3825,5 @@ RoaringRampageOfRevenge	Br/FurorViolentoDeVinganca
 TheAnnotatedEdition	Br/EdicaoAnotada
 RomanticFalseLead	Br/ParceiroRomanticoFalso
 RuthlessRooftops	Br/TelhadosTraicoeiros
+Cloudcuckoolanguage	Br/DialetoLunatico
+Cuckoosnarker	Br/LunaticoSarcastico

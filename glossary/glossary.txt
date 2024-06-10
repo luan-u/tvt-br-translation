@@ -3840,3 +3840,9 @@ BewareTheSillyOnes	Br/CuidadoComOsExcentricos
 CloudcuckoolandersMinder	Br/CuidadorDoLunatico
 CuckoolanderCommentator	Br/ComentaristaLunatico
 OnlyOneFindsItFun	Br/SomenteUmAchaEngracado
+IJustWantToBeNormal	Br/EuSoQueriaSerNormal
+BroughtDownToNormal	Br/RebaixadoANormal
+BewareTheSuperman	Br/CuidadoComOSuperman
+VictimOfTheWeek	Br/VitimaDaSemana
+InvisibleToNormals	Br/InvisivelParaOsComuns
+ApathyKilledTheCat	Br/ApatiaMatouOGato

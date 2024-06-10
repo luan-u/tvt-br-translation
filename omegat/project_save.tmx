@@ -9531,6 +9531,30 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MuggleFosterParents: Supernatural character raised by normal people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T232517Z" creationid="Luan" creationdate="20240610T232517Z">
+        <seg>* Br/PaisAdotivosTrouxas: Personagem sobrenatural criado por gente normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MuggleInMageCustody: A muggle who is a slave or a ward to a magician.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T232442Z" creationid="Luan" creationdate="20240610T232442Z">
+        <seg>* Br/TrouxaSobCustodiaDeMagos: Um trouxa que é um escravo ou servo de um mago.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MuggleMageRomance: When there is a relationship between a muggle and a witch or wizard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T232550Z" creationid="Luan" creationdate="20240610T232550Z">
+        <seg>* Br/RomanceDeTrouxaEMago: Quando há um relacionamento entre um trouxa e um mago ou bruxa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MuggleWithADegreeInMagic: A muggle can't use magic, but still knows all about it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240610T223444Z" creationid="Luan" creationdate="20240610T223444Z">
@@ -17060,6 +17084,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** MuggleAndMagicalLoveTriangle: A love triangle with a supernatural suitor and muggle suitor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T232628Z" creationid="Luan" creationdate="20240610T232628Z">
+        <seg>** Br/TrianguloAmorosoTrouxaEMagico: Um triângulo amoroso com um pretendente trouxa e um pretendente mágico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>** NPlusOneSequelTitle: When the second title in a series doesn't include the number 2, but instead adds one to a number found in the first title.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T191918Z" creationid="Luan" creationdate="20240105T191918Z">
@@ -18005,6 +18037,17 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T143403Z" creationid="Luan" creationdate="20240104T133211Z">
         <seg>-&gt;''"A vingança é um prato que se serve com uma porção extra."''
 --&gt;-- '''[[Br/CoronelKilgore Capitão Young]]''', ''BrQuadrinhosWeb/TroopsOfDoom''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>-&gt;''"Sell them a key that keeps shrinking to nothing so they can never find it when they need it… Of course, it's very hard to convict anyone because no Muggle would admit their key keeps shrinking -- they'll insist they just keep losing it.'' ''Bless them, they'll go to any lengths to ignore magic, even if it's staring them in the face…"''
+--&gt;-- '''Arthur Weasley''', ''Literature/HarryPotterAndTheChamberOfSecrets''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T232403Z" creationid="Luan" creationdate="20240610T232403Z">
+        <seg>-&gt;''"Vendem a eles uma chave que encolhe até desaparecer, de modo que nunca conseguem encontrá-la quando precisam... É claro que é muito difícil processar alguém porque nenhum trouxa vai admitir que a chave dele não para de encolher, insistem que vivem a perdê-las. Deus os abençoe, eles vão a extremos para
+fingir que magia não existe, mesmo que esteja no nariz deles..."''
+--&gt;-- '''Arthur Weasley''', ''BrLiteratura/HarryPotterEACamaraSecreta''</seg>
       </tuv>
     </tu>
     <tu>
@@ -22600,8 +22643,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>In a story with {{Differently Powered Individual}}s, you'll usually have a group of individuals who ''don't'' have those powers -- muggles.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T223652Z" creationid="Luan" creationdate="20240610T223652Z">
-        <seg>Em uma história contendo indivíduos com poderes, usualmente você terá um grupo de indivíduos que ''não possuem'' estes poderes -- os trouxas.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T232812Z" creationid="Luan" creationdate="20240610T223652Z">
+        <seg>Em uma história contendo [[Br/IndividuoComPoderesDiferentes indivíduos com poderes diferentes]], usualmente você terá um grupo de indivíduos que ''não possuem'' estes poderes -- os trouxas.</seg>
       </tuv>
     </tu>
     <tu>

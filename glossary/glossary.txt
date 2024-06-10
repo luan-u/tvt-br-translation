@@ -3844,5 +3844,10 @@ IJustWantToBeNormal	Br/EuSoQueriaSerNormal
 BroughtDownToNormal	Br/RebaixadoANormal
 BewareTheSuperman	Br/CuidadoComOSuperman
 VictimOfTheWeek	Br/VitimaDaSemana
-InvisibleToNormals	Br/InvisivelParaOsComuns
+InvisibleToNormals	Br/InvisivelParaOsNormais
 ApathyKilledTheCat	Br/ApatiaMatouOGato
+TorchesAndPitchforks	Br/TochasEForcados	"Forcado", não "forçado".
+MugglesDoItBetter	Br/TrouxasFazemIssoMelhor
+BadassNormal	Br/FodaoNormal
+WitchHunt	Br/CacaAsBruxas
+AllTherapistsAreMuggles	Br/TodosOsTerapeutasSaoTrouxas

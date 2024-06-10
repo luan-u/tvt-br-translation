@@ -19769,8 +19769,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>Cloudcuckoolanders are [[LoonWithAHeartOfGold rarely malicious]].</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240416T151357Z" creationid="Luan" creationdate="20240416T151128Z">
-        <seg>Os lunáticos [[Br/BirutaComUmCoracaoDeOuro raramente]] são maliciosos.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T202038Z" creationid="Luan" creationdate="20240416T151128Z">
+        <seg>Um lunático [[Br/BirutaComUmCoracaoDeOuro raramente]] é malicioso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28384,6 +28384,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They [[{{Cloudcuckoolanguage}} lapse into non sequitur]] [[TalkativeLoon a lot]], and while they aren't totally insane, they act it much more than some other crazier characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T202430Z" creationid="Luan" creationdate="20240610T202430Z">
+        <seg>Ele [[Br/DialetoLunatico fala coisas sem sentido]] [[Br/BirutaTagarela frequentemente]], e apesar de não ser totalmente insano, ele o parece ser bem mais que outros personagens doidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They also had the disadvantage, unlike their colleagues [[UsefulNotes/TheKnightsHospitallers the Hospitallers]] and [[UsefulNotes/TheTeutonicKnights the Teutonic Knights]], of not having a defined base to call their own, like the Teutons in Prussia and the Hospitallers in Rhodes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T141020Z" creationid="Luan" creationdate="20231221T141020Z">
@@ -28624,6 +28632,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They often come off as naïve, innocent and SarcasmBlind, so when they suddenly [[{{Cuckoosnarker}} come up with snarky quips and witticisms]], it may be one of the first indications that they are much more insightful than they seem ([[ObfuscatingInsanity or even deliberately pretend]]) to be.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T202807Z" creationid="Luan" creationdate="20240610T202807Z">
+        <seg>Ele geralmente é retratado como ingênuo, inocente e Br/AlheioASarcasmo. Por isso quando ele subitamente [[Br/LunaticoSarcastico demonstra tiradas secas e sagazes]], esse é um dos primeiros indicadores de que ele é mais esperto do que parece ([[Br/InsanidadeOfuscante ou do que aparenta]]) ser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They often feature a SecondChapterCliffhanger, with several PlotThreads still unresolved.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240301T154521Z" creationid="Luan" creationdate="20240301T154521Z">
@@ -28738,8 +28754,8 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       <tuv lang="en-US">
         <seg>They will ''never'' understand what your problem is.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240416T192657Z" creationid="Luan" creationdate="20240416T192657Z">
-        <seg>Eles ''nunca'' não entender qual é o problema.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T202822Z" creationid="Luan" creationdate="20240416T192657Z">
+        <seg>Ele ''nunca'' vai entender qual é o problema.</seg>
       </tuv>
     </tu>
     <tu>

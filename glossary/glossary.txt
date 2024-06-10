@@ -3854,3 +3854,7 @@ AllTherapistsAreMuggles	Br/TodosOsTerapeutasSaoTrouxas
 ThouShaltNotKillMuggles	Br/NaoMatarasTrouxas
 MageBornOfMuggles	Br/MagoNascidoDeTrouxas
 MuggleBornOfMages	Br/TrouxaNascidoDeMagos
+CharlesAtlasSuperpower	Br/SuperpoderEstiloSaitama
+MuggleBestFriend	Br/MelhorAmigoTrouxa
+MuggleWithADegreeInMagic	Br/TrouxaGraduadoEmMagia
+NoMoreForMe	Br/JaChegaPraMim

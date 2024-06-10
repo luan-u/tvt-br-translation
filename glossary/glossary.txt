@@ -3867,3 +3867,5 @@ DifferentlyPoweredIndividual	Br/IndividuoComPoderesDiferentes
 ObsessivelyNormal	Br/ObsessivamenteNormal
 RecruitTheMuggles	Br/RecrutarOsTrouxas
 RefreshinglyNormalLifeChoice	Br/OptarPelaRevigoranteVidaNormal
+UnSorcerer	Br/NaoFeiticeiro
+UnwittingMuggleFriend	Br/AmigoTrouxaInvoluntario

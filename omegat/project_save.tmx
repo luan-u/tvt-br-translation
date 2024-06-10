@@ -10985,6 +10985,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* RamblingOldManMonologue: Senile rather than just crazy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T212134Z" creationid="Luan" creationdate="20240610T212134Z">
+        <seg>* Br/MonologoDoVelhoResmungao: Mais para o lado da senilidade do que da loucura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* RandomSmokingScene: A smoking scene comes out of nowhere in a story.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240402T195119Z" creationid="Luan" creationdate="20240402T195119Z">
@@ -14363,6 +14371,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheLoonie: A TabletopRPG player who plays mostly for the fun of doing silly things within the game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T211928Z" creationid="Luan" creationdate="20240610T211928Z">
+        <seg>* ??? TheLoonie: Um jogador de Br/RPGDeMesa que joga por causa da diversão em fazer coisas malucas dentro do jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheMadHatter: Aware that they are insane, and proud of it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240416T154636Z" creationid="Luan" creationdate="20240416T154636Z">
@@ -16325,6 +16341,16 @@ Br/ExemplosEmFalta.</seg>
 * Br/LixosoSomenteEmComparacao
 * Br/MundoLixoso
 * Br/MexidaoDeCulturas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* {{Cloudcuckoolanguage}}: Eccentricity manifesting itself in [[ShiftingVoiceOfMadness speech mannerisms]], such as strange {{Verbal Tic}}s, [[ThirdPersonPerson referring to oneself in the third person]], [[{{Neologizer}} making up nonexistent words]], etc.
+* {{Cuckoosnarker}}: When this trope meets the DeadpanSnarker.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T211824Z" creationid="Luan" creationdate="20240610T211824Z">
+        <seg>* Br/DialetoLunatico: A excentricidade se manifesta na forma de [[Br/VozAlteradaDaLoucura maneirismos de fala]], tais como [[Br/TiqueVerbal tiques verbais]] estranhos, [[Br/PessoaEmTerceiraPessoa referir-se a si próprio em terceira pessoa]], [[Br/{{Neologista}} inventar palavras]], etc.
+* Br/LunaticoSarcastico: É a junção deste tropo com o Br/SarcasticoSerio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28428,6 +28454,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240610T202430Z" creationid="Luan" creationdate="20240610T202430Z">
         <seg>Ele [[Br/DialetoLunatico fala coisas sem sentido]] [[Br/BirutaTagarela frequentemente]], e apesar de não ser totalmente insano, ele o parece ser bem mais que outros personagens doidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They also [[ShiftingVoiceOfMadness talk like they're nuts as well by a speech pattern]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T211405Z" creationid="Luan" creationdate="20240610T211405Z">
+        <seg>Ele também [[Br/VozAlteradaDaLoucura fala de maneira estranha ou possui algum maneirismo de dicção]].</seg>
       </tuv>
     </tu>
     <tu>

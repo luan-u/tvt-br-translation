@@ -7757,6 +7757,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* InvisibleToNormals: Muggles literally cannot see some supernatural things.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T222349Z" creationid="Luan" creationdate="20240610T222349Z">
+        <seg>* Br/InvisivelParaOsNormais: Trouxas são literalmente incapazes de enxergar coisas sobrenaturais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* IronButtMonkey: A ButtMonkey is exposed to extreme physical abuse, yet [[NighInvulnerability it never dies or gets hurt at all]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T154901Z" creationid="Luan" creationdate="20231208T154901Z">
@@ -8803,6 +8811,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MageBornOfMuggles: A supernatural character born to a muggle family.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T222643Z" creationid="Luan" creationdate="20240610T222643Z">
+        <seg>* Br/MagoNascidoDeTrouxas: Um personagem sobrenatural nasce em uma família de trouxas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MageTower: TheTower where a wizard does his research (or plotting) above and away from the people.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T154718Z" creationid="Luan" creationdate="20240125T154718Z">
@@ -9487,6 +9503,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T192033Z" creationid="Luan" creationdate="20240314T192033Z">
         <seg>* Br/SenhorDasFalhas: Personagens que possuem defeitos, vícios e falhas, mas são heroicos mesmo assim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MuggleBornOfMages: Muggles with magical ancestors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T222701Z" creationid="Luan" creationdate="20240610T222701Z">
+        <seg>* Br/TrouxaNascidoDeMagos: Trouxas com ancestrais mágicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MugglesDoItBetter: Mundane technology beats something supernatural.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T222407Z" creationid="Luan" creationdate="20240610T222407Z">
+        <seg>* Br/TrouxasFazemIssoMelhor: a tecnologia mundana derrota algo sobrenatural.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11653,6 +11685,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240315T011854Z" creationid="Luan" creationdate="20240315T011854Z">
         <seg>* Br/ArcoEFlechaSagrados
 * Br/SeguroSaoEConsensual: Se ninguém se machuca seriamente, ninguém está sob influência de nada e todos querem fazer, então está tudo certo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SafetyInMuggles: Hiding from a supernatural opponent by running to a highly populated area in the hope your enemy would rather avoid breaking the {{Masquerade}} than continue fighting you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T222507Z" creationid="Luan" creationdate="20240610T222507Z">
+        <seg>* Br/SegurancaNosTrouxas: Se esconder de um oponente sobrenatural ao se enfiar em uma área densamente populada na expectativa de que o inimigo prefira evitar a quebra do Br/{{Mascaramento}} do que continuar a perseguição.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14905,6 +14945,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ThouShaltNotKillMuggles: Using supernatural powers to kill muggles is not cool.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T222530Z" creationid="Luan" creationdate="20240610T222530Z">
+        <seg>* Br/NaoMatarasTrouxas: Usar poderes sobrenaturais para matar trouxas não é legal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ThrivingGhostTown: Cities in [=RPGs=] and other VideoGames have impossibly low populations.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T145547Z" creationid="Luan" creationdate="20240201T145547Z">
@@ -15299,6 +15347,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T151134Z" creationid="Luan" creationdate="20240318T151134Z">
         <seg>* Br/SujeitoInabalavel
 * Br/KarmicoNaoIntencional: Eles salvam o dia e arruinam as coisas para o cara mau... mas não de propósito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* UnfazedEveryman: A muggle who sees supernatural weirdness and takes it all in stride.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T222610Z" creationid="Luan" creationdate="20240610T222610Z">
+        <seg>* Br/SujeitoInabalavel: Um trouxa que vê coisas estranhas sobrenaturais e trata tudo com naturalidade.</seg>
       </tuv>
     </tu>
     <tu>

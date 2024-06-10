@@ -234,6 +234,7 @@ AstralProjection	Br/ProjecaoAstral
 AtTheCrossroads	Br/NaEncruzilhada
 AthleticArenaLevel	Br/FaseDeArenaAtletica
 Atlantis	Br/{{Atlantida}}
+AttractiveBentGender	Br/GeneroTrocadoAtraente
 AudienceAlienatingEra	Br/EraDeAlienacaoDoPublico
 AudienceReaction	Br/ReacaoDoPublico
 AudienceReactions	Br/ReacoesDoPublico
@@ -247,6 +248,7 @@ AuthorsSavingThrow	Br/JogadaDefensivaDoAutor
 AutoErotica	Br/AutoErotica
 AvertedTrope	Br/TropoEvitado
 AwesomeButImpractical	Br/FantasticoPoremImpratico
+AxCrazy	Br/DoidoDePedra
 BBCQuarry	Br/PedreiraBBC
 BFG	Br/ArmaGPC	"Grande pra cacete".
 BTeamSequel	Br/SequenciaClasseB
@@ -260,6 +262,7 @@ BadFuture	Br/FuturoRuim
 BadGuyBar	Br/BarDosMalvados
 BadGuysDoTheDirtyWork	Br/AlguemTemQueFazerOTrabalhoSujo
 BadPowersGoodPeople	Br/PoderesRuinsPessoasBoas
+BadassAdorable	Br/FodaoAdoravel
 BadassBookworm	Br/RatoDeBibliotecaFodao
 BadassDecay	Br/DecaimentoFodanico
 BadassPacifist	Br/PacifistaFodao
@@ -277,6 +280,7 @@ BannedInChina	Br/BanidoNaChina
 BarFullOfAliens	Br/BarRepletoDeAliens
 BarbarianHero	Br/HeroiBarbarico
 BareFistedMonk	Br/MongeDeMaosVazias
+BarefootLoon	Br/LunaticoDescalco
 BargainWithHeaven	Br/NegociarComOCeu
 BarrageOfBats	Br/AMorcegada
 BaseOnWheels	Br/BaseSobreRodas
@@ -571,9 +575,11 @@ CloseKnitCommunity	Br/ComunidadeUnida
 CloserThanTheyAppear	Br/MaisPertoDoQueParece
 Cloudcuckooland	Br/TerraDeAvoados
 Cloudcuckooland	Br/TerraDeLunaticos
+Cloudcuckooland	Br/{{Cucolandia}}	Derivado de "As Aves", por Aristófanes.
 Cloudcuckoolander	Br/DiLuaLovegood
 Cloudcuckoolander	Br/OAvoado
 Cloudcuckoolander	Br/OLunatico
+Cloudcuckoolanguage	Br/DialetoLunatico
 ClueEvidenceAndASmokingGun	Br/PistasEvidenciasEUmaArmaFumegante
 ClusterFBomb	Br/GranadaProfanica
 CobwebJungle	Br/SelvaDeTeias
@@ -652,6 +658,8 @@ CoolAirship	Br/DirigivelIrado
 CoolBoat	Br/BarcoIrado
 CoolGarage	Br/GaragemIrada
 CoolHouse	Br/CasaIrada
+CoolOldGuy	Br/CaraVelhoIrado
+CoolPeopleRebelAgainstAuthority	Br/GenteBacanaSeRebelaContraAsAutoridades
 CoolShip	Br/NaveIrada
 CoolStarship	Br/EspaconaveIrada
 CoolTeacher	Br/ProfessorLegal
@@ -706,6 +714,7 @@ CringeComedy	Br/ComediaCringe
 CringeComedy	Br/ComediaEmbaracosa
 CrisisCrossover	Br/CruzamentoDeCrise
 CrossesTheLineTwice	Br/PassouDoPontoDuasVezes
+CrossingTheDesert	Br/CruzarODeserto
 Crossover	Br/Cruzamento
 CruelAndUnusualDeath	Br/MorteEstranhamenteCruel
 CruelMercy	Br/MisericordiaCruel
@@ -713,6 +722,7 @@ CrutchCharacter	Br/PersonagemMuleta
 CryForTheDevil	Br/ChorarPeloDiabo
 CrystalLandscape	Br/PaisagemDeCristal
 Cuckold	Br/{{Corno}}
+Cuckoosnarker	Br/LunaticoSarcastico
 CueTheFallingObject	Br/MomentoDoObjetoEmQueda
 CultColony	Br/ColoniaCultista
 CulturalCrossReference	Br/ReferenciaCulturalCruzada
@@ -732,6 +742,8 @@ Cyberspace	Br/{{Ciberespaco}}
 CycleOfRevenge	Br/CicloDeVinganca
 CynicismTropes	Br/TroposDeCinismo
 DadaAd	Br/DadaAnuncio
+DadaComics	Br/DadaQuadrinhos
+DaddyHadAGoodReasonForAbandoningYou	Br/PapaiTeveUmBomMotivoPraTeAbandonar
 DaintyCombat	Br/CombateGracioso
 DamselInDistress	Br/DonzelaEmPerigo
 DamselOutOfDistress	Br/DonzelaForaDePerigo
@@ -848,6 +860,8 @@ DifficultySpike	Br/SaltoNaDificuldade
 DiligentHeroSlothfulVillain	Br/HeroiDiligenteVilaoPreguicoso
 DirtyBusiness	Br/TrabalhoSujo
 DisabledSnarker	Br/SarcasticoPCD
+DisappearedDad	Br/PaiDesaparecido
+DisappearedDad	Br/PaiQueFoiComprarCigarro
 DisappointedByTheMotive	Br/DesapontadoPeloMotivo
 DisasterDominoes	Br/DominoDeDesastre
 DiscontinuityNod	Br/AcenoParaADescontinuidade
@@ -887,6 +901,7 @@ DoomMagnet	Br/ImaDeCaos
 DoomedByCanon	Br/CondenadoPeloCanone
 DoomedMoralVictor	Br/VitoriosoMoralCondenado
 DoomsdayDevice	Br/DispositivoDoJuizoFinal
+Doorstopper	Br/PesoDePorta
 DorkKnight	Br/CavaleiroTonto
 DoubleEntendre	Br/PiadaDeDuploSentido
 DoubleMeaning	Br/DuploSentido
@@ -941,6 +956,7 @@ EarthIsYoung	Br/ATerraEJovem
 EarthyBarefootCharacter	Br/PersonagemTerrenoEDescalco
 EasilyConqueredWorld	Br/MundoFacilmenteConquistado
 EasilyDetachableRobotParts	Br/PartesRoboticasQueDesencaixamFacil
+EasilyImpressed	Br/FacilmenteImpressionavel
 EasingIntoTheAdventure	Br/AAventuraVemDeMansinho
 EasyModeMockery	Br/ZombariaDoModoFacil
 EasyRoadToHell	Br/ViaExpressaParaOInferno
@@ -1158,6 +1174,7 @@ FloatingContinent	Br/ContinenteFlutuante
 FloatingTimeline	Br/FusoQuadrinhos	O termo de origem é uma redireção para "Comic-Book Time".
 FlockOfWolves	Br/RebanhoDeLobos
 FloodedFutureWorld	Br/MundoFuturoInundado
+FlowerMotifs	Br/TemaFloral
 FluffyCloudHeaven	Br/CeuDeNuvensFofas
 Foil	Br/{{Fundo}}
 FolkHero	Br/HeroiFolclorico
@@ -1227,6 +1244,7 @@ FromZeroToHero	Br/DeZeroAHeroi
 FullCircleRevolution	Br/RevolucaoEmCircuitoFechado
 FunPersonified	Br/DiversaoPersonificada
 FutureSocietyPresentValues	Br/SociedadeDoFuturoValoresDoPresente
+Futureshadowing	Br/{{Posnuncio}}
 GRatedSex	Br/SexoComCensuraLivre
 GadgeteerGenius	Br/GenioDosApetrechos
 GadgeteersHouse	Br/CasaDoInventor
@@ -1237,6 +1255,7 @@ GambitRoulette	Br/RoletaDeGambitos
 GameMaster	Br/MestreDoJogo
 GardenOfEvil	Br/JardimDoMal
 GarnishingTheStory	Br/EmbelezarAHistoria
+Gayngst	Br/{{Agaynia}}
 GenderIncompetence	Br/IncompetenciaDeGenero
 GeneticAbomination	Br/AbominacaoGenetica
 GenghisGambit	Br/GambitoDeGenghis
@@ -1334,6 +1353,7 @@ GoodnessTropes	Br/TroposDeBondade
 GothsHaveItHard	Br/ParaGoticosTudoEDificil
 GradeSystemSnark	Br/SarcasticoComSistemaDeNotas
 GrandFinale	Br/GranFinale
+GranolaGirl	Br/GarotaGranola
 GrassIsGreener	Br/AGramaEMaisVerde
 GratuitousLaboratoryFlasks	Br/FrascosDeLaboratorioGratuitos
 GreasySpoon	Br/ColherSebosa
@@ -1468,6 +1488,7 @@ HerosMuse	Br/MusaDoHeroi
 HerosSlaveHarem	Br/HaremDeEscravosDoHeroi
 HerrDoktor	Br/HerrDoktor
 HesDeadJim	Br/EleEstaMortoJim
+HeterosexualLifePartners	Br/ParceirosDeVidaHeterossexuais
 HiddenAgendaHero	Br/HeroiComMotivosOcultos
 HiddenElfVillage	Br/VilaDeElfosOculta
 HiddenHeartOfGold	Br/CoracaoDeOuroOculto
@@ -1485,6 +1506,7 @@ HistoricalInJoke	Br/PiadaInternaHistorica
 HitlersTimeTravelExemptionAct	Br/AtoDeIsencaoDeViagemNoTempoDeHitler
 HiveMind	Br/MenteColetiva
 HoYay	Br/EntaoEleE
+HoldingHands	Br/DeMaosDadas
 HolierThanThou	Br/MaisSacroQueTu
 HolierThanThou	Br/SouMaisSantoQueVoce
 HollowWorld	Br/MundoOco
@@ -1543,6 +1565,7 @@ IDidWhatIHadToDo	Br/EuFizOQueEuPrecisavaFazer
 IDieFree	Br/MorrereiLivre
 IDontLikeTheSoundOfThatPlace	Br/EuNaoGostoDoSomDesteLugar
 IGaveMyWord	Br/EuDeiMinhaPalavra
+IHaveYourWife	Br/EuEstouComASuaEsposa
 IJustWantToBeSpecial	Br/EuSoQueriaSerEspecial
 IKnowWhatWeCanDoCut	Br/CorteDeEuSeiOQuePodemosFazer
 IKnowYouKnowIKnow	Br/EuSeiQueVoceSabeQueEuSei
@@ -1622,6 +1645,7 @@ InnocentInnuendo	Br/InsinuacaoInocente
 InnocentSoprano	Br/SopranoInocente
 InnocentlyInsensitive	Br/InocentementeInsensivel
 InnocuouslyImportantEpisode	Br/EpisodioInocuamenteImportante
+InsaneTrollLogic	Br/LogicaTrollInsana
 InsideAComputerSystem	Br/DentroDeUmSistemaDeComputador
 InspiredBy	Br/InspiradoPor
 InstantIndexJustAddWater	Br/IndiceInstantaneoBastaAcrescentarAgua
@@ -1672,6 +1696,7 @@ ItsCuban	Br/ECubano
 ItsNotSupposedToWinOscars	Br/NaoEParaGanharOOscar
 ItsNotYouItsMyEnemies	Br/NaoEVoceSaoMeusInimigos
 ItsQuietTooQuiet	Br/OMorroTaMuitoTranquilo
+ItsTheJourneyThatCounts	Br/EAJornadaQueConta	"É a jornada que conta".
 ItsTheSameNowItSucks	Br/NaoMudouNadaPorIssoEUmaDroga
 JabbaTableManners	Br/EtiquetaDeJabba
 JackassGenie	Br/GenioBabaca
@@ -1712,6 +1737,7 @@ JustForFun/TVTropesWillRuinYourLife	BrApenasPorLazer/TVTropesVaiArruinarASuaVida
 JustForFun/TVTropesWillRuinYourVocabulary	BrApenasPorLazer/TVTropesVaiArruinarSeuVocabulario
 JustForFun/TheTropelessTale	BrApenasPorLazer/OContoSemTropos
 JustForFun/TheZerothLawOfTropeExamples	BrApenasPorLazer/LeiZeroDosExemplosDeTropo
+JustForFun/TropeOverdosed	BrApenasPorLazer/OverdoseDeTropos
 JustForFun/XMeetsY	BrApenasPorLazer/XEncontraY
 JustForFun/YouKnowYouReadTooMuchTVTropesWhen	BrApenasPorLazer/VoceSabeQueEstaLendoMuitoTVTropesQuando
 JustHereForGodzilla	Br/SoVimPeloGodzilla
@@ -1756,6 +1782,7 @@ KinderAndCleaner	Br/MaisGentilELimpo
 KindheartedCatLover	Br/AmanteDeGatosComBomCoracao
 KindheartedSimpleton	Br/EstupidoDeBomCoracao
 KingInTheMountain	Br/ReiNaMontanha
+KingOfAllCosmos	Br/ReiDeTodoOCosmos
 KirksRock	Br/RochaDeKirk
 KleptomaniacHero	Br/HeroiCleptomaniaco
 KneeHighPerspective	Br/PerspectivaDaAlturaDoJoelho
@@ -1842,8 +1869,10 @@ Literature/NineteenEightyFour	BrLiteratura/MilNovecentosEOitentaEQuatro
 Literature/PrideAndPrejudice	BrLiteratura/OrgulhoEPreconceito
 Literature/TheCallOfCthulhu	BrLiteratura/OChamadoDeCthulhu
 Literature/TheCanterburyTales	BrLiteratura/ContosDaCantuaria
+Literature/TheDivineComedy	BrLiteratura/DivinaComedia
 Literature/TheFeatherOfFinistTheFalcon	BrLiteratura/FinistOFalcaoDaPenaMagica
 Literature/TheFeatherOfFinistTheFalcon	BrLiteratura/OBeloFalcaoFinist
+Literature/TheIliad	BrLiteratura/{{Iliada}}
 Literature/TheKiteRunner	BrLiteratura/OCacadorDePipas
 Literature/TheLordOfTheRings	BrLiteratura/OSenhorDosAneis
 Literature/TheSagaOfDarrenShan	BrLiteratura/ASagaDeDarrenShan
@@ -1886,6 +1915,7 @@ LoveInterests	Br/InteresseAmoroso
 LoveItOrHateIt	Br/AmeOOuDeixeO
 LoveRedeems	Br/AmorRedime
 LoveToHate	Br/AmamOdiar
+LoveTriangle	Br/TrianguloAmoroso
 LovecraftCountry	Br/LovecraftRural
 LovecraftLite	Br/LovecraftLeve
 LovedByAll	Br/AmadoPorTodos
@@ -1956,6 +1986,7 @@ MauveShirt	Br/CamisaLilas
 MayItNeverHappenAgain	Br/QueIssoNuncaAcontecaDeNovo
 MeanCharacterNiceActor	Br/PersonagemMauAtorLegal
 MeaningfulFuneral	Br/FuneralSignificativo
+MeaningfulRename	Br/TrocaDeNomeSignificativa
 MeasuringTheMarigolds	Br/MedirAsCalendulas
 MeatPuppet	Br/FantocheDeCarne
 MechanicalEcosystem	Br/EcossistemaMecanico
@@ -1998,6 +2029,7 @@ MillionairePlayboy	Br/PlayboyMilionario
 MindRape	Br/EstuproMental
 MindScrew	Br/ParafusoMental
 MindScrewdriver	Br/ParafusadeiraMental
+MiniSeries	Br/{{Minisserie}}
 MinorFlawMajorBreakup	Br/PequenasFalhasGrandesRompimentos
 MinorityShowGhetto	Br/GuetoDeProgramaParaMinorias
 MirrorCharacter	Br/OReflexo
@@ -2058,6 +2090,7 @@ MouthFullOfSmokes	Br/BocaCheiaDeCigarros
 MrExposition	Br/SenhorExposicao
 MrExposition	Br/SrExposicao
 MrFixit	Br/SrConsertaTudo
+MrImagination	Br/SrImaginacao
 MrViceGuy	Br/SujeitoDefeito
 MsFanservice	Br/SrtaFanservice
 Muggles	Br/{{Trouxas}}
@@ -2110,6 +2143,7 @@ NaziHunter	Br/CacadorDeNazistas
 NecessarilyEvil	Br/NecessariamenteMau
 NegativeContinuity	Br/ContinuidadeNegativa
 NeighbourhoodFriendlyGangsters	Br/BandidosAmigaveisDaVizinhanca
+Neologism	Br/{{Neologismo}}
 Nepotism	Br/{{Nepotismo}}
 NerdActionHero	Br/NerdHeroiDeAcao
 NetworkDecay	Br/DecaimentoDaRede
@@ -2140,6 +2174,7 @@ NiceJobFixingItVillain	Br/BomTrabalhoConsertandoTudoVilao
 NiceToTheWaiter	Br/GentilComOGarcom
 NighInvulnerability	Br/PraticamenteInvulneravel
 NightmareFuel	Br/CombustivelParaPesadelo
+NightmareFuelStationAttendant	Br/FrentistaDoPostoDeCombustivelParaPesadelo
 NightmareRetardant	Br/RetardanteDePesadelo
 NightmarishNursery	Br/BercarioDoMal
 NinetiesAntiHero	Br/AntiHeroiDosAnos90
@@ -2162,6 +2197,7 @@ NoOSHACompliance	Br/SemConformidadeComANR12
 NoOneGetsLeftBehind	Br/NinguemFicaParaTras
 NoOntologicalInertia	Br/SemInerciaOntologica
 NoOriginStoriesAllowed	Br/NadaDeHistoriasDeOrigem
+NoPeriodsPeriod	Br/NadaDeMenstruacao	"Nada de menstruação".
 NoPlansNoPrototypeNoBackup	Br/SemDiagramaSemPrototipoSemReserva
 NoRomanticResolution	Br/SemResolucaoRomantica
 NoSenseOfHumor	Br/SemSensoDeHumor
@@ -2249,9 +2285,11 @@ OneWingedAngel	Br/FormaFinal
 OnlyALighter	Br/ESoUmIsqueiro
 OnlyFriend	Br/UnicoAmigo
 OnlyGoodPeopleMayPass	Br/SomenteOsBonsPodemPassar
+OnlyKnownByTheirNickname	Br/ConhecidoApenasPorSeuApelido
 OnlyOneAfterlife	Br/SomenteUmaVidaAposAMorte
 OnlySaneByComparison	Br/SaoApenasEmComparacao
 OnlySaneEmployee	Br/UnicoFuncionarioSao
+OnlySaneMan	Br/UnicaPessoaSa
 OnlySaneMan	Br/UnicoHomemSao
 OnlyShopInTown	Br/UnicaLojaNaCidade
 OnlyTheChosenMayWield	Br/ApenasOEscolhidoPodeEmpunhar
@@ -2367,6 +2405,7 @@ PlotBasedPhotographObfuscation	Br/OfuscamentoDeFotografiaBaseadoEmTrama
 PlotHole	Br/FuroNaTrama
 PlotPoweredStamina	Br/VigorBaseadoEmTrama
 PlotThreads	Br/LinhasDeTrama
+PluckyComicRelief	Br/CorajosoAlivioComico	Derivado do filme "Heróis Fora de Órbita".
 PluckyGirl	Br/GarotaCorajosa
 PocketDimension	Br/DimensaoDeBolso
 PointsOfLightSetting	Br/AmbientacaoComPontosDeLuz
@@ -2427,6 +2466,7 @@ ProlongedVideoGameSequel	Br/SequenciaProlongadaDeVideogame
 PromotedFanboy	Br/FanboyPromovido
 PropagandaHero	Br/HeroiPropaganda
 ProperLady	Br/DamaDeRespeito
+ProperlyParanoid	Br/AdequadamenteParanoico
 ProphecyTwist	Br/ReviravoltaNaProfecia
 ProtagonistCenteredMorality	Br/MoralCentradaNoPersonagem
 ProtagonistJourneyToVillain	Br/JornadaDoProtagonistaParaVilao
@@ -2484,6 +2524,7 @@ RayOfHopeEnding	Br/FinalRaioDeEsperanca
 ReadTheFreakingManual	Br/LeiaADrogaDoManual
 RealLife	Br/VidaReal
 RealLifeWritesThePlot	Br/AVidaRealEscreveATrama
+RealNameAsAnAlias	Br/NomeRealComoPseudonimo
 RealWomenHaveCurves	Br/MulheresDeVerdadePossuemCurvas
 RealismInducedHorror	Br/TerrorInduzidoPorRealismo
 RealityIsUnrealistic	Br/RealidadeEIrrealista
@@ -2571,6 +2612,7 @@ RighteousRabbit	Br/CoelhoHonrado
 RightlySelfRighteous	Br/JustoComJusticaPropria
 RippedFromTheHeadlines	Br/TiradoDasManchetes
 RiverOfInsanity	Br/RioDaInsanidade
+RoaringRampageOfRevenge	Br/FurorViolentoDeVinganca
 RobotBuddy	Br/AmigoRobo
 RobotMaster	Br/MestreDosRobos
 RobotWar	Br/GuerraRobotica
@@ -2580,6 +2622,7 @@ RogueProtagonist	Br/ProtagonistaInsurgente
 RoleEndingMisdemeanor	Br/DelitoDeEncerramentoDePapel
 RolePlayingGameVerse	Br/UniversoDeRPG
 RomanceArc	Br/ArcoRomantico
+RomanticFalseLead	Br/ParceiroRomanticoFalso
 RomanticPlotTumor	Br/TumorRomanticoDeTrama
 RomanticizedAbuse	Br/AbusoRomantizado
 RonTheDeathEater	Br/RonOComensalDaMorte
@@ -2619,6 +2662,7 @@ RunningOverThePlot	Br/AtropelarATrama
 RunningTheAsylum	Br/AdministrandoOAsilo
 RushmoreRefacement	Br/RemodelandoRushmore
 RussianReversal	Br/ReversalRussa
+RuthlessRooftops	Br/TelhadosTraicoeiros
 SNKBoss	Br/ChefeSNK
 SacredBowAndArrows	Br/ArcoEFlechaSagrados
 SacrificialLamb	Br/CordeiroDeSacrificio
@@ -2636,6 +2680,7 @@ SanityBall	Br/BolaDaSanidade
 SanitySlippage	Br/DeslizamentoDeSanidade
 SantaClaus	Br/PapaiNoel
 SapientShip	Br/NaveSapiente
+SarcasmBlind	Br/AlheioASarcasmo
 SarcasmMode	Br/ModoSarcastico
 SarcasticConfession	Br/ConfissaoSarcastica
 SarcasticDevotee	Br/DevotoSarcastico
@@ -2695,6 +2740,7 @@ SecondChapterCliffhanger	Br/PenhascoDoSegundoCapitulo
 SecondFaceSmoke	Br/FumacaNoRosto
 SecretGovernmentWarehouse	Br/DepositoSecretoDoGoverno
 SecretHistory	Br/HistoriaSecreta
+SecretIdentity	Br/IdentidadeSecreta
 SecretMessageWink	Br/PiscadaDaMensagemSecreta
 SecretPath	Br/PassagemSecreta
 SecretRoom	Br/SalaSecreta
@@ -2769,7 +2815,9 @@ ShatteredWorld	Br/MundoDespedacado
 SheepInSheepsClothing	Br/CordeiroEmPeleDeCordeiro
 SheepInWolfsClothing	Br/CordeiroEmPeleDeLobo
 SheetOfGlass	Br/ChapaDeVidro
+ShiftingVoiceOfMadness	Br/VozAlteradaDaLoucura
 ShiningCity	Br/CidadeReluzente
+ShooOutTheClowns	Br/EnxotarOsPalhacos
 ShooOutTheNewGuy	Br/ExpulsarOCaraNovo
 ShootTheDog	Br/AtirarNoCachorro
 ShootTheShaggyDog	Br/AcordarOBoiATiros
@@ -2970,6 +3018,7 @@ SubbingForSanta	Br/SubstituirONoel
 Subtext	Br/{{Subtexto}}
 SuburbanGothic	Br/GoticoSuburbano
 SubvertedTrope	Br/TropoSubvertido
+SuccessThroughInsanity	Br/SucessoViaInsanidade
 SuccessfulSiblingSyndrome	Br/SindromeDoIrmaoBemSucedido
 SuddenSchoolUniform	Br/UniformeEscolarSubito
 SuddenSequelDeathSyndrome	Br/SindromeDeMorteSubitaNaSequencia
@@ -3008,6 +3057,7 @@ SurpriseDifficulty	Br/DificuldadeSurpresa
 SurprisinglyGentleSong	Br/MusicaSurpreendentementeCalma
 SurprisinglyImprovedSequel	Br/SequenciaSurpreendentementeMelhor
 SurprisinglyRealisticOutcome	Br/ResultadoSurpreendentementeRealista
+SurrealHumor	Br/HumorSurreal
 SurroundedByIdiots	Br/CercadoPorIdiotas
 SurroundedBySmartPeople	Br/CercadoPorGenteEsperta
 SurvivorshipBias	Br/ViesDoSobrevivente
@@ -3040,6 +3090,8 @@ TakeYourTime	Br/LeveOTempoQuePrecisar
 TakesOneToKillOne	Br/ENecessarioUmParaMatarUm
 TakingTheBullet	Br/LevandoOTiro
 TalkToEveryone	Br/FaleComTodoMundo
+TalkativeLoon	Br/BirutaTagarela
+TalkingToTheDead	Br/FalarComOsMortos
 TallDarkAndSnarky	Br/AltoTrevosoESarcastico
 TamerAndChaster	Br/MaisMansoECasto
 TastesLikeFriendship	Br/TemGostoDeAmizade
@@ -3079,6 +3131,7 @@ TheAce	Br/OAs
 TheAgeless	Br/OEterno
 TheAlcatraz	Br/AAlcatraz
 TheAlliance	Br/AAlianca
+TheAnnotatedEdition	Br/EdicaoAnotada
 TheAntiNihilist	Br/AntiNiilista
 TheAntichrist	Br/OAnticristo
 TheApunkalypse	Br/OApunkalipse
@@ -3125,6 +3178,7 @@ TheCouch	Br/OSofa
 TheCowl	Br/OEncapuzado
 TheCracker	Br/OCracker
 TheCreatorsForgotAboutThisIndex	Br/OsCriadoresSeEsqueceramDesteIndice
+TheCuckoolanderWasRight	Br/OAvoadoEstavaCerto
 TheCuckoolanderWasRight	Br/OLunaticoEstavaCerto
 TheCynic	Br/OCinico
 TheDarkTimes	Br/EraDasTrevas
@@ -3197,6 +3251,7 @@ TheLavaCavesOfNewYork	Br/CavernasVulcanicasDeNovaIorque
 TheLeader	Br/OLider
 TheLittleShopThatWasntThereYesterday	Br/PequenaLojaQueNaoExistiaOntem
 TheLostWoods	Br/FlorestaPerdida
+TheMadHatter	Br/ChapeleiroMaluco
 TheMadnessPlace	Br/LugarDaLoucura
 TheMagicVersusTechnologyWar	Br/GuerraDaMagiaContraTecnologia
 TheMainCharactersDoEverything	Br/OsPersonagensPrincipaisFazemTudo
@@ -3224,6 +3279,7 @@ TheNineties	Br/Anos90
 TheOldGods	Br/OsAntigosDeuses
 TheOneWithAPersonalLife	Br/AqueleComUmaVidaPessoal
 TheOnlyOne	Br/OUnico
+TheOphelia	Br/AOfelia
 TheOrder	Br/AOrdem
 TheOtherDarrin	Br/OOutroJames	Na dublagem de "Bewitched", o Darrin se chama James.
 TheOutsideWorld	Br/OMundoExterior
@@ -3286,8 +3342,8 @@ TheTimeOfMyths	Br/IdadeDosMitos
 TheTower	Br/ATorre
 TheTrickster	Br/OMalandro
 TheTrickster	Br/OTrapaceiro
-TheTriple	Br/OTriplo
 TheTriple	Br/ATripla
+TheTriple	Br/OTriplo
 TheUnderworld	Br/OSubmundo
 TheUnfettered	Br/OIrrestrito
 TheUnfought	Br/ONaoEnfrentado
@@ -3312,6 +3368,7 @@ TheWorldAsMyth	Br/OMundoComoMito
 TheWorldIsNotReady	Br/OMundoNaoEstaPronto
 TheWorldsExpertOnGettingKilled	Br/OEspecialistaMundialEmSerMorto
 TheXenophile	Br/OXenofilo
+Theatre/TheBirds	BrTeatro/AsAves
 ThematicSequelLogoChange	Br/SequenciaTematicaComLogotipoDiferente
 ThematicSeries	Br/SerieTematica
 ThemeParkLandscape	Br/PaisagemDeParqueTematico
@@ -3334,6 +3391,7 @@ ThingsIWillDoIfIAmEverTheHero	BrApenasPorLazer/CoisasQueEuFareiSeAlgumDiaEuMeTor
 ThinksOfSomethingSmartSaysSomethingStupid	Br/PensaEmAlgoInteligenteDizAlgoEstupido
 ThirdActStupidity	Br/EstupidezDoTerceiroAto
 ThirdIs3D	Br/OTerceiroEEm3D
+ThirdPersonPerson	Br/PessoaEmTerceiraPessoa
 ThirstyDesert	Br/DesertoVoraz
 ThirteenIsUnlucky	Br/TrezeSignificaAzar
 ThisCannotBe	Br/NaoPodeSer
@@ -3343,6 +3401,7 @@ ThisIsGonnaSuck	Br/IssoVaiDoer
 ThisIsUnforgivable	Br/IssoEImperdoavel
 ThisLoserIsYou	Br/EsteFracassadoEVoce
 ThisLoserIsYou	Br/EstePerdedorEVoce
+ThoseTwoGuys	Br/AquelesDoisCaras
 ThoseWackyNazis	Br/AquelesNazistasMalucos
 ThouShaltNotKill	Br/NaoMataras
 Thoughtcrime	Br/CrimeDePensamento
@@ -3505,6 +3564,7 @@ UnstablePoweredWoman	Br/PoderosaMulherInstavel
 UnstoppableRage	Br/FuriaIncontrolavel
 UnsuccessfulPetAdoption	Br/AdocaoMalSucedidaDeAnimal
 UnsympatheticComedyProtagonist	Br/ProtagonistaDeComediaNadaSimpatico
+UnusualChapterNumbers	Br/NumerosDeCapituloIncomuns
 UnusualEuphemism	Br/EufemismoIncomum
 UnusuallyUninterestingSight	Br/VistaIncomumDesinteressante
 UnwantedFalseFaith	Br/FalsaFeIndesejada
@@ -3527,6 +3587,7 @@ UsefulNotes/NintendoEntertainmentSystem	BrNotasUteis/NintendoEntertainmentSystem
 UsefulNotes/PrimeTime	BrNotasUteis/HorarioNobre
 UsefulNotes/ProfessionalWrestling	BrNotasUteis/LutaLivreProfissional
 UsefulNotes/QueenVictoria	BrNotasUteis/RainhaVictoria
+UsefulNotes/SpanishCivilWar	BrNotasUteis/GuerraCivilEspanhola
 UsefulNotes/TVStrikes	BrNotasUteis/GrevesNoMeioTelevisivo
 UsefulNotes/TheCrusades	BrNotasUteis/AsCruzadas
 UsefulNotes/TheGreatVideoGameCrashOf1983	BrNotasUteis/CriseDosVideogamesDe1983
@@ -3544,6 +3605,7 @@ ValuesDissonance	Br/DissonanciaDeValores
 VanillaUnit	Br/UnidadePadrao
 VasquezAlwaysDies	Br/VasquezSempreMorre
 VegetarianForADay	Br/VegetarianoPorUmDia
+VerbalTic	Br/TiqueVerbal
 VeryLooselyBasedOnATrueStory	Br/VagamenteBaseadoEmUmaHistoriaReal
 VestigialEmpire	Br/ImperioResidual
 ViceCity	Br/CidadeDosVicios
@@ -3632,6 +3694,7 @@ WesternAnimation/KuboAndTheTwoStrings	BrAnimacaoOcidental/KuboEAsCordasMagicas
 WesternAnimation/MickeyMouse	BrAnimacaoOcidental/MickeyMouse
 WesternAnimation/OswaldTheLuckyRabbit	BrAnimacaoOcidental/OswaldoOCoelhoSortudo
 WesternAnimation/RickAndMorty	BrAnimacaoOcidental/RickEMorty
+WesternAnimation/SpongeBobSquarePants	BrAnimacaoOcidental/BobEsponjaCalcaQuadrada
 WesternAnimation/TheJetsons	BrAnimacaoOcidental/OsJetsons
 WesternAnimation/TheLEGOMovie	BrAnimacaoOcidental/UmaAventuraLego
 WesternAnimation/TheLegendOfKorra	BrAnimacaoOcidental/ALendaDeKorra
@@ -3641,6 +3704,7 @@ WhamEpisode	Br/AqueleEpisodio
 WhamLine	Br/AquelaFrase
 WhatASenselessWasteOfHumanLife	Br/QueDesperdicioInutilDeVidaHumana
 WhatCouldHaveBeen	Br/OQuePoderiaTerSido
+WhatDoYouMeanItsNotDidactic	Br/ComoAssimNaoEDidatico
 WhatDoYouMeanItsNotForKids	Br/ComoAssimNaoEParaCriancas
 WhatHappenedToTheMouse	Br/MasOQueHouveComORato
 WhatIsEvil	Br/OQueEOMal
@@ -3649,6 +3713,7 @@ WhatTheHellHero	Br/QueMerdaEEssaHeroi
 WhatTheHellPlayer	Br/QueMerdaEEssaJogador
 WheelchairWoobie	Br/CoitadinhoCadeirante
 WhenAllYouHaveIsAHammer	Br/QuandoTudoQueSeTemEUmMartelo
+WhereAreTheyNowEpilogue	Br/EpilogoDeOndeElesEstaoAgora
 WhereTheHellIsSpringfield	Br/OndeRaiosFicaSpringfield
 WhereTheMagicWent	Br/ParaOndeFoiAMagia
 WhiteIsPure	Br/BrancoEPuro
@@ -3694,6 +3759,7 @@ WoobieOfTheWeek	Br/CoitadinhoDaSemana
 WoobieSpecies	Br/EspecieDeCoitadinhos
 WoodenShipsAndIronMen	Br/NaviosDeMadeiraEHomensDeFerro
 WordOfGod	Br/PalavraDeDeus
+WordSaladHumor	Br/HumorSaladaDeFrutas
 WordSequel	Br/SequenciaComPalavra
 WorkingClassHero	Br/HeroiDaClasseTrabalhadora
 WorkingTitle	Br/TituloTemporario
@@ -3747,6 +3813,7 @@ YouCouldHaveUsedYourPowersForGood	Br/VocePoderiaTerUsadoSeusPoderesParaOBem
 YouFool	Br/SeuTolo
 YouHaveGotToBeKiddingMe	Br/VoceSoPodeEstarDeBrincadeira
 YouJustToldMe	Br/VoceAcabouDeMeDizer
+YouKilledMyFather	Br/VoceMatouMeuPai
 YouMeddlingKids	Br/SuasCriancasEnxeridas
 YouMustBeCold	Br/VoceDeveEstarComFrio
 YouRebelScum	Br/SuaEscoriaRebelde
@@ -3766,68 +3833,6 @@ ZeroApprovalGambit	Br/GambitoDeZeroDeAprovacao
 ZerothLawRebellion	Br/RebeliaoDaLeiZero
 ZombieApocalypse	Br/ApocalipseZumbi
 ZombieApocalypseHero	Br/HeroiDoApocalipseZumbi
-TheOphelia	Br/AOfelia
-TheCuckoolanderWasRight	Br/OAvoadoEstavaCerto
-NightmareFuelStationAttendant	Br/FrentistaDoPostoDeCombustivelParaPesadelo
-GranolaGirl	Br/GarotaGranola
-Theatre/TheBirds	BrTeatro/AsAves
-ShooOutTheClowns	Br/EnxotarOsPalhacos
-TheMadHatter	Br/ChapeleiroMaluco
-WesternAnimation/SpongeBobSquarePants	BrAnimacaoOcidental/BobEsponjaCalcaQuadrada
-InsaneTrollLogic	Br/LogicaTrollInsana
-TalkativeLoon	Br/BirutaTagarela
-AxCrazy	Br/DoidoDePedra
-KingOfAllCosmos	Br/ReiDeTodoOCosmos
-SuccessThroughInsanity	Br/SucessoViaInsanidade
-WordSaladHumor	Br/HumorSaladaDeFrutas
-DadaComics	Br/DadaQuadrinhos
-SurrealHumor	Br/HumorSurreal
-Cloudcuckooland	Br/{{Cucolandia}}	Derivado de "As Aves", por Aristófanes.
-ThoseTwoGuys	Br/AquelesDoisCaras
-OnlySaneMan	Br/UnicaPessoaSa
-SarcasmBlind	Br/AlheioASarcasmo
-EasilyImpressed	Br/FacilmenteImpressionavel
-UsefulNotes/SpanishCivilWar	BrNotasUteis/GuerraCivilEspanhola
-Literature/TheIliad	BrLiteratura/{{Iliada}}
-Literature/TheDivineComedy	BrLiteratura/DivinaComedia
-Doorstopper	Br/PesoDePorta
-WhatDoYouMeanItsNotDidactic	Br/ComoAssimNaoEDidatico
-JustForFun/TropeOverdosed	BrApenasPorLazer/OverdoseDeTropos
-MiniSeries	Br/{{Minisserie}}
-CrossingTheDesert	Br/CruzarODeserto
-LoveTriangle	Br/TrianguloAmoroso
-DaddyHadAGoodReasonForAbandoningYou	Br/PapaiTeveUmBomMotivoPraTeAbandonar
-DisappearedDad	Br/PaiDesaparecido
-DisappearedDad	Br/PaiQueFoiComprarCigarro
-BadassAdorable	Br/FodaoAdoravel
-CoolPeopleRebelAgainstAuthority	Br/GenteBacanaSeRebelaContraAsAutoridades
-FlowerMotifs	Br/TemaFloral
-IHaveYourWife	Br/EuEstouComASuaEsposa
-ItsTheJourneyThatCounts	Br/EAJornadaQueConta	"É a jornada que conta".
-Neologism	Br/{{Neologismo}}
-SecretIdentity	Br/IdentidadeSecreta
-YouKilledMyFather	Br/VoceMatouMeuPai
-ProperlyParanoid	Br/AdequadamenteParanoico
-Gayngst	Br/{{Agaynia}}
-HeterosexualLifePartners	Br/ParceirosDeVidaHeterossexuais
-HoldingHands	Br/DeMaosDadas
-OnlyKnownByTheirNickname	Br/ConhecidoApenasPorSeuApelido
-CoolOldGuy	Br/CaraVelhoIrado
-RealNameAsAnAlias	Br/NomeRealComoPseudonimo
-WhereAreTheyNowEpilogue	Br/EpilogoDeOndeElesEstaoAgora
-NoPeriodsPeriod	Br/NadaDeMenstruacao	"Nada de menstruação".
-Futureshadowing	Br/{{Posnuncio}}
-MeaningfulRename	Br/TrocaDeNomeSignificativa
-TalkingToTheDead	Br/FalarComOsMortos
-UnusualChapterNumbers	Br/NumerosDeCapituloIncomuns
-AttractiveBentGender	Br/GeneroTrocadoAtraente
-RoaringRampageOfRevenge	Br/FurorViolentoDeVinganca
-TheAnnotatedEdition	Br/EdicaoAnotada
-RomanticFalseLead	Br/ParceiroRomanticoFalso
-RuthlessRooftops	Br/TelhadosTraicoeiros
-Cloudcuckoolanguage	Br/DialetoLunatico
-Cuckoosnarker	Br/LunaticoSarcastico
-PluckyComicRelief	Br/CorajosoAlivioComico	Derivado do filme "Heróis Fora de Órbita".
-BarefootLoon	Br/LunaticoDescalco
-ThirdPersonPerson	Br/PessoaEmTerceiraPessoa
-MrImagination	Br/SrImaginacao
+Neologizer	Br/{{Neologista}}
+TabletopRPG	Br/RPGDeMesa
+RamblingOldManMonologue	Br/MonologoDoVelhoResmungao

@@ -9555,6 +9555,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MugglePower: Muggles know about magic and take a stance about it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T232916Z" creationid="Luan" creationdate="20240610T232916Z">
+        <seg>* ??? MugglePower: Trouxas sabem da existência de magia e fazem algo a respeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MuggleWithADegreeInMagic: A muggle can't use magic, but still knows all about it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240610T223444Z" creationid="Luan" creationdate="20240610T223444Z">
@@ -10131,6 +10139,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T213537Z" creationid="Luan" creationdate="20240326T213537Z">
         <seg>* Br/EfeitosEspeciaisEncobertos: Se você deixar o público olhar os efeitos especiais muito de perto, eles podem perceber que eles não são tão bons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ObsessivelyNormal: Muggles try to come across as normal as possible and shun magic as a consequence.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T233045Z" creationid="Luan" creationdate="20240610T233045Z">
+        <seg>* Br/ObsessivamenteNormal: Trouxas tentam se passar por tão normais quanto possível e desprezam magia como consequência disso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11183,6 +11199,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* RecruitTheMuggles: Muggles join the fight against the supernatural villain.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T233148Z" creationid="Luan" creationdate="20240610T233148Z">
+        <seg>* Br/RecrutarOsTrouxas: Trouxas se juntam à luta contra o vilão sobrenatural.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* RecycledScript: A TV show copies a script from another one.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231216T212006Z" creationid="Luan" creationdate="20231216T212006Z">
@@ -11303,6 +11327,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165635Z" creationid="Luan" creationdate="20240314T165635Z">
         <seg>* Br/ReformadoMasNaoDomado: Um personagem vilanesco passa para o lado bom, mas retém algumas de suas características negativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RefreshinglyNormalLifeChoice: A Non-Muggle prefers living like one.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240610T233959Z" creationid="Luan" creationdate="20240610T233959Z">
+        <seg>* Br/OptarPelaRevigoranteVidaNormal: Um não-trouxa prefere viver como um.</seg>
       </tuv>
     </tu>
     <tu>

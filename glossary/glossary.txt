@@ -3824,3 +3824,4 @@ AttractiveBentGender	Br/GeneroTrocadoAtraente
 RoaringRampageOfRevenge	Br/FurorViolentoDeVinganca
 TheAnnotatedEdition	Br/EdicaoAnotada
 RomanticFalseLead	Br/ParceiroRomanticoFalso
+RuthlessRooftops	Br/TelhadosTraicoeiros

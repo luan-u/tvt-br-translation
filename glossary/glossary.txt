@@ -734,6 +734,7 @@ CutAndPasteSuburb	Br/PeriferiaDeCopiaECola
 CuteBruiser	Br/BrutaFofinha
 CuteLittleFangs	Br/PequenasPresasFofas
 CutenessProximity	Br/ProximidadeDaFofura
+CuteSlimeMook	Br/CapangaSlimeFofinho
 CutesyNameTown	Br/CidadeComNomeFofo
 CutsceneDrop	Br/DeslocamentoDeCinematica
 CutsceneIncompetence	Br/IncompetenciaDeCinematica
@@ -3869,3 +3870,10 @@ RecruitTheMuggles	Br/RecrutarOsTrouxas
 RefreshinglyNormalLifeChoice	Br/OptarPelaRevigoranteVidaNormal
 UnSorcerer	Br/NaoFeiticeiro
 UnwittingMuggleFriend	Br/AmigoTrouxaInvoluntario
+YouCantFightFate	Br/VoceNaoPodeEnfrentarODestino
+NothingCanSaveUsNow	Br/NadaPodeNosSalvarAgora
+Br/FateWorseThanDeath	Br/DestinoPiorQueAMorte
+DynamicEntry	Br/EntradaDinamica
+CurbStompBattle	Br/BatalhaDeUmTimeSo
+JustInTime	Br/BemNaHora
+MisfitMobilizationMoment	Br/MomentoDeMobilizacaoDosDesajustados

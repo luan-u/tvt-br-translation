@@ -3884,3 +3884,16 @@ VillainousRescue	Br/ResgateVilanico
 TheCavalryArrivesLate	Br/ACavalariaChegaTarde
 YouAreTooLate	Br/VoceChegouTardeDemais
 IGotYouCovered	Br/TeDouCobertura
+BigDamnHeroes	Br/MalditosHerois
+DownToTheLastPlay	Br/AteAUltimaJogada
+RememberedTooLate	Br/LembrouTardeDemais
+BedouinRescueService	Br/BeduinosServicoDeResgate
+ChainOfPeople	Br/CorrenteDePessoas
+ConvenientlyTimedAttackFromBehind	Br/AtaquePorTrasConvenientementeExecutado
+CooldownHug	Br/AbracoTranquilizante
+DesperateObjectCatch	Br/AparadaDesesperadaDeObjeto
+DropTheCow	Br/DerrubarAVaca
+ForgottenSuperweapon	Br/SuperArmaEsquecida
+GiantFlyer	Br/VoadorGigante
+GunshipRescue	Br/ResgatePorCaca
+InstantCooldown	Br/ResfriamentoInstantaneo

@@ -3897,3 +3897,15 @@ ForgottenSuperweapon	Br/SuperArmaEsquecida
 GiantFlyer	Br/VoadorGigante
 GunshipRescue	Br/ResgatePorCaca
 InstantCooldown	Br/ResfriamentoInstantaneo
+LaserGuidedBroadcast	Br/TransmissaoTeleguiada
+LastSecondShowoff	Br/ExibicaoDeUltimoSegundo
+LetsGetDangerous	Br/VamosFicarPerigosos
+MagicCountdown	Br/ContagemRegressivaMagica
+MemoryGambit	Br/GambitoDaMemoria
+MobileMenace	Br/AmeacaMovel
+NoTimeToThink	Br/SemTempoParaPensar
+ScottyTime	Br/FusoScotty
+SuspiciouslySpecificSermon	Br/SermaoMuitoEspecifico
+ThirdPartyStopsAttack	Br/UmTerceiroImpedeOAtaque
+UnconventionalCourtroomTactics	Br/TaticasIncomunsDeTribunal
+ThwartedCoupDeGrace	Br/GolpeDeMisericordiaFrustrado

@@ -17887,6 +17887,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>--&gt;-- ''Series/{{Firefly}}'', [[Recap/FireflyE05Safe "Safe"]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T000940Z" creationid="Luan" creationdate="20240611T000940Z">
+        <seg>--&gt;-- ''BrSerie/{{Firefly}}'', "Safe"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>--&gt;-- ''Series/{{Lost}}''</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231212T222450Z" creationid="Luan" creationdate="20231212T222450Z">
@@ -18323,6 +18331,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231213T202107Z" creationid="Luan" creationdate="20231213T202107Z">
         <seg>Um Canalha Manipulador que mistura a manipulação pessoal com [[Br/OMestreEnxadrista esquemas complicados]], [[Br/JogosMentaisCriminosos jogos mentais]] e [[Br/SorrisoPsicotico expressões faciais suficientemente assustadoras]] -- tudo isso enquanto mantém o estilo -- pode ser promovido a Br/CanalhaMagnifico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A RagtagBunchOfMisfits will often have a MisfitMobilizationMoment before becoming the Big Damn Heroes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T001645Z" creationid="Luan" creationdate="20240611T001645Z">
+        <seg>O Br/BandoDeDesajustados geralmente passará por um Br/MomentoDeMobilizacaoDosDesajustados antes de se tornarem os malditos heróis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19385,6 +19401,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Any time {{the hero}}es[=/=]{{anti hero}}es get to save the day in a big, awesome manner.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T001025Z" creationid="Luan" creationdate="20240611T001025Z">
+        <seg>O momento em que Br/OHeroi[=/=]Br/AntiHeroi chega para salvar o dia de maneira grandiosa e incrível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Any victories they manage to win over the forces of this world are likely to be {{Pyrrhic|Victory}} in nature.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T180536Z" creationid="Luan" creationdate="20240103T180536Z">
@@ -19397,6 +19421,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T213245Z" creationid="Luan" creationdate="20240326T213245Z">
         <seg>Qualquer um que seja mais velho ou mais novo é inútil ou é um fardo -- e, convenientemente, a faixa etária específica é similar à do público alvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Appears we got here just in the nick of time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T000724Z" creationid="Luan" creationdate="20240611T000724Z">
+        <seg>Parece que chegamos aqui bem na hora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21324,6 +21356,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T173931Z" creationid="Luan" creationdate="20240326T173931Z">
         <seg>Por exemplo:
 # Estereótipos "negativos" como Br/FiqueNaCozinha não se enquadram porque, apesar de evitados atualmente, ainda é comum ver eles sendo usados da maneira típica com o conjunto completo de Br/ImplicacoesInfelizes ou invocado através da Br/DissonanciaDeValoresDeliberada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For instance, say that the poor DamselInDistress is looking her {{fate|WorseThanDeath}} dead in the face, and is [[YouCantFightFate seemingly resigned]] to it, because it seems that NothingCanSaveUsNow… and then, ''boom''!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T001328Z" creationid="Luan" creationdate="20240611T001328Z">
+        <seg>Por exemplo, digamos que a pobre Br/DonzelaEmPerigo está encarando o seu Br/DestinoPiorQueAMorte, tendo aparentemente [[Br/VoceNaoPodeEnfrentarODestino se resignado]] a isso, porque Br/NadaPodeNosSalvarAgora... e então, BAM!</seg>
       </tuv>
     </tu>
     <tu>
@@ -23911,6 +23951,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231231T010234Z" creationid="Luan" creationdate="20231231T010234Z">
         <seg>BrApenasPorLazer/NaoConfundirCom Br/FreudEstavaCerto e Br/TodaPsicologiaEFreudiana (ou qualquer um dos outros tropos para os quais o BrNotasUteis/SigmundFreud é o Br/NomeadorDeTropo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JustInTime.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T001524Z" creationid="Luan" creationdate="20240611T001524Z">
+        <seg>Br/BemNaHora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27864,6 +27912,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The heroes [[DynamicEntry kick down the door]] and proceed to [[CurbStompBattle stomp the bad guys into the ground]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T001454Z" creationid="Luan" creationdate="20240611T001454Z">
+        <seg>Os heróis [[Br/EntradaDinamica derrubam a porta com um chute]] e [[Br/BatalhaDeUmTimeSo aniquilam os malvados]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The heroes will have to face them again, and they know it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231212T012101Z" creationid="Luan" creationdate="20231212T012101Z">
@@ -30892,6 +30948,18 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What does that make us?\\
+'''Zoe:''' Big damn heroes, sir!\\
+'''Mal:''' Ain't we just.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T000917Z" creationid="Luan" creationdate="20240611T000917Z">
+        <seg>O que isso nos torna?\\
+'''Zoe:''' Malditos heróis, senhor!\\
+'''Mal:''' É isso aí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What does that remind you of?"''
 --&gt;-- '''Creator/BritMarling''', ''[[https://www.nytimes.com/2020/02/07/opinion/sunday/brit-marling-women-movies.html New York Times]]''</seg>
       </tuv>
@@ -32588,6 +32656,18 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T173849Z" creationid="Luan" creationdate="20240103T173738Z">
         <seg>[[quoteright:349:[[BrQuadrinhos/JuizDredd https://static.tvtropes.org/pmwiki/pub/images/crapsack.png]]]]
 [[caption-width-right:349:E essa fila é apenas pra quem [[Br/AtravessarForaDaFaixaVaiArruinarSuaVida atravessou fora da faixa]]...]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[quoteright:349:[[Series/{{Firefly}} https://static.tvtropes.org/pmwiki/pub/images/bdh.png]]]]
+%%
+-&gt;'''Mal:''' Well, look at this!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T000708Z" creationid="Luan" creationdate="20240611T000652Z">
+        <seg>[[quoteright:349:[[Series/{{Firefly}} https://static.tvtropes.org/pmwiki/pub/images/bdh.png]]]]
+%%
+-&gt;'''Mal:''' Ei, olha só!</seg>
       </tuv>
     </tu>
     <tu>

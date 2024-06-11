@@ -3880,3 +3880,7 @@ MisfitMobilizationMoment	Br/MomentoDeMobilizacaoDosDesajustados
 EstablishingCharacterMoment	Br/MomentoDeEstabelecimentoDePersonagem
 RoaringRampageOfRescue	Br/FurorViolentoDeResgate
 LastStand	Br/ResistenciaFinal
+VillainousRescue	Br/ResgateVilanico
+TheCavalryArrivesLate	Br/ACavalariaChegaTarde
+YouAreTooLate	Br/VoceChegouTardeDemais
+IGotYouCovered	Br/TeDouCobertura

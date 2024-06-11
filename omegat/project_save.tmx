@@ -8437,6 +8437,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LaserGuidedBroadcast
+* LastSecondShowoff: When a character waits to perform a task because they know they can get it done at the last second.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T004940Z" creationid="Luan" creationdate="20240611T004940Z">
+        <seg>* Br/TransmissaoTeleguiada
+* Br/ExibicaoDeUltimoSegundo: o personagem aguarda para executar uma tarefa porque sabe que consegue fazer isso no último momento possível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LastFertileRegion: The last bit of nature and greenery in a wasteland dystopia.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T223441Z" creationid="Luan" creationdate="20240131T223441Z">
@@ -8537,6 +8547,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T183158Z" creationid="Luan" creationdate="20240221T183158Z">
         <seg>* Br/CulinariaLetal: Um restaurante que viola o regulamento sanitário de maneiras assombrosas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* LetsGetDangerous: The moment a bumbling or comedic hero gets serious and demonstrates the magnitude of their true competence.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T005008Z" creationid="Luan" creationdate="20240611T005008Z">
+        <seg>* Br/VamosFicarPerigosos: o momento que um heroi cômico fica sério e demonstra o nível de sua real competência.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8903,6 +8921,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MagicCountdown: Time flows differently on time counters currently not onscreen or discussed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T005029Z" creationid="Luan" creationdate="20240611T005029Z">
+        <seg>* Br/ContagemRegressivaMagica: o tempo passa de maneira diferente em contadores regressivos que não estejam na tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MagicalAsian: A wise Asian mentors a usually white character.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240320T143228Z" creationid="Luan" creationdate="20240320T143155Z">
@@ -9195,6 +9221,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MemoryGambit: Temporarily sacrificing your own memories for tactical advantage.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T005044Z" creationid="Luan" creationdate="20240611T005044Z">
+        <seg>* Br/GambitoDaMemoria: temporariamente sacrificar as próprias memórias para ter vantagem tática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MenGetOldWomenGetReplaced: The female characters in a story either retire or become [[TheAgeless ageless]] at some point before their beauty starts to fade.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240327T191956Z" creationid="Luan" creationdate="20240327T191956Z">
@@ -9307,6 +9341,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MisfitMobilizationMoment: When the dysfunctional misfits stop being dysfunctional misfits.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T005103Z" creationid="Luan" creationdate="20240611T005103Z">
+        <seg>* Br/MomentoDeMobilizacaoDosDesajustados: quando os desajustados disfuncionais deixam de o ser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MishmashMuseum: A museum with no apparent rhyme or reason to the ways its exhibits are laid out.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T184215Z" creationid="Luan" creationdate="20240221T184215Z">
@@ -9385,6 +9427,18 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T192506Z" creationid="Luan" creationdate="20240131T192506Z">
         <seg>* Br/LabirintoMovel: Um labirinto que muda ([[Br/GeniusLoci a si mesmo]]) para que seja difícil ou impossível de escapar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MobileMenace
+* NoTimeToThink
+* NotTooDeadToSaveTheDay: Dead or "dead" person comes back just in time to save the day.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T005145Z" creationid="Luan" creationdate="20240611T005145Z">
+        <seg>* Br/AmeacaMovel
+* Br/SemTempoParaPensar
+* Br/NaoEstouMortoDemaisParaSalvarODia: Pessoa "morta" volta no momento certo para salvar o dia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11927,6 +11981,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SaveSat: A satellite crashing down onto someone/something on the nick of time has a beneficial/defensive effect.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T005234Z" creationid="Luan" creationdate="20240611T005231Z">
+        <seg>* ??? SaveSat: Um satélite que cai/colide em algo no último instante possível para ter um efeito benéfico ou defensivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SavedForTheSequel: Plot element left to be developed in the sequel.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145435Z" creationid="Luan" creationdate="20240105T145435Z">
@@ -12045,6 +12107,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240410T190939Z" creationid="Luan" creationdate="20240410T190939Z">
         <seg>* Br/TranstornoMemeticoDeAspectoCientifico: Atos relacionados à ciência retratados como compulsão psicológica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ScottyTime: You have much less time than you need to get the job done.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T005259Z" creationid="Luan" creationdate="20240611T005259Z">
+        <seg>* Br/FusoScotty: você tem muito menos tempo do que o necessário para fazer o serviço.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13445,6 +13515,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SuspiciouslySpecificSermon: Religious service is oddly plot relevant.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T005335Z" creationid="Luan" creationdate="20240611T005335Z">
+        <seg>* Br/SermaoMuitoEspecifico: O culto religioso é estranhamente relevante para a trama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SwampsAreEvil: Swamps are out to kill you.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T222220Z" creationid="Luan" creationdate="20240124T222220Z">
@@ -13537,6 +13615,27 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240402T194113Z" creationid="Luan" creationdate="20240402T194113Z">
         <seg>* Br/TabacoAdulterado: Quando alguém dá uma mexida nas ervas de fumo de outro alguém.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TakeMyHand
+* TakingTheBullet
+* ThirdPartyStopsAttack
+* ThwartedCoupDeGrace
+* UnconventionalCourtroomTactics
+* VillainousRescue
+[[/index]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T005653Z" creationid="Luan" creationdate="20240611T005653Z">
+        <seg>* Br/SeguraMinhaMao
+* Br/LevandoOTiro
+* Br/UmTerceiroImpedeOAtaque
+* Br/GolpeDeMisericordiaFrustrado
+* Br/TaticasIncomunsDeTribunal
+* Br/ResgateVilanico
+[[/index]]
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -18737,6 +18836,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T172128Z" creationid="Luan" creationdate="20231215T172128Z">
         <seg>Um autor que esteja Br/ArmadoComOCanone pode usar o ''retcon'' como parte de uma ofensiva lançada contra outro autor do mesmo Br/UniversoCompartilhado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A scene ensues that shows them preparing for action.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T005111Z" creationid="Luan" creationdate="20240611T005111Z">
+        <seg>Segue-se uma cena para mostrar que eles estão se preparando para a ação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28834,6 +28941,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240417T203331Z" creationid="Luan" creationdate="20240417T203331Z">
         <seg>Aí ele tem um chilique e foge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then it gets done.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T005302Z" creationid="Luan" creationdate="20240611T005302Z">
+        <seg>E então consegue.</seg>
       </tuv>
     </tu>
     <tu>

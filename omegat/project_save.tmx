@@ -2828,6 +2828,20 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BigDamnHeroes
+* TheCavalry
+* ChainOfPeople
+* ChangedMyMindKid: Friend abandons hero, then saves them at the last moment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T004257Z" creationid="Luan" creationdate="20240611T004234Z">
+        <seg>* Br/MalditosHerois
+* Br/ACavalaria
+* Br/CorrenteDePessoas
+* Br/MudeiDeIdeiaGaroto: O amigo abandona o heroi, mas o salva no último momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BigDamnHeroes: Good guys save the day at the right time.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T175724Z" creationid="Luan" creationdate="20240319T175724Z">
@@ -4017,6 +4031,18 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ConvenientlyTimedAttackFromBehind
+* CooldownHug
+* DesperateObjectCatch: A dramatic catch of a falling object (usually something that means bad news if it hits the floor).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T004448Z" creationid="Luan" creationdate="20240611T004448Z">
+        <seg>* Br/AtaquePorTrasConvenientementeExecutado
+* Br/AbracoTranquilizante
+* Br/AparadaDesesperadaDeObjeto: aparar de modo dramático um objeto que cai (usualmente significa algo ruim se acertar o chão).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Conversely, a show which is based on a coherent story arc [[ArcFatigue fails to make changes that would resolve -- or even progress -- the story]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T201117Z" creationid="Luan" creationdate="20231210T201117Z">
@@ -4649,6 +4675,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* DeusExMachina: When something happens just in time to help the good guys without any prior set-up justifying it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T004458Z" creationid="Luan" creationdate="20240611T004458Z">
+        <seg>* Br/DeusExMachina: quando algo acontece na hora certa para ajudar os bonzinhos sem nenhum evento prévio para justificar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* DevilInPlainSight: Hermógenes, maybe because [[AnachronicOrder we already know he is going to kill Joca Ramiro before his first appearance]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240417T201948Z" creationid="Luan" creationdate="20240417T201948Z">
@@ -4865,6 +4899,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T153040Z" creationid="Luan" creationdate="20240125T153040Z">
         <seg>* Br/CinemaDriveIn: Sente no carro e aproveite o show.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DropTheCow: Breaking a lull in the plot with a spontaneous, silly event.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T004516Z" creationid="Luan" creationdate="20240611T004516Z">
+        <seg>* Br/DerrubarAVaca: quebrar um momento calmo na trama com um evento espontâneo e esquisito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5677,6 +5719,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ForgottenSuperweapon: A powerful weapon that characters resort to much later than they logically should have.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T004538Z" creationid="Luan" creationdate="20240611T004538Z">
+        <seg>* Br/SuperArmaEsquecida: uma arma poderosa que o personagem resolve usar muito depois do que deveria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* FoulBallPit: Filthy and/or dangerous fast-food playgrounds.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T133653Z" creationid="Luan" creationdate="20240202T133653Z">
@@ -6003,6 +6053,24 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T134159Z" creationid="Luan" creationdate="20240202T134159Z">
         <seg>* Br/MundoDeCadaverGigante: Uma ambientação em que as pessoas vivem sobre (ou dentro de) um cadáver gigante em decomposição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* GiantFlyer
+* GunshipRescue
+* HeroicSacrifice
+* HorsebackHeroism
+* IGotYouCovered
+* InstantCooldown: Turning off a critical reactor magically fixes all its problems, with no aftermath to deal with.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T004742Z" creationid="Luan" creationdate="20240611T004742Z">
+        <seg>* Br/VoadorGigante
+* Br/ResgatePorCaca
+* Br/SacrificioHeroico
+* Br/HeroismoMontadoACavalo
+* Br/TeDouCobertura
+* Br/ResfriamentoInstantaneo: desligar um reator em estado crítico magicamente conserta todos os problemas sem consequências para lidar depois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18107,6 +18175,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>-&gt;''"Simmons, you get an F in efficiency, but I have to give you an A+ in dramatic timing!"''
+--&gt;-- '''Sarge''', ''WebAnimation/RedVsBlue''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T003749Z" creationid="Luan" creationdate="20240611T003717Z">
+        <seg>-&gt;''"Simmons, você leva zero em eficiência, mas devo te dar um dez em momento dramático!"''
+--&gt;-- '''Sarge''', ''BrAnimacaoWeb/RedVsBlue''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>-&gt;''"So much has been done -- more, far more, will I achieve: treading in the steps already marked, I will pioneer a new way, explore unknown powers, and unfold to the world the deepest mysteries of creation..."''
 --&gt;-- '''[[TropeCodifier Victor Frankenstein]]''', ''Literature/{{Frankenstein}}''</seg>
       </tuv>
@@ -18347,6 +18425,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T230153Z" creationid="Luan" creationdate="20231214T230153Z">
         <seg>Uma Br/JornadaDeRedencao costuma ser considerada a maneira mais nobre e moral de responder a isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A SisterTrope to BigDamnHeroes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T003926Z" creationid="Luan" creationdate="20240611T003926Z">
+        <seg>Um Br/TropoIrmao para Br/MalditosHerois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18679,6 +18765,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A sports variety is DownToTheLastPlay.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T003948Z" creationid="Luan" creationdate="20240611T003948Z">
+        <seg>A variante esportiva é Br/AteAUltimaJogada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A story with the Woobie allows the audience to vicariously experience relief from some pain by fantasizing about relieving the Woobie's pain.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240228T135858Z" creationid="Luan" creationdate="20240228T135858Z">
@@ -18929,6 +19023,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also not related to WesternAnimation/DudleyDoRight, who occasionally had the [[RunningGag gag actor name]] "Justin Time".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T004042Z" creationid="Luan" creationdate="20240611T004042Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also note that before you add an example here (especially under Real Life), loopholes are different than exemptions and provisions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240301T145456Z" creationid="Luan" creationdate="20240301T145223Z">
@@ -19021,6 +19123,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231209T144043Z" creationid="Luan" creationdate="20231209T144043Z">
         <seg>Alternativamente, um [[Br/{{Hipocondria}} hipocondríaco]] será progressivamente retratado como estando de fato doente (neuroticismo opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alternately, the [[MagneticHero hero]] is in dire straits until TheCavalry and his [[CharacterMagneticTeam ragtag band]] of [[FireForgedFriends acquired friends]] arrive to save the day.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T003909Z" creationid="Luan" creationdate="20240611T003909Z">
+        <seg>Alternativamente o [[Br/HeroiMagnetico heroi]] está em apuros até que chega  Br/ACavalaria e o grupo improvisado de amigos para salvar o dia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20501,6 +20611,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contrast YouAreTooLate, RememberedTooLate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T004033Z" creationid="Luan" creationdate="20240611T004033Z">
+        <seg>Contrastar com Br/VoceChegouTardeDemais e Br/LembrouTardeDemais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contrast the aforementioned LaserGuidedKarma, when the villain's comeuppance hits at an incredibly opportune moment and is directly traceable to their transgression; KarmaHoudiniWarranty, when the comeuppance only happens in a sequel; and KarmicDeath, when the comeuppance leads to the villain's death.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T151245Z" creationid="Luan" creationdate="20231220T151245Z">
@@ -20585,6 +20703,15 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T000533Z" creationid="Luan" creationdate="20240105T000533Z">
         <seg>Criadores podem não perceber que, se nós queremos sequências, então queremos que a história avance ao invés de se repetir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cue TheHero, standing all cool-like, deflecting the FinishingMove and saying "[[BondOneLiner Sorry I'm late]]" for effect.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T003839Z" creationid="Luan" creationdate="20240611T003839Z">
+        <seg>Entra Br/OHeroi, com sua pose imponente, desviando o Ataque Fatal e dizendo "foi mal pela demora" para adicionar efeito.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -22692,6 +22819,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T170408Z" creationid="Luan" creationdate="20231220T170408Z">
         <seg>Se você está em uma história assim, não atravesse fora da faixa, e nem sequer ''[[Br/CrimeDePensamento pense]]'' em atravessar fora da faixa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you're looking for animated television series seen on Creator/PBSKidsSprout or [[Creator/DisneyChannel Disney Junior]] depending on where you live, [[WesternAnimation/JustinTime2011 go here]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T004047Z" creationid="Luan" creationdate="20240611T004047Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -24915,6 +25050,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240222T135049Z" creationid="Luan" creationdate="20240222T135049Z">
         <seg>Isso nunca é tão trágico ou frustrante quanto as ocasiões em que [[Br/MeuMestreCertoOuErrado esse decreto ou senhor ordena que o personagem faça algo que ele considere tolo, cruel ou auto-destrutivo]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No relation to the eponymous time-traveller, Justin Time (which is just a pun on the term).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T004038Z" creationid="Luan" creationdate="20240611T004038Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -28566,6 +28709,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TheDragon or perhaps the BigBad himself have them cornered, their heaviest hitters worn out.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T003820Z" creationid="Luan" creationdate="20240611T003820Z">
+        <seg>Br/ODragao ou talvez o próprio [[Br/OMalzao Malvadão]] os encurralou, e seus mais fortes integrantes já estão cansados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>TheWonka may well feel like this (or be this!) in a world that doesn't follow his thinking.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T020423Z" creationid="Luan" creationdate="20231220T020423Z">
@@ -28578,6 +28729,15 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T225921Z" creationid="Luan" creationdate="20231210T225921Z">
         <seg>Os colegas de elenco costumam ficar ressentidos com isso e isso aparece na tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Their enemy is just about to unleash an attack that will no doubt kill them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T003828Z" creationid="Luan" creationdate="20240611T003828Z">
+        <seg>O inimigo está prestes a lançar um ataque que, sem dúvidas, vai matá-los.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -29388,6 +29548,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231103T210139Z" creationid="Luan" creationdate="20231103T210139Z">
         <seg>Eles fazem o que quer que seja mais prudente para chegar ao objetivo desejado, não importa quem eles precisem machucar ao longo do caminho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They're in deep trouble.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T003759Z" creationid="Luan" creationdate="20240611T003759Z">
+        <seg>Eles estão encrencados até o pescoço.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31876,6 +32044,20 @@ Contrast with {{Unishment}} (a punishment that isn't a punishment at all) and Re
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T143005Z" creationid="Luan" creationdate="20240104T143005Z">
         <seg>[[AC:Outros:]]
 Contrastar com ??? {{Unishment}} (uma punição que não é realmente uma punição) e Br/VingancaComedida (uma retribuição que é menos severa do que é pretendida ao invés de apenas perdoar a pessoa em questão).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[AC:[[SubTrope Sub-Tropes]]:]]
+[[index]]
+* AlwaysClose
+* BedouinRescueService: Our heroes are lost in the wild and get rescued by a group of traveling natives.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T004205Z" creationid="Luan" creationdate="20240611T004205Z">
+        <seg>!!Sub-tropos:
+[[index]]
+* Br/SemprePorPouco
+* Br/BeduinosServicoDeResgate: Os herois estão perdidos na selva/deserto/etc e são resgatados por um grupo de viajantes nativos.</seg>
       </tuv>
     </tu>
     <tu>

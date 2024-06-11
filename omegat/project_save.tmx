@@ -18353,8 +18353,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>A SisterTrope to GunshipRescue, IGotYouCovered, HorsebackHeroism, JustInTime, or even ChangedMyMindKid.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T002809Z" creationid="Luan" creationdate="20240611T002809Z">
-        <seg>Um Br/TropoIrmao para ??? GunshipRescue, Br/HeroismoMontadoACavalo, Br/BemNaHora e também Br/MudeiDeIdeiaGaroto.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T003220Z" creationid="Luan" creationdate="20240611T002809Z">
+        <seg>Um Br/TropoIrmao para ??? GunshipRescue, Br/TeDouCobertura, Br/HeroismoMontadoACavalo, Br/BemNaHora e também Br/MudeiDeIdeiaGaroto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20253,6 +20253,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Compare TheCavalry (it's the heroes saved in the nick of time), ContrivedCoincidence, BadGuysDoTheDirtyWork (otherwise known as Big Damn Villains), VillainousRescue (when the villains are like this trope) and HellYesMoment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T002949Z" creationid="Luan" creationdate="20240611T002949Z">
+        <seg>Comparar com Br/ACavalaria, Br/CoincidenciaConveniente, Br/AlguemTemQueFazerOTrabalhoSujo e Br/ResgateVilanico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Compare TheNeedsOfTheMany, BotheringByTheBook, the LiteralGenie, GoneHorriblyRight, ExactWords and LoopholeAbuse.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240222T140800Z" creationid="Luan" creationdate="20240222T140800Z">
@@ -20481,6 +20489,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231231T005906Z" creationid="Luan" creationdate="20231231T005906Z">
         <seg>Contrastar com Br/AEducacaoFazOHeroi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contrast YouAreTooLate, NiceJobBreakingItHero, TheCavalryArrivesLate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240611T003025Z" creationid="Luan" creationdate="20240611T003025Z">
+        <seg>Contrastar Br/VoceChegouTardeDemais, Br/BomTrabalhoEstragandoTudoHeroi e Br/ACavalariaChegaTarde.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3877,3 +3877,6 @@ DynamicEntry	Br/EntradaDinamica
 CurbStompBattle	Br/BatalhaDeUmTimeSo
 JustInTime	Br/BemNaHora
 MisfitMobilizationMoment	Br/MomentoDeMobilizacaoDosDesajustados
+EstablishingCharacterMoment	Br/MomentoDeEstabelecimentoDePersonagem
+RoaringRampageOfRescue	Br/FurorViolentoDeResgate
+LastStand	Br/ResistenciaFinal

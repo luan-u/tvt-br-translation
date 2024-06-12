@@ -3935,3 +3935,4 @@ MagicallyBindingContract	Br/ContratoMagicamenteVinculativo
 LeonineContract	Br/ContratoLeonino
 LeonineContract	Br/ContratoAbusivo
 MadeOfTemptation	Br/FeitoDeTentacao
+DemonLordsAndArchdevils	Br/LordesDemoniacosEArquidiabos

@@ -3929,3 +3929,6 @@ GetRichQuickScheme	Br/EsquemaParaEnriquecerRapido
 ImpossibleTask	Br/TarefaImpossivel
 BlackMagic	Br/MagiaNegra
 BabyAsPayment	Br/BebeComoPagamento
+YourHeartsDesire	Br/OQueOSeuCoracaoDesejar
+LouisCypher	Br/LouisCypher
+MagicallyBindingContract	Br/ContratoMagicamenteVinculativo

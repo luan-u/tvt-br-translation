@@ -310,6 +310,30 @@ BrCriador/RobinLaws, em seu livro ''BrLiteratura/HamletsHitPoints'', identifica 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># Manipulate some tiny, arcane loophole or hire some RulesLawyer to render the contract null and void.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T173432Z" creationid="Luan" creationdate="20240612T173432Z">
+        <seg># Manipular alguma brecha arcana minúscula ou contratar um Br/JuristaDasRegras para anular o contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># Prove you'd already sold or given your soul to someone else, a la [[WesternAnimation/TheSimpsons Homer Simpson]] and [[WesternAnimation/SpongebobSquarepants Mr. Krabs]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T173406Z" creationid="Luan" creationdate="20240612T173406Z">
+        <seg># Provar que você já concedeu ou vendeu a alma a outrem, no melhor estilo [[BrAnimacaoOcidental/OsSimpsons Homer Simpson]] e [[BrAnimacaoOcidental/BobEsponjaCalcaQuadrada Seu Siriguejo]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># Seem a little ''too'' anxious to sell your soul.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T173030Z" creationid="Luan" creationdate="20240612T173030Z">
+        <seg># Parecer ansioso ''demais'' para vender sua alma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># They want the [[TropeEnjoymentLoophole audience to feel]] that the trope positively {{deconstruct|ion}}s, {{reconstruct|ion}}s or otherwise satisfactorily plays with an even more "undesirable" trope.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T172757Z" creationid="Luan" creationdate="20240326T172757Z">
@@ -362,6 +386,14 @@ BrCriador/RobinLaws, em seu livro ''BrLiteratura/HamletsHitPoints'', identifica 
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240612T173010Z" creationid="Luan" creationdate="20240612T173010Z">
         <seg># [[Br/MulheresSaoMaisInocentes Em versões cômicas, caso o demônio seja mulher]] -- geralmente um [[Br/CapangaQueLevouZeroEmMaldade demônio aprendiz que sempre falha]] -- obviamente ela vai ser extremamente atraente ou fofa (dependendo de como se usa Br/OMalELegal, Br/DiabolicamenteAtraente e Br/GarotaMonstroFofa), então [[Br/RomanceInterespecies por que não pedir que ela seja a sua namorada ou esposa]]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># [[Film/Bedazzled2000 Use one of the wishes, usually the last one, for a completely self-less wish]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T173835Z" creationid="Luan" creationdate="20240612T173835Z">
+        <seg># [[BrFilme/Endiabrado2000 Usar um dos desejos, geralmente o último, para um pedido altruísta]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -945,6 +977,23 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T192917Z" creationid="Luan" creationdate="20240104T192917Z">
         <seg>(Ou, pelo menos, um sistema bem intencionado.) Pode se sobrepor a Br/ProfeciaAutorrealizavel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Rarely successful, [[EvilLawyerJoke as Hell is full of lawyers after all]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T173536Z" creationid="Luan" creationdate="20240612T173536Z">
+        <seg>(Raramente dá certo, até mesmo porque [[Br/PiadaDeAdvogadoMalvado o inferno já está cheio de advogados]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(See the Music/FrankZappa example below)
+# [[HeelFaithTurn Turn to religion]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T173116Z" creationid="Luan" creationdate="20240612T173116Z">
+        <seg># [[Br/PassarParaOLadoDaFe Voltar-se para a religião]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -23638,6 +23687,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In these cases, you merely consecrate yourself to him; the demon only literally gets the soul after death.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T173247Z" creationid="Luan" creationdate="20240612T173247Z">
+        <seg>Nesses casos, você apenas se consagra a ele; o demônio só coleta a alma após a morte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this case he may show signs of TheHeart or MentorArchetype.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240301T224104Z" creationid="Luan" creationdate="20240301T224104Z">
@@ -25665,6 +25722,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T013931Z" creationid="Luan" creationdate="20231215T013931Z">
         <seg>É claro, as críticas não são necessariamente infalíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Of course, the devil ''has'' been in this business since day seven.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T173917Z" creationid="Luan" creationdate="20240612T173917Z">
+        <seg>É claro, o diabo está nesse ramo desde o sétimo dia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29218,6 +29283,16 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then again, TheDevilIsALoser, so outsmarting him is not impossible.)
+# [[RealityWarper Use the power you gain from the contract to change the entire system]], sometimes even [[TimeTravel retroactively]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T173736Z" creationid="Luan" creationdate="20240612T173736Z">
+        <seg>Por outro lado, Br/ODiaboEUmFracassado, então levar a melhor não é impossível.)
+# [[Br/DobradorDeRealidade Usar o poder obtido com o contrato para mudar o sistema inteiro]], às vezes até mesmo [[Br/ViagemNoTempo retroativamente]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then again, many foreign languages do not even have a translation for the word 'tropes'.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T150859Z" creationid="Luan" creationdate="20231214T150859Z">
@@ -29322,6 +29397,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There can be no benefit, at all, to the wisher, and usually the wishee can't have even known about the wish.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T173855Z" creationid="Luan" creationdate="20240612T173855Z">
+        <seg>Não podem haver benefícios a quem faz o pedido, e quem o atende não pode saber de antemão sobre ele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There is a way for an occurrence that is Too Rare To Trope to appear non-coincidentally in more than one work, and that's deliberate {{Shout Out}}s.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231102T184646Z" creationid="Luan" creationdate="20231102T184646Z">
@@ -29400,6 +29483,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T184446Z" creationid="Luan" creationdate="20231101T184446Z">
         <seg>Portanto, muito do sentimento de satisfação que se poderia esperar desses jogos vinha de superar a dificuldade apresentada por eles, ainda que servisse só para contar vantagem entre amigos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore, the only way the villain of the piece can expect to get out of the "accounts receivable" column is by [[HellHasNewManagement getting moved into the "owner's equity" column.]] Otherwise, expect the villain to get DraggedOffToHell upon their defeat or death.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T174440Z" creationid="Luan" creationdate="20240612T174440Z">
+        <seg>Portanto, o único jeito para o vilão sair da coluna de "valores a receber" é [[Br/Br/InfernoSobNovaDirecao passar para a coluna de "capital próprio"]]. Do contrário, o vilão certamente será Br/ArrastadoParaOInferno após sua derrota ou morte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32107,6 +32198,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240301T223110Z" creationid="Luan" creationdate="20240301T223110Z">
         <seg>A maioria deles é inabalavelmente leal, mas o que os impede de obter a [[Br/OLider liderança]] dentro do time é o fato de ser um Br/MusculoImbecil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While rarely used in fiction due to it being too quick a solution, there are many cases when a saint or mystic claimed they (or someone they knew) sold their soul to the devil and were saved by Jesus or the Virgin Mary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T173210Z" creationid="Luan" creationdate="20240612T173210Z">
+        <seg>Apesar de raramente usado em ficção devido a ser uma solução rápida demais, há muitos casos em que um santo ou ser místico alega que eles (ou alguém que conheceram) venderam a alma para o diabo e foram salvos por Jesus ou pela Virgem Maria.</seg>
       </tuv>
     </tu>
     <tu>

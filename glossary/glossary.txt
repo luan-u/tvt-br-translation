@@ -3956,3 +3956,9 @@ MinionWithAnFInEvil	Br/CapangaQueLevouZeroEmMaldade
 CuteMonsterGirl	Br/GarotaMonstroFofa
 InterspeciesRomance	Br/RomanceInterespecies
 HotAsHell	Br/DiabolicamenteAtraente
+HeelFaithTurn	Br/PassarParaOLadoDaFe
+EvilLawyerJoke	Br/PiadaDeAdvogadoMalvado
+TheDevilIsALoser	Br/ODiaboEUmFracassado
+Film/Bedazzled2000	BrFilme/Endiabrado2000
+HellHasNewManagement	Br/InfernoSobNovaDirecao
+DraggedOffToHell	Br/ArrastadoParaOInferno

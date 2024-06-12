@@ -1537,7 +1537,7 @@ HospitalTropes	Br/TroposDeHospital
 HospitalityForHeroes	Br/HospitalidadeAosHerois
 HotBlooded	Br/SangueQuente
 HotelTropes	Br/TroposDeHotel
-HotterAndSexier	Br/MaisAtraenteESexy
+HotterAndSexier	Br/MaisSexualEErotico
 HouseOfBrokenMirrors	Br/CasaDeEspelhosQuebrados
 HouseTropes	Br/TroposDeCasa
 HowWeGotHere	Br/ComoChegamosAqui
@@ -3439,6 +3439,7 @@ Tomorrowland	Br/TerraDoAmanha
 ToneShift	Br/MudancaDeTom
 TonightSomeoneDies	Br/EstaNoiteAlguemVaiMorrer
 TooBleakStoppedCaring	Br/SombrioDemaisParaMeImportar
+TooBleakStoppedCaring	Br/PesadoDemaisPareiDeMeImportar
 TooCoolToLive	Br/LegalDemaisParaViver
 TooDumbToFool	Br/BurroDemaisParaEnganar
 TooDumbToLive	Br/BurroDemaisParaViver

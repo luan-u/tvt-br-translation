@@ -20068,8 +20068,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>But whatever the service, whatever the offer, '''there is always a price.''' This price can be anything -- the Faust's soul, their conscience, [[BabyAsPayment their firstborn]], their loved ones, their voice, their eternal servitude, or even something that seems completely innocent -- but whatever the price, it's something that will render the Faust a lot worse off when it is paid, if not bring them to complete ruin.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T025719Z" creationid="Luan" creationdate="20240612T025719Z">
-        <seg>Mas qualquer que seja o serviço ou oferta, '''sempre há um preço a se pagar'''. Esse preço pode ser qualquer coisa -- a alma do Fausto, sua consciência, [[Br/BebeComoPagamento seu primogênito]], seus entes queridos, sua voz, sua servidão eterna, ou até mesmo algo que pareça ser completamente inócuo -- mas qualquer que seja o preço, é algo que vai sair muito caro ao Fausto, e talvez até mesmo arruiná-lo.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T155010Z" creationid="Luan" creationdate="20240612T025719Z">
+        <seg>Mas qualquer que seja o serviço ou oferta, '''sempre há um preço a se pagar'''. Esse preço pode ser qualquer coisa -- a alma do Fausto, sua consciência, [[Br/BebeComoPagamento seu primogênito]], seus entes queridos, sua voz, sua servidão eterna, ou até mesmo algo que pareça ser completamente inócuo -- é algo que vai sair muito caro ao Fausto, e talvez até mesmo arruiná-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25351,6 +25351,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T153251Z" creationid="Luan" creationdate="20231220T153251Z">
         <seg>Note também que a obra deve estar concluída para que um personagem possa se qualificar para este tropo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note that [[DemonLordsAndArchdevils actual devils]] [[LawfulEvil will always follow through with their end]], even if their end is a [[JackassGenie sinister bastardization of the terms]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T160231Z" creationid="Luan" creationdate="20240612T160231Z">
+        <seg>Note que os [[Br/LordesDemoniacosEArquidiabos demônios de verdade]] [[Br/LealEMau sempre cumprem a sua parte do trato]], mesmo que seja uma [[Br/GenioSacana perversão sinistra dos termos]].</seg>
       </tuv>
     </tu>
     <tu>

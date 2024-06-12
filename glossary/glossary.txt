@@ -3947,4 +3947,7 @@ MeaninglessVillainVictory	Br/VitoriaInutilDoVilao
 GroundhogDayLoop	Br/CicloDoDiaDaMarmota
 LogicBomb	Br/BombaLogica
 TheUndead	Br/MortoVivo
-AgeWithoutYouth	Br/EnvelhecerSemJuventude
+AgeWithoutYouth	Br/IdadeSemJuventude
+WhoWantsToLiveForever	Br/QuemQuerViverParaSempre
+TooSpicyForYogSothoth	Br/ApimentadoDemaisParaYogSothoth
+WowingCthulhu	Br/ImpressionandoCthulhu

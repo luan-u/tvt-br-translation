@@ -270,6 +270,14 @@ BrCriador/RobinLaws, em seu livro ''BrLiteratura/HamletsHitPoints'', identifica 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># If the contract was written, destroy the physical scroll or other material that the contract was written on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T030152Z" creationid="Luan" creationdate="20240612T030152Z">
+        <seg># Se o contrato foi feito por escrito, destrua o pergaminho ou qualquer que seja o item que tem o contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># They want the [[TropeEnjoymentLoophole audience to feel]] that the trope positively {{deconstruct|ion}}s, {{reconstruct|ion}}s or otherwise satisfactorily plays with an even more "undesirable" trope.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T172757Z" creationid="Luan" creationdate="20240326T172757Z">
@@ -20859,6 +20867,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T153418Z" creationid="Luan" creationdate="20240125T153418Z">
         <seg>Definitivamente não é o covil do Soberano do Mal!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Depending on the material and the devil's magic, this may not be as easy as it sounds, and then there's the problem of actually wresting the contract from the devil in the first place.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T030324Z" creationid="Luan" creationdate="20240612T030324Z">
+        <seg>A depender do material e da magia do demônio, isso pode não ser tão fácil quanto parece, e tem também a questão de tirar o contrato do demônio em primeiro lugar.</seg>
       </tuv>
     </tu>
     <tu>

@@ -270,10 +270,26 @@ BrCriador/RobinLaws, em seu livro ''BrLiteratura/HamletsHitPoints'', identifica 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># Conversely, [[WowingCthulhu impress or entertain the devil so much]] that taking your soul would seem like a waste.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T170655Z" creationid="Luan" creationdate="20240612T170655Z">
+        <seg># Alternativamente, [[Br/ImpressionandoCthulhu impressionar ou agradar o demônio]] a ponto de fazê-lo considerar que levar sua alma seria um desperdício.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># If the contract was written, destroy the physical scroll or other material that the contract was written on.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240612T030152Z" creationid="Luan" creationdate="20240612T030152Z">
         <seg># Se o contrato foi feito por escrito, destrua o pergaminho ou qualquer que seja o item que tem o contrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># It may be possible to gain enough power through the deal to prevent the devil from forcing you to keep your promise--[[DidYouJustPunchOutCthulhu or just kill him.]] See FaustianRebellion.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T164210Z" creationid="Luan" creationdate="20240612T164210Z">
+        <seg># Pode ser possível obter poder suficiente através do trato para impedir que o demônio te force a manter a sua parte da promessa -- [[Br/VoceAcabouDeNocautearCthulhu ou simplesmente matá-lo]]. Ver Br/RebeliaoFaustiana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +338,14 @@ BrCriador/RobinLaws, em seu livro ''BrLiteratura/HamletsHitPoints'', identifica 
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T173125Z" creationid="Luan" creationdate="20240326T173125Z">
         <seg># Eles querem que o tropo seja [[Br/EncantoNarm "parte do encanto da obra"]] de um [[Br/TaoRuimQueEBom jeito irônico]] porém agradável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># Use your new power to [[TooSpicyForYogSothoth annoy the underworld so much that your deal gets nullified simply to get rid of you]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T164452Z" creationid="Luan" creationdate="20240612T164452Z">
+        <seg># Usar seu novo poder para [[Br/ApimentadoDemaisParaYogSothoth irritar tanto o submundo que o acordo é anulado simplesmente para que possam se livrar de você]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -23528,8 +23552,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>In the case of immortality, however, beware -- a truly crafty devil might pull a JackassGenie on you, either by [[AgeWithoutYouth conveniently forgetting about the "eternal youth" part]] or by [[TheUndead turning you into an undead abomination]].</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T163848Z" creationid="Luan" creationdate="20240612T163848Z">
-        <seg>Mas no caso da imortalidade, cuidado -- um demônio particularmente engenhoso pode dar uma de Br/GenioSacana e [[Br/EnvelhecerSemJuventude convenientemente esquecer da parte da "juventude eterna"]] ou [[Br/MortoVivo transformar você em uma abominação morta-viva]].</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T164028Z" creationid="Luan" creationdate="20240612T163848Z">
+        <seg>Mas no caso da imortalidade, cuidado -- um demônio particularmente engenhoso pode dar uma de Br/GenioSacana e [[Br/IdadeSemJuventude convenientemente esquecer da parte da "juventude eterna"]] ou [[Br/MortoVivo transformar você em uma abominação morta-viva]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -23987,6 +24011,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240417T230533Z" creationid="Luan" creationdate="20240417T230533Z">
         <seg>Faz sentido porque [[spoiler:ele temia ter vendido a alma para o diabo]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It may also turn into a case of WhoWantsToLiveForever, even without the devil's manipulations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T164118Z" creationid="Luan" creationdate="20240612T164118Z">
+        <seg>Esse desejo também pode se transformar em uma situação de Br/QuemQuerViverParaSempre, mesmo sem as maquinações do diabo.</seg>
       </tuv>
     </tu>
     <tu>

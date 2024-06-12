@@ -3951,3 +3951,8 @@ AgeWithoutYouth	Br/IdadeSemJuventude
 WhoWantsToLiveForever	Br/QuemQuerViverParaSempre
 TooSpicyForYogSothoth	Br/ApimentadoDemaisParaYogSothoth
 WowingCthulhu	Br/ImpressionandoCthulhu
+StartXToStopX	Br/ComecarXParaInterromperX
+MinionWithAnFInEvil	Br/CapangaQueLevouZeroEmMaldade
+CuteMonsterGirl	Br/GarotaMonstroFofa
+InterspeciesRomance	Br/RomanceInterespecies
+HotAsHell	Br/DiabolicamenteAtraente

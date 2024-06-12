@@ -3962,3 +3962,8 @@ TheDevilIsALoser	Br/ODiaboEUmFracassado
 Film/Bedazzled2000	BrFilme/Endiabrado2000
 HellHasNewManagement	Br/InfernoSobNovaDirecao
 DraggedOffToHell	Br/ArrastadoParaOInferno
+PowerAtAPrice	Br/PoderComUmPreco
+DevilsJobOffer	Br/OfertaDeTrabalhoDoDiabo
+SoldHisSoulForADonut	Br/VendeuAAlmaPorUmDonut
+InvertedTrope	Br/TropoInvertido
+ForgottenTrope	Br/TropoEsquecido

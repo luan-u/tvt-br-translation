@@ -3944,3 +3944,7 @@ DeathTrap	Br/ArmadilhaMortal
 YouDidntAsk	Br/VoceNaoPerguntou
 JuryOfTheDamned	Br/JuriDeCondenados
 MeaninglessVillainVictory	Br/VitoriaInutilDoVilao
+GroundhogDayLoop	Br/CicloDoDiaDaMarmota
+LogicBomb	Br/BombaLogica
+TheUndead	Br/MortoVivo
+AgeWithoutYouth	Br/EnvelhecerSemJuventude

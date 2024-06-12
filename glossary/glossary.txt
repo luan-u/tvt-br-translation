@@ -3967,3 +3967,6 @@ DevilsJobOffer	Br/OfertaDeTrabalhoDoDiabo
 SoldHisSoulForADonut	Br/VendeuAAlmaPorUmDonut
 InvertedTrope	Br/TropoInvertido
 ForgottenTrope	Br/TropoEsquecido
+ReasoningWithGod	Br/ArgumentarComDeus
+DidYouJustScamCthulhu	Br/VoceAcabouDeEnganarCthulhu
+RashPromise	Br/PromessaImpulsiva

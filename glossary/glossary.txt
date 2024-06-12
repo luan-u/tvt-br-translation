@@ -3970,3 +3970,7 @@ ForgottenTrope	Br/TropoEsquecido
 ReasoningWithGod	Br/ArgumentarComDeus
 DidYouJustScamCthulhu	Br/VoceAcabouDeEnganarCthulhu
 RashPromise	Br/PromessaImpulsiva
+ReligionOfEvil	Br/ReligiaoMalefica
+LovecraftianSuperpower	Br/SuperpoderLovecraftiano
+BlueAndOrangeMorality	Br/MoralidadeAzulELaranja
+BalkingSummonedSpirit	Br/EspiritoInvocadoRelutante

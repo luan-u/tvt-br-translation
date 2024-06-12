@@ -3926,3 +3926,6 @@ EverybodyHatesHades	Br/TodoMundoOdeiaOHades
 OlderThanDirt	Br/MaisVelhoQueOPo
 WithGreatPowerComesGreatInsanity	Br/ComGrandesPoderesVemGrandesInsanidades
 GetRichQuickScheme	Br/EsquemaParaEnriquecerRapido
+ImpossibleTask	Br/TarefaImpossivel
+BlackMagic	Br/MagiaNegra
+BabyAsPayment	Br/BebeComoPagamento

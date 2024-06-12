@@ -19298,6 +19298,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An alternate form is a deal where the Mephistopheles offers the Faust exactly what he wants, if not more, but to get it, he has to undergo an ImpossibleTask that Mephistopheles obviously does not think the Faust can complete, with the Faust's soul as the penalty if he fails.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T025319Z" creationid="Luan" creationdate="20240612T025319Z">
+        <seg>Uma forma alternativa é um trato onde Mefistófeles oferece ao Fausto exatamente o que ele deseja, senão mais; mas para que consiga isso ele deve passar por uma Br/TarefaImpossivel que Mefistofeles obviamente considera que o Fausto não vai conseguir completar, com a alma deste sendo a penalidade em caso de falha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An alternative to RedemptionEqualsDeath.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231207T144420Z" creationid="Luan" creationdate="20231207T144420Z">
@@ -20046,6 +20054,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T151629Z" creationid="Luan" creationdate="20231208T151629Z">
         <seg>Mas espere!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But whatever the service, whatever the offer, '''there is always a price.''' This price can be anything -- the Faust's soul, their conscience, [[BabyAsPayment their firstborn]], their loved ones, their voice, their eternal servitude, or even something that seems completely innocent -- but whatever the price, it's something that will render the Faust a lot worse off when it is paid, if not bring them to complete ruin.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T025719Z" creationid="Luan" creationdate="20240612T025719Z">
+        <seg>Mas qualquer que seja o serviço ou oferta, '''sempre há um preço a se pagar'''. Esse preço pode ser qualquer coisa -- a alma do Fausto, sua consciência, [[Br/BebeComoPagamento seu primogênito]], seus entes queridos, sua voz, sua servidão eterna, ou até mesmo algo que pareça ser completamente inócuo -- mas qualquer que seja o preço, é algo que vai sair muito caro ao Fausto, e talvez até mesmo arruiná-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22922,6 +22938,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you should find yourself suckered into a Deal With The Devil, ThePowerOfLove may be your best bet at defeating the infernal contract.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T025501Z" creationid="Luan" creationdate="20240612T025501Z">
+        <seg>Caso você se encontre enrolado em um pacto com o demônio, Br/OPoderDoAmor pode ser a sua melhor chance de anular o contrato infernal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you were to watch ''every'' episode of ''Series/StarTrekTheOriginalSeries'', count the number of casualties that the ''Enterprise'' had, and then compare that to an actual military, you'd see that Kirk's record as a leader in this regard is ''excellent'', far better than any general in U.S.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T201905Z" creationid="Luan" creationdate="20231221T201905Z">
@@ -23400,6 +23424,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T133505Z" creationid="Luan" creationdate="20240104T133505Z">
         <seg>Em algumas situações, faz sentido deixar o oponente ciente de que se fizer algo tão pequeno quanto espirrar em [[Br/MamaeUrso alguém]] [[Br/PapaiLobo que você]] protege, isso custará a eles um braço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In such occasions they can escape the Devil's trap.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T025340Z" creationid="Luan" creationdate="20240612T025340Z">
+        <seg>Em tais ocasiões eles podem escapar da armadilha do demônio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24529,6 +24561,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240403T223244Z" creationid="Luan" creationdate="20240403T223244Z">
         <seg>Cientistas malucos tendem a ser interdisciplinares -- às vezes até mesmo sendo um Br/CientistaOnidisciplinar -- mas alguns campos da ciência são particularmente bem representados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Magic gained in this fashion is very often BlackMagic by definition.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T025410Z" creationid="Luan" creationdate="20240612T025410Z">
+        <seg>Mágica obtida por esse meio costuma ser Br/MagiaNegra por definição.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25733,6 +25773,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oh, don't worry about that, [[BlatantLies the soul consumption clause is never exercised]]."]]
+%%
+%% Caption selected per above thread.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T025821Z" creationid="Luan" creationdate="20240612T025821Z">
+        <seg>Não se preocupe com essa parte, [[Br/MentirasDescaradas a cláusula de consumo de alma nunca é aplicada]]."]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OhAndXDies and DidYouDie are also subtropes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T233216Z" creationid="Luan" creationdate="20231206T233216Z">
@@ -26256,6 +26306,19 @@ Br/ExemplosEmFalta.</seg>
 %% https://tvtropes.org/pmwiki/posts.php?discussion=1404492079030138900
 %%
 -&gt; ''"Percebe que você e eu somos de um tipo diferente, não é?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please don't change or remove without approval from here:
+%% https://tvtropes.org/pmwiki/posts.php?discussion=1404492079030138900
+%%
+-&gt;''"History has proven a thousand times that no man has ever gained from a bargain with The Dark, yet cowards and fools continue to try, and The Dark never turns them away."''
+--&gt;-- '''The Mayor''', ''[[VideoGame/{{Myth}} Myth: The Fallen Lords]]''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T030020Z" creationid="Luan" creationdate="20240612T030020Z">
+        <seg>-&gt;''"A história provou mil vezes que nenhum homem jamais ganhou em uma barganha com O Oculto, mas ainda assim covardes e tolos continuam tentando, e O Oculto nunca os recusa."''
+--&gt;-- '''O Prefeito''', ''[[BrVideoGame/{{Myth}} Myth: The Fallen Lords]]''</seg>
       </tuv>
     </tu>
     <tu>
@@ -28046,6 +28109,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T024316Z" creationid="Luan" creationdate="20231220T024316Z">
         <seg>O personagem fez várias coisas que mereciam um retorno cármico, coisas que causaram dor a inocentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The character who offers the deal is often, though not always, TheCorrupter (and not all Corrupters use this as a tactic).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T025149Z" creationid="Luan" creationdate="20240612T025149Z">
+        <seg>O personagem que oferece o acordo costuma ser Br/OCorruptor (mas não sempre; e nem todos os corruptores usam isso como tática).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31954,6 +32025,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With enough power, a FaustianRebellion is possible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T025514Z" creationid="Luan" creationdate="20240612T025514Z">
+        <seg>Com poder suficiente, uma Br/RebeliaoFaustiana é possível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Within a few decades of their founding they had transformed, in the eyes of their more zealous contemporaries, into a notoriously ''tolerant'' organization that cultivated diplomatic contacts with the Muslim world; worked with Arab architects (which influenced the Gothic architecture seen everywhere in Europe), merchants, and even theologians; and disapproved of slaughtering enemies if they agreed to surrender.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T150337Z" creationid="Luan" creationdate="20231221T150337Z">
@@ -33147,6 +33226,16 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231029T161256Z" creationid="Luan" creationdate="20231029T161223Z">
         <seg>[[quoteright:350:[[BrJogoDeMesa/{{Xadrez}} https://static.tvtropes.org/pmwiki/pub/images/rsz_chess_set_2855.jpg]]]]
 [[caption-width-right:350:"[[BrNotasUteis/AGuerraAoTerror Isso é... errado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[quoteright:350:[[TabletopGame/{{Pathfinder}} https://static.tvtropes.org/pmwiki/pub/images/pathfinder___asmodeus.jpg]]]]
+[[caption-width-right:350:"Sign here, and here.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240612T025754Z" creationid="Luan" creationdate="20240612T025736Z">
+        <seg>[[quoteright:350:[[BrJogoDeMesa/{{Pathfinder}} https://static.tvtropes.org/pmwiki/pub/images/pathfinder___asmodeus.jpg]]]]
+[[caption-width-right:350:"Assine aqui e aqui.</seg>
       </tuv>
     </tu>
     <tu>

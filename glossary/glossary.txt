@@ -3910,3 +3910,14 @@ SuspiciouslySpecificSermon	Br/SermaoMuitoEspecifico
 ThirdPartyStopsAttack	Br/UmTerceiroImpedeOAtaque
 UnconventionalCourtroomTactics	Br/TaticasIncomunsDeTribunal
 ThwartedCoupDeGrace	Br/GolpeDeMisericordiaFrustrado
+FaustianRebellion	Br/RebeliaoFaustiana
+ManchurianAgent	Br/AgenteManchuriano
+ConditionedToAcceptHorror	Br/CondicionadoAAceitarHorror
+BodySnatching	Br/SequestroCorporal
+PowerPerversionPotential	Br/PotencialDePerversaoDePoder
+KissMeImVirtual	Br/BeijeMeSouVirtual
+WeakWilled	Br/FracoDeMente
+NotBrainwashed	Br/SemLavagemCerebral
+Grimmification	Br/{{Sinistralizacao}}
+Grimmification	Br/{{Grimmificacao}}
+FracturedFairyTale	Br/ContoDeFadasFraturado

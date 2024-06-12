@@ -3941,3 +3941,6 @@ BeCarefulWhatYouWishFor	Br/CuidadoComOQueSeDeseja
 GiftOfTheMagiPlot	Br/TramaTipoOPresenteDosMagos
 ElephantInTheLivingRoom	Br/ElefanteNaSala
 DeathTrap	Br/ArmadilhaMortal
+YouDidntAsk	Br/VoceNaoPerguntou
+JuryOfTheDamned	Br/JuriDeCondenados
+MeaninglessVillainVictory	Br/VitoriaInutilDoVilao

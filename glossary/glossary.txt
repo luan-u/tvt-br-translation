@@ -374,7 +374,7 @@ BlamedForBeingRailroaded	Br/LevouACulpaPorTerSidoEmpurrado
 BlatantLies	Br/MentirasDescaradas
 BlobMonster	Br/MonstroDeGosma
 BloodKnight	Br/CavaleiroDeSangue
-BloodierAndGorier	Br/MaisSangrentoEViolento
+BloodierAndGorier	Br/MaisSangrentoEGrotesco
 BloodlessCarnage	Br/CarnificinaSemSangue
 BloodsuckingBats	Br/VampirosSugadoresDeSangue
 BloodyBowelsOfHell	Br/EntranhasSangrentasDoInferno

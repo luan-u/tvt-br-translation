@@ -3939,3 +3939,5 @@ DemonLordsAndArchdevils	Br/LordesDemoniacosEArquidiabos
 ReadTheFinePrint	Br/LeiaAsLetrasMiudas
 BeCarefulWhatYouWishFor	Br/CuidadoComOQueSeDeseja
 GiftOfTheMagiPlot	Br/TramaTipoOPresenteDosMagos
+ElephantInTheLivingRoom	Br/ElefanteNaSala
+DeathTrap	Br/ArmadilhaMortal

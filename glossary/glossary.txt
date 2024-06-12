@@ -3921,3 +3921,5 @@ NotBrainwashed	Br/SemLavagemCerebral
 Grimmification	Br/{{Sinistralizacao}}
 Grimmification	Br/{{Grimmificacao}}
 FracturedFairyTale	Br/ContoDeFadasFraturado
+OurDemonsAreDifferent	Br/NossosDemoniosSaoDiferentes
+EverybodyHatesHades	Br/TodoMundoOdeiaOHades

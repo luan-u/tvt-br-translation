@@ -3923,3 +3923,6 @@ Grimmification	Br/{{Grimmificacao}}
 FracturedFairyTale	Br/ContoDeFadasFraturado
 OurDemonsAreDifferent	Br/NossosDemoniosSaoDiferentes
 EverybodyHatesHades	Br/TodoMundoOdeiaOHades
+OlderThanDirt	Br/MaisVelhoQueOPo
+WithGreatPowerComesGreatInsanity	Br/ComGrandesPoderesVemGrandesInsanidades
+GetRichQuickScheme	Br/EsquemaParaEnriquecerRapido

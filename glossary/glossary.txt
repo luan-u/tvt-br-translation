@@ -4009,3 +4009,18 @@ MultipleEndings	Br/FinaisMultiplos
 ExiledFromContinuity	Br/ExiladoDaContinuidade
 SchrodingersCanon	Br/CanoneDeSchrodinger
 Film/SupermanFilmSeries	BrFilme/SupermanSerieDeFilmes
+TheMaster	Br/OMestre
+AVillainNamedKhan	Br/UmVilaoChamadoKhan
+AVillainNamedZrg	Br/UmVilaoChamadoZrg	"Um vilão chamado Z__rg"
+XMakesAnythingCool	Br/XTornaIradaQualquerCoisa
+XtremeKoolLetterz	Br/LetrazXuperIradazz
+TheyCallHimSword	Br/ChamamEleDeEspada
+RedBaron	Br/BaraoVermelho
+DarknessVonGothickname	Br/NomeSombraVonGothicko
+TheButcher	Br/OAcougueiro
+NameOfCain	Br/NomeDeCain
+ABeastInNameAndNature	Br/UmaFeraEmNomeEEspirito
+TheGroup	Br/OGrupo
+GunmanWithThreeNames	Br/PistoleiroComTresNomes
+OneBadMother	Br/UmaMaeRuim
+VillainBaal	Br/BaalVilanico

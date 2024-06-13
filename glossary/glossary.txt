@@ -4031,3 +4031,8 @@ Series/Hannibal	BrSerie/{{Hannibal}}
 DramaticThunder	Br/TrovaoDramatico
 TheScottishTrope	Br/OTropoEscoces
 DarkAgeOfSupernames	Br/EraSombriaDosSupernomes
+AwesomeMcCoolname	Br/NomeIncrivelmenteIradoDaSilva
+MeaningfulName	Br/NomeSignificativo
+TheMagnificent	Br/OMagnifico
+NamedAfterTheInjury	Br/NomeadoPorCausaDoFerimento
+WhatDidYouExpectWhenYouNamedIt	Br/OQueVoceEsperavaAoDarONomeDe

@@ -4001,3 +4001,5 @@ WorthyOpponent	Br/OponenteDigno
 WhatASenselessWasteOfHumanLife	Br/MasQueDesperdicioDesnecessarioDeVidaHumana
 MistreatmentInducedBetrayal	Br/TraicaoMotivadaPorMausTratos
 ContinuityReboot	Br/ReinicioDeContinuidade
+DisownedAdaptation	Br/AdaptacaoRejeitada
+BuryYourArt	Br/EnterrarAPropriaArte

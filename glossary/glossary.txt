@@ -3979,3 +3979,9 @@ ChronicBackstabbingDisorder	Br/TranstornoCronicoDeFacadaPelasCostas
 TroubledProduction	Br/ProducaoProblematica
 GodwinsLaw	Br/LeiDeGodwin
 ConservationOfCompetence	Br/ConservacaoDeCompetencia
+MoreDakka	Br/DescarregandoOPente
+ASimplePlan	Br/UmPlanoSimples
+StoneSoup	Br/SopaDePedra
+UnwantedAssistance	Br/AssistenciaIndesejada
+AbileneParadox	Br/ParadoxoDeAbilene
+RightHandVersusLeftHand	Br/MaoDireitaVersusMaoEsquerda

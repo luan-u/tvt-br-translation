@@ -3975,3 +3975,7 @@ LovecraftianSuperpower	Br/SuperpoderLovecraftiano
 BlueAndOrangeMorality	Br/MoralidadeAzulELaranja
 BalkingSummonedSpirit	Br/EspiritoInvocadoRelutante
 EarthShatteringKaboom	Br/ExplosaoDeTremerATerra
+ChronicBackstabbingDisorder	Br/TranstornoCronicoDeFacadaPelasCostas
+TroubledProduction	Br/ProducaoProblematica
+GodwinsLaw	Br/LeiDeGodwin
+ConservationOfCompetence	Br/ConservacaoDeCompetencia

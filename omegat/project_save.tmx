@@ -20707,10 +20707,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Compare NegativeContinuity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240613T182608Z" creationid="Luan" creationdate="20240613T182608Z">
+        <seg>Comparar Br/ContinuidadeNegativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Compare PokeThePoodle, SkewedPriorities, AllCrimesAreEqual, JaywalkingWillRuinYourLife (when the minor crime carries significant consequences) and WorstNewsJudgementEver (where jaywalking is the main headline over arson and murder).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231216T183733Z" creationid="Luan" creationdate="20231216T183733Z">
         <seg>Comparar com Br/CutucarOPoodle, Br/PrioridadesDistorcidas, Br/TodosOsCrimesSaoIguais, Br/AtravessarForaDaFaixaVaiArruinarSuaVida (quando a infração menor causa grandes consequências) e Br/PessimaPrioridadeDeNoticias (quando atravessar fora da faixa é a manchete principal ao invés do roubo e do assassinato).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compare SchrodingersCanon, where a work's status as canonical has yet to be determined, and RetCanon, where something that was intended as non-canonical becomes canonical.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240613T182604Z" creationid="Luan" creationdate="20240613T182604Z">
+        <seg>Comparar com Br/CanoneDeSchrodinger, onde a situação de uma obra como canônica ainda precisa ser determinada, e Br/RetCanone, onde algo que foi pensado como não canônico se torna parte do cânone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23095,6 +23111,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the writers {{lampshade|Hanging}} a discontinuity, either canonical or just something the fans want to be discontinued, then that's DiscontinuityNod.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240613T182230Z" creationid="Luan" creationdate="20240613T182230Z">
+        <seg>Se os escritores [[Br/LancandoLuz lançam luz]] sobre uma descontinuidade, seja canônica ou apenas algo que os fãs não querem, então é um Br/AcenoParaADescontinuidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If there are too many of these, you might be in a WorldOfSnark.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231029T140839Z" creationid="Luan" creationdate="20231029T140839Z">
@@ -24157,6 +24181,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T182918Z" creationid="Luan" creationdate="20231215T182918Z">
         <seg>Isso também pode resultar nos leitores e fãs abordando a obra com um certo nível de [[Br/ReceioDeCompromisso ceticismo, cinismo ou até mesmo desinteresse]], principalmente se é feito de maneira muito óbvia e rápida um ''retcon'' para qualquer coisa que seja impopular ou que [[Br/StatusQuoEDeus altere drasticamente o status quo]] -- afinal, porque se comprometer com o seu mais novo Evento de Br/CruzamentoDeCrise que promete mudar tudo para sempre e que [[Br/NadaEMaisOMesmo nada mais será o mesmo]] se existe [[Br/AbrindoUmaLataDeClones uma boa chance de que tudo vai sofrer um retcon após um breve período de tempo]]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It can be an uncomfortable case of CreatorBacklash, MisaimedFandom, OvershadowedByControversy, ValuesDissonance, or unfortunate implications for the writers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240613T183028Z" creationid="Luan" creationdate="20240613T183028Z">
+        <seg>Pode ser um caso desconfortável de ??? CreatorBacklash, ??? MisaimedFandom, Br/OfuscadoPelaControversia, Br/DissonanciaDeValores ou implicações infelizes para os escritores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25700,6 +25732,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240222T134723Z" creationid="Luan" creationdate="20240222T134723Z">
         <seg>Não tem relação com a BrApenasPorLazer/LeiZeroDosExemplosDeTropo ou a Br/RegraZero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Not to be confused with ExiledFromContinuity, when it's a ''character'' or a specific element or elements of a universe that are declared off-limits for use, be it in-universe or in another version of that universe, for legal reasons or otherwise (although whether they are simply made non-canonical or technically still exist, but can't be used depends on the situation).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240613T182457Z" creationid="Luan" creationdate="20240613T182457Z">
+        <seg>Não confundir com Br/ExiladoDaContinuidade, que é quando um ''personagem'' ou um elemento específico de um universo são declarados como proibidos de usar, seja in-universo ou em outra versão do universo, por motivos legais ou não (o dito personagem existir e não poder ser usado ou ter sido tornado não-canônico depende das circunstâncias específicas).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27356,6 +27396,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T204319Z" creationid="Luan" creationdate="20231215T204319Z">
         <seg>Consultar também Br/RetconInterno, para retcons dentro de um universo fictício, ou Br/RetconExterno, para retcons na vida real.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See also the OrwellianRetcon, which may overlap with this.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240613T182239Z" creationid="Luan" creationdate="20240613T182239Z">
+        <seg>Ver também Br/RetconOrwelliano, que pode se sobrepor a isso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32263,6 +32311,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231103T205356Z" creationid="Luan" creationdate="20231103T205356Z">
         <seg>Quando alinhamentos do mal não são permitidos, o Caótico e Neutro costuma ser usado por jogadores em Br/JogosDeMesa como uma desculpa para fazerem o que quiserem, e por isso costumam ser proibidos pelo tipo de Br/MestreDoJogo que também proíbe alinhamentos do mal. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When fans do this, it is FanonDiscontinuity — including the ironic semi-inversion where the fans who actually like the discontinued story ignore the creator's pronouncements that it's not canonical anymore.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240613T182145Z" creationid="Luan" creationdate="20240613T182145Z">
+        <seg>Quando os fãs fazem isso, é Br/DescontinuidadeDeFanone -- incluindo a irônica semi-inversão onde os fãs que que de fato preferem a história descontinuada ignoram os pronunciamentos do criador sobre não ser mais canônico.</seg>
       </tuv>
     </tu>
     <tu>

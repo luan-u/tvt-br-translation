@@ -146,6 +146,15 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>!!Examples:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240613T200305Z" creationid="Luan" creationdate="20240613T200305Z">
+        <seg>!!Exemplos:
+Br/ExemplosEmFalta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>!!How to spot a shark jump</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T171830Z" creationid="Luan" creationdate="20231210T171830Z">
@@ -18148,6 +18157,16 @@ Br/ExemplosEmFalta.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>----
+'''When adding examples, keep in mind: It's not enough when a character just has a name of any of the following types.''' This trope applies only when the name is an indicator of the character's true nature, and if the character thus described is evil, deceptive, dangerous or (if not evil) in other ways commanding fear or respect.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240613T200028Z" creationid="Luan" creationdate="20240613T200028Z">
+        <seg>----
+'''Ao adicionar exemplos, tenha em mente que: não é suficiente que o personagem tenha um nome que se encaixa nos tipos mencionados.''' Este tropo se aplica apenas quando o nome é um indicador da real natureza do personagem, e se o personagem é descrito como mau, perigoso ou (se não malvado) capaz de impôr medo ou respeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>----
 ''∞''</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240418T143256Z" creationid="Luan" creationdate="20240418T043322Z">
@@ -19423,6 +19442,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, '''please provide context''' as to why the character lives up to their scary name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240613T200141Z" creationid="Luan" creationdate="20240613T200141Z">
+        <seg>Adicionalmente, '''por favor forneça contexto''' sobre por que o personagem combina com seu nome assustador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, a half-empty glass means it can only be emptied, and can't be refilled.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T212049Z" creationid="Luan" creationdate="20240103T212049Z">
@@ -19955,6 +19982,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T233547Z" creationid="Luan" creationdate="20231206T233547Z">
         <seg>Como um aviso, saiba que '''''este artigo contém spoilers marcados e desmarcados'''''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As always, [[AvertedTrope aversions]] are usually not worth listing, but [[SubvertedTrope subversions]] are probably fair game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240613T200055Z" creationid="Luan" creationdate="20240613T200055Z">
+        <seg>Como sempre, [[Br/TropoEvitado aversões]] geralmente não valem a pena ser listadas, mas [[Br/TropoSubvertido subversões]] provavelmente estão ok.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20749,6 +20784,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Compare FluffyTheTerrible, TomTheDarkLord, and JustTheFirstCitizen, where the name fails to describe the nastiness, and DeathbringerTheAdorable, where the nastiness fails to live up to the name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240613T195815Z" creationid="Luan" creationdate="20240613T195815Z">
+        <seg>Comparar com Br/FofuchoOTerrivel, Br/TomOSenhorDasTrevas e Br/ApenasOPrimeiroCidadao, quando o nome não transmite toda a maldade, e Br/MortiferoOAdoravel, quando o nível de maldade não combina com o nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Compare FridgeLogic.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231226T023954Z" creationid="Luan" creationdate="20231226T023954Z">
@@ -21049,6 +21092,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240613T140257Z" creationid="Luan" creationdate="20240613T140257Z">
         <seg>Contrastar Br/DescarregandoOPente e tropos relacionados, onde mais cozinheiros conseguem tornar a sopa melhor em qualquer situação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contrast NamesToTrustImmediately.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240613T195833Z" creationid="Luan" creationdate="20240613T195833Z">
+        <seg>Contrastar com Br/NomesParaConfiarImediatamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22077,6 +22128,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163605Z" creationid="Luan" creationdate="20231029T163605Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For location names, see IDontLikeTheSoundOfThatPlace.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240613T195839Z" creationid="Luan" creationdate="20240613T195839Z">
+        <seg>Para nomes de lugares, ver Br/EuNaoGostoDoSomDesteLugar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23389,6 +23448,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T133932Z" creationid="Luan" creationdate="20240104T133932Z">
         <seg>Se você já tentou a regra do olho por olho e isso não mudou muita coisa, exceto por um aumento na venda de tapa-olhos, o único jeito de permanecer vivo é ser drástico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you see a Zero Context Example and can give it context, that would be appreciated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240613T200255Z" creationid="Luan" creationdate="20240613T200255Z">
+        <seg>Se você ver um exemplo sem contexto e puder dar contexto, agradecemos desde já.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24824,6 +24891,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T180717Z" creationid="Luan" creationdate="20231101T180717Z">
         <seg>Assim como em Br/MaisSombrioEPesado, tenha em mente que BrAdministrivia/TroposSaoFerramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Just listing the character's name with no explanation is a Administrivia/ZeroContextExample, something we don't want.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240613T200238Z" creationid="Luan" creationdate="20240613T200238Z">
+        <seg>Apenas listar o nome do personagem sem dar explicação nenhuma faz com que seja um BrAdministrivia/ExemploSemContexto, e isso nós não queremos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31853,6 +31928,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231227T020654Z" creationid="Luan" creationdate="20231227T020654Z">
         <seg>Ênfase de mais, e vai parecer que os escritores são advogados justificando o vilão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total [[InvertedTrope inversions]] should go on UnfortunateNames instead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240613T200119Z" creationid="Luan" creationdate="20240613T200119Z">
+        <seg>[[Br/TropoInvertido Inversões]] completas deverão ir para Br/NomesInfelizes ao invés.</seg>
       </tuv>
     </tu>
     <tu>

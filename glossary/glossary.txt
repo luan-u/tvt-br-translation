@@ -482,6 +482,7 @@ CaptainSuperhero	Br/CapitaoSuperHeroi
 CapturedSuperEntity	Br/SuperEntidadeCapturada
 CardCarryingVillain	Br/VilaoDeCrachaETudo
 CardboardPrison	Br/PrisaoDePapelao
+GetOutOfJailFreeCard	Br/CartaDeSaidaLivreDaPrisao
 CareBearStare	Br/OlharFixoDosUrsinhosCarinhosos
 CaringGardener	Br/JardineiroCuidadoso
 CarryABigStick	Br/PortarUmBastaoGrande
@@ -989,6 +990,7 @@ EndOfAnEra	Br/OFimDeUmaEra
 EndOfTheWorldSpecial	Br/EspecialDeFimDoMundo
 EndlessCorridor	Br/CorredorInterminavel
 EnemyMine	Br/InimigoDoMeuInimigo
+EnemyMine	Br/TreguaTemporaria
 EnergyWeapon	Br/ArmaDeEnergia
 EnforcedTechnologyLevels	Br/NiveisImpostosDeTecnologia
 EnglishRose	Br/RosaInglesa
@@ -1082,6 +1084,7 @@ FailureKnight	Br/CavaleiroFalho
 FairForItsDay	Br/JustoParaSeuTempo
 FairyGodmother	Br/FadaMadrinha
 FakeDefector	Br/PseudoDesertor
+FakeDefector	Br/FalsoDesertor
 FakeDifficulty	Br/DificuldadeArtificial
 FakeLongevity	Br/LongevidadeFalsa
 FakeNationality	Br/NacionalidadeFalsa
@@ -1420,6 +1423,7 @@ HeavenlyConcentricCircles	Br/CirculosCelestiaisConcentricos
 HedgeMaze	Br/LabirintoDeCercaViva
 HeelFaceBrainwashing	Br/PassarParaOLadoDaLavagemCerebral
 HeelFaceRevolvingDoor	Br/PortaGiratoriaDeViraCasaca
+HeelFaceRevolvingDoor	Br/DeslizandoDeUmLadoProOutro
 HeelFaceTurn	Br/PassandoProLadoDosMocinhos
 HeelFaceTurn	Br/PassarParaOLadoDosMocinhos
 HeelRealisation	Br/PercepcaoDeMaldade
@@ -1764,6 +1768,7 @@ Kevlard	Br/BanhaKevlar
 KiManipulation	Br/ManipulacaoDeKi
 KickTheDog	Br/ChutarOCachorro
 KickTheMoralityPet	Br/ChutarAMoralDeEstimacao
+KickTheMoralityPet	Br/ChutarOMascoteMoral
 KickedUpstairs	Br/ChutadoParaOAndarDeCima
 KickingAssInAllHerFinery	Br/ChutandoBundasEmTodaSuaFinesse
 KidDetective	Br/DetetiveMirim
@@ -2072,6 +2077,7 @@ MoralSociopathy	Br/SociopatiaMoral
 MoralityChip	Br/ChipDeMoralidade
 MoralityGuidedAttack	Br/AtaqueGuiadoPorMoralidade
 MoralityPet	Br/MoralDeEstimacao
+MoralityPet	Br/MascoteMoral
 MorallyAmbiguousDoctorate	Br/DoutoradoMoralmenteAmbiguo
 MoreDiverseSequel	Br/SequenciaMaisDiversa
 MoreHeroThanThou	Br/SouMaisHeroiQueVoce
@@ -3266,7 +3272,9 @@ TheMedic	Br/OMedico
 TheMenFirst	Br/OsHomensPrimeiro
 TheMenInBlack	Br/OsHomensDePreto
 TheMetaverse	Br/OMetaverso
-TheMole	Br/AToupeira	Acho que deve existir um termo melhor em português, mas não sei qual.
+TheMole	Br/OInfiltrado
+FeedTheMole	Br/IludirOInfiltrado
+PersonalHateBeforeCommonGoals	Br/OdioPessoalVemAntesDosInteressesEmComum
 TheMoralityMortalityEquation	Br/EquacaoDeMoralidadeEMortalidade
 TheMountainsOfIllinois	Br/AsMontanhasDoAmazonas	Adaptado considerando a geografia de ambos locais.
 TheMovie	Br/OFilme
@@ -3989,3 +3997,6 @@ DiminishingReturnsForBalance	Br/RetornosDecrescentesParaBalanceamento
 AuteurLicense	Br/LicencaDeAuteur
 LastOfHisKind	Br/UltimoDeSeuTipo
 WeAreStrugglingTogether	Br/NosEstamosLutandoJuntos
+WorthyOpponent	Br/OponenteDigno
+WhatASenselessWasteOfHumanLife	Br/MasQueDesperdicioDesnecessarioDeVidaHumana
+MistreatmentInducedBetrayal	Br/TraicaoMotivadaPorMausTratos

@@ -4024,3 +4024,6 @@ TheGroup	Br/OGrupo
 GunmanWithThreeNames	Br/PistoleiroComTresNomes
 OneBadMother	Br/UmaMaeRuim
 VillainBaal	Br/BaalVilanico
+NamingConventions	Br/ConvencoesDeNomenclatura
+ThemeNaming	Br/NomenclaturaTematica
+AGodAmI	Br/SouUmDeus

@@ -4036,3 +4036,10 @@ MeaningfulName	Br/NomeSignificativo
 TheMagnificent	Br/OMagnifico
 NamedAfterTheInjury	Br/NomeadoPorCausaDoFerimento
 WhatDidYouExpectWhenYouNamedIt	Br/OQueVoceEsperavaAoDarONomeDe
+FluffyTheTerrible	Br/FofuchoOTerrivel
+TomTheDarkLord	Br/TomOSenhorDasTrevas
+JustTheFirstCitizen	Br/ApenasOPrimeiroCidadao
+DeathbringerTheAdorable	Br/MortiferoOAdoravel
+NamesToTrustImmediately	Br/NomesParaConfiarImediatamente
+UnfortunateNames	Br/NomesInfelizes
+Administrivia/ZeroContextExample	BrAdministrivia/ExemploSemContexto

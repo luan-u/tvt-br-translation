@@ -3974,3 +3974,4 @@ ReligionOfEvil	Br/ReligiaoMalefica
 LovecraftianSuperpower	Br/SuperpoderLovecraftiano
 BlueAndOrangeMorality	Br/MoralidadeAzulELaranja
 BalkingSummonedSpirit	Br/EspiritoInvocadoRelutante
+EarthShatteringKaboom	Br/ExplosaoDeTremerATerra

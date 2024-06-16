@@ -4060,3 +4060,6 @@ CoolBike	Br/MotoIrada
 CoolCar	Br/CarroIrado
 SinisterSurveillance	Br/VigilanciaSinistra
 CryingWolf	Br/GritarLobo
+TheSummation	Br/{{Sumarizacao}}
+DecoyAntagonist	Br/AntagonistaIsca
+KilledOffscreen	Br/MortoForaDaCena

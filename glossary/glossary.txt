@@ -4043,3 +4043,6 @@ DeathbringerTheAdorable	Br/MortiferoOAdoravel
 NamesToTrustImmediately	Br/NomesParaConfiarImediatamente
 UnfortunateNames	Br/NomesInfelizes
 Administrivia/ZeroContextExample	BrAdministrivia/ExemploSemContexto
+Film/TheCrow1994	BrFilme/OCorvo1994
+Film/DarkCity	BrFilme/CidadeDasSombras
+Literature/IRobot	BrLiteratura/EuRobo

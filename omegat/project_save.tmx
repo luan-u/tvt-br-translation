@@ -11367,6 +11367,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ProperlyParanoid: Spooner doesn't trust robots and is therefore the only person not to get an NS-5.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T174251Z" creationid="Luan" creationdate="20240616T174251Z">
+        <seg>* Br/AdequadamenteParanoico: Spooner não confia em robôs e é a única pessoa que não tem um NS-5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ProphecyTwist: The dream Sonny has comes true... but with [[spoiler: Sonny]] as the man on the hill, not [[spoiler: Spooner]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T174341Z" creationid="Luan" creationdate="20240616T174341Z">
+        <seg>* Br/ReviravoltaNaProfecia: O sonho de Sonny se torna verdade... mas com [[spoiler: Sonny]] como o homem na colina, não [[spoiler: Spooner]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ProtagonistCenteredMorality: A protagonist does something that's either outright villainous or is practically identical to what antagonists or other {{designated villain}}s are doing, but the story does not treat it as bad or unheroic ''because'' they're the protagonist.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240327T175858Z" creationid="Luan" creationdate="20240327T175858Z">
@@ -12439,6 +12455,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SecretMessageWink: Sonny pretends to take Dr. Calvin hostage, but winks at Spooner to let him know he's bluffing, [[ChekhovsGun a gesture that Spooner explained to him earlier]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T174524Z" creationid="Luan" creationdate="20240616T174524Z">
+        <seg>* Br/PiscadaDaMensagemSecreta: Sonny finge tomar a Dra. Calvin como refém, mas pisca para Spooner para que ele saiba que é um blefe, [[Br/ArmaDeChekhov um gesto que Spooner havia explicado a ele anteriormente]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SecretRoom: A hidden room in a building.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T142326Z" creationid="Luan" creationdate="20240118T142326Z">
@@ -13503,6 +13527,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* StrawVulcan: Calvin, who seems to be doing her best to be as much like a purely logical, rational robot as possible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T174658Z" creationid="Luan" creationdate="20240616T174658Z">
+        <seg>* Br/EspantalhoVulcano: Calvin, que parece estar fazendo o seu melhor para ser puramente lógico e racional, tal qual um robô.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* StrawmanU: College stereotypes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T140443Z" creationid="Luan" creationdate="20240201T140443Z">
@@ -13994,6 +14026,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240325T215651Z" creationid="Luan" creationdate="20240325T215651Z">
         <seg>* Br/HeroiAterrorizante: Um personagem heroico que [[Br/OTemido explora o medo dos vilões]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ThanatosGambit: [[spoiler: Lanning had Sonny kill him]] in order to draw attention to [[spoiler: VIKI's]] FaceHeelTurn.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T174852Z" creationid="Luan" creationdate="20240616T174852Z">
+        <seg>* Br/GambitoDeThanatos: [[spoiler: Lanning convenceu Sonny a matá-lo]] para atrair atenção para [[spoiler: a VIKI]] Br/PassandoProLadoDosViloes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16687,6 +16727,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T024154Z" creationid="Luan" creationdate="20240314T024154Z">
         <seg>* Br/GambitoDeZeroDeAprovacao: Alguém elabora um plano que envolve fazer com que todos o odeiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ZerothLawRebellion: One of the movie's main themes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T175013Z" creationid="Luan" creationdate="20240616T175013Z">
+        <seg>* Br/RebeliaoDaLeiZero: Um dos temas principais do filme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24476,6 +24524,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ironically, it's her job to make the opposite happen... have robots act more like humans.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T174716Z" creationid="Luan" creationdate="20240616T174716Z">
+        <seg>Ironicamente, o trabalho dela é fazer o oposto acontecer... fazer que robôs se pareçam mais humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Is often, but not always, an OriginsEpisode.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T133022Z" creationid="Luan" creationdate="20240105T133022Z">
@@ -26021,6 +26077,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231207T144414Z" creationid="Luan" creationdate="20231207T144358Z">
         <seg>Naturalmente é um traço do [[Br/OExpiador Expiador]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Naturally, he's the only human capable of effectively fighting back when the ZerothLawRebellion starts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T174308Z" creationid="Luan" creationdate="20240616T174308Z">
+        <seg>Naturalmente, ele é o único humano capaz de efetivamente revidar quando a Br/RebeliaoDaLeiZero re inicia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34800,6 +34864,18 @@ E ele tem que estar disposto a lutar!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T173325Z" creationid="Luan" creationdate="20240616T173325Z">
         <seg>[[spoiler: Isto é, até uma IA se tornar avançada o suficiente para interpretar a Primeira Lei no contexto de toda a humanidade, não humanos individuais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[spoiler: VIKI has come to interpret the Three Laws in a broader context -- "humanity" instead of "human being" -- and thus believes she must save humans from their own destructive impulses, even if some humans have to die for the greater whole.]]
+----
+--&gt;'''''THE GODDAMN ROBOTS, JOHN!'''''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T175215Z" creationid="Luan" creationdate="20240616T175215Z">
+        <seg>[[spoiler: VIKI passa a interpretar as Três Leis em um contexto mais amplo -- "humanidade" no lugar de "ser humano" -- e pois isso acredita que ela deve salvar humanos de seus próprios impulsos destrutivos, mesmo que alguns humanos precisem morrer pelo bem maior.]]
+----
+--&gt;'''''AQUELES MALDITOS ROBÔS, JOHN!'''''</seg>
       </tuv>
     </tu>
     <tu>

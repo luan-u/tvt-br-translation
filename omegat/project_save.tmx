@@ -9043,6 +9043,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LoopholeAbuse:
+** [[spoiler: The first law of robotics states that "a robot may not harm a human being, or through inaction allow a human being to come to harm." If this is unavoidable, the robot may make the decision based on the balance of amount of harm or probability of harm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T194248Z" creationid="Luan" creationdate="20240616T194248Z">
+        <seg>* Br/AbusoDasBrechas
+** [[spoiler: A primeira lei da robótica diz que "um robô não deve ferir um ser humano, ou por inação, permitir que um humano se fira". Se isso é inevitável, o robô pode tomar a decisão com base no equilíbrio de danos ou probabilidade de danos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LordErrorProne: A klutzy or incompetent hero or quest-doer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T225538Z" creationid="Luan" creationdate="20240318T225538Z">
@@ -9635,6 +9645,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165157Z" creationid="Luan" creationdate="20240314T165157Z">
         <seg>* Br/ArquetipoMessianico: Um salvador que suporta grandes sacrifícios, até mesmo a morte, para ajudar outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MessianicArchetype: Sonny, a robot designed with individuality and free will, is heavily implied to be the robot race's eventual savior.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T194410Z" creationid="Luan" creationdate="20240616T194410Z">
+        <seg>* Br/ArquetipoMessianico: Fica implicado que Sonny, um robô projetado com individualidade e livre arbítrio, será o eventual salvador da raça robótica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17685,6 +17703,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** In the same interrogation, Sonny reveals he loved Lanning, his "father", an emotion no robot should have.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T194108Z" creationid="Luan" creationdate="20240616T194038Z">
+        <seg>** No mesmo interrogatório, Sonny revela que ele amava Lanning, seu "pai", uma emoção que nenhum robô deveria ter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>** Inflexible JumpPhysics render it impossible to accurately dodge attacks in midair, especially if your character's jump height is less than half that of Mario's or Luigi's.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T222939Z" creationid="Luan" creationdate="20231101T222932Z">
@@ -17889,6 +17915,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T005323Z" creationid="Luan" creationdate="20240105T005323Z">
         <seg>** Isto particularmente é o caso quando se traz de volta um personagem que inesperadamente ganhou o afeto do público na primeira obra, mas [[Br/ElesDesperdicaramUmPersonagemPerfeitamenteBom não se faz nada de interessante com ele]] -- ou pior, o personagem sofre Br/{{Flanderizacao}} tão severa que eles se tornam uma caricatura unidimensional do personagem encantador e multifacetado que outrora foi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** This is what basically proves to the police that Sonny is 'defective', since a normal robot wouldn't be stirred up at all by an interrogation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T194045Z" creationid="Luan" creationdate="20240616T194002Z">
+        <seg>** Isso é o que prova para a polícia que Sonny é 'defeituoso', já que um robô normal não ficaria tão agitado com um interrogatório.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18570,6 +18604,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240327T160533Z" creationid="Luan" creationdate="20240327T160533Z">
         <seg>----
 * Br/OCaraNegroMorrePrimeiro: Personagens negros são incluídos no elenco, mas mortos rapidamente de modo que o elenco se torna majoritariamente branco novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>--&gt; '''Sonny:''' I DID NOT MURDER HIM!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T193928Z" creationid="Luan" creationdate="20240616T193928Z">
+        <seg>--&gt; '''Sonny:''' EU NÃO O MATEI!</seg>
       </tuv>
     </tu>
     <tu>
@@ -20678,6 +20720,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Being the only one on the scene, and the only one strong enough, he ''must'' be responsible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T194020Z" creationid="Luan" creationdate="20240616T194020Z">
+        <seg>Sendo ele o único na cena, e o único forte o suficiente, ele ''deve'' ser responsável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bergin muses how it's a hell of a coincidence that Spooner has just investigated the only case in the world involving a killer robot.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T184508Z" creationid="Luan" creationdate="20240616T184508Z">
@@ -20754,6 +20804,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T145941Z" creationid="Luan" creationdate="20231220T145941Z">
         <seg>Mas, por mais frustrante que possa ser, [[Br/TroposSaoFerramentas isso não necessariamente torna a história "pior" desde que não pareça forçado, conveniente ou mal executado]]. No entanto, este tropo carrega consigo o elevado risco de deixar insaciada a ânsia do público por catarse emocional, ainda mais quando eles ficaram tão interessados em ver o vilão no qual eles projetaram toda a raiva receber o que merece, o que pode ou não acontecer no fim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But for Spooner, one thing is missing-- motive.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T194030Z" creationid="Luan" creationdate="20240616T194030Z">
+        <seg>Mas para Spooner, falta uma coisa: motivo.</seg>
       </tuv>
     </tu>
     <tu>

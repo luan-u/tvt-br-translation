@@ -4051,3 +4051,5 @@ SimilarlyNamedWorks	Br/ObrasComNomeSimilar
 AllAnimationIsDisney	Br/TodaAnimacaoEDaDisney
 ArtisticLicenseLaw	Br/LicencaArtisticaParaLegislacao
 ArtisticLicensePhysics	Br/LicencaArtisticaParaFisica
+FantasticRacism	Br/RacismoFantastico
+EurekaMoment	Br/MomentoEureka

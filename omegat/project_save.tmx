@@ -826,6 +826,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>''I, Robot'' is a 2004 sci-fi action/mystery movie directed by Creator/AlexProyas (''Film/TheCrow1994'', ''Film/DarkCity'') and starring Creator/WillSmith.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T165609Z" creationid="Luan" creationdate="20240616T165609Z">
+        <seg>''Eu, Robô'' (''I, Robot'') é um filme de 2004 do gênero ficção científica com ação e mistério, dirigido por BrCriador/AlexProyas (''BrFilme/OCorvo1994'', ''BrFilme/CidadeDasSombras'') e estrelando BrCriador/WillSmith.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>''Not'' related to BloodKnight.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T191827Z" creationid="Luan" creationdate="20231220T191827Z">
@@ -18494,6 +18502,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>-&gt;''"Somehow, 'I told you so' just doesn't quite say it."''
+--&gt;-- '''Spooner''', after [[ZerothLawRebellion all hell breaks loose]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T165341Z" creationid="Luan" creationdate="20240616T165311Z">
+        <seg>-&gt;''"Eu não sei por quê, mas 'eu te disse' não explica isso direito."''
+--&gt;-- '''Spooner''', depois que [[Br/RebeliaoDaLeiZero o caos se instala]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>-&gt;''"That was necessary.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231226T020514Z" creationid="Luan" creationdate="20231226T020514Z">
@@ -22622,6 +22640,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>His first day back on the job following an injury, Spooner receives a call from the scene of what appears to be an open-and-shut suicide case; the victim had been holding a holographic transmitter programmed to call Spooner in the event of his death.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T170203Z" creationid="Luan" creationdate="20240616T170203Z">
+        <seg>Em seu primeiro dia de expediente após um ferimento, Spooner recebe um telefonema da cena que parece ser um simples caso de suicídio; a vítima segurava um transmissor holográfico programado para contatar Spooner no evento de sua morte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HistoricalFiction is tied to this trope, since history isn't changing (unless the author pulls a WrittenByTheWinners and claim that the events as portrayed in his work is what "really" happened).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T231555Z" creationid="Luan" creationdate="20231206T231555Z">
@@ -24322,6 +24348,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T230943Z" creationid="Luan" creationdate="20231210T230943Z">
         <seg>Também acontece com obras estrangeiras que tentam apelar a públicos que vivem sob os ditos governos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It bears no direct connection to Creator/IsaacAsimov's [[Literature/IRobot book of the same name]], aside from the character of Susan Calvin, who is a prominent recurring character in many of Asimov's ''Robot'' stories, and the premise of the Three Laws.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T165802Z" creationid="Luan" creationdate="20240616T165802Z">
+        <seg>O filme não possui conexão direta com [[BrLiteratura/EuRobo o livro homônimo]] do BrCriador/IsaacAsimov, exceto pela premissa das Três Leis e a personagem de Susan Calvin, que é recorrente em muitas das histórias de Asimov. </seg>
       </tuv>
     </tu>
     <tu>
@@ -27245,6 +27279,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Robotics is on the verge of the largest robotic distribution in history.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T165941Z" creationid="Luan" creationdate="20240616T165941Z">
+        <seg>Robótica está prestes a fazer a maior distribuição de robôs na história.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SF and modern equivalent of {{Mordor}}, but don't expect [[NoOntologicalInertia quick fixes]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T202215Z" creationid="Luan" creationdate="20240221T202215Z">
@@ -28301,6 +28343,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231212T010136Z" creationid="Luan" creationdate="20231212T010136Z">
         <seg>Posicionado entre o Br/FelizesParaSempre e o Br/FinalDepressivo, o Final Agridoce ocorre quando a vitória vem com um custo alto, quando (por qualquer motivo que seja) os heróis não podem aproveitar plenamente a recompensa de suas ações ou quando alguma perda irrecuperável ocorreu durante o curso dos eventos, de maneira que nada mais será como antes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spooner is very much anti-robot (and to some degree [[LuddWasRight technology in general]]), even considering himself the OnlySaneMan while everyone is certain that robots are safe and reliable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T170059Z" creationid="Luan" creationdate="20240616T170059Z">
+        <seg>Spooner é totalmente averso aos robôs (e, em certa medida, à [[Br/LuddEstavaCerto tecnologia em geral]]), até mesmo se considerando a Br/UnicaPessoaSa enquanto todos os demais estão certos de que os robôs são seguros e confiáveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29661,6 +29711,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240610T215807Z" creationid="Luan" creationdate="20240610T215807Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The story follows Del Spooner (Smith), a homicide detective in 2035 Chicago.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T165837Z" creationid="Luan" creationdate="20240616T165837Z">
+        <seg>A história acompanha Del Spooner (Smith), um detetive da divisão de homicídios na Chicago de 2035.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33710,6 +33768,14 @@ Contrastar com ??? {{Unishment}} (uma punição que não é realmente uma puniç
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[[TwentyMinutesIntoTheFuture By 2035]], robots have permeated every level of human society, and U.S.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T165915Z" creationid="Luan" creationdate="20240616T165915Z">
+        <seg>[[Br/VinteMinutosNoFuturo Em 2035]], os robôs se instalaram em todos os níveis da sociedade humana, e a U.S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[[WMG:[[center:[-'''Character Alignment'''\\
 LawfulGood | NeutralGood | ChaoticGood\\
 LawfulNeutral | TrueNeutral | ChaoticNeutral\\
@@ -34112,6 +34178,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231103T201339Z" creationid="Luan" creationdate="20231103T201339Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[quoteright:256:https://static.tvtropes.org/pmwiki/pub/images/movie_poster_i_robot.jpg]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T165316Z" creationid="Luan" creationdate="20240616T165316Z">
+        <seg>[[quoteright:256:https://static.tvtropes.org/pmwiki/pub/images/movie_poster_i_robot.jpg]]</seg>
       </tuv>
     </tu>
     <tu>

@@ -3789,6 +3789,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ChekhovsGun:
+** It is mentioned on her introduction that VIKI controls all of Chicago's traffic network.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T182321Z" creationid="Luan" creationdate="20240616T182321Z">
+        <seg>* Br/ArmaDeChekhov:
+** É mencionado durante a introdução de VIKI que ela controla todo o tráfego de Chicago.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ChezRestaurant: Expect snails, frog legs, temperamental chefs, and snotty waiters with [[FunnyForeigner funny accents]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T144637Z" creationid="Luan" creationdate="20240125T144637Z">

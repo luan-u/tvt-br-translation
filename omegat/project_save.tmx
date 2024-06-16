@@ -892,6 +892,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(''To Sonny'') He was [[BatmanGambit counting]] on how much I hated your kind.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T190232Z" creationid="Luan" creationdate="20240616T190232Z">
+        <seg>(''para Sonny'') Ele [[Br/GambitoDeBatman contava]] com o meu ódio por robôs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(A variation is when the villain will ''praise'' the hero, which [[YourApprovalFillsMeWithShame the hero will find profoundly humiliating]].)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T232427Z" creationid="Luan" creationdate="20231214T232427Z">
@@ -4723,6 +4731,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* DeadpanSnarker: There's very little in this story that Spooner ''doesn't'' react to with a sarcastic quip, although it's more of a coping mechanism than an attempt to get a laugh.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T190440Z" creationid="Luan" creationdate="20240616T190440Z">
+        <seg>* Br/SarcasticoSerio: Há poucas coisas nesse filme para as quais Spooner ''não'' reaja com uma tirada sarcástica. No entanto, é mais um jeito de lidar com a situação do que uma tentativa de fazer rir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* DealWithTheDevil: Did by Hermógenes and, later, [[spoiler:Riobaldo]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240417T201835Z" creationid="Luan" creationdate="20240417T201835Z">
@@ -4751,6 +4767,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T203442Z" creationid="Luan" creationdate="20240131T203442Z">
         <seg>* Br/CorteDecadente: Os líderes conduzem operações de guerra em um campo de batalha ostensivamente civilizado e polido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DecoyAntagonist: [[spoiler: Lawrence Robertson, the CEO of US Robotics.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T190531Z" creationid="Luan" creationdate="20240616T190531Z">
+        <seg>* Br/AntagonistaIsca: [[spoiler: Lawrence Robertson, o CEO da US Robótica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18478,6 +18502,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>--&gt;'''Spooner:''' [[spoiler: Poor old man.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T190129Z" creationid="Luan" creationdate="20240616T190129Z">
+        <seg>--&gt;'''Spooner:''' [[spoiler: Pobre velho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>--&gt;-- '''WebVideo/ScreenRantPitchMeetings''' for ''WesternAnimation/FrozenII''</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T155045Z" creationid="Luan" creationdate="20240105T155045Z">
@@ -19296,6 +19328,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240228T210409Z" creationid="Luan" creationdate="20240228T210409Z">
         <seg>Uma pessa que seja um Br/ImaDeEsquisitice tende a ser uma coincidência conveniente ambulante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A plan I'd follow.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T190207Z" creationid="Luan" creationdate="20240616T190207Z">
+        <seg>Um plano que eu seguisse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22906,6 +22946,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>He saw what was coming, knew no one would believe him, so he had to lay down a plan.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T190158Z" creationid="Luan" creationdate="20240616T190158Z">
+        <seg>Ele previu o que viria. Sabia que não iam acreditar nele. Então teve que criar um plano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He spends most of his screentime trying to block or derail Spooner's investigation of Lanning's death, supposedly so he can keep a flaw in the robots a secret from the public.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T190620Z" creationid="Luan" creationdate="20240616T190620Z">
+        <seg>Ele passa a maior parte do seu tempo de tela tentando bloquear ou desviar a investigação da morte de Lanning por parte do Spooner, supostamente para que ele possa manter em segredo do público a falha que há nos robôs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>He succeeded in deposing Pope Boniface VIII and installing a Frenchman as Pope Clement V, and moving the papacy to Avignon from Rome.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T145001Z" creationid="Luan" creationdate="20231221T145001Z">
@@ -25375,6 +25431,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T144449Z" creationid="Luan" creationdate="20231221T144403Z">
         <seg>Rei Filipe, "o Belo"[[note]][[Br/BelezaEMa Dizem que ele era excepcionalmente bonito]][[/note]] foi um monarca que tinha interesse em reformar as finanças e unificar o reino sob seu domínio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Knew I'd love the idea of a robot as the bad guy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T190253Z" creationid="Luan" creationdate="20240616T190253Z">
+        <seg>Sabia que eu ia adorar a ideia de um robô mau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30440,6 +30504,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then he's KilledOffscreen during the robot uprising, causing Spooner to realize that V.I.K.I.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T191210Z" creationid="Luan" creationdate="20240616T191210Z">
+        <seg>Aí ele é Br/MortoForaDaCena durante a revolta dos robôs, o que faz com que Spooner perceba que a VIKI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then it gets done.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240611T005302Z" creationid="Luan" creationdate="20240611T005302Z">
@@ -34300,6 +34372,14 @@ LawfulEvil | NeutralEvil | ChaoticEvil-]]]]]</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[[WhamLine Just got hung up on the wrong robot]]]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T190316Z" creationid="Luan" creationdate="20240616T190316Z">
+        <seg>[[Br/AquelaFrase Eu só suspeitei do robô errado]]]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[[folder:'''Categories''']]
 + AbandonedArea: Derelict places that are no longer used or inhabited by any people.</seg>
       </tuv>
@@ -35021,6 +35101,14 @@ E ele tem que estar disposto a lutar!</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T130452Z" creationid="Luan" creationdate="20240117T003446Z">
         <seg>[[quoteright:350:https://static.tvtropes.org/pmwiki/pub/images/pirmide_de_fraytag.png]]
 [[caption-width-right:350:Consulte o gráfico!]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[spoiler: Lanning's overarching gambit to thwart the uprising is also based around this, as Spooner sadly muses when giving TheSummation to Sonny and Calvin, bitterly noting that he ''had'' to be so cryptic and roundabout in his actions and the message he was trying to deliver, so as to thwart the SinisterSurveillance he was under, because he had no other means of getting people to listen to him before it was too late]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T190016Z" creationid="Luan" creationdate="20240616T190016Z">
+        <seg>[[spoiler: O grande plano de Lanning para evitar a revolta também é baseado nisso, conforme Spooner lamenta enquanto dá Br/OResumoDaOpera para Sonny e Calvin, notando com remorso que ele ''precisava'' ser críptico em suas ações e na mensagem que ele queria entregar para conseguir contornar a Br/VigilanciaSinistra que ele sofria, porque ele não tinha outros meios de fazer com que escutassem ele até que fosse tarde demais]].</seg>
       </tuv>
     </tu>
     <tu>

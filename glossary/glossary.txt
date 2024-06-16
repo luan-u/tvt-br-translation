@@ -4063,3 +4063,4 @@ CryingWolf	Br/GritarLobo
 TheSummation	Br/{{Sumarizacao}}
 DecoyAntagonist	Br/AntagonistaIsca
 KilledOffscreen	Br/MortoForaDaCena
+DoAndroidsDream	Br/AndroidesSonham

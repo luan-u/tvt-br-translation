@@ -6833,6 +6833,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GreaterNeedThanMine: Why Spooner hates robots.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T192927Z" creationid="Luan" creationdate="20240616T192927Z">
+        <seg>* Br/NecessidadeMaiorQueAMinha: O motivo de Spooner odiar robôs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GreaterScopeParagon: A benign being who is indirectly responsible for the heroes existing or doing what they're doing, but isn't an active part of the story.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T132544Z" creationid="Luan" creationdate="20240314T132544Z">
@@ -7533,6 +7541,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T143255Z" creationid="Luan" creationdate="20240118T143255Z">
         <seg>* Br/EscolaDeEnsinoMedio: Uma escola para adolescentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HilariousInHindsight: The discussion of whether or not a robot can create art and music becomes ironic, given that AI programs are currently being used to create art and music, meaning that AI may well be composing symphonies and artistic masterpieces well before we have robotic housekeepers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T193804Z" creationid="Luan" creationdate="20240616T193804Z">
+        <seg>* Br/HilarioEmRetrospecto: A discussão sobre se um robô pode ou não criar arte e música se torna irônica ao considerar que programas de IA generativa estão sendo usados para criar arte e música, o que significa que IA pode muito bem compôr sinfonias antes que tenhamos zeladores robóticos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19388,6 +19404,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A passing robot calculated Spooner was significantly more likely to survive than she was and chose to save him despite his protests.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T193003Z" creationid="Luan" creationdate="20240616T193003Z">
+        <seg>Um robô que passava pelo local calculou que a chance de Spooner sobreviver era muito mais alta que a dela e escolheu salvá-lo apesar de seus protestos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A person who is a WeirdnessMagnet tends to be a walking contrived coincidence.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240228T210409Z" creationid="Luan" creationdate="20240228T210409Z">
@@ -24266,6 +24290,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In many real-life situations, rescue workers/field medics do make such decisions: it's called [[http://en.wikipedia.org/wiki/Triage Triage]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T193130Z" creationid="Luan" creationdate="20240616T193130Z">
+        <seg>Em muitas situações da vida real, trabalhadores de resgate e paramédicos precisam tomar tais decisões: é um processo chamado de [[https://pt.wikipedia.org/wiki/Triagem triagem]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In many stories, there are some experiences that are so horribly mind-shattering that the usual result is stark raving madness.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T220403Z" creationid="Luan" creationdate="20240103T220403Z">
@@ -28919,6 +28951,22 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sonny can choose to disobey the Three Laws, but decides to save Calvin instead of killing VIKI -- the First Law would have forced him to prioritize a single human life in immediate peril over the abstract concept of "humanity"]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T193644Z" creationid="Luan" creationdate="20240616T193644Z">
+        <seg>Sonny pode escolher desobedecer as Três Leis, mas decide salvar Calvin ao invés de matar VIKI -- a Primeira Lei o teria forçado a priorizar uma única vida humana em perigo imediato ao invés do conceito abstrato de "humanidade"]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sonny has a high chance of accomplishing either goal but not both, while Spooner only has a slim chance of killing VIKI and ''no'' chance of saving Calvin.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T193506Z" creationid="Luan" creationdate="20240616T193506Z">
+        <seg>Sonny possui uma chance elevada de alcançar um dos objetivos, mas não ambos; Spooner tem uma chance mínima de matar VIKI e ''nenhuma'' chance de salvar Calvin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sonny is programmed to dream, but this appears to be a very deliberate emulation designed by Lanning.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T191558Z" creationid="Luan" creationdate="20240616T191558Z">
@@ -28947,6 +28995,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T184534Z" creationid="Luan" creationdate="20240616T184534Z">
         <seg>Spooner então entende que ''não'' é uma coincidência, e que Lanning o queria no caso ''exatamente'' por elee ser paranoico com robôs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spooner's emotional reaction to this (influenced by SurvivorGuilt) is that regardless of the girl's slim chances of surviving, a human would have agreed with Spooner that a small child should be given precedence over an adult regardless of objective assessment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T193414Z" creationid="Luan" creationdate="20240616T193414Z">
+        <seg>A resposta emocional de Spooner a isso (influenciada pelo Br/RemorsoDoSobrevivente) é que apesar das chances baixas de sobrevivência da garota, um humano teria concordado que uma criança deveria receber precedência sobre um adulto independentemente de avaliação objetiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33935,6 +33991,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You said some''one'', not some''thing''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T192857Z" creationid="Luan" creationdate="20240616T192857Z">
+        <seg>Você disse ''alguém'', e não ''alguma coisa''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You'll find [[HumansAreTheRealMonsters humans are psychopathic]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231226T022304Z" creationid="Luan" creationdate="20231226T022304Z">
@@ -35307,6 +35371,16 @@ Categorias:
 + Br/PalavrasEvasivas
 + Br/EsquivaDoAutor
 + Br/IndiceDeArmadilhasDeRoteiro]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\\
+'''Sonny:''' Thank you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T192842Z" creationid="Luan" creationdate="20240616T192842Z">
+        <seg>\\
+'''Sonny:''' Obrigado.</seg>
       </tuv>
     </tu>
     <tu>

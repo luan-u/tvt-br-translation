@@ -4197,6 +4197,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ContrivedCoincidence:
+** Subverted when Lt.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T184440Z" creationid="Luan" creationdate="20240616T184440Z">
+        <seg>* Br/CoincidenciaConveniente:
+** Subvertida quando o tenente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ConvenientMiscarriage: If the reason it's convenient is because the baby would change the status quo, but not an example if it's convenient to the ''characters''.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T153953Z" creationid="Luan" creationdate="20231208T153953Z">
@@ -17375,6 +17385,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** A more straight example is when Spooner arrived at the spot Lanning's clues were leading him to [[spoiler: just as VIKI begins her ZerothLawRebellion]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T184629Z" creationid="Luan" creationdate="20240616T184629Z">
+        <seg>** Um exemplo mais claro ocorre quando Spooner chega no local para onde levam as pistas de Lanning, [[spoiler: no exato instante em que VIKI inicia sua Br/RebeliaoDaLeiZero]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>** Alternatively, the person can be hit, but the proxy somehow takes all the damage instead.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T203835Z" creationid="Luan" creationdate="20231206T203835Z">
@@ -19746,6 +19764,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An "ax-crazy" character is someone who is psychologically unstable[[note]]"Unstable" is an excessively mild term here, because it implies that ''some'' residual stability may still be present.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T184154Z" creationid="Luan" creationdate="20240616T184154Z">
+        <seg>Um personagem "doido de pedra" é alguém que é psicologicamente instável[[note]]"Instável" é um termo inadequado aqui porque implica que ainda resta ''alguma'' estabilidade residual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An ''ideal'' retcon clarifies a question alluded to without adding excessive new questions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T165722Z" creationid="Luan" creationdate="20231215T165722Z">
@@ -20458,10 +20484,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Being Ax-Crazy usually implies that almost the entire substructure of sanity is ''gone''[[/note]] ''and'' presents a clear and present danger to others.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T184231Z" creationid="Luan" creationdate="20240616T184231Z">
+        <seg>Ser doido de pedra implica que todo aspecto de sanidade ''sumiu''[[/note]] ''e'' representa perigo para outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Being raped or losing one's job or family as a fully formed adult is not a Freudian Excuse.'''</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231231T010314Z" creationid="Luan" creationdate="20231231T010314Z">
         <seg>Ser estuprado ou perder a família depois de adulto crescido não é uma desculpa freudiana.'''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bergin muses how it's a hell of a coincidence that Spooner has just investigated the only case in the world involving a killer robot.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T184508Z" creationid="Luan" creationdate="20240616T184508Z">
+        <seg>Bergin pondera sobre como é uma coincidência e tanto que Spooner tenha investigado o único caso no mundo envolvendo um robô assassino.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21525,6 +21567,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T193136Z" creationid="Luan" creationdate="20240104T193136Z">
         <seg>Apesar de paralelos óbvios, a maioria dos casos de Br/ChefePortadorDaCarga nos videogames não se encaixa aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Despite the title, ax-crazies aren't limited to wielding [[AxeBeforeEntering axes]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T184250Z" creationid="Luan" creationdate="20240616T184250Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -27373,6 +27423,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please place any others on the Quotes page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T184017Z" creationid="Luan" creationdate="20240616T184017Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please try to avoid getting the two confused.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231103T010834Z" creationid="Luan" creationdate="20231103T010834Z">
@@ -28661,6 +28719,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T170059Z" creationid="Luan" creationdate="20240616T170059Z">
         <seg>Spooner é totalmente averso aos robôs (e, em certa medida, à [[Br/LuddEstavaCerto tecnologia em geral]]), até mesmo se considerando a Br/UnicaPessoaSa enquanto todos os demais estão certos de que os robôs são seguros e confiáveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spooner then realizes that it's ''not'' a coincidence, and that Lanning wanted him on the case ''because'' he's paranoid about robots.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T184534Z" creationid="Luan" creationdate="20240616T184534Z">
+        <seg>Spooner então entende que ''não'' é uma coincidência, e que Lanning o queria no caso ''exatamente'' por elee ser paranoico com robôs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30450,6 +30516,16 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T013953Z" creationid="Luan" creationdate="20231215T013953Z">
         <seg>Podem haver momentos em que aqueles que criticam talvez não estejam a par de fatores extenuantes para os heróis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There were also far less "whacks" in the actual murders.[[/note]]
+%%
+%% One quote will do.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T184013Z" creationid="Luan" creationdate="20240616T184013Z">
+        <seg>E também houveram muito menos "golpes" nos assassinatos de fato.[[/note]]</seg>
       </tuv>
     </tu>
     <tu>

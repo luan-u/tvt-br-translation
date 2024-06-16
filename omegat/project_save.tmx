@@ -5079,6 +5079,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* DoesThisRemindYouOfAnything: The procedure for "decomissioning" a malfunctioning robot is to inject nanites into its brain that destroy it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T192005Z" creationid="Luan" creationdate="20240616T192005Z">
+        <seg>* Br/IssoNaoTeLembraAlgo: O procedimento para "descomissionar" um robô defeituoso consiste em injetar nanitos em seu cérebro para o destruir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* DolledUpInstallment: Practice of inserting a work into a franchise which it was not originally intended for.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T151926Z" creationid="Luan" creationdate="20240105T151926Z">
@@ -5485,6 +5493,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* EverythingIsAnIpodInTheFuture: The NS-[=5s=], in more ways than one.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T192540Z" creationid="Luan" creationdate="20240616T192540Z">
+        <seg>* Br/NoFuturoTudoEUmIpod: Os NS-5, em mais de uma maneira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* EvilCannotComprehendGood: The villain is unable to understand why the heroes do what they do or assumes that there are evil reasons for their good deeds.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T205306Z" creationid="Luan" creationdate="20240313T205306Z">
@@ -5529,6 +5545,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240404T232344Z" creationid="Luan" creationdate="20240404T232344Z">
         <seg>* Br/BiologistaMalvolucionario: Os experimentos deste cientista envolvem melhorar a raça humana nos seus próprios termos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ExactWords: "I did not murder him!" [[spoiler: Technically he didn't.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T192627Z" creationid="Luan" creationdate="20240616T192627Z">
+        <seg>* Br/PalavrasExatas: "Eu não o matei!" [[spoiler: Tecnicamente ele não o matou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5717,6 +5741,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T152714Z" creationid="Luan" creationdate="20240117T152714Z">
         <seg>* Br/ReservaFlorestalFantastica: Um zoológico, reserva de vida selvagem ou outra casa para criaturas míticas ou supostamente extintas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FantasticRacism: Spooner hates robots.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T192653Z" creationid="Luan" creationdate="20240616T192653Z">
+        <seg>* Br/RacismoFantastico: Spooner odeia robôs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17653,6 +17685,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** Lanning also notes that androids seem to dream, and when they're placed in shipping crates, rather than give each other space, they cluster together instead for no logical reason.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T191847Z" creationid="Luan" creationdate="20240616T191847Z">
+        <seg>** Lanning também observa que androides parecem sonhar, e quando armazenados em contêineres, eles se agrupam ao invés de darem espaço entre si sem que haja motivo lógico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>** LetteredSequel: When a sequel title has a letter instead of number.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145314Z" creationid="Luan" creationdate="20240105T145314Z">
@@ -25303,6 +25343,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T220559Z" creationid="Luan" creationdate="20231206T220559Z">
         <seg>É fisicamente e teologicamente impossível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's played very much like a typical American judicial execution by lethal injection, with a special chamber devoted to it and a stretcher with limb restraints to keep the robot from struggling.[[note]]While quite reminiscent of American executions on its own, it's even more reminiscent of the inaccurate portrayals of this kind of execution in media.[[/note]]
+* DreamingOfThingsToCome: Related to DoAndroidsDream: Sonny says he dreamt of a man (he thinks it's Spooner) on a hill, surrounded by robots and leading them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T192338Z" creationid="Luan" creationdate="20240616T192338Z">
+        <seg>É encenado de maneira similar à uma típica execução judicial americana através de injeção letal, com uma câmara especial preparada com esse fim e uma maca com amarras para os membros a fim de impedir que o robô se debata. [[note]]Apesar de lembrar as execuções americanas, é mais similar às retratações imprecisas desse tipo de execução na mídia.[[/note]]
+* Br/SonhandoComAquiloQueVira: Relacionado a Br/AndroidesSonham: Sonny diz que sonhou com um homem (que ele considera ser Spooner) em uma colina, cercado por robôs e os liderando.</seg>
       </tuv>
     </tu>
     <tu>

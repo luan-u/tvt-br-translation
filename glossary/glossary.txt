@@ -4064,3 +4064,5 @@ TheSummation	Br/{{Sumarizacao}}
 DecoyAntagonist	Br/AntagonistaIsca
 KilledOffscreen	Br/MortoForaDaCena
 DoAndroidsDream	Br/AndroidesSonham
+DoesThisRemindYouOfAnything	Br/IssoNaoTeLembraAlgo
+EverythingIsAnIpodInTheFuture	Br/NoFuturoTudoEUmIpod

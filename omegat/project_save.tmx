@@ -1047,6 +1047,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Yeah, the ''movie'' did something clever and subversive.)
+* CryingWolf: Spooner believes robots are untrustworthy and no one believes him when it actually comes true.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T185709Z" creationid="Luan" creationdate="20240616T185709Z">
+        <seg>(É, o ''filme'' fez algo esperto e subversivo.)
+* Br/GritarLobo: Spooner acredita que robôs não são confiáveis e ninguém acredita nele quando isso ocorre de fato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>([[FridgeLogic We'll give you a minute to figure out why that wouldn't have worked so well]].)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240416T191123Z" creationid="Luan" creationdate="20240416T191123Z">
@@ -4251,10 +4261,26 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* CoolBike: Spooner's MV Agusta F4, like his Converses, is considered an "antique".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T185017Z" creationid="Luan" creationdate="20240616T185017Z">
+        <seg>* Br/MotoIrada: A MV Agusta F4 do Spooner é considerada uma "antiguidade", tal qual seu par de calçados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* CoolBoat: A boat, but with lasers.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T145653Z" creationid="Luan" creationdate="20240125T145653Z">
         <seg>* Br/BarcoIrado: Um barco, porém com lasers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CoolCar: Spooner's futuristic Audi.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T185037Z" creationid="Luan" creationdate="20240616T185037Z">
+        <seg>* Br/CarroIrado: O Audi futurista do Spooner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4368,6 +4394,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* CowboyCop: Spooner, who pursues the case wherever it leads, whether that's the richest and most powerful corporate executive in the country or a robot that technically can't commit murder, even if its programming would have allowed it to.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T185129Z" creationid="Luan" creationdate="20240616T185129Z">
+        <seg>* Br/PolicialCauboi: Spooner, que persegue o caso para onde quer que ele o leve, não importa se é para o executivo mais rico e poderoso do país ou um robô que tecnicamente não pode cometer assassinato, ainda que sua programação o permita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* CrappyCarnival: Like Disneyland, if Mickey was a grubby ConMan.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T145916Z" creationid="Luan" creationdate="20240125T145916Z">
@@ -4467,6 +4501,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T152033Z" creationid="Luan" creationdate="20240125T152033Z">
         <seg>* Br/ConvencaoCriminal
 * Br/PaisagemDeCristal: Uma ambientação repleta de cristais e pedras preciosas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CriminalMindGames: The [[spoiler: "murder victim"]] does this, the initial clue being [[spoiler: [[ThanatosGambit his own "murder"]]]], ostensibly to reveal his secret to the hero (without tipping off a [[spoiler: ThreeLawsCompliant AI with SinisterSurveillance]]) in time to prevent a [[spoiler: ZerothLawRebellion]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T185453Z" creationid="Luan" creationdate="20240616T185453Z">
+        <seg>* Br/JogosMentaisCriminosos: A [[spoiler: "vítima de assassinato"]] faz isso, com a pista inicial sendo [[spoiler: [[Br/GambitoDeThanatos o seu próprio "assassinato"]]]] e o propósito sendo o de revelar seu segredo para o herói (sem envolver uma [[spoiler: IA com Br/ConformidadeComAsTresLeis e dotada de Br/VigilanciaSinistra]]) para prevenir uma [[spoiler: Br/RebeliaoDaLeiZero]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -18428,6 +18470,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>--&gt;'''Calvin''': Please tell me this doesn't run on gas.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T184844Z" creationid="Luan" creationdate="20240616T184844Z">
+        <seg>--&gt;'''Calvin''': Por favor, diga que isso não usa gasolina!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>--&gt;-- '''WebVideo/ScreenRantPitchMeetings''' for ''WesternAnimation/FrozenII''</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T155045Z" creationid="Luan" creationdate="20240105T155045Z">
@@ -22676,6 +22726,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T225354Z" creationid="Luan" creationdate="20231101T225354Z">
         <seg>Jogos que possuem nota acima de 4.0 na lista representam o top 3% de dificuldade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gas explodes, you know!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T184855Z" creationid="Luan" creationdate="20240616T184855Z">
+        <seg>Gasolina explode, sabia?!</seg>
       </tuv>
     </tu>
     <tu>

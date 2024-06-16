@@ -4054,3 +4054,5 @@ ArtisticLicensePhysics	Br/LicencaArtisticaParaFisica
 FantasticRacism	Br/RacismoFantastico
 EurekaMoment	Br/MomentoEureka
 LaymansTerms	Br/EmTermosLeigos
+ChekhovsGun	Br/ArmaDeChekhov
+SuperPrototype	Br/SuperPrototipo

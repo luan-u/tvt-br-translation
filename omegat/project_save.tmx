@@ -6283,6 +6283,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GenreBlind: [[spoiler: No one in the world anticipates the ZerothLawRebellion except for the one robotics expert who made it possible in the first place.]]
+* GoneHorriblyRight: VIKI relies on an extreme definition of the Three Laws, but she claims that she still does follow them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T235414Z" creationid="Luan" creationdate="20240616T235414Z">
+        <seg>* Br/CegueiraDeGenero: [[spoiler: Ninguém no mundo esperava a Br/RebeliaoDaLeiZero exceto pelo especialista em robótica que tornou tudo possível em primeiro lugar.]]
+* Br/DeuHorrivelmenteCerto: VIKI se baseia em uma definição extrema das Três Leis, mas ela alega que ainda as segue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GenteelInterbellumSetting: Sometime between 1918 and 1939.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T221807Z" creationid="Luan" creationdate="20240117T153141Z">
@@ -17193,6 +17203,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* {{Gaslighting}}: Fail to kill the hero?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T235227Z" creationid="Luan" creationdate="20240616T235227Z">
+        <seg>* Br/ManipulacaoPsicologica: Não conseguiu matar o herói?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* {{Gayborhood}}: A neighborhood where the population is predominantly openly LGBT in a city where most people aren't.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T133816Z" creationid="Luan" creationdate="20240202T133816Z">
@@ -27921,6 +27939,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240228T210301Z" creationid="Luan" creationdate="20240228T210301Z">
         <seg>Mas lembre que o fato de uma obra [[BrAdministrivia/TroposSaoFerramentas usar este tropo]] não desqualifica a história por si só.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove all evidence that you even tried.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T235235Z" creationid="Luan" creationdate="20240616T235235Z">
+        <seg>Remova toda a evidência de que você tentou.</seg>
       </tuv>
     </tu>
     <tu>

@@ -4056,3 +4056,7 @@ EurekaMoment	Br/MomentoEureka
 LaymansTerms	Br/EmTermosLeigos
 ChekhovsGun	Br/ArmaDeChekhov
 SuperPrototype	Br/SuperPrototipo
+CoolBike	Br/MotoIrada
+CoolCar	Br/CarroIrado
+SinisterSurveillance	Br/VigilanciaSinistra
+CryingWolf	Br/GritarLobo

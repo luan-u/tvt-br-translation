@@ -18992,6 +18992,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>--&gt;'''Spooner:''' That was someone's ''baby''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T030017Z" creationid="Luan" creationdate="20240618T030017Z">
+        <seg>--&gt;'''Spooner:''' Mas ela era filha de alguém.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>--&gt;'''Spooner:''' You know what they say: "Laws are meant to be broken".\\
 '''Calvin:''' Not these laws.</seg>
       </tuv>
@@ -19408,6 +19416,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>11% is more than enough.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T030025Z" creationid="Luan" creationdate="20240618T030025Z">
+        <seg>11% é mais do que suficiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A "pure" archetype is always a partial personality, rather than a rounded character.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231212T223308Z" creationid="Luan" creationdate="20231212T223308Z">
@@ -19772,6 +19788,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231213T145010Z" creationid="Luan" creationdate="20231213T145010Z">
         <seg>Um canalha manipulador muito focado ou ambicioso é de fato assustador, pois além de alcançarem o objetivo eles também asseguram supremacia duradoura ao destruir as almas de todos que foram usados para que ele chegasse até lá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A human being would have known that.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T030507Z" creationid="Luan" creationdate="20240618T030507Z">
+        <seg>Um ser humano saberia disso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21352,6 +21376,20 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T170627Z" creationid="Luan" creationdate="20231210T170627Z">
         <seg>Quando a ABC cancelou ''Dias Felizes'' em 1984, a série tinha se tornado [[Br/PodridaoSazonal uma mera sombra de sua antiga glória]], com muito do elenco original ausente, e ficou notável por lançar a série ''BrSerie/MorkEMindy'' através de um episódio Br/PilotoMalDisfarcado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can a robot turn a canvas into a beautiful masterpiece?]]
+* ArmorPiercingResponse:
+** Sonny's response to the ArmorPiercingQuestion above:
+---&gt;'''Sonny:''' Can you?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T025511Z" creationid="Luan" creationdate="20240618T025511Z">
+        <seg>Um robô consegue pintar uma bela obra-prima?]]
+* Br/RespostaDevastadora:
+** A resposta de Sonny para a pergunta feita no interrogatório:
+---&gt;'''Sonny:''' Você consegue?</seg>
       </tuv>
     </tu>
     <tu>
@@ -36141,6 +36179,16 @@ E ele tem que estar disposto a lutar!</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T172605Z" creationid="Luan" creationdate="20240616T172605Z">
         <seg>[[spoiler: [[Br/PoderesSecundariosRequeridos E por um bom motivo.]]]]
 * Br/MalditosHerois: Spooner tem alguns momentos: primeiro, quando ele invade o apartamento de Calvin para salvá-la de seu [[spoiler: NS-5 defeituoso]], e depois, quando ele acerta a motocicleta em um grupo de NS-5 e depois atira em todos eles para salvar Farber.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[spoiler:As the full details of the case are revealed over the course of the film, it turns out that both are technically correct as Sonny did kill Lanning, but did so at Lanning's own request, making it an assisted suicide.]]
+* ArtisticLicensePhysics: The depiction of a damaged suspension bridge crossing Lake Michigan demonstrates a lack of understanding of how such bridges actually work.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T025903Z" creationid="Luan" creationdate="20240618T025903Z">
+        <seg>[[spoiler: A medida em que os detalhes completos são revelados durante o filme, descobre-se que as duas possibilidades estão tecnicamente corretas, já que Sonny matou Lanning, mas a pedido deste, o que faz com que seja suicídio assistido.]]
+* Br/LicencaArtisticaParaFisica: A ilustração de uma ponte pênsil cruzando o Lago Michigan demonstra falta de compreensão sobre como tais pontes funcionam.</seg>
       </tuv>
     </tu>
     <tu>

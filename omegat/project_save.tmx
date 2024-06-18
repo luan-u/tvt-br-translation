@@ -3539,6 +3539,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* CallBack: Doubles as an IronicEcho.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T010618Z" creationid="Luan" creationdate="20240618T010618Z">
+        <seg>* Br/{{Referencia}}: Também serve como um Br/EcoIronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* CallToAdventure: The story's hero learns they must do something, leading them to decide whether they should embark on an adventure or not.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T220243Z" creationid="Luan" creationdate="20240318T220243Z">
@@ -18698,6 +18706,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>--&gt;'''Sonny:''' We all have a purpose, don't you think?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T011314Z" creationid="Luan" creationdate="20240618T011314Z">
+        <seg>--&gt;'''Sonny:''' Todos temos um propósito, não acha?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>--&gt;'''Spooner:''' [[spoiler: Poor old man.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T190129Z" creationid="Luan" creationdate="20240616T190129Z">
@@ -29183,6 +29199,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T172410Z" creationid="Luan" creationdate="20240616T172410Z">
         <seg>Spooner na verdade se liga nisso bem rápido, percebendo que não é coincidência que ele, de todas as pessoas, foi chamado para investigar a morte de Lanning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spooner is the only person who doesn't buy into this story and instead insists that Lanning was murdered by Sonny.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T010035Z" creationid="Luan" creationdate="20240618T010035Z">
+        <seg>Spooner é a única pessoa que não engole a história e insiste que Lanning foi assassinado por Sonny.</seg>
       </tuv>
     </tu>
     <tu>

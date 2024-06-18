@@ -4084,3 +4084,4 @@ MathematiciansAnswer	Br/RespostaDoMatematico
 MechanicalEvolution	Br/EvolucaoMecanica
 MinorCrimeRevealsMajorPlot	Br/CrimePequenoRevelaPlanoGrande
 DisturbingStatistic	Br/EstatisticaPerturbadora
+MourningADeadRobot	Br/ChorarPorUmRoboMorto

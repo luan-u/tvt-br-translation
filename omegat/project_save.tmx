@@ -5529,6 +5529,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* EstablishingCharacterMoment:
+** Spooner is introduced getting up and getting ready for work in his fairly modern and normal-looking apartment like a normal guy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T030635Z" creationid="Luan" creationdate="20240618T030635Z">
+        <seg>* Br/MomentoDeEstabelecimentoDePersonagem:
+** Spooner é introduzido ao levantar-se e preparar-se para o trabalho em seu apartamento moderno e convencional como um cara normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* EternalHero: The hero has existed for eons and will likely continue existing for eons.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T221630Z" creationid="Luan" creationdate="20240318T221630Z">

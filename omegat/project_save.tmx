@@ -9379,6 +9379,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MadeOfIron:
+** Sonny, almost literally (it's an alloy).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T021212Z" creationid="Luan" creationdate="20240618T021212Z">
+        <seg>* Br/FeitoDeFerro:
+** Sonny, quase literalmente (é uma liga metálica).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MadonnaArchetype: Characters modeled after the Virgin Mary.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T152658Z" creationid="Luan" creationdate="20240319T152658Z">
@@ -10111,6 +10121,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MourningADeadRobot: During the "Ghosts in The Machine" montage, Susan is tasked with deactivating NS-5 robot Sonny, at USR CEO Lawrence Robertson's insistence due to Sonny violating Asimov's Three Laws by murdering Dr. Lanning.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T021530Z" creationid="Luan" creationdate="20240618T021530Z">
+        <seg>* Br/ChorarPorUmRoboMorto: Durante a sequência de "fantasmas na máquina", Susan recebe a tarega de desativar o NS-5 Sonny por insistência do CEO da USR, Lawrence Robertson, devido à violação das Três Leis que culminou no assassinato de Dr. Lanning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MouthFullOfSmokes: Smoking up to a whole pack of cigarettes ''all at once'', usually by stuffing them into a person's mouth.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240402T215528Z" creationid="Luan" creationdate="20240402T215528Z">
@@ -10305,6 +10323,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T191739Z" creationid="Luan" creationdate="20240131T191739Z">
         <seg>* Br/HollywoodMistica: Hollywood apresentada como um Br/LugarAlienigena ou ponto de atividades sobrenaturais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MythologyGag: Several scenes double as references to Asimov's short stories, such as the scene where Spooner and Calvin need to find Sonny in a room filled with identical robots.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T021625Z" creationid="Luan" creationdate="20240618T021625Z">
+        <seg>* Br/PiadaMitologica: Muitas cenas servem como referências para as histórias curtas de Asimov, como a cena em que Spooner e Calvin precisam encontrar Sonny em uma sala cheia com robôs idênticos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18069,6 +18095,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** Spooner's grandmother says, reminiscing, "I could follow your trail of breadcrumbs all the way to school," to which Spooner replies, "Breadcrumbs...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T022026Z" creationid="Luan" creationdate="20240618T022026Z">
+        <seg>** A avó do Spooner diz, recordando, "Eu podia seguir suas migalhas até a escola", no que Spooner responde, "Migalhas de pão...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>** Spooner, when he tries to tell people about being ambushed and run off the road by USR trucks, as well as his suspicions regarding Dr. Lanning's death.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240618T012018Z" creationid="Luan" creationdate="20240618T012018Z">
@@ -18844,6 +18878,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240618T015755Z" creationid="Luan" creationdate="20240618T015755Z">
         <seg>--&gt;'''Calvin:''' Há um robô que não pertence a esta formação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>--&gt;'''NS-5:''' You are experiencing a car accident.\\
+'''Spooner:''' THE ''HELL'' I AM!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T021317Z" creationid="Luan" creationdate="20240618T021317Z">
+        <seg>--&gt;'''NS-5:''' Você está sofrendo um acidente de carro.\\
+'''Spooner:''' ESTOU ''UMA OVA''!</seg>
       </tuv>
     </tu>
     <tu>
@@ -23260,6 +23304,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T143904Z" creationid="Luan" creationdate="20231208T143904Z">
         <seg>Fica ainda mais confuso quando anos e eventos do mundo real são mencionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gigi, you're a genius!"
+* RequiredSecondaryPowers: [[spoiler: Spooner's robotic arm would need a lot of energy to be able to work properly, so he powers it through the massive amount of calories and sugar from the pies he constantly noshes on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T022139Z" creationid="Luan" creationdate="20240618T022139Z">
+        <seg>Gigi, você é um gênio!"
+* Br/PoderesSecundariosRequeridos: [[spoiler: O braço robótico de Spooner precisaria de muita energia para funcionar adequadamente, e ele é energizado através da quantidade massiva de calorias e açúcar das tortas que ele constantemente come.</seg>
       </tuv>
     </tu>
     <tu>

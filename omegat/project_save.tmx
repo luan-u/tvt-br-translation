@@ -1112,6 +1112,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(slams fists on the table, making the metal buckle)\\
+'''Spooner:''' That one's called anger.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T021113Z" creationid="Luan" creationdate="20240618T021113Z">
+        <seg>(bate com os punhos na mesa, fazendo o metal retorcer)\\
+'''Spooner:''' O nome disso é raiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* '''Anticipation''' beats create expectation of incoming awesomeness.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240229T142150Z" creationid="Luan" creationdate="20240229T142150Z">
@@ -5109,6 +5119,18 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T142321Z" creationid="Luan" creationdate="20240319T142321Z">
         <seg>* Br/PrincesoEmPerigo
 * Br/VitoriosoMoralCondenado: Br/OHeroiMorre após fazer a linha de defesa final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DisturbingStatistic: Upon reaching the staircase that will lead to the top of USR:
+--&gt;'''Sonny''': 2,880 steps, detective.\\
+'''Spooner''': Do me a favor, keep that kind of shit to yourself.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T020913Z" creationid="Luan" creationdate="20240618T020913Z">
+        <seg>* Br/EstatisticaPerturbadora: Ao alcançarem a escadaria que leva até o topo da USR:
+--&gt; '''Sonny:''' 2880 degraus, detetive.\\
+'''Spooner:''' Por favor, guarda essas informações pra você mesmo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9817,6 +9839,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MinorCrimeRevealsMajorPlot: Dr. Lanning's apparent suicide reveals [[spoiler: VIKI's]] ZerothLawRebellion.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T020214Z" creationid="Luan" creationdate="20240618T020214Z">
+        <seg>* Br/CrimePequenoRevelaPlanoGrande: O aparente suicídio de Dr. Lanning revela uma Br/RebeliaoDaLeiZero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MirrorCharacter: Spooner and Sonny.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T173845Z" creationid="Luan" creationdate="20240616T173845Z">
@@ -11019,6 +11049,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240418T135847Z" creationid="Luan" creationdate="20240418T135847Z">
         <seg>* Br/ConhecidoApenasPorSeuApelido: Vários personagens não são conhecidos pelo nome real, embora muitos tenha apelidos que derivam de seus nomes, como Quelemém, que na opinião geral significa Clemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* OnlySaneMan: Spooner is the only person suspicious of the robots; everyone else accepts them as a normal and safe part of everyday life.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T020315Z" creationid="Luan" creationdate="20240618T020315Z">
+        <seg>* Br/UnicaPessoaSa: Spooner é a única pessoa que suspeita dos robôs; todos os demais os aceitam como normais e partes da vida cotidiana.</seg>
       </tuv>
     </tu>
     <tu>

@@ -9585,6 +9585,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* MathematiciansAnswer: Justified because they haven't had all their programming uploaded yet, but nonetheless frustrating.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T015657Z" creationid="Luan" creationdate="20240618T015657Z">
+        <seg>* Br/RespostaDoMatematico: Justificada porque eles estão com a programação incompleta, mas não deixa de ser frustrante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* MayItNeverHappenAgain: If the reason the effort is made not to repeat the story is because repeating the story would change the status quo.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T155722Z" creationid="Luan" creationdate="20231208T155722Z">
@@ -18794,10 +18802,28 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>--&gt;'''Calvin:''' There is a robot in this formation that does not belong.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T015755Z" creationid="Luan" creationdate="20240618T015755Z">
+        <seg>--&gt;'''Calvin:''' Há um robô que não pertence a esta formação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>--&gt;'''Sonny:''' We all have a purpose, don't you think?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240618T011314Z" creationid="Luan" creationdate="20240618T011314Z">
         <seg>--&gt;'''Sonny:''' Todos temos um propósito, não acha?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>--&gt;'''Spooner:''' You know what they say: "Laws are meant to be broken".\\
+'''Calvin:''' Not these laws.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T020056Z" creationid="Luan" creationdate="20240618T020056Z">
+        <seg>--&gt;'''Spooner:''' Bom, como dizem, leis são feitas para se burlar.\\
+'''Calvin:''' Não, não essas leis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23674,6 +23700,24 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231226T022532Z" creationid="Luan" creationdate="20231226T022532Z">
         <seg>Eu vou fazer este lápis desaparecer..."]]
 * Vividamente mostrar (ou descrever) algo assustador que afeta diretamente o corpo humano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Identify him.\\
+'''NS-5s:''' One of us.\\
+'''Calvin:''' ''Which'' one?\\
+'''NS-5s:''' One of us.\\
+'''Spooner:''' [[DeadpanSnarker How much did you say these things cost?]]
+* MechanicalEvolution: VIKI claims her different ideas on the Three Laws are a result of this.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T015938Z" creationid="Luan" creationdate="20240618T015938Z">
+        <seg>Identifiquem-no:\\
+'''NS-5s:''' Um de nós.\\
+'''Calvin:''' Então qual?\\
+'''NS-5s:''' Um de nós.\\
+'''Spooner:''' [[Br/SarcasticoSerio E quanto é que essas coisas custam?]]
+* Br/EvolucaoMecanica: VIKI alega que suas ideias a respeito das Três Leis são resultado disso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31896,6 +31940,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231103T210139Z" creationid="Luan" creationdate="20231103T210139Z">
         <seg>Eles fazem o que quer que seja mais prudente para chegar ao objetivo desejado, não importa quem eles precisem machucar ao longo do caminho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They're hard-wired into every robot ever created.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T020110Z" creationid="Luan" creationdate="20240618T020110Z">
+        <seg>Elas são implantadas em cada robô.</seg>
       </tuv>
     </tu>
     <tu>

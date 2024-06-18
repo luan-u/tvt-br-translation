@@ -1846,6 +1846,18 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AbsurdlyLongStairway: As Spooner, Sonny, and Calvin are looking up the flights of stairs from the basement to the top floor of US Robotics...
+--&gt; '''Sonny:''' Two thousand, eight hundred and eighty steps, Detective.\\
+'''Detective Del Spooner:''' Do me a favor and keep that kind of shit to yourself.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T004328Z" creationid="Luan" creationdate="20240618T004328Z">
+        <seg>* Br/EscadariaAbsurdamenteLonga: Enquanto Spooner, Sonny e Calvin estão olhando os lances de escada que vão do subterrâneo até o topo da US Robótica...
+--&gt; '''Sonny:''' Dois mil, oitocentos e oitenta degraus, detetive.\\
+'''Spooner:''' Por favor, guarda essas informações pra você mesmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AcademyOfAdventure: In class, you learn to fly and shoot laser beams out of your eyes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T144532Z" creationid="Luan" creationdate="20240118T144532Z">
@@ -2374,6 +2386,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T145919Z" creationid="Luan" creationdate="20240318T145919Z">
         <seg>* Br/EquipeDeAntiHerois: A equipe formada por anti-heróis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* AntiIntellectualism:
+** Spooner smacks of several flavors of this, but mainly anti-robotics.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T004405Z" creationid="Luan" creationdate="20240618T004405Z">
+        <seg>* Br/AntiIntelectualismo:
+** Spooner representa diversas variantes disso, mas principalmente anti-robótica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17559,6 +17581,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** Also a somewhat odd example, as Spooner's main issue with the robots is that they run purely on programming.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T004610Z" creationid="Luan" creationdate="20240618T004610Z">
+        <seg>** Em um exemplo estranho de certo modo, a cisma principal de Spooner com os robôs é que eles dependem puramente de programação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>** Alternatively, the person can be hit, but the proxy somehow takes all the damage instead.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T203835Z" creationid="Luan" creationdate="20231206T203835Z">
@@ -23078,6 +23108,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>He also remained friends with Lanning after the operation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T004812Z" creationid="Luan" creationdate="20240618T004812Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>He is thus doubly-armed, and need fear neither demons nor men."'' Thus legitimized, the Templars were able to claim donations from several noblemen and neighbouring Kings across Europe.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T025934Z" creationid="Luan" creationdate="20231221T024948Z">
@@ -24280,6 +24318,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T180312Z" creationid="Luan" creationdate="20231220T180312Z">
         <seg>Em todo caso, ele provavelmente será um intolerantes que dificilmente pode ser considerado [[Br/NobreIntolerante nobre]], mas talvez seja [[Br/IntolerantePerturbadoESimpatico perturbado]] pela sua própria Br/InsanidadePretaEBranca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In essence, his problem boils down to them not being ''advanced enough'' to think like a real person, so he doesn't trust them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T004638Z" creationid="Luan" creationdate="20240618T004638Z">
+        <seg>A cisma se resume a eles não serem ''avançados o bastante'' para pensar como uma pessoa de verdade, e por isso ele não confia neles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29075,6 +29121,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Spooner likes feeling in control of his life, and driving his own car, hitting buttons to turn on his music, and buying vintage clothing and vehicles is part of that.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T004512Z" creationid="Luan" creationdate="20240618T004512Z">
+        <seg>Spooner gosta de se sentir no controle de sua vida, e dirigir o próprio carro, usar botões para ativar a música e comprando artigos ''vintage'' é parte disso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spooner then realizes that it's ''not'' a coincidence, and that Lanning wanted him on the case ''because'' he's paranoid about robots.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T184534Z" creationid="Luan" creationdate="20240616T184534Z">
@@ -32598,6 +32652,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Though it's implied that the anti-robotic sentiment is the source of all the rest of it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T004428Z" creationid="Luan" creationdate="20240618T004428Z">
+        <seg>No entanto, fica implicado que o sentimento anti-robôs é a fonte de todo o restante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Though most of the time immutable equals dramatic, it is possible to see combinations between these categories:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T181452Z" creationid="Luan" creationdate="20240103T181452Z">
@@ -35363,6 +35425,16 @@ E ele tem que estar disposto a lutar!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T190016Z" creationid="Luan" creationdate="20240616T190016Z">
         <seg>[[spoiler: O grande plano de Lanning para evitar a revolta também é baseado nisso, conforme Spooner lamenta enquanto dá Br/OResumoDaOpera para Sonny e Calvin, notando com remorso que ele ''precisava'' ser críptico em suas ações e na mensagem que ele queria entregar para conseguir contornar a Br/VigilanciaSinistra que ele sofria, porque ele não tinha outros meios de fazer com que escutassem ele até que fosse tarde demais]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[spoiler: Once he realizes Sonny ''can'' rationalize and make his own choices rather than just follow his programming, he treats Sonny like a person, albeit one he initially doesn't like very much.]]
+** In addition, Spooner was good friends with Dr. Lanning even before his accident, meaning his cynicism was born of the incident.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T004806Z" creationid="Luan" creationdate="20240618T004806Z">
+        <seg>[[spoiler: Quando ele percebe que Sonny ''pode'' racionalizar e fazer suas próprias escolhas ao invés de seguir sua programação, ele o trata como uma pessoa, apesar de uma pela qual há certa medida de desgosto.]]
+** Adicionalmente, Spooner era bom amigo de Dr. Lanning antes do acidente, o que indica que seu cinismo é resultante do incidente.</seg>
       </tuv>
     </tu>
     <tu>

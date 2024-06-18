@@ -12185,6 +12185,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* RidiculouslyHumanRobots: The NS-5s have faces made of a malleable material that can move like a human's.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T022238Z" creationid="Luan" creationdate="20240618T022238Z">
+        <seg>* Br/RobosRidiculamenteHumanos: Os NS-5s possuem rostos feitos de um material maleável que se move como um rosto humano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RightForTheWrongReasons: Spooner becomes convinced that Lanning was actually killed by Sonny, which everyone else discounts because the robots are ThreeLawsCompliant.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T022352Z" creationid="Luan" creationdate="20240618T022352Z">
+        <seg>* Br/CertoPelosMotivosErrados: Spooner se convence de que Lanning foi morto por Sonny, o que todo mundo desconsidera porque os robôs possuem Br/ConformidadeComAsTresLeis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* RightMakesMight: The hero believes that justice will prevail, and so it does.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T035054Z" creationid="Luan" creationdate="20240314T035054Z">
@@ -12441,6 +12457,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T171229Z" creationid="Luan" creationdate="20240103T171229Z">
         <seg>* Br/RegraDoSimbolismo: Se for simbólico, não precisa fazer sentido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* RuleOfSymbolism: One background detail is, in the lobby of USR, there are three plaques that display the Three Laws of Robotics.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T022426Z" creationid="Luan" creationdate="20240618T022426Z">
+        <seg>* Br/RegraDoSimbolismo: Um detalhe de fundo é que no saguão da USR há três placas que exibem as Três Leis da Robótica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14107,6 +14131,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T204131Z" creationid="Luan" creationdate="20240105T204131Z">
         <seg>* Br/SequenciaSurpreendentementeMelhor: Quando uma Br/SequenciaAindaMelhor acontece em circunstâncias em que isso era inesperado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SurvivorGuilt: Spooner, spelled out nicely in one scene:
+--&gt;'''Spooner''': I had a 45% chance of survival, she only had 11...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T022945Z" creationid="Luan" creationdate="20240618T022945Z">
+        <seg>* Br/RemorsoDoSobrevivente: Spooner, dito com todas as letras em uma cena:
+--&gt;'''Spooner''': Eu tinha 45% de chances de sobreviver, e a Sarah só tinha 11%...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23550,6 +23584,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>His body is also significantly reinforced, going well beyond a mere replacement arm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T022202Z" creationid="Luan" creationdate="20240618T022202Z">
+        <seg>Seu corpo também é significativamente reforçado, indo além de uma mera substituição de braço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>His dislike of UsefulNotes/{{fascism}} and Stalinism (which he considered a totalitarian corruption of socialism) was ''very'' clear.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240417T193536Z" creationid="Luan" creationdate="20240417T193536Z">
@@ -25947,6 +25989,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Just got hung up on the wrong robot.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T023147Z" creationid="Luan" creationdate="20240618T023147Z">
+        <seg>Eu só suspeitei do robô errado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Just like its brother extreme, Lighter and Softer can leave just as bad of a taste in longtime fans' mouths as Darker and Edgier if handled poorly.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T175834Z" creationid="Luan" creationdate="20231101T175834Z">
@@ -26039,6 +26089,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T144449Z" creationid="Luan" creationdate="20231221T144403Z">
         <seg>Rei Filipe, "o Belo"[[note]][[Br/BelezaEMa Dizem que ele era excepcionalmente bonito]][[/note]] foi um monarca que tinha interesse em reformar as finanças e unificar o reino sob seu domínio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Knew I'd love the idea of a robot as a bad guy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T023128Z" creationid="Luan" creationdate="20240618T023128Z">
+        <seg>Sabia que eu ia adorar a ideia de um robô mau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26889,6 +26947,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240229T133906Z" creationid="Luan" creationdate="20240229T133906Z">
         <seg>As batidas narrativas, portanto, não possuem nenhuma duração específica, podendo ser encontradas de maneira tão frequente quanto as falas de cada personagem ou tão raramente quanto os pontos de virada da trama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Naturally, Spooner finds this to fall right in the middle of the UncannyValley due to his absolute hatred for robots, saying that robots should look nothing like people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T022314Z" creationid="Luan" creationdate="20240618T022314Z">
+        <seg>Naturalmente, Spooner considera que isso fica bem no meio do Br/ValeSinistro devido ao seu desprezo por robôs, dizendo que eles não deveriam se parecer com pessoas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29773,6 +29839,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That was someone's ''baby'', 11% is more than enough.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T023019Z" creationid="Luan" creationdate="20240618T023019Z">
+        <seg>Mas ela era filha de alguém. 11% é mais do que suficiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That's TheCuckoolanderWasRight.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240416T151505Z" creationid="Luan" creationdate="20240416T151505Z">
@@ -30441,6 +30515,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240222T135659Z" creationid="Luan" creationdate="20240222T135659Z">
         <seg>A bondade ou maldade da rebelião tem a ver com se o personagem que dobra as regras está seguindo ou ignorando a intenção da lei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ground cracks on his impact, but one crack runs up some stairs and towards the Third Law of Robotics ("A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.") This subtly symbolizes the first visible "crack" the Three Laws are beginning to display: Sonny is protecting his own existence but is disobeying a human in order to do so.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T022730Z" creationid="Luan" creationdate="20240618T022730Z">
+        <seg>O chão racha com o impacto, mas uma rachadura sobe as escadas na direção da Terceira Lei da Robótica ("um robô deve proteger sua própria existência, contanto que tal proteção não contrarie as Leis número Um e Dois"). Isto simboliza sutilmente a primeira "trinca" visível que as Três Leis começam a mostrar: Sonny está protegendo a própria existência mas está desobedecendo um humano para fazê-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33906,6 +33988,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T224259Z" creationid="Luan" creationdate="20231101T224259Z">
         <seg>Quando a Dificuldade Nintendo é levado aos extremos mais sadistas ao se adicionar mortes idiotas via Br/JogoDeTentativaEErro, você consegue ??? PlatformHell e ??? BulletHell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When Sonny flees from Spooner and Dr. Calvin (with Calvin ordering him to stop), he jumps out a high-up window and lands hard in the USR lobby.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T022500Z" creationid="Luan" creationdate="20240618T022500Z">
+        <seg>Quando Sonny foge de Spooner e Dra. Calvin (com a Calvin ordenando que ele pare), ele pula de uma janela e cai com impacto no saguão da USR.</seg>
       </tuv>
     </tu>
     <tu>

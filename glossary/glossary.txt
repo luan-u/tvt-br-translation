@@ -4089,4 +4089,4 @@ RidiculouslyHumanRobots	Br/RobosRidiculamenteHumanos
 RightForTheWrongReasons	Br/CertoPelosMotivosErrados
 MeaningfulEcho	Br/EcoSignificativo
 ArmorPiercingQuestion	Br/PerguntaDevastadora
-ArmorPiercingAnswer	Br/RespostaDevastadora
+ArmorPiercingResponse	Br/RespostaDevastadora

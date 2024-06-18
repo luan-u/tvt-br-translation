@@ -4131,6 +4131,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ColorCodedForYourConvenience: Sonny has blue eyes, whereas the other NS-5s have yellow eyes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T014430Z" creationid="Luan" creationdate="20240618T014430Z">
+        <seg>* Br/CodigoDeCoresParaSuaConveniencia: Sonny possui olhos azuis, enquanto todos os demais NS-5 possuem olhos amarelos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ComedicHero: A hero prone to humorously foolish behavior.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T233704Z" creationid="Luan" creationdate="20240318T233704Z">
@@ -4203,6 +4211,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T204801Z" creationid="Luan" creationdate="20240313T204801Z">
         <seg>* Br/ConscienciaFazVoceVoltar: Um personagem quase abandona alguém, mas sua culpa o motiva a voltar e ajudar a pessoa que deixou sofrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ConservationOfNinjutsu: One robot fighting an (admittedly unarmed) Spooner came really close to killing him.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T014613Z" creationid="Luan" creationdate="20240618T014613Z">
+        <seg>* Br/ConservacaoDeNinjutsu: Um robô lutando contra o Spooner desarmado quase o matou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8929,6 +8945,26 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T201846Z" creationid="Luan" creationdate="20240131T201846Z">
         <seg>* Br/MundoEmCamadas: Um mundo com múltiplas dimensões, onde os lugares em cada dimensão são mapeados através delas, criando assim "camadas" de realidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* LaymansTerms
+--&gt;'''Spooner:''' So, Dr. Calvin, what exactly do you do around here?\\
+'''Calvin:''' My general fields are advanced robotics and psychiatry, although I specialize in hardware-to-wetware interfaces, in an effort to advance USR's robotic anthropomorphization program.\\
+'''Spooner:''' So... ''what'' exactly do you do around here?\\
+'''Calvin:''' I make the robots seem more human.\\
+'''Spooner:''' Now wasn't that easier to say?\\
+'''Calvin:''' Not really, no.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T015329Z" creationid="Luan" creationdate="20240618T015329Z">
+        <seg>* Br/EmTermosLeigos
+--&gt;'''Spooner:''' Então, doutora Susan, o que exatamente você faz aqui?\\
+'''Calvin:''' Minhas áreas são robótica avançada e psiquiatria, embora me especialize em interfaces do sistema nervoso humano para acelerar o programa antropomorfológico da USR.\\
+'''Spooner:''' Então, o que ''exatamente'' você faz aqui?\\
+'''Calvin:''' Faço os robôs parecerem mais humanos.\\
+'''Spooner:''' Não era mais fácil você dizer isso?\\
+''Calvin:''' Não, na verdade... não.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20022,6 +20058,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, [[spoiler: when VIKI takes control of the NS-5s and begins her takeover,]] the NS-5s' chests glow red due to the uplink with NSR, while Sonny's chest stays white because he has no uplink.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T014521Z" creationid="Luan" creationdate="20240618T014521Z">
+        <seg>Adicionalmente, [[spoiler: quando a VIKI toma controle dos NS-5]], o tórax deles brilha em vermelho devido à conexão com a USR, enquanto o de Sonny permanece branco por ele não ter conexão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, a half-empty glass means it can only be emptied, and can't be refilled.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T212049Z" creationid="Luan" creationdate="20240103T212049Z">
@@ -22093,6 +22137,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T232617Z" creationid="Luan" creationdate="20231206T232617Z">
         <seg>Br/CondenadoPeloCanone é um Br/SubTropo disso que lida com personagens da prequência e suas tentativas de executar o elenco principal ou de sobreviver ao fim, tentativas essas que sabemos que vão falhar por causa da história original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dozens trying to kill him in the car after he's lost his gun fail, and dozens more continue to fail after he's deprived of his machine gun in the final battle.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T014703Z" creationid="Luan" creationdate="20240618T014703Z">
+        <seg>Dezenas tentando matá-lo no carro depois que ele perdeu a arma falharam, e dezenas mais continuam a falhar depois que ele fica sem sua arma no confronto final.</seg>
       </tuv>
     </tu>
     <tu>

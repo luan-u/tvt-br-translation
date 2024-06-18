@@ -2488,6 +2488,24 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ArcWords:
+** "One day they'll have secrets, one day they'll have dreams."
+** "Ghosts in the machine."
+** Breadcrumbs, and "That, detective, is the right question."
+* ArmorPiercingQuestion:
+** "''Whose'' revolution?" [[spoiler: VIKI's, with the NS-5s being the blunt weapons she uses to execute it.]] The holographic Lanning even congratulates him on asking the right question before it shuts off.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T025238Z" creationid="Luan" creationdate="20240618T025238Z">
+        <seg>* Br/PalavrasDeArco:
+** "Um dia eles terão segredos, um dia eles terão sonhos."
+** "Fantasmas na máquina."
+** Migalhas, e "Essa, detetive, é a pergunta certa."
+* Br/PerguntaDevastadora:
+** "''Qual'' revolução?" [[spoiler: De VIKI, com os NS-5s sendo as armas usadas para executá-la.]] O holograma de Lanning até o parabeniza por fazer a pergunta certa antes de se desligar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Area51: A top-secret research facility in the desert.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T144238Z" creationid="Luan" creationdate="20240118T144238Z">

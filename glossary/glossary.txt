@@ -4077,3 +4077,5 @@ BadassBiker	Br/MotoqueiroFodao
 CryingWolf	Br/GritandoLobo
 CallBack	Br/{{Referencia}}
 CallForward	Br/{{Antecipacao}}
+TheCloudcuckoolanderWasRight	Br/OLunaticoEstavaCerto
+ChekhovsSkill	Br/HabilidadeDeChekhov

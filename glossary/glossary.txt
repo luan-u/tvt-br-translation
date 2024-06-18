@@ -4085,3 +4085,5 @@ MechanicalEvolution	Br/EvolucaoMecanica
 MinorCrimeRevealsMajorPlot	Br/CrimePequenoRevelaPlanoGrande
 DisturbingStatistic	Br/EstatisticaPerturbadora
 MourningADeadRobot	Br/ChorarPorUmRoboMorto
+RidiculouslyHumanRobots	Br/RobosRidiculamenteHumanos
+RightForTheWrongReasons	Br/CertoPelosMotivosErrados

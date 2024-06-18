@@ -4069,3 +4069,5 @@ EverythingIsAnIpodInTheFuture	Br/NoFuturoTudoEUmIpod
 SurvivorGuilt	Br/RemorsoDoSobrevivente
 Gaslighting	Br/ManipulacaoPsicologica
 GenreBlind	Br/CegueiraDeGenero
+AbsurdlyLongStairway	Br/EscadariaAbsurdamenteLonga
+JustAMachine	Br/SoUmaMaquina

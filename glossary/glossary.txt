@@ -4071,3 +4071,5 @@ Gaslighting	Br/ManipulacaoPsicologica
 GenreBlind	Br/CegueiraDeGenero
 AbsurdlyLongStairway	Br/EscadariaAbsurdamenteLonga
 JustAMachine	Br/SoUmaMaquina
+CreativeSterility	Br/EsterilidadeCriativa
+ArtificialLimbs	Br/MembrosArtificiais

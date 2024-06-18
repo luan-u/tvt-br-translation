@@ -4073,3 +4073,7 @@ AbsurdlyLongStairway	Br/EscadariaAbsurdamenteLonga
 JustAMachine	Br/SoUmaMaquina
 CreativeSterility	Br/EsterilidadeCriativa
 ArtificialLimbs	Br/MembrosArtificiais
+BadassBiker	Br/MotoqueiroFodao
+CryingWolf	Br/GritandoLobo
+CallBack	Br/{{Referencia}}
+CallForward	Br/{{Antecipacao}}

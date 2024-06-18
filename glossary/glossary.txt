@@ -4079,3 +4079,6 @@ CallBack	Br/{{Referencia}}
 CallForward	Br/{{Antecipacao}}
 TheCloudcuckoolanderWasRight	Br/OLunaticoEstavaCerto
 ChekhovsSkill	Br/HabilidadeDeChekhov
+MathematiciansAnswer	Br/RespostaDoMatematicista
+MathematiciansAnswer	Br/RespostaDoMatematico
+MechanicalEvolution	Br/EvolucaoMecanica

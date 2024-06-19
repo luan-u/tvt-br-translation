@@ -4110,3 +4110,5 @@ MasterComputer	Br/ComputadorMestre
 DoesNotLikeGuns	Br/NaoGostaDeArmas
 DoesNotDrive	Br/NaoDirige
 BornInTheWrongCentury	Br/NascidoNoSeculoErrado
+MachineBlood	Br/SangueDeMaquina
+MilitariesAreUseless	Br/MilitaresSaoInuteis

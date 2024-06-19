@@ -21108,6 +21108,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Because Main is the default namespace, you don't have to do anything special when writing Administrivia/{{Wiki Word}}s to link to them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T165603Z" creationid="Luan" creationdate="20240619T164921Z">
+        <seg>Devido ao fato de Main ser o espaço principal, você não precisa fazer nada especial ao escrever uma BrAdministrivia/WikiPalavra que acesse uma página no Main. Os tropos traduzidos, no entanto, devem ser sempre referenciados com a especificação de qual espaço se está usando; geralmente será o espaço Br.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Because no one likes being kept in the dark, they usually resolve negatively.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240229T143523Z" creationid="Luan" creationdate="20240229T143523Z">
@@ -23072,6 +23080,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T131324Z" creationid="Luan" creationdate="20240105T131324Z">
         <seg>Por exemplo, na trilogia prequência de ''BrFranquia/StarWars'', muitos personagens interagem com outros personagens que são encontrados novamente na trilogia original de ''Star Wars'', mas no filme eles não mostram evidência de que os tenham reconhecido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, the URL of this page is '''[=https://tvtropes.org/pmwiki/pmwiki.php/Administrivia/Namespace=]'''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T164518Z" creationid="Luan" creationdate="20240619T164518Z">
+        <seg>Por exemplo, a URL desta página é '''[=https://tvtropes.org/pmwiki/pmwiki.php/BrAdministrivia/Namespace=]'''.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25268,6 +25284,15 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In wiki technical jargon, "namespace" [[note]]
+also called "groupname" internally[[/note]] means a section of the Wiki's organizational structure.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T164714Z" creationid="Luan" creationdate="20240619T164159Z">
+        <seg>No jargão técnico da wiki, o espaço, ou "namespace", é uma seção da estrutura organizacional da wiki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In {{anime}}, the Woobie makes up a large part of {{Moe}} characters.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240228T141709Z" creationid="Luan" creationdate="20240228T141435Z">
@@ -25629,6 +25654,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is located in the '''Administrivia''' namespace.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T164739Z" creationid="Luan" creationdate="20240619T164703Z">
+        <seg>Ela fica localizada no espaço '''[=BrAdministrivia=]'''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is not particularly fair to try to make the player feel guilty about a course of action they had no control over, and indeed, might've gotten a "Game Over" if they attempted to ''not'' fulfill the objectives in question.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T185831Z" creationid="Luan" creationdate="20240104T185831Z">
@@ -25737,6 +25770,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240416T192753Z" creationid="Luan" creationdate="20240416T192753Z">
         <seg>Devemos notar que, apesar de haver interseção com Br/OIdiota, Br/OTolo ou o Br/EstupidoDeBomCoracao, um lunático não é necessariamente estúpido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It should become obvious enough when reading the URL of the current page you're on what namespace you're currently in.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T164723Z" creationid="Luan" creationdate="20240619T164443Z">
+        <seg>Ao ler a URL da página em que você está atualmente, deve ser óbvio determinar o espaço.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33556,6 +33597,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240402T193236Z" creationid="Luan" creationdate="20240402T193236Z">
         <seg>Tropos sobre o fumo de charutos, cigarros, cachimbos e outras coisas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tropes belong in the '''Main''' namespace.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T164938Z" creationid="Luan" creationdate="20240619T164821Z">
+        <seg>Os tropos originais ficam no espaço '''Main''', e os tropos traduzidos ficam no espaço '''Br'''.</seg>
       </tuv>
     </tu>
     <tu>

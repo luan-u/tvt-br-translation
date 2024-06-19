@@ -16979,6 +16979,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* WhatMeasureIsANonHuman:
+** Robots are treated as appliances for the most part, even by Calvin.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T210230Z" creationid="Luan" creationdate="20240619T210148Z">
+        <seg>* Br/QuantoValeUmNaoHumano:
+** Os robôs são tratados como utensílios e ferramentas no geral, até pela Dra. Calvin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* WheelchairWoobie: A character's mental or physical disability is played for sympathy points.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240228T143232Z" creationid="Luan" creationdate="20240228T143232Z">
@@ -17091,6 +17101,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T144551Z" creationid="Luan" creationdate="20240201T144551Z">
         <seg>* Br/SalaVaziaBranca: Um local ''branco'' sem características marcantes, geralmente um plano vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* WhyDidItHaveToBeSnakes: "I am ''uncomfortable''... with ''heights''."
+* YouAreWhatYouHate: Spooner displays an intense dislike towards humanoid robots... [[spoiler: despite being a cyborg.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T211201Z" creationid="Luan" creationdate="20240619T211201Z">
+        <seg>* Br/PorQueTinhaQueSerCobras: "Eu ''não me sinto bem''... em ''lugares altos''."
+* Br/VoceEOQueVoceOdeia: Spooner demonstra aversão forte a robôs humanoides... [[spoiler: apesar de ser um ciborgue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18197,6 +18217,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T141228Z" creationid="Luan" creationdate="20240319T141228Z">
         <seg>** Br/DonzelaForaDePerigo: Uma Br/DonzelaEmPerigo que consegue elaborar e executar um plano de escape dos seus captores antes que o herói chegue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** Despite Sonny obviously having a greater degree of autonomy and self-awareness than a standard NS-5, Robertson still wants to destroy him as an abomination that could destroy human trust in robots.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T210315Z" creationid="Luan" creationdate="20240619T210315Z">
+        <seg>** Apesar de Sonny obviamente ter um grau maior de autonomia e percepção que um NS-5 convencional, Robertson ainda quer destruí-lo como se fosse uma abominação que pode colocar em risco a confiança nos robôs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20437,6 +20465,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T160419Z" creationid="Luan" creationdate="20231220T160419Z">
         <seg>BrAdministrivia/VoceFoiAvisado.'''
 [[noreallife]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After all, if robots were viewed as anything but tools, people would fear them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T210330Z" creationid="Luan" creationdate="20240619T210330Z">
+        <seg>Afinal, se eles fossem visto como qualquer coisa a mais que ferramentas, as pessoas os temeriam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35027,6 +35063,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240619T200932Z" creationid="Luan" creationdate="20240619T200932Z">
         <seg>Quando Calvin dispara com a submetralhadora de Spooner, ela é mostrada tendo problema em controlar a arma e acaba atirando pro alto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When Calvin's [[DoAnythingRobot NS-5]] hears them shouting and comes in to check on her, she says, "It's fine, Detective Spooner was just leaving." He does.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T210101Z" creationid="Luan" creationdate="20240619T210101Z">
+        <seg>Quando o [[Br/RoboFazTudo NS-5]] de Calvin os ouve aos gritos e aparece para verificar a situação, ela diz "Está tudo bem. O detetive Spooner está de saída." Ele sai.</seg>
       </tuv>
     </tu>
     <tu>

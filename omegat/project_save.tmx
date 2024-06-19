@@ -26878,6 +26878,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Moderators can set some namespace specific functions on [[https://tvtropes.org/pmwiki/mod_namespace_config.php Namespace Config]]; regular tropers can see the settings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T170210Z" creationid="Luan" creationdate="20240619T170210Z">
+        <seg>Moderadores podem ajustar algumas configurações específicas de espaços no [[[[https://tvtropes.org/pmwiki/mod_namespace_config.php Namespace Config]]; tropoeiros comuns podem ver as configurações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Modern equivalent of LockedInTheDungeon.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T213942Z" creationid="Luan" creationdate="20240221T213942Z">
@@ -30348,6 +30356,22 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The [[https://tvtropes.org/pmwiki/articlecount.php Article Count]] page lists the currently-used namespaces and how many pages are in each.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T170022Z" creationid="Luan" creationdate="20240619T170022Z">
+        <seg>A página de [[https://tvtropes.org/pmwiki/articlecount.php contagem de artigos]] lista os espaços em uso e quantas páginas há em cada um deles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The [[https://tvtropes.org/pmwiki/namespace_index.php?ns= Namespace Index]] shows which pages use a particular namespace (enter the namespace after the = sign).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T170109Z" creationid="Luan" creationdate="20240619T170109Z">
+        <seg>O [[https://tvtropes.org/pmwiki/namespace_index.php?ns= índice de espaços]] mostra quais páginas usam um espaço particular (especifique o espaço após o sinal de = ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The act of taking a single (often minor) action or trait of a character within a work and exaggerating it more and more over time until it completely consumes the character.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T174230Z" creationid="Luan" creationdate="20231208T174230Z">
@@ -33529,6 +33553,16 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To link to pages in another namespace, format them like this:
+-&gt;[=Namespace/PageTitle=]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T165651Z" creationid="Luan" creationdate="20240619T165651Z">
+        <seg>Para vincular páginas em um espaço que não seja o Main, faça a formatação assim:
+-&gt;[=Espaço/TituloDaPagina=] e.g. Br/TroposLendarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To this end, they fake [[ObfuscatingStupidity stupidity]] or [[ObfuscatingInsanity insanity]] so that they can avoid being assassinated while still being able to manipulate events as they please.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231213T201355Z" creationid="Luan" creationdate="20231213T201355Z">
@@ -36366,6 +36400,16 @@ Categorias:
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T201910Z" creationid="Luan" creationdate="20231221T201910Z">
         <seg>Estados Unidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>or for single-word titles:
+-&gt;[=Namespace/{{Title}}=] e.g. Film/{{Avatar}}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T165950Z" creationid="Luan" creationdate="20240619T165830Z">
+        <seg>ou, para títulos com uma única palavra:
+-&gt;[=Espaço/{{Titulo}}=] e.g. Br/{{Capangas}}.</seg>
       </tuv>
     </tu>
     <tu>

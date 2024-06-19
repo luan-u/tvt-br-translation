@@ -13393,6 +13393,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ShootOutTheLock: Done somewhat realistically when Spooner is trying to escape Lanning's currently-being-demolished house.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T201612Z" creationid="Luan" creationdate="20240619T201612Z">
+        <seg>* Br/AtirarNaTranca: Feito de maneira razoavelmente realista quando Spooner está tentando escapar da casa de Lanning em demolição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ShootTheDog: Riobaldo almost does it literally once.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240417T202025Z" creationid="Luan" creationdate="20240417T202025Z">
@@ -16320,6 +16328,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TrailOfBlood: Played with when Spooner notices that the escaped robot is leaking fluid after getting shot.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T201851Z" creationid="Luan" creationdate="20240619T201851Z">
+        <seg>* Br/RastroDeSangue: Manipulado, quando Spooner nota que o robô que escapou está vazando fluído após levar um tiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TrailerParkTornadoMagnet: Trailer parks have a reputation for attracting tornadoes due to the disproportionate damage they receive.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T213720Z" creationid="Luan" creationdate="20240221T213720Z">
@@ -16668,6 +16684,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T190257Z" creationid="Luan" creationdate="20240131T190257Z">
         <seg>* Br/SegregacaoUrbana: As cidades na ficção são claramente divididas em partes ricas e partes pobres, sem áreas mistas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* VariableTerminalVelocity: Averted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T201938Z" creationid="Luan" creationdate="20240619T201938Z">
+        <seg>* Br/VelocidadeTerminalVariavel: Evitado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24084,6 +24108,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>He shoots the hinges of the front door and hits the door at a full run to break through it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T201644Z" creationid="Luan" creationdate="20240619T201644Z">
+        <seg>Ele atira nas dobradiças da porta e depois a acerta em plena velocidade para a arrombar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>He spends most of his screentime trying to block or derail Spooner's investigation of Lanning's death, supposedly so he can keep a flaw in the robots a secret from the public.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T190620Z" creationid="Luan" creationdate="20240616T190620Z">
@@ -24190,6 +24222,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T170203Z" creationid="Luan" creationdate="20240616T170203Z">
         <seg>Em seu primeiro dia de expediente após um ferimento, Spooner recebe um telefonema da cena que parece ser um simples caso de suicídio; a vítima segurava um transmissor holográfico programado para contatar Spooner no evento de sua morte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>His pistol probably shouldn't have been so effective, but he had the right idea otherwise.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T201706Z" creationid="Luan" creationdate="20240619T201706Z">
+        <seg>A pistola dele talvez não devesse ser tão eficaz, mas fora isso ele teve a ideia certa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24447,8 +24487,8 @@ Br/ExemplosEmFalta.</seg>
 '''Spooner:''' [[DeadpanSnarker How much did you say these things cost?]]
 * MechanicalEvolution: VIKI claims her different ideas on the Three Laws are a result of this.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240618T015938Z" creationid="Luan" creationdate="20240618T015938Z">
-        <seg>Identifiquem-no:\\
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T201410Z" creationid="Luan" creationdate="20240618T015938Z">
+        <seg>Identifiquem-no.\\
 '''NS-5s:''' Um de nós.\\
 '''Calvin:''' Então qual?\\
 '''NS-5s:''' Um de nós.\\
@@ -25857,6 +25897,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T020508Z" creationid="Luan" creationdate="20231220T020508Z">
         <seg>A insanidade, afinal de contas, está nos olhos do enxergador, e Br/OWonka costuma ter pontos válidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Instead of following the trail, he goes straight to the factory, where he knows Sonny will go to repair himself.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T201910Z" creationid="Luan" creationdate="20240619T201910Z">
+        <seg>Ao invés de seguir o rastro, ele vai direto para a fábrica, onde ele sabe que Sonny irá para consertar a si mesmo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37134,6 +37182,14 @@ E ele tem que estar disposto a lutar!</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240618T025903Z" creationid="Luan" creationdate="20240618T025903Z">
         <seg>[[spoiler: A medida em que os detalhes completos são revelados durante o filme, descobre-se que as duas possibilidades estão tecnicamente corretas, já que Sonny matou Lanning, mas a pedido deste, o que faz com que seja suicídio assistido.]]
 * Br/LicencaArtisticaParaFisica: A ilustração de uma ponte pênsil cruzando o Lago Michigan demonstra falta de compreensão sobre como tais pontes funcionam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[spoiler:Sonny pushes downward off a metal walkway and falls with his arms and legs tucked close to his body, giving him a faster starting speed and allowing him to accelerate faster to catch up to Dr. Calvin.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T202031Z" creationid="Luan" creationdate="20240619T202031Z">
+        <seg>[[spoiler: Sonny se impulsiona a partir de uma passarela metálica e cai com os braços e pernas junto ao corpo, dando a ele uma velocidade inicial maior e permitindo que ele acelere mais rápido para pegar a Dra. Calvin.</seg>
       </tuv>
     </tu>
     <tu>

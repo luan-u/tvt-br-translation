@@ -9257,6 +9257,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* LightningBruiser: Sonny and other NS-5s to a lesser extent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T184316Z" creationid="Luan" creationdate="20240619T184316Z">
+        <seg>* Br/BrutoRelampago: Sonny e, em menor grau, os demais NS-5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* LikeYouWouldReallyDoIt: A character is seemingly killed or in otherwise dire straits, but fans don't believe the threat is genuine because it would ruin what makes the character marketable to the story.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T203830Z" creationid="Luan" creationdate="20240326T203830Z">
@@ -9501,6 +9509,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T223535Z" creationid="Luan" creationdate="20240131T223535Z">
         <seg>* Br/LugarMacGuffin: Quando o MacGuffin pelo qual todo mundo está brigando é um lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MachineBlood: When Sonny is shot in his introduction, he begins leaking some kind of liquid metal from the damaged hoses.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T184435Z" creationid="Luan" creationdate="20240619T184435Z">
+        <seg>* Br/SangueDeMaquina: Quando Sonny recebe um tiro em sua introdução, ele começa a vazar algum tipo de metal líquido das mangueiras danificadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15546,6 +15562,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheManBehindTheMan: [[spoiler: The one behind the plot isn't Robertson, but VIKI.]]
+* MasterComputer: VIKI, a cyberbrain the size of a truck built into USR headquarters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T184547Z" creationid="Luan" creationdate="20240619T184547Z">
+        <seg>* Br/OHomemPorTrasDoHomem: [[spoiler: Quem está por trás de tudo não é Robertson, e sim VIKI.]]
+* Br/ComputadorMestre: VIKI, um cérebro cibernético do tamanho de um caminhão que fica no prédio da USR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheManInTheMoon: The moon is often an aged but benevolent figure who stands over the Earth, granting it natural bounty or serving as the destination for young adventurers.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T185345Z" creationid="Luan" creationdate="20240314T185345Z">
@@ -20064,6 +20090,18 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A robot could not commit a murder, any more than a human could walk on water!\\
+'''Spooner:''' Well, you know, there ''was'' [[UsefulNotes/{{Jesus}} this one guy]], a really long time ago...
+* MilitariesAreUseless: Right outside of [=U.S.=] Robotics headquarters, Spooner and Calvin are trying to sneak inside the building; when Spooner sees the large group of NS-5s protecting the entrance, he wonders why the military hasn't shown up yet, to which Calvin says that the Department of Defense has an exclusive contract with [=US-R=].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T185323Z" creationid="Luan" creationdate="20240619T185323Z">
+        <seg>Um robô pode matar tanto quanto um humano pode andar sobre a água!\\
+'''Spooner:''' Sabe que uma vez ''teve'' [[BrNotasUteis/{{Jesus}} um cara]] que, ele...
+* Br/MilitaresSaoInuteis: Do lado de fora do prédio da USR, Spooner e Calvin estão tentando se infiltrar no prédio; quando Spooner vê o grupo grande de NS-5 protegendo a entrada, ele se pergunta porque os militares ainda não apareceram, no que Calvin responde que o Departamento de Defesa possui um contrato exclusivo com a USR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A scene ensues that shows them preparing for action.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240611T005111Z" creationid="Luan" creationdate="20240611T005111Z">
@@ -20978,6 +21016,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apparently, in 2035, they're using Osmium in their hydraulics.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T184501Z" creationid="Luan" creationdate="20240619T184501Z">
+        <seg>Aparentemente, em 2035 as indústrias usam ósmio nos sistemas hidráulicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Appears we got here just in the nick of time.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240611T000724Z" creationid="Luan" creationdate="20240611T000724Z">
@@ -21150,6 +21196,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T235802Z" creationid="Luan" creationdate="20240104T235802Z">
         <seg>No máximo, pode haver uma [[Br/SoUmaPincelada fala breve]] para dizer que "não deu certo".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the end of the movie, however, he fulfills the dream but with himself as the "man on the hill" instead of Spooner, and the old robots look at him expectantly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T184723Z" creationid="Luan" creationdate="20240619T184723Z">
+        <seg>No entanto, no final do filme, ele cumpre o sonho, mas com ele mesmo sendo "o homem na colina" ao invés de Spooner, e os robôs olham pra ele com expectativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34979,6 +35033,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>While his messianic dream is about Spooner being the savior of the discarded robots, it's actually just[[spoiler: a clue planted by Dr. Lanning to get Spooner to visit the robot dump.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T184637Z" creationid="Luan" creationdate="20240619T184637Z">
+        <seg>Seu sonho messiânico é sobre Spooner sendo o salvador dos robôs descartados, mas na verdade [[spoiler: é apenas uma pista plantada pelo Dr. Lanning para que Spooner visite o depósito de robôs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>While in real life diamonds have extreme hardness, they lack toughness and are brittle enough to be shattered by a hammer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T195158Z" creationid="Luan" creationdate="20231206T195158Z">
@@ -36841,6 +36903,16 @@ Categorias:
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T192842Z" creationid="Luan" creationdate="20240616T192842Z">
         <seg>\\
 '''Sonny:''' Obrigado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>]]
+** Foreshadowed in an early scene, where Calvin and Spooner discuss the Three Laws while looking for Sonny in Lanning's lab.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T184810Z" creationid="Luan" creationdate="20240619T184810Z">
+        <seg>]]
+** Há um prenúncio em uma cena inicial, onde Calvin e Spooner discutem as três leis enquanto procuram Sonny no laboratório de Lanning.</seg>
       </tuv>
     </tu>
     <tu>

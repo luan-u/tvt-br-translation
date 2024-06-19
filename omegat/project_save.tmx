@@ -4967,6 +4967,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* DeathIsGray: The [=AIs'=] positronic brains fade from luminescent blue to dark gray when they're destroyed by the deactivator {{nan|omachines}}ites.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T182452Z" creationid="Luan" creationdate="20240619T182452Z">
+        <seg>* Br/MorrerECinza: Os cérebros positrônicos das [=IAs=] passam de azul luminescente para cinza após serem destruídos pelos nanorrobôs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* DeathWorld: Watch out for that grass!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T141611Z" creationid="Luan" creationdate="20240118T141611Z">
@@ -5299,6 +5307,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240327T184732Z" creationid="Luan" creationdate="20240327T184725Z">
         <seg>* Br/NaoFacaEssaCoisaIrada: Uma história diz ao público que algo é muito errado ou ruim, mas retrata isso como sendo ''extremamente'' irado e maneiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DoesNotLikeGuns: None of the robots, even those deployed as guards or for crowd control, use guns.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T182854Z" creationid="Luan" creationdate="20240619T182854Z">
+        <seg>* Br/NaoGostaDeArmas: Nenhum dos robôs usam armas, nem mesmo aqueles que servem como guardas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25989,6 +26005,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It was because of this that Spooner became anti-robot]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T182733Z" creationid="Luan" creationdate="20240619T182733Z">
+        <seg>É por causa desse evento que Spooner se torna anti-robôs]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It was never intended as an adaptation of Asimov's work, [[MST3KMantra and you'll enjoy it much more if you keep that in mind]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T171116Z" creationid="Luan" creationdate="20240616T171116Z">
@@ -27209,6 +27233,16 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Most obvious when the nanites are used on [[spoiler: the evil MasterComputer and take several seconds to work through its oversized brain.]]
+* DeathOfAChild: [[spoiler: A young girl drowned due to a robot rescuing Spooner instead of her.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T182721Z" creationid="Luan" creationdate="20240619T182721Z">
+        <seg>É mais óbvio quando os nanitos são usados no [[spoiler: Br/ComputadorMestre do mal e leva vários segundos para que eles atravessem o cérebro massivo.]]
+* Br/MorteDeUmaCrianca: [[spoiler: Uma jovem garota se afogou devido a um robô ter resgatado Spooner ao invés dela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Most of the time he isn't looking for a fight, but violence does seem to come naturally to him.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T171942Z" creationid="Luan" creationdate="20240616T171942Z">
@@ -28287,6 +28321,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T143224Z" creationid="Luan" creationdate="20240118T143224Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Or even less lethal munitions like tear gas.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T182913Z" creationid="Luan" creationdate="20240619T182913Z">
+        <seg>Nem sequer usam munições menos letais, como gás lacrimogêneo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31395,6 +31437,16 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T143043Z" creationid="Luan" creationdate="20231221T143043Z">
         <seg>A ascensão e queda dos Templários, quando vista em retrospecto, é um caso de Br/ExpansaoDaMissao.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The robots are considerably faster and stronger than humans, and expendable; they don't really need guns.]]
+* DoesNotDrive: PlayedStraight for most of society, who puts their faith in robots and automation and so commutes in self-driving cars.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T183129Z" creationid="Luan" creationdate="20240619T183129Z">
+        <seg>Os robôs são consideravelmente mais rápidos e fortes que os humanos, além de substituíveis; eles não precisam de armas.]]
+* Br/NaoDirige: Br/UsoTipico para a maioria da sociedade, que deposita sua fé nos robôs e na automação e por isso se desloca em carros autônomos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36583,6 +36635,14 @@ E ele tem que estar disposto a lutar!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[[spoiler: VIKI's intention (to avoid breaking the three laws) is to take over humanity with as little loss of life as possible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T182943Z" creationid="Luan" creationdate="20240619T182943Z">
+        <seg>[[spoiler: A intenção da VIKI (para evitar quebra das três leis) é controlar a humanidade com tão pouca perda de vida quanto possível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[[spoiler: VIKI's minion]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T173418Z" creationid="Luan" creationdate="20240616T173418Z">
@@ -36761,6 +36821,14 @@ Categorias:
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T184355Z" creationid="Luan" creationdate="20231101T184355Z">
         <seg>Nesses casos, [[Br/OEnredoESoUmaDesculpa qualquer enredo que houvesse era só uma desculpa]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Inverted|Trope}} for Del, who drives manually as a reflection of his stigma.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T183158Z" creationid="Luan" creationdate="20240619T183158Z">
+        <seg>[[Br/TropoInvertido Invertido]] para Spooner, que dirige manualmente como reflexo de seu estigma.</seg>
       </tuv>
     </tu>
     <tu>

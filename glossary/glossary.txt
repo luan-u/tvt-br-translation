@@ -4109,3 +4109,4 @@ DeathOfAChild	Br/MorteDeUmaCrianca
 MasterComputer	Br/ComputadorMestre
 DoesNotLikeGuns	Br/NaoGostaDeArmas
 DoesNotDrive	Br/NaoDirige
+BornInTheWrongCentury	Br/NascidoNoSeculoErrado

@@ -4128,3 +4128,6 @@ WindmillCrusader	Br/CombatenteDosMoinhosDeVento
 DoAnythingRobot	Br/RoboFazTudo
 WhatMeasureIsANonHuman	Br/QuantoValeUmNaoHumano
 PlotTriggeringDeath	Br/MorteAtivadoraDeTrama
+InvokedTrope	Br/TropoInvocado
+OddFriendship	Br/AmizadePeculiar
+MoodWhiplash	Br/MontanhaRussaDeAnimo

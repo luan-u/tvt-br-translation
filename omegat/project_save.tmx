@@ -1854,6 +1854,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AMFMCharacterization: The movie starts with Stevie Wonder singing "Superstition" to wake up Detective Spooner.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T171015Z" creationid="Luan" creationdate="20240619T171015Z">
+        <seg>* Br/CaracterizacaoAMFM: O filme começa com a música "Superstition", do Stevie Wonder, sendo usada como desperador para Spooner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AProtagonistShallLeadThem: A long-divided people are united by the prophesied arrival of a hero, who becomes their leader.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T165338Z" creationid="Luan" creationdate="20240314T165338Z">
@@ -2218,6 +2226,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240402T183518Z" creationid="Luan" creationdate="20240402T183518Z">
         <seg>* Br/DesenhoAmbidestro: Espelhar arte para economizar em armazenamento ou em custos de se fazer uma arte nova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* AmbiguouslyAbsentParent: Spooner was raised by his grandmother, with no explanation of what happened to his parents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T170832Z" creationid="Luan" creationdate="20240619T170832Z">
+        <seg>* Br/PaisAmbiguamenteAusentes: Spooner foi criado pela avó, sem explicação do que aconteceu com seus pais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17322,6 +17338,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* {{Anaphora}}: ArmorPiercingQuestion about robots' CreativeSterility, what they can and can't do:
+--&gt;'''Spooner''': Can a robot write a symphony?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T171208Z" creationid="Luan" creationdate="20240619T171208Z">
+        <seg>* Br/{{Anafora}}: A Br/PerguntaDevastadora sobre a Br/EsterilidadeCriativa dos robôs e sobre o que eles podem ou não fazer:
+--&gt;'''Spooner''': Um robô consegue compôr uma sinfonia?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* {{Anvilicious}}: A not-subtle-at-all Aesop.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231216T210835Z" creationid="Luan" creationdate="20231216T210835Z">
@@ -28782,6 +28808,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See also Administrivia/SubWiki for sections of the site with their own namespaces.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T170256Z" creationid="Luan" creationdate="20240619T170256Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See also AssPull, which is something that was not properly set up before it is sprung on the audience, and CliffhangerCopout, in which a perilous situation is retroactively changed to allow the characters to escape.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T170459Z" creationid="Luan" creationdate="20231215T170459Z">
@@ -32589,6 +32623,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This certifies Spooner as retro, showing at least one reason for him to dislike robots.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T171036Z" creationid="Luan" creationdate="20240619T171036Z">
+        <seg>Isso o certifica como retrô, mostrando pelo menos um motivo para que ele não goste de robôs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This character does evil in such an over-the-top, outrageous fashion that the audience stops feeling any moral qualms, because it's so over-the-top and out of line that it becomes ''hilarious'' instead.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231029T163621Z" creationid="Luan" creationdate="20231029T163621Z">
@@ -33145,6 +33187,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T161535Z" creationid="Luan" creationdate="20240326T161535Z">
         <seg>Esta página indexa tropos ou padrões narrativos cujo propósito é permanecer escondido do público para que eles [[Br/MaximaDeBellisario nunca pensem sobre seu funcionamento, propósito, significado ou implicações]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This page is about violent crazy people, not people whose preferred weapon is an axe.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T170637Z" creationid="Luan" creationdate="20240619T170637Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -34143,6 +34193,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What follows is a general breakdown.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T170252Z" creationid="Luan" creationdate="20240619T170252Z">
+        <seg>O que segue abaixo é uma divisão geral das categorias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What happened to the other two characters?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T193703Z" creationid="Luan" creationdate="20240105T193703Z">
@@ -34977,6 +35035,15 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     <tu>
       <tuv lang="en-US">
         <seg>[[/folder]]
+----</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T170628Z" creationid="Luan" creationdate="20240619T170628Z">
+        <seg>[parcial][[/folder]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[/folder]]
 [[/index]]
 ----</seg>
       </tuv>
@@ -35567,6 +35634,16 @@ LawfulEvil | NeutralEvil | ChaoticEvil-]]]]]</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T182546Z" creationid="Luan" creationdate="20240326T182535Z">
         <seg>[[folder:Ocultos no contexto e padrões]]
 !!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[folder:Media Namespaces]]
+Things that are not {{trope}}s, {{index|Index}}es, {{genre}}s, or [[AmbiguityIndex disambiguation pages]] do not go in the Main namespace.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T170347Z" creationid="Luan" creationdate="20240619T170301Z">
+        <seg>[[folder:Espaços de mídia]]
+Coisas que não são tropos, índices, gêneros ou páginas de desambiguação. Essas coisas não vão no espaço principal.</seg>
       </tuv>
     </tu>
     <tu>

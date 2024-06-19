@@ -4115,3 +4115,4 @@ MilitariesAreUseless	Br/MilitaresSaoInuteis
 MurderIsTheBestSolution	Br/AssassinatoEAMelhorSolucao
 Nanomachines	Br/{{Nanomaquinas}}
 ShowerScene	Br/CenaDoChuveiro
+IWarnedYou	Br/EuTeAvisei

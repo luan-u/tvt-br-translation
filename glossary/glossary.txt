@@ -4131,3 +4131,5 @@ PlotTriggeringDeath	Br/MorteAtivadoraDeTrama
 InvokedTrope	Br/TropoInvocado
 OddFriendship	Br/AmizadePeculiar
 MoodWhiplash	Br/MontanhaRussaDeAnimo
+ButForMeItWasTuesday	Br/MasParaMimEraTercaFeira
+ButForMeItWasTuesday	Br/MasParaMimEraUmDiaComum

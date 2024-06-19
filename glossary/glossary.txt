@@ -4123,4 +4123,4 @@ MakeItLookLikeAnAccident	Br/FazerParecerComUmAcidente
 ShootOutTheLock	Br/AtirarNaTranca
 TrailOfBlood	Br/RastroDeSangue
 VariableTerminalVelocity	Br/VelocidadeTerminalVariavel
-WasJustLeaving	Br/JaEstaDeSaida
+WasJustLeaving	Br/JaEstavaDeSaida

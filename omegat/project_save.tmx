@@ -8241,6 +8241,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* InNameOnly: The movie has several passing similarities to the namesake series (it does prominently feature robots being ThreeLawsCompliant), but the actual storyline is nothing like the original.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T200501Z" creationid="Luan" creationdate="20240619T200501Z">
+        <seg>* Br/SomenteNoNome: O filme tem muitas similaridades com a série de mesmo nome (que possui muita presença de robôs que têm Br/ConformidadeComAsTresLeis), mas a trama de fato não é nada parecida com a original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* InTheDoldrums: A featureless location, often an empty plane or void.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240202T143107Z" creationid="Luan" creationdate="20240202T143107Z">
@@ -8603,6 +8611,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T183357Z" creationid="Luan" creationdate="20240221T183357Z">
         <seg>* Br/VeioDeBeverlyHills: Se passa em Beverly Hills, Califórnia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ItIsDehumanizing: Spooner evolves.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T200702Z" creationid="Luan" creationdate="20240619T200702Z">
+        <seg>* Br/IssoEDesumano: Spooner evolui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8977,6 +8993,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* KnightInSourArmor: Spooner, still coping with a bit of PTSD and resulting prejudice against robots.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T200752Z" creationid="Luan" creationdate="20240619T200752Z">
+        <seg>* Br/CavaleiroEmArmaduraAzeda: Spooner, ainda lidando com estresse pós-traumático e preconceito contra robôs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* KnightTemplar: Character has noble goals, but takes their actions way too far.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T034240Z" creationid="Luan" creationdate="20240314T034240Z">
@@ -9123,6 +9147,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140730Z" creationid="Luan" creationdate="20240104T140730Z">
         <seg>* Br/LeiDaRespostaDesproporcional: Reagir a questões sérias como se não fossem importantes, e vice-versa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* LawOfInverseRecoil: Averted, mostly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T200908Z" creationid="Luan" creationdate="20240619T200908Z">
+        <seg>* Br/LeiDoRecuoInverso: Evitado, no geral.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9705,6 +9737,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T142137Z" creationid="Luan" creationdate="20240104T142137Z">
         <seg>* Br/FazerDelesUmExemplo: Punir alguém para deter outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* MakeItLookLikeAnAccident: This appears to be the intention of [[spoiler: VIKI's]] robot minions when they attack Spooner on the freeway.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T201355Z" creationid="Luan" creationdate="20240619T201355Z">
+        <seg>* Br/FazerParecerComUmAcidente: Essa parece ser a intenção dos [[spoiler: capangas robóticos da VIKI]] quando eles atacam Spooner na via expressa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15560,6 +15600,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* TheLoad: Farber isn't much of an asset to Spooner, who must save him from the robots after Farber leads an ill-fated charge against the renegade machines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T201139Z" creationid="Luan" creationdate="20240619T201139Z">
+        <seg>* Br/OFardo: Farber não é muito útil para Spooner, que precisa salvá-lo dos robôs depois que Farber lidera um levante mal-sucedido contra as máquinas rebeldes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* TheLoonie: A TabletopRPG player who plays mostly for the fun of doing silly things within the game.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240610T211928Z" creationid="Luan" creationdate="20240610T211928Z">
@@ -19246,6 +19294,15 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240618T021317Z" creationid="Luan" creationdate="20240618T021317Z">
         <seg>--&gt;'''NS-5:''' Você está sofrendo um acidente de carro.\\
 '''Spooner:''' ESTOU ''UMA OVA''!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>--&gt;'''Sonny:''' Thank you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T200723Z" creationid="Luan" creationdate="20240619T200723Z">
+        <seg>[parcial]\\
+'''Sonny:''' Obrigado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24105,6 +24162,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>His armor is so sour that some of his colleagues actually think he's borderline insane, and he looks to have crossed the border about midway through the film.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T200829Z" creationid="Luan" creationdate="20240619T200829Z">
+        <seg>Sua armadura é tão azeda que alguns de seus colegas acham que ele está à beira da loucura, e ele parece ter cruzado a linha no meio do filme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>His body is also significantly reinforced, going well beyond a mere replacement arm.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240618T022202Z" creationid="Luan" creationdate="20240618T022202Z">
@@ -24237,6 +24302,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T203716Z" creationid="Luan" creationdate="20240326T203716Z">
         <seg>No entanto, como ele é importante, o autor se certifica de que ele não vai morrer, apenas ficar um pouco machucadinho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, that book was an anthology of ''nine'' separate stories in a common universe, mostly revolving around the central character Susan Calvin.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T200535Z" creationid="Luan" creationdate="20240619T200535Z">
+        <seg>No entanto, o livro é uma coletânea de ''nove'' histórias separadas em um universo comum, quase todas girando em torno da personagem central Susan Calvin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26627,6 +26700,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240611T001524Z" creationid="Luan" creationdate="20240611T001524Z">
         <seg>Br/BemNaHora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Justified with Spooner due to [[spoiler: his stronger prosthetic arm]] or just not caring where the bullets go.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T201000Z" creationid="Luan" creationdate="20240619T201000Z">
+        <seg>Justificado com Spooner [[spoiler: por causa do braço prostético reforçado]] ou por não se importar para onde vão as balas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30303,6 +30384,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sonny points this out in the film when Spooner tells him "someone in your position".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T200718Z" creationid="Luan" creationdate="20240619T200718Z">
+        <seg>Sonnu ressalta isso no filme quando Spooner diz "alguém na sua posição".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spooner actually catches on pretty quickly, realizing it's no coincidence that he, of all people, was called to investigate Lanning's death.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T172410Z" creationid="Luan" creationdate="20240616T172410Z">
@@ -30349,6 +30438,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240618T004512Z" creationid="Luan" creationdate="20240618T004512Z">
         <seg>Spooner gosta de se sentir no controle de sua vida, e dirigir o próprio carro, usar botões para ativar a música e comprando artigos ''vintage'' é parte disso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spooner outright tells him to go home after the fact.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T201155Z" creationid="Luan" creationdate="20240619T201155Z">
+        <seg>Spooner diz diretamente para que ele vá para casa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31107,6 +31204,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The conceit of the film is that it's a loose prequel to those stories, a new tale in the overall series of stories whose blanket title is ''I, Robot''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T200605Z" creationid="Luan" creationdate="20240619T200605Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The concept of "destiny" is glossed over altogether, and the events in question are simply disguised as mere happenstance.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240228T205527Z" creationid="Luan" creationdate="20240228T205527Z">
@@ -31273,6 +31378,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240402T180316Z" creationid="Luan" creationdate="20240402T180316Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The film features many of the concepts of that universe.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T200559Z" creationid="Luan" creationdate="20240619T200559Z">
+        <seg>O filme carrega muitos conceitos desse universo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34838,6 +34951,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T225715Z" creationid="Luan" creationdate="20231210T225715Z">
         <seg>Qualquer que seja o caso, o criador não pode mais microgerenciar a própria criação e quem quer que esteja no cargo terá que [[Br/DependendoDoEscritor continuar o show seguindo a própria visão]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When Calvin fires Spooner's submachine gun, she's shown to have trouble controlling it and ends up shooting almost straight up.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T200932Z" creationid="Luan" creationdate="20240619T200932Z">
+        <seg>Quando Calvin dispara com a submetralhadora de Spooner, ela é mostrada tendo problema em controlar a arma e acaba atirando pro alto.</seg>
       </tuv>
     </tu>
     <tu>

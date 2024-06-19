@@ -21424,6 +21424,20 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Can a robot turn a canvas into a beautiful masterpiece?\\
+'''Sonny''': [[ArmorPiercingResponse Can you?]]\\
+'''Spooner''': [''awkward silence'']
+* AndroidsAndDetectives: A detective, a robot developing self-awareness and a scientist vs a murderous conspiracy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T174305Z" creationid="Luan" creationdate="20240619T174305Z">
+        <seg>Um robô consegue pintar uma bela obra-prima?\\
+'''Sonny:''' [[Br/RespostaDevastadora Você consegue?]]\\
+'''Spooner:''' [''silêncio desconfortável'']
+* Br/AndroidesEDetetives: Um detetive, um robô com consciência própria e uma cientista contra uma conspiração de assassinato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can a robot turn a canvas into a beautiful masterpiece?]]
 * ArmorPiercingResponse:
 ** Sonny's response to the ArmorPiercingQuestion above:

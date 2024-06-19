@@ -4104,3 +4104,8 @@ CopAndScientist	Br/PolicialECientista
 CranialProcessingUnit	Br/UnidadeDeProcessamentoCraniana
 CrazyPrepared	Br/InsanamentePreparado
 Cyborg	Br/{{Ciborgue}}
+DeathIsGray	Br/MorrerECinza
+DeathOfAChild	Br/MorteDeUmaCrianca
+MasterComputer	Br/ComputadorMestre
+DoesNotLikeGuns	Br/NaoGostaDeArmas
+DoesNotDrive	Br/NaoDirige

@@ -11737,6 +11737,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* PlotTriggeringDeath: The plot of the film kicks off when Spooner gets a call that Dr. Alfred Lanning, the father of robotics, has died.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T211414Z" creationid="Luan" creationdate="20240619T211414Z">
+        <seg>* Br/MorteAtivadoraDeTrama: A trama do filme começa quando Spooner recebe uma ligação informando que Dr. Alfred Lanning, o pai da robótica, morreu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* PoliticallyCorrectHistory: For some reason, people and groups are more tolerant than they actually were in history because that sort of baggage may be inconvenient to the rest of the story.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240327T184309Z" creationid="Luan" creationdate="20240327T184309Z">

@@ -4099,3 +4099,7 @@ AssholeVictim	Br/VitimaBabaca
 AutomatedAutomobiles	Br/AutomoveisAutomaticos
 CloseupOnHead	Br/EnfaseNaCabeca
 ColdEquation	Br/EquacaoFria
+ComplainingAboutRescuesTheyDontLike	Br/ReclamandoDeResgatesQueNaoSeGosta
+CopAndScientist	Br/PolicialECientista
+CranialProcessingUnit	Br/UnidadeDeProcessamentoCraniana
+CrazyPrepared	Br/InsanamentePreparado

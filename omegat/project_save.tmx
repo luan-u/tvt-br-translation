@@ -18213,6 +18213,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** Calvin's expression when her NS-5 tells her that the person who called just then was a wrong number-- ''after Calvin heard everything that Spooner said.''
+** After Spooner comments on the lack of military response to the robot uprising, Calvin says that the military has an exclusive contract with US-R.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T215400Z" creationid="Luan" creationdate="20240619T215400Z">
+        <seg>** A expressão da Calvin quando o NS-5 dela diz que a pessoa que ligou para ela tinha sido do número errado -- ''depois de Calvin ter ouvido tudo que o Spooner disse.''
+** Após os comentários de Spooner sobre a falta de resposta militar ao levante dos robôs, Calvin diz que as forças armadas possuem um contrato exclusivo com a USR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>** CaptainGeographic: A superhero with a name, outfit and/or characteristics based around their country of origin.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240320T131950Z" creationid="Luan" creationdate="20240320T131950Z">
@@ -19344,6 +19354,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240618T023331Z" creationid="Luan" creationdate="20240618T023331Z">
         <seg>---&gt;'''Spooner:''' Há algum problema com as Três Leis?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>---&gt;'''Spooner:''' There is no way my luck is that bad.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T215041Z" creationid="Luan" creationdate="20240619T215041Z">
+        <seg>---&gt;'''Spooner:''' Eu não posso ser tão azarado assim.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35049,6 +35067,16 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Well, ''maybe I am.''
+* TheParagonAlwaysRebels: Played with heavily.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T214712Z" creationid="Luan" creationdate="20240619T214712Z">
+        <seg>Porque se deixa, ''talvez eu seja.''
+* Br/OExemploSempreSeRebela: Bastante manipulado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Well, in theory anyway.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T153951Z" creationid="Luan" creationdate="20231210T153951Z">
@@ -37356,6 +37384,16 @@ E ele tem que estar disposto a lutar!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[[spoiler: VIKI is the paragon of the three laws and MasterComputer, becoming a WellIntentionedExtremist.]] On the other hand [[spoiler: Sonny is a SuperPrototype, and is a paragon and true hero ''because'' he rebels.]]
+* PercussiveMaintenance: Spooner punches a panel to make it rise up after it's been lowered.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T214909Z" creationid="Luan" creationdate="20240619T214909Z">
+        <seg>[[spoiler: VIKI é o grande exemplo das três leis e Br/ComputadorMestre, tornando se um Br/ExtremistaBemIntencionado.]] Por outro lado, [[spoiler: Sonny é um Br/SuperPrototipo e é um modelo de verdadeiro herói ''porque'' ele se rebela.]]
+* Br/ManutencaoPercussiva: Spooner esmurra um painel para que ele abra novamente após ter se fechado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[[spoiler: VIKI's intention (to avoid breaking the three laws) is to take over humanity with as little loss of life as possible.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240619T182943Z" creationid="Luan" creationdate="20240619T182943Z">
@@ -37396,6 +37434,18 @@ E ele tem que estar disposto a lutar!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240619T202031Z" creationid="Luan" creationdate="20240619T202031Z">
         <seg>[[spoiler: Sonny se impulsiona a partir de uma passarela metálica e cai com os braços e pernas junto ao corpo, dando a ele uma velocidade inicial maior e permitindo que ele acelere mais rápido para pegar a Dra. Calvin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[spoiler:Spooner eventually becomes friends with Dr. Calvin, who's basically a younger version of Lanning, and Sonny, a suspicious robot who may have committed murder.]]
+* OhCrap:
+** Spooner when two USR transport trucks corner his car on the highway, then open to reveal they are full of NS-5s.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T215204Z" creationid="Luan" creationdate="20240619T215204Z">
+        <seg>[[spoiler: Spooner eventualmente se torna amigo de Dra. Calvin, que é basicamente uma versão mais jovem do Lanning, e de Sonny, um robô suspeito que pode ter cometido homicídio.]]
+* Br/VishFerrou:
+** Spooner, quando dois caminhões cargueiros da USR encurralam o carro dele na via expressa e então abrem, revelando uma carga de NS-5s.</seg>
       </tuv>
     </tu>
     <tu>

@@ -4090,3 +4090,7 @@ RightForTheWrongReasons	Br/CertoPelosMotivosErrados
 MeaningfulEcho	Br/EcoSignificativo
 ArmorPiercingQuestion	Br/PerguntaDevastadora
 ArmorPiercingResponse	Br/RespostaDevastadora
+AIIsACrapshoot	Br/IAEUmaDroga
+AmbiguouslyAbsentParent	Br/PaisAmbiguamenteAusentes
+AMFMCharacterization	Br/CaracterizacaoAMFM
+Anaphora	Br/{{Anafora}}

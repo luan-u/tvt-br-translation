@@ -4124,3 +4124,4 @@ ShootOutTheLock	Br/AtirarNaTranca
 TrailOfBlood	Br/RastroDeSangue
 VariableTerminalVelocity	Br/VelocidadeTerminalVariavel
 WasJustLeaving	Br/JaEstavaDeSaida
+WindmillCrusader	Br/CombatenteDosMoinhosDeVento

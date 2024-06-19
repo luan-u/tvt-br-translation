@@ -4095,3 +4095,7 @@ AmbiguouslyAbsentParent	Br/PaisAmbiguamenteAusentes
 AMFMCharacterization	Br/CaracterizacaoAMFM
 Anaphora	Br/{{Anafora}}
 AndroidsAndDetectives	Br/AndroidesEDetetives
+AssholeVictim	Br/VitimaBabaca
+AutomatedAutomobiles	Br/AutomoveisAutomaticos
+CloseupOnHead	Br/EnfaseNaCabeca
+ColdEquation	Br/EquacaoFria

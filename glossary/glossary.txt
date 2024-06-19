@@ -4103,3 +4103,4 @@ ComplainingAboutRescuesTheyDontLike	Br/ReclamandoDeResgatesQueNaoSeGosta
 CopAndScientist	Br/PolicialECientista
 CranialProcessingUnit	Br/UnidadeDeProcessamentoCraniana
 CrazyPrepared	Br/InsanamentePreparado
+Cyborg	Br/{{Ciborgue}}

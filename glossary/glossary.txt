@@ -4112,3 +4112,6 @@ DoesNotDrive	Br/NaoDirige
 BornInTheWrongCentury	Br/NascidoNoSeculoErrado
 MachineBlood	Br/SangueDeMaquina
 MilitariesAreUseless	Br/MilitaresSaoInuteis
+MurderIsTheBestSolution	Br/AssassinatoEAMelhorSolucao
+Nanomachines	Br/{{Nanomaquinas}}
+ShowerScene	Br/CenaDoChuveiro

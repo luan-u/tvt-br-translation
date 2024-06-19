@@ -4133,3 +4133,6 @@ OddFriendship	Br/AmizadePeculiar
 MoodWhiplash	Br/MontanhaRussaDeAnimo
 ButForMeItWasTuesday	Br/MasParaMimEraTercaFeira
 ButForMeItWasTuesday	Br/MasParaMimEraUmDiaComum
+TheParagonAlwaysRebels	Br/OExemploSempreSeRebela
+TheParagonAlwaysRebels	Br/OParagonoSempreSeRebela
+PercussiveMaintenance	Br/ManutencaoPercussiva

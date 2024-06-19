@@ -4094,3 +4094,4 @@ AIIsACrapshoot	Br/IAEUmaDroga
 AmbiguouslyAbsentParent	Br/PaisAmbiguamenteAusentes
 AMFMCharacterization	Br/CaracterizacaoAMFM
 Anaphora	Br/{{Anafora}}
+AndroidsAndDetectives	Br/AndroidesEDetetives

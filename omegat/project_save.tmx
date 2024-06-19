@@ -14209,6 +14209,18 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SuperPrototype:
+** Sonny has a few modifications that set him apart from the standard NS-5:
+*** He's made with extra dense alloy, which comes in handy when he needs to reach through a forcefield to get the [[spoiler: nanites to inject into Viki]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T190404Z" creationid="Luan" creationdate="20240619T190404Z">
+        <seg>* Br/SuperPrototipo:
+** Sonny possui algumas modificações que o diferenciam de um NS-5 comum:
+*** Ele é feito com uma liga metálica extra densa que é muito útil quando ele precisa lidar com um campo de contenção para [[spoiler: obter os nanitos a serem injetados na VIKI]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SuperSargassoSea: Where all the lost stuff ends up.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T150038Z" creationid="Luan" creationdate="20240201T150038Z">
@@ -18499,6 +18511,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T204127Z" creationid="Luan" creationdate="20231215T204127Z">
         <seg>** Br/{{Retconjuracao}}: Uma habilidade dentro da história altera a realidade e isso causa um retcon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*** He's been programmed to have dreams.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T190411Z" creationid="Luan" creationdate="20240619T190411Z">
+        <seg>*** Ele foi programado para ter sonhos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30211,6 +30231,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       <tuv lang="pt-BR" changeid="Luan" changedate="20240619T174537Z" creationid="Luan" creationdate="20240619T174537Z">
         <seg>Spooner e Calvin não lamentam por ele ao descobrir que ele foi morto pelos robôs rebeldes.]]
 * Br/AutomoveisAutomaticos: Veículos motorizados pesados possuem pilotos automáticos, que devem ser ativados ao dirigir acima de certas velocidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spooner goes to the location seen in the dreams and [[spoiler: sees the early stages of the RobotWar]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T190431Z" creationid="Luan" creationdate="20240619T190431Z">
+        <seg>Spooner vai ao local visto nos sonhos e [[spoiler: vê os estágios iniciais da Br/GuerraRobotica]].</seg>
       </tuv>
     </tu>
     <tu>

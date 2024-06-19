@@ -4127,3 +4127,4 @@ WasJustLeaving	Br/JaEstavaDeSaida
 WindmillCrusader	Br/CombatenteDosMoinhosDeVento
 DoAnythingRobot	Br/RoboFazTudo
 WhatMeasureIsANonHuman	Br/QuantoValeUmNaoHumano
+PlotTriggeringDeath	Br/MorteAtivadoraDeTrama

@@ -4120,3 +4120,7 @@ ItIsDehumanizing	Br/IssoEDesumano
 LawOfInverseRecoil	Br/LeiDoRecuoInverso
 TheLoad	Br/OFardo
 MakeItLookLikeAnAccident	Br/FazerParecerComUmAcidente
+ShootOutTheLock	Br/AtirarNaTranca
+TrailOfBlood	Br/RastroDeSangue
+VariableTerminalVelocity	Br/VelocidadeTerminalVariavel
+WasJustLeaving	Br/JaEstaDeSaida

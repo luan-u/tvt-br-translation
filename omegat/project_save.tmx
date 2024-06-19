@@ -7915,6 +7915,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HonorBeforeReason:
+--&gt;[[spoiler: '''VIKI:''' You're making a mistake.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T200025Z" creationid="Luan" creationdate="20240619T200025Z">
+        <seg>* Br/HonraAntesDaRazao:
+--&gt;[[spoiler: '''VIKI:''' Está cometendo um erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HopeBringer: A hero who rallies and inspires others to act.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224501Z" creationid="Luan" creationdate="20240318T224501Z">
@@ -8067,6 +8077,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T224624Z" creationid="Luan" creationdate="20240318T224624Z">
         <seg>* Br/CancaoDeEuQuero: Heróis expressam seus desejos e sonhos através de uma apresentação musical.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* IWarnedYou: After spending the whole movie trying to convince people that the robots are up to no good, Spooner finally [[spoiler: rescues Calvin from a malfunctioning robot]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T200325Z" creationid="Luan" creationdate="20240619T200325Z">
+        <seg>* Br/EuTeAvisei: Depois de passar o filme inteiro tentando convencer as pessoas de que os robôs não são bons, Spooner finalmente [[spoiler: resgata Calvin de um robô defeituoso]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -19200,8 +19218,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>--&gt; '''Spooner:''' She wanted to be a dentist.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T195108Z" creationid="Luan" creationdate="20240619T195108Z">
-        <seg>--&gt; '''Spooner:''' Ela queria ser uma dentista.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T195313Z" creationid="Luan" creationdate="20240619T195108Z">
+        <seg>--&gt; '''Spooner:''' Ela queria ser dentista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19236,6 +19254,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240618T011314Z" creationid="Luan" creationdate="20240618T011314Z">
         <seg>--&gt;'''Sonny:''' Todos temos um propósito, não acha?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>--&gt;'''Spooner:''' I guess anything is normal for someone in your position.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T195936Z" creationid="Luan" creationdate="20240619T195936Z">
+        <seg>--&gt;'''Spooner:''' Qualquer coisa é normal pra alguém na sua posição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>--&gt;'''Spooner:''' Somehow, "I told you so" just doesn't quite say it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T195555Z" creationid="Luan" creationdate="20240619T195555Z">
+        <seg>--&gt;'''Spooner:''' Eu não sei por quê, mas "eu te disse" não explica isso direito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19535,8 +19569,8 @@ Br/ExemplosEmFalta.</seg>
         <seg>-&gt;''"Somehow, 'I told you so' just doesn't quite say it."''
 --&gt;-- '''Spooner''', after [[ZerothLawRebellion all hell breaks loose]]</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T165341Z" creationid="Luan" creationdate="20240616T165311Z">
-        <seg>-&gt;''"Eu não sei por quê, mas 'eu te disse' não explica isso direito."''
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T195611Z" creationid="Luan" creationdate="20240616T165311Z">
+        <seg>-&gt;''"Eu não sei por quê, mas "eu te disse" não explica isso direito."''
 --&gt;-- '''Spooner''', depois que [[Br/RebeliaoDaLeiZero o caos se instala]]</seg>
       </tuv>
     </tu>
@@ -21566,6 +21600,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But it just seems too... heartless.]]
+* HollywoodHacking: According to Calvin, it will take her six minutes to hack through [[spoiler: VIKI]]'s security, doing it all by hand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T200153Z" creationid="Luan" creationdate="20240619T200153Z">
+        <seg>Mas me parece muito... cruel.]]
+* Br/HackersHollywoodianos: De acordo com Calvin, levará a ela seis minutos para burlar as defesas [[spoiler da VIKI]] manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But not you.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240618T005325Z" creationid="Luan" creationdate="20240618T005325Z">
@@ -22667,6 +22711,16 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231213T192014Z" creationid="Luan" creationdate="20231213T192014Z">
         <seg>Métodos diferentes de canalhice manipulativa existem, a depender dos truques prediletos de manipulação:
 * Br/AVamp, a Br/FemmeFatale e Br/OCasanova costumam usar seus poderes devastadores de sedução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you not see the logic of my plan?]]\\
+[[spoiler: '''Sonny:''' Yes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T200102Z" creationid="Luan" creationdate="20240619T200102Z">
+        <seg>Não vê a lógica do meu plano?]]\\
+[[spoiler: '''Sonny:''' Sim.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30379,6 +30433,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Subverted though: it isn't nearly fast enough.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T200215Z" creationid="Luan" creationdate="20240619T200215Z">
+        <seg>Subvertido, no entanto: definitivamente não é tão rápido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sufficiently strong characters ''might'' be able to [[BlownAcrossTheRoom knock them through a wall or mountain]], but just one hit like that won't have any lasting effect.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T195057Z" creationid="Luan" creationdate="20231206T195057Z">
@@ -34750,8 +34812,8 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       <tuv lang="en-US">
         <seg>What the hell kind of twelve-year-old wants to be a dentist?</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T195308Z" creationid="Luan" creationdate="20240619T195308Z">
-        <seg>Que tipo de garota de doze anos quer ser dentista?</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T195327Z" creationid="Luan" creationdate="20240619T195308Z">
+        <seg>Que criança com doze anos quer ser dentista?</seg>
       </tuv>
     </tu>
     <tu>

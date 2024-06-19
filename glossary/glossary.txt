@@ -4116,3 +4116,7 @@ MurderIsTheBestSolution	Br/AssassinatoEAMelhorSolucao
 Nanomachines	Br/{{Nanomaquinas}}
 ShowerScene	Br/CenaDoChuveiro
 IWarnedYou	Br/EuTeAvisei
+ItIsDehumanizing	Br/IssoEDesumano
+LawOfInverseRecoil	Br/LeiDoRecuoInverso
+TheLoad	Br/OFardo
+MakeItLookLikeAnAccident	Br/FazerParecerComUmAcidente

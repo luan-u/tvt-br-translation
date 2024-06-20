@@ -4147,3 +4147,4 @@ ThreeLawsOfRobotics	Br/TresLeisDaRobotica
 EveryoneHasStandards	Br/TodosTemLimites
 FantasticFirearms	Br/ArmasDeFogoFantasticas
 FantasticSlur	Br/InsultoFantastico
+SweetTooth	Br/ViciadoEmDoces

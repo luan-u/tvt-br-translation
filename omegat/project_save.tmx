@@ -7667,6 +7667,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HeroicSacrifice:
+** A failed attempt.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T153146Z" creationid="Luan" creationdate="20240620T153146Z">
+        <seg>* Br/SacrificioHeroico:
+** Uma tentativa que falhou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HeroicSacrifice: A heroic character makes a sacrifice, typically their life, to achieve a particular objective, such as saving other lives.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T033809Z" creationid="Luan" creationdate="20240314T033802Z">
@@ -18501,6 +18511,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** Played straight when Spooner is attacked by NS-5 robots.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T153656Z" creationid="Luan" creationdate="20240620T153656Z">
+        <seg>** Usado na maneira comum quando Spooner é atacado pelos NS-5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>** RedemptionPromotion: A harmless/ful or incompetent character gets substantially stronger post-HeelFaceTurn.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240315T011501Z" creationid="Luan" creationdate="20240315T011501Z">
@@ -20937,6 +20955,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An NS-4 robot came to the rescue, and statistically determined that it could not save both Spooner and Sarah.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T153239Z" creationid="Luan" creationdate="20240620T153239Z">
+        <seg>Um robô NS-4 veio ao resgate, e estatisticamente determinou que ele não poderia salvar Spooner e Sarah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An [[ScienceRelatedMemeticDisorder increasingly common take]] on this trope is that Mad Science is a [[CursedWithAwesome dangerous superpower]] or even a ''[[ChronicVillainy mental disorder]]'', either hereditary in which case the afflicted may come from a [[InTheBlood long line]] of mad scientists, or transmissible through [[InfectiousInsanity contagious ideas]] or [[GoMadFromTheRevelation experiences]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240410T210422Z" creationid="Luan" creationdate="20240410T210422Z">
@@ -21369,6 +21395,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As a result, operating on logic alone and not human empathy, the robot chose to save Spooner's life as opposed to Sarah's.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T153316Z" creationid="Luan" creationdate="20240620T153316Z">
+        <seg>Como resultado, e operando apenas em lógica e não em empatia humana, o robô escolheu salvar a vida de Spooner ao invés da vida de Sarah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As a warning, '''''this entry contains spoilers both marked and unmarked'''''.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T233547Z" creationid="Luan" creationdate="20231206T233547Z">
@@ -21685,6 +21719,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240301T153140Z" creationid="Luan" creationdate="20240301T153140Z">
         <seg>As trilogias costumam (mas não sempre) compreender histórias que são lançadas espaçadamente entre si, e por isso as partes da trilogia podem, cada uma, conter a estrutura de três atos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Before the timeline of the movie, Spooner attempted a heroic sacrifice while he and a 12-year-old girl (named Sarah) were trapped underwater after a car accident.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T153335Z" creationid="Luan" creationdate="20240620T153220Z">
+        <seg>Antes dos eventos do filme, Spooner tenta um sacrifício heroico quando ele e uma garota de 12 anos (chamada Sarah) ficam presos sob a água após um acidente de carro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24284,6 +24326,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240619T213316Z" creationid="Luan" creationdate="20240619T213316Z">
         <seg>Ele sofre uma queda de uma janela ''muito'' alta e não perde velocidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He tells Susan Calvin that a human would have known that a 12-year-old is worth saving (or at least trying to) more than an adult, despite the disparity between their statistical odds of survival.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T153629Z" creationid="Luan" creationdate="20240620T153629Z">
+        <seg>Ele diz para Calvin que um humano saberia que uma garota de 12 anos merece mais ser salva do que um adulto, apesar da diferença entre as chances de sobrevivência.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29556,6 +29606,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Scores of NS-4 robots throw themselves between Spooner and the NS-5 robots, buying Spooner enough time to escape.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T153726Z" creationid="Luan" creationdate="20240620T153726Z">
+        <seg>Centenas de robôs NS-4 se jogam entre Spooner e os NS-5, o que dá ao Spooner tempo suficiente para escapar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Second, many systems have RuleZero: some designated referee, judge or [[GameMaster authority figure]] has the absolute final word and can simply throw the argument out wholesale, usually by claiming that the "spirit" of the rule never intended to allow what the "letter" of it seems to say.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240301T145017Z" creationid="Luan" creationdate="20240301T145017Z">
@@ -29872,6 +29930,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T161532Z" creationid="Luan" creationdate="20231214T161532Z">
         <seg>Ver também BrWikiAlegre/TVTropesVaiMelhorarSuaVida, BrWikiSombria/TVTropesArruinouSuaVida, BrApenasPorLazer/TVTropesVaiArruinarSeuVocabulario, BrApenasPorLazer/TVTropesComoDrogaDeEntrada e Br/SoMaisUmaFase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See also SurvivorGuilt below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T153638Z" creationid="Luan" creationdate="20240620T153638Z">
+        <seg>Consultar também Br/RemorsoDoSobrevivente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31148,6 +31214,18 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The NS-4's reasoning for not attempting to rescue Sarah was that Del had a 45% chance of survival, and Sarah only had an 11% chance.\\
+\\
+This incident is portrayed as the main reason Spooner is prejudiced against robots-- he believes that their lack of human emotion makes them a detriment to society.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T153544Z" creationid="Luan" creationdate="20240620T153544Z">
+        <seg>O raciocínio do NS-4 para não tentar resgatar Sarah era de que Spooner tinha uma chance de 45% de sobreviver, enquanto Sarah tinha apenas 11% de chance.\\
+\\
+Esse incidente é retratado como o principal motivo pelo qual Spooner não gosta de robôs -- ele acredita que a falta de emoções humanas os tornam prejudiciais para a sociedade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Only Sane Man is [[TheReliableOne often relied upon]] as the OnlySaneEmployee.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T002223Z" creationid="Luan" creationdate="20231220T002223Z">
@@ -31360,6 +31438,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T224941Z" creationid="Luan" creationdate="20231101T224941Z">
         <seg>Afinal, os donos da casa de jogos precisam ''de algum modo'' conseguir dinheiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The attempted heroic sacrifice occurs when Spooner implores the robot to save Sarah and leave Spooner to either die or find a way out himself-- the robot completely ignores Spooner's pleas in a glaringly emotionless manner.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T153415Z" creationid="Luan" creationdate="20240620T153330Z">
+        <seg>O sacrifício heroico tentado ocorre quando Spooner implora que o robô salve a Sarah e deixe Spooner para morrer ou para encontrar um jeito de se salvar -- o robô ignora completamente os pedidos de Spooner sem demonstrar emoção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35317,6 +35403,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
         <seg>Quando Spooner pergunta "por que não damos a ela o mundo em uma bandeja de prata?", Calvin responde: "Acho que já demos."
 ** A expressão no rosto de [[spoiler: VIKI]] quando ela vê [[spoiler: que a liga metálica do Sonny resiste ao campo de contenção dos nanitos.]]
 * Br/ExercitoDeUmHomemSo: Sonny, que consegue derrotar múltiplos robôs NS-5 sem que ele próprio sofra dano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a car crash sent him and another car into the river, a little girl was [[TrappedInASinkingCar trapped in the other car]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T153124Z" creationid="Luan" creationdate="20240620T153124Z">
+        <seg>Quando uma colisão veicular mandou ele e outro carro para o rio, uma garota estava [[Br/PresoEmUmCarroAfundando aprisionada no outro carro]].</seg>
       </tuv>
     </tu>
     <tu>

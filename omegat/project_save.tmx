@@ -16218,10 +16218,14 @@ Br/ExemplosEmFalta.</seg>
 * ThreeLawsOfRobotics:
 ** Stated in the opening credits.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T161154Z" creationid="Luan" creationdate="20240620T161154Z">
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T161503Z" creationid="Luan" creationdate="20240620T161154Z">
         <seg>* Br/IssoVaiDoer:
 --&gt;''(Enquanto dormia com seu carro no piloto automático na via expressa, dois caminhões da USR o cercam, abrindo as portas para revelar uma carga de NS-5 recém saída da fábrica)''\\
-'''Spooner:''' ''(ao acordar, percebendo a situação)''</seg>
+'''Spooner:''' ''(ao acordar, percebendo a situação)'' Eu não posso ser tão azarado assim.\\
+''(vários robôs maliciosos se ativam)''\\
+'''Spooner:''' [[Br/VishFerrou Ai, droga... NÃO!]]
+* Br/TresLeisDaRobotica:
+** Declaradas nos créditos de abertura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16422,6 +16426,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T015554Z" creationid="Luan" creationdate="20231218T015554Z">
         <seg>* Br/TotalmenteRadical: O público já sabe que a obra é atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* TotallyRadical: Farber, who can't cuss to save his life.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T161635Z" creationid="Luan" creationdate="20240620T161635Z">
+        <seg>* Br/TotalmenteRadical: Farber, que não consegue xingar nem se a vida dele dependesse disso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29388,6 +29400,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Played and toyed with during the film.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T161511Z" creationid="Luan" creationdate="20240620T161511Z">
+        <seg>Manipuladas ao longo do filme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please [[https://tvtropes.org/pmwiki/tlp_activity.php consult your fellow Tropers first]] to get opinions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231103T010609Z" creationid="Luan" creationdate="20231103T010540Z">
@@ -37758,6 +37778,16 @@ E ele tem que estar disposto a lutar!</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T172605Z" creationid="Luan" creationdate="20240616T172605Z">
         <seg>[[spoiler: [[Br/PoderesSecundariosRequeridos E por um bom motivo.]]]]
 * Br/MalditosHerois: Spooner tem alguns momentos: primeiro, quando ele invade o apartamento de Calvin para salvá-la de seu [[spoiler: NS-5 defeituoso]], e depois, quando ele acerta a motocicleta em um grupo de NS-5 e depois atira em todos eles para salvar Farber.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[spoiler: [[ZerothLawRebellion Taken to their logical conclusion]].]]
+** Also used as a marketing gimmick in-universe, with "Three Laws Safe" applied to robots like "No Preservatives" applies to food.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T161615Z" creationid="Luan" creationdate="20240620T161615Z">
+        <seg>[[spoiler: [[Br/RebeliaoDaLeiZero Levadas à sua conclusão lógica]].]]
+** Também usada como estratégia de marketing in-universo, com a denominação de "conformidade com as três leis" aplicada em robôs que nem "sem conservantes" é usado em comida.</seg>
       </tuv>
     </tu>
     <tu>

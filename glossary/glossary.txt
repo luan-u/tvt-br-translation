@@ -4150,3 +4150,5 @@ FantasticSlur	Br/InsultoFantastico
 SweetTooth	Br/ViciadoEmDoces
 InYourNatureToDestroyYourselves	Br/EDaSuaNaturezaSeAutodestruir
 IsThisWhatAngerFeelsLike	Br/EAssimQueESeSentirComRaiva
+LikeAnOldMarriedCouple	Br/TalQualUmCasalDeIdosos
+LostInACrowd	Br/PerdidoNaMultidao

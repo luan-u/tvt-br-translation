@@ -4140,3 +4140,5 @@ FuturisticSuperhighway	Br/SuperViaExpressaFuturista
 FreudianSlip	Br/DeslizeFreudiano
 TrappedInASinkingCar	Br/PresoEmUmCarroAfundando
 ExpospeakGag	Br/PiadaDeExpolingua
+SuperStrength	Br/SuperForca
+Technophobia	Br/{{Tecnofobia}}

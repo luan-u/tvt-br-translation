@@ -8319,6 +8319,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* InYourNatureToDestroyYourselves:
+--&gt; [[spoiler: '''VIKI]]:''' You charge us with your safekeeping, yet despite our best efforts, your countries wage wars, you toxify your Earth and pursue ever more imaginative means of self-destruction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T165229Z" creationid="Luan" creationdate="20240620T165229Z">
+        <seg>* Br/EDaSuaNaturezaSeAutodestruir:
+--&gt; [[spoiler: '''VIKI]]:''' Pedem que os protejam, e a despeito de nossos esforços, entram em guerra, poluem o planeta e tentam descobrir meios imaginativos de se auto-destruir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Incompetence or clumsiness is mistaken for stupidity, and a character who's [[TheKlutz clumsy]] or bad at their job becomes a dumb character.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T184148Z" creationid="Luan" creationdate="20231208T184148Z">
@@ -8625,6 +8635,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T141608Z" creationid="Luan" creationdate="20240104T141608Z">
         <seg>* Br/OdioIrracional: Tê-lo por alguém quando não há motivo racional para isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* IsThisWhatAngerFeelsLike: After Spooner pushes Sonny that bit too far during an interrogation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T165447Z" creationid="Luan" creationdate="20240620T165447Z">
+        <seg>* Br/EAssimQueESeSentirComRaiva: Depois que Spooner provoca excessivamente Sonny durante um interrogatório.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18627,6 +18645,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** Robertson.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T165609Z" creationid="Luan" creationdate="20240620T165609Z">
+        <seg>** Robertson.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>** Robots vs. the human rioters.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240620T152123Z" creationid="Luan" creationdate="20240620T152123Z">
@@ -19580,9 +19606,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>--&gt;'''Sonny:''' Thank you.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T200723Z" creationid="Luan" creationdate="20240619T200723Z">
-        <seg>[parcial]\\
-'''Sonny:''' Obrigado.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T165519Z" creationid="Luan" creationdate="20240619T200723Z">
+        <seg>--&gt;'''Sonny:''' Obrigado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26339,6 +26364,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Interestingly, this attitude implies a level of understanding and grudging respect; most characters (yes, even Gigi) treat robots as [[JustAMachine simply impersonal objects]], Spooner and Calvin (and Lanning, off-screen) being the only significant exceptions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T171220Z" creationid="Luan" creationdate="20240620T171220Z">
+        <seg>De maneira interessante, essa atitude implica em certa compreensão e respeito relutante; a maioria dos personagens (até a Gigi) trata robôs como [[Br/SoUmaMaquina objetos impessoais]]; Spooner e Calvin (e Lanning, fora da tela) são as únicas exceções significativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Intriguingly, while disproportionate can possibly mean [[RestrainedRevenge underdoing it]], you'll almost never see that happen.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140449Z" creationid="Luan" creationdate="20240104T140449Z">
@@ -28518,6 +28551,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T155533Z" creationid="Luan" creationdate="20231214T155533Z">
         <seg>Agora nós devemos te avisar sobre a quantidade de tempo que será gasta neste site nas suas primeiras semanas o visitando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Obstructive to Spooner's investigation and going to great lengths to ensure his company isn't harmed on the eve of the biggest robotic distribution in history.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T165642Z" creationid="Luan" creationdate="20240620T165642Z">
+        <seg>Dificultando a investigação de Spooner e fazendo esforços para que sua empresa não tenha a imagem manchada às vésperas da maior distribuição de robôs na história.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36390,6 +36431,18 @@ Esse incidente é retratado como o principal motivo pelo qual Spooner não gosta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You said "someone", not "something."
+* {{Jerkass}}:
+** Spooner, as well, for the way he acts toward robots.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T165601Z" creationid="Luan" creationdate="20240620T165601Z">
+        <seg>Você disse "alguém", e não "alguma coisa.'
+* Br/{{Babaca}}:
+** Spooner, de certo modo, pelo jeito como ele trata os robôs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You said some''one'', not some''thing''.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T192857Z" creationid="Luan" creationdate="20240616T192857Z">
@@ -36926,6 +36979,14 @@ Contrastar com ??? {{Unishment}} (uma punição que não é realmente uma puniç
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T132446Z" creationid="Luan" creationdate="20240318T132446Z">
         <seg>[[Br/OHeroi O mocinho]] que busca derrotar o vilão, salvar a [[Br/InteresseAmoroso princesa]], encontrar o tesouro, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[TooDumbToLive You cannot be trusted with your own survival]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T165244Z" creationid="Luan" creationdate="20240620T165244Z">
+        <seg>[[Br/BurroDemaisParaViver Não podemos confiar sua sobrevivência a vocês mesmos]].</seg>
       </tuv>
     </tu>
     <tu>

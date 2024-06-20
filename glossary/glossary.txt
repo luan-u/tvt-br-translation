@@ -4139,3 +4139,4 @@ PercussiveMaintenance	Br/ManutencaoPercussiva
 FuturisticSuperhighway	Br/SuperViaExpressaFuturista
 FreudianSlip	Br/DeslizeFreudiano
 TrappedInASinkingCar	Br/PresoEmUmCarroAfundando
+ExpospeakGag	Br/PiadaDeExpolingua

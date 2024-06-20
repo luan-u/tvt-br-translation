@@ -13319,6 +13319,18 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* SesquipedalianLoquaciousness: Mixed with ExpospeakGag with Dr. Calvin in the beginning, when describing her job:
+--&gt;'''Detective Del Spooner:''' So, Dr. Calvin, what exactly do you do around here?\\
+'''Susan Calvin:''' My general fields are advanced robotics and psychiatry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T154933Z" creationid="Luan" creationdate="20240620T154933Z">
+        <seg>* Br/LoquacidadeSesquipedaliana: Misturado com uma Br/PiadaDeExpolingua com a Dra. Calvin no começo, quando ela descreve o trabalho dela:
+--&gt;'''Spooner:''' Então, doutora Susan, o que exatamente você faz aqui?\\
+'''Calvin:''' Minhas áreas são robótica avançada e psiquiatria,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* SetBehindTheScenes: Hollywood, but not Hollywood.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240221T204912Z" creationid="Luan" creationdate="20240221T204912Z">

@@ -13513,6 +13513,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ShutUpHannibal: Both Spooner and Sonny do this when [[spoiler: VIKI]] states that [[spoiler: her]] logic is undeniable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T155144Z" creationid="Luan" creationdate="20240620T155144Z">
+        <seg>* Br/CalaABocaHannibal: Spooner e Sonny fazem isso quando [[spoiler: a VIKI]] declara que a lógica é inegável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ShutUpHannibal: The villain mocks the hero for being idealistic and the hero responds with a rebuttal on why it's a good thing that they are idealistic.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T023303Z" creationid="Luan" creationdate="20240314T023303Z">
@@ -14361,6 +14369,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T155806Z" creationid="Luan" creationdate="20240319T155806Z">
         <seg>* Br/PoseSuperSentai: Os super heróis fazem uma pose coordenada que é pensada para parecer irada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* SuperStrength: All robots are super-humanly strong.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T155341Z" creationid="Luan" creationdate="20240620T155341Z">
+        <seg>* Br/SuperForca: Todos os robôs são fortes de maneira sobre-humana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19454,6 +19470,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>--&gt; '''Spooner:''' You have so got to die.\\
+'''Sonny''': Yes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T155208Z" creationid="Luan" creationdate="20240620T155208Z">
+        <seg>--&gt; '''Spooner:''' Você tem que morrer.\\
+'''Sonny:''' Sim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>--&gt;'''Calvin''': Please tell me this doesn't run on gas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T184844Z" creationid="Luan" creationdate="20240616T184844Z">
@@ -20939,6 +20965,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T180021Z" creationid="Luan" creationdate="20240103T180021Z">
         <seg>Há numerosos jeitos pelos quais um Mundo Lixoso pode ser retratado, mas isso costuma ser feito de maneira sombria e na [[Br/TroposDeCinismo ponta cínica]] da Br/EscalaMovelDeIdealismoVersusCinismo, por isso o mundo terá Br/MoralidadeGrisECinza ou Br/MoralidadePretaECinza, ou até mesmo Br/MalContraMal no pior dos casos (se essa rota for tomada, cuidado com as Br/OitoPalavrasMortais e para que não fique Br/SombrioDemaisParaMeImportar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Although, I specialize in hardware-to-wetware interfaces in an effort to advance U.S.R.'s robotic anthropomorphization program.\\
+'''Detective Del Spooner:''' So, what exactly do you do around here?\\
+'''Susan Calvin:''' I make the robots seem more human.\\
+'''Detective Del Spooner:''' Now wasn't that easier to say?\\
+'''Susan Calvin:''' Not really.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T155002Z" creationid="Luan" creationdate="20240620T155002Z">
+        <seg>embora me especialize em interfaces do sistema nervoso humano para acelerar o programa antropomorfológico da USR.\\
+'''Spooner:''' Então, o que ''exatamente'' você faz aqui?\\
+'''Calvin:''' Faço os robôs parecerem mais humanos.\\
+'''Spooner:''' Não era mais fácil você dizer isso?\\
+''Calvin:''' Não, na verdade...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25926,6 +25968,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the following scene he asks Sonny to help get him off of it since he has no way to get off.]]
+** Spooner [[spoiler: was given a cybernetic arm after being injured in the line of duty, and must take steps to maintain it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T155626Z" creationid="Luan" creationdate="20240620T155626Z">
+        <seg>Na cena que se segue, ele pede que Sonny o tire de lá porque ele não tem como sair.]]
+** Spooner [[spoiler: recebeu um braço cibernético após sofrer um acidente e precisa tomar precauções para o manter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the more extreme cases, the poor soul may be trapped in a WorldGoneMad and/or wind up GivingUpOnLogic in frustration.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T001812Z" creationid="Luan" creationdate="20231220T001812Z">
@@ -26470,6 +26522,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T181011Z" creationid="Luan" creationdate="20231101T181011Z">
         <seg>Apenas depende de quem está por trás do produto e como isso é executado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It just seems so...heartless.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T155248Z" creationid="Luan" creationdate="20240620T155248Z">
+        <seg>Mas me parece muito... cruel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28060,6 +28120,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T155009Z" creationid="Luan" creationdate="20240620T155009Z">
+        <seg>não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NoEndorHolocaust is what happens when this is ineptly averted.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T193006Z" creationid="Luan" creationdate="20240104T193006Z">
@@ -28870,6 +28938,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T213600Z" creationid="Luan" creationdate="20231210T213600Z">
         <seg>Um não é necessariamente causado pelo outro, mas executivos espertos costumam alinhar o lançamento do filme com o pico de popularidade do show, por isso dali pra frente é só pra trás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One example is a robot being able to push a car with significant force with just one arm.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T155402Z" creationid="Luan" creationdate="20240620T155402Z">
+        <seg>Um exemplo é um robô empurrando um carro com força significativa usando apenas um braço.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29686,6 +29762,16 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T212038Z" creationid="Luan" creationdate="20231210T212038Z">
         <seg>Consulte Br/AbrindoUmaLataDeClones para motivos pelos quais isso tende a estragar um show.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See RequiredSecondaryPowers above.]]
+* {{Technophobia}}: There's [[Creator/WillSmith Del Spooner]], a Chicago police detective that hates and distrusts robots because one of them rescued him from a car crash, leaving a young girl to die because her survival was statistically less likely than his.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T155826Z" creationid="Luan" creationdate="20240620T155826Z">
+        <seg>Consultar Br/PoderesSecundariosRequeridos.]]
+* Br/{{Tecnofobia}}: Spooner, detetive da polícia de Chicago que odeia robôs porque um deles o resgatou de um acidente, deixando uma jovem garota para morrer porque a sobrevivência dela era menos provável.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37507,6 +37593,18 @@ E ele tem que estar disposto a lutar!</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240618T004806Z" creationid="Luan" creationdate="20240618T004806Z">
         <seg>[[spoiler: Quando ele percebe que Sonny ''pode'' racionalizar e fazer suas próprias escolhas ao invés de seguir sua programação, ele o trata como uma pessoa, apesar de uma pela qual há certa medida de desgosto.]]
 ** Adicionalmente, Spooner era bom amigo de Dr. Lanning antes do acidente, o que indica que seu cinismo é resultante do incidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[spoiler: Spooner's cybernetic arm is likewise far stronger than his human arm, enough to put him on par with a NS-5.]]
+* SurprisinglyRealisticOutcome:
+** During the climax Spooner [[spoiler: dives several dozen stories to reach VIKI's brain and destroy her.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T155536Z" creationid="Luan" creationdate="20240620T155536Z">
+        <seg>[[spoiler: O braço cibernético de Spooner é, de maneira similar, muito mais forte que o braço humano, o bastante para o deixar em igualdade com um NS-5.]]
+* Br/ResultadoSurpreendentementeRealista:
+** Durante o clímax, Spooner [[spoiler: salta dezenas de andares para alcançar o cérebro de VIKI e a destruir.</seg>
       </tuv>
     </tu>
     <tu>

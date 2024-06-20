@@ -4138,3 +4138,4 @@ TheParagonAlwaysRebels	Br/OParagonoSempreSeRebela
 PercussiveMaintenance	Br/ManutencaoPercussiva
 FuturisticSuperhighway	Br/SuperViaExpressaFuturista
 FreudianSlip	Br/DeslizeFreudiano
+TrappedInASinkingCar	Br/PresoEmUmCarroAfundando

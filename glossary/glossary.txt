@@ -4144,3 +4144,6 @@ SuperStrength	Br/SuperForca
 Technophobia	Br/{{Tecnofobia}}
 WhamShot	Br/AquelaImagem
 ThreeLawsOfRobotics	Br/TresLeisDaRobotica
+EveryoneHasStandards	Br/TodosTemLimites
+FantasticFirearms	Br/ArmasDeFogoFantasticas
+FantasticSlur	Br/InsultoFantastico

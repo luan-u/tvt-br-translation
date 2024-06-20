@@ -450,6 +450,22 @@ BrCriador/RobinLaws, em seu livro ''BrLiteratura/HamletsHitPoints'', identifica 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>%%
+[[quoteright:350:[[Film/ExMachina https://static.tvtropes.org/pmwiki/pub/images/ex_machina_android_ava_face.png]]]]
+[[caption-width-right:350:[[Series/BattlestarGalactica2003 "Are you alive?"]]]]
+%%
+%% Caption selected per Caption Repair Thread.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T201504Z" creationid="Luan" creationdate="20240620T200746Z">
+        <seg>%%
+[[quoteright:350:[[BrFilme/ExMachina https://static.tvtropes.org/pmwiki/pub/images/ex_machina_android_ava_face.png]]]]
+[[caption-width-right:350:"Você está viva?"]]
+%%
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>%% Caption selected per above IP thread.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T173940Z" creationid="Luan" creationdate="20240103T173940Z">
@@ -21339,6 +21355,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>And if a human who does disagree in such a world changes their mind upon seeing the "death" of a RobotBuddy or other sentient robotic or artificial form, then DeathMeansHumanity is at play.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T201442Z" creationid="Luan" creationdate="20240620T201442Z">
+        <seg>E se um humano discordante em um desses mundos muda de ideia após presenciar a "morte" de um Br/AmigoRobo ou outra forma artificial senciente, então Br/MorteSignificaHumanidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>And if the hero dies following the reveal and is unable to stop the new menace, you've just read a ShootTheShaggyDog story.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T193038Z" creationid="Luan" creationdate="20240104T193038Z">
@@ -21767,6 +21791,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240619T184723Z" creationid="Luan" creationdate="20240619T184723Z">
         <seg>No entanto, no final do filme, ele cumpre o sonho, mas com ele mesmo sendo "o homem na colina" ao invés de Spooner, e os robôs olham pra ele com expectativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the lower end of the SlidingScaleOfRobotIntelligence, the answer is no (your TV remote has no hopes or dreams), but at the higher end, it may become a legitimate question.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T200904Z" creationid="Luan" creationdate="20240620T200904Z">
+        <seg>Na ponta mais baixa da Br/EscalaMovelDeInteligenciaRobotica, a resposta é "não" (o controle da sua televisão não tem sonhos e anseios), mas na ponta mais alta essa questão pode ser legítima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24792,6 +24824,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How high up the scale you have to go to reach that point, and whether the answer can ever be yes, is a source of debate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T200932Z" creationid="Luan" creationdate="20240620T200932Z">
+        <seg>O quão alto se precisa subir na escala para alcançar esse ponto, e a possibilidade da resposta ser "sim", é fonte de debate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How is it that you can like the true in the false?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240418T042642Z" creationid="Luan" creationdate="20240418T042642Z">
@@ -25356,6 +25396,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240611T002227Z" creationid="Luan" creationdate="20240611T002227Z">
         <seg>Se os heróis acabaram de passar por um arco de treinamento e exibem seus novos poderes, é Br/OlhaOQueEuSeiFazerAgora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the humans and the [=AIs=] disagree about the answer to the question, a [[TurnedAgainstTheirMasters rebellion]] or RobotWar may be in the cards.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T201337Z" creationid="Luan" creationdate="20240620T201330Z">
+        <seg>Se os humanos e as [=IAs=] discordam sobre a resposta, é possível que os robôs acabem Br/VoltadosContraSeusMestres ou que haja uma Br/GuerraRobotica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29674,6 +29722,16 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please do not replace or remove without discussion here:
+%% https://tvtropes.org/pmwiki/posts.php?discussion=1404492079030138900
+%%</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T200816Z" creationid="Luan" creationdate="20240620T200816Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please do not replace or remove without discussion in the Caption Repair thread:
 %% https://tvtropes.org/pmwiki/posts.php?discussion=1404492079030138900</seg>
       </tuv>
@@ -32100,6 +32158,14 @@ Esse incidente é retratado como o principal motivo pelo qual Spooner não gosta
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240228T205527Z" creationid="Luan" creationdate="20240228T205527Z">
         <seg>O conceito de "destino" é repassado e os eventos em questão ficam disfarçados como mero acaso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The concept of the "philosophical zombie" may be mentioned -- if you encountered something that gave all the outward appearance of a thinking, feeling being but had no internal consciousness such as you have, how could you tell?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T201013Z" creationid="Luan" creationdate="20240620T201013Z">
+        <seg>O conceito de "zumbi filosófico" pode ser mencionado -- se você encontrasse algo que tivesse a aparência completa de um ser pensante e senciente, mas não tivesse consciência interna como você, como poderia saber?</seg>
       </tuv>
     </tu>
     <tu>
@@ -35877,6 +35943,14 @@ Esse incidente é retratado como o principal motivo pelo qual Spooner não gosta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What kind of idiot would give a robot a {{personality|Chip}}, anyway?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T200735Z" creationid="Luan" creationdate="20240620T200735Z">
+        <seg>E, de qualquer forma, que tipo de idiota daria a um robô uma [[Br/ChipDePersonalidade personalidade]]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What the hell kind of twelve-year-old wants to be a dentist?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240619T195327Z" creationid="Luan" creationdate="20240619T195308Z">
@@ -36167,6 +36241,14 @@ Esse incidente é retratado como o principal motivo pelo qual Spooner não gosta
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T131117Z" creationid="Luan" creationdate="20240117T131117Z">
         <seg>É quando o detetive tem o confronto com o assassino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the humans in a [[TheVerse universe]] (or the writers who created the universe) don't consider this trope's question or believe the answer is "no", then any [=AIs=] will end up being second-class citizens or sidekicks at best, and disposable slaves at worst.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T201154Z" creationid="Luan" creationdate="20240620T201154Z">
+        <seg>Quando os humanos em um [[Br/OVerso universo]] (ou os escritores desse universo) não consideram a questão deste tropo ou acreditam que a resposta é "não", então qualquer IA será um cidadão de segunda classe ou ajudante na melhor das hipóteses, e escravos descartáveis na pior delas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36482,6 +36564,14 @@ Esse incidente é retratado como o principal motivo pelo qual Spooner não gosta
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T140059Z" creationid="Luan" creationdate="20231208T140059Z">
         <seg>Este tropo pode ser usado para evitar Br/BloqueioDeContinuidade, mas pode ser difícil lidar com uma situação inalterada por tanto tempo sem que o público fique gradualmente desinteressado; uma situação que nunca muda tende a ficar insípida e o público pode se cansar de ver o Br/BotaoDeReinicio ser apertado toda vez que algo surge para, aparentemente, mudar as coisas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While watching such a show you may end up wondering WhatMeasureIsANonHuman A world where the answer is "yes", on the other hand, may include RidiculouslyHumanRobots or MechanicalLifeforms.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T201302Z" creationid="Luan" creationdate="20240620T201302Z">
+        <seg>Ao assistir um programa desses, talvez se pergunte: Br/QuantoValeUmNaoHumano? Por outro lado, um mundo em que a resposta é "sim" pode incluir Br/RobosRidiculamenteHumanos ou Br/FormasDeVidaMecanicas.</seg>
       </tuv>
     </tu>
     <tu>

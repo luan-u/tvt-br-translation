@@ -475,6 +475,15 @@ BrCriador/RobinLaws, em seu livro ''BrLiteratura/HamletsHitPoints'', identifica 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>%% Image selected per Image Pickin' thread: https://tvtropes.org/pmwiki/posts.php?discussion=1452266899092104700
+%% Please do not replace or remove without starting a new thread.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T195622Z" creationid="Luan" creationdate="20240620T195622Z">
+        <seg>%% Imagem selecionada em: https://tvtropes.org/pmwiki/posts.php?discussion=1452266899092104700</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>%% Image selected per Image Pickin' thread: https://tvtropes.org/pmwiki/posts.php?discussion=1644891642013571500
 %% Please do not replace or remove without starting a new thread.</seg>
       </tuv>
@@ -19800,6 +19809,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>-&gt;''"Ever since the first computers, there have always been ghosts in the machine.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T195654Z" creationid="Luan" creationdate="20240620T195654Z">
+        <seg>-&gt;''"Tivemos alguns fantasmas na máquina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>-&gt;''"Every generation has a legend.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T130417Z" creationid="Luan" creationdate="20240105T130358Z">
@@ -22210,6 +22227,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Can a computer have a sense of humor?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T200405Z" creationid="Luan" creationdate="20240620T200405Z">
+        <seg>Computadores têm senso de humor?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can a robot turn a canvas into a beautiful masterpiece?\\
 '''Sonny''': ...Can you?</seg>
       </tuv>
@@ -23189,6 +23214,30 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231213T192014Z" creationid="Luan" creationdate="20231213T192014Z">
         <seg>Métodos diferentes de canalhice manipulativa existem, a depender dos truques prediletos de manipulação:
 * Br/AVamp, a Br/FemmeFatale e Br/OCasanova costumam usar seus poderes devastadores de sedução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do Androids Dream?[[note]]and if so, [[Literature/DoAndroidsDreamOfElectricSheep do they dream of electric sheep?]][[/note]] It has been asked in many forms, but the fundamental question is always, [[WhatMeasureIsANonHuman "What makes us human?"]] And is it possible for an artificial intelligence or life form to possess those same qualities?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T200644Z" creationid="Luan" creationdate="20240620T200644Z">
+        <seg>Androides sonham?[[note]]e se sim, [[BrLiteratura/AndroidesSonhamComOvelhasEletricas eles sonham com ovelhas elétricas?]][[/note]] Essas perguntas foram feitas de diferentes formas, mas a questão fundamental é sempre: [[Br/QuantoValeUmNaoHumano "O que nos torna humanos?"]] E é possível que uma inteligência ou forma de vida artificiais possam ter essas mesmas características?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do clones?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T200355Z" creationid="Luan" creationdate="20240620T200355Z">
+        <seg>Clones possuem?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do robots have [[OurSoulsAreDifferent souls]]?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T200339Z" creationid="Luan" creationdate="20240620T200339Z">
+        <seg>Robôs possuem [[Br/NossasAlmasSaoDiferentes almas]]?</seg>
       </tuv>
     </tu>
     <tu>
@@ -24731,6 +24780,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T224203Z" creationid="Luan" creationdate="20240131T224203Z">
         <seg>É o reduto da Br/GarotaDoVale e do Br/PapaiNoelDeShopping.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How do we explain this behavior?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T195852Z" creationid="Luan" creationdate="20240620T195852Z">
+        <seg>Como explicar tal comportamento?</seg>
       </tuv>
     </tu>
     <tu>
@@ -29319,6 +29376,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Or is it something more?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T195903Z" creationid="Luan" creationdate="20240620T195903Z">
+        <seg>Ou é algo mais?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Or it could be that there's no way to legally judge them because they are above the law in some way, and the protagonists are not willing to risk it all for some vigilante justice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T150547Z" creationid="Luan" creationdate="20231220T150547Z">
@@ -29803,6 +29868,22 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240618T011926Z" creationid="Luan" creationdate="20240618T011926Z">
         <seg>FUJAM!" e depositou suas esperanças na única pessoa que consideraria isso como possibilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Random segments of code, that have grouped together to form unexpected protocols.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T195728Z" creationid="Luan" creationdate="20240620T195713Z">
+        <seg>Trechos de códigos randômicos que se uniram para formar protocolos inesperados, o que se pode chamar de comportamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Random segments of code?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T195900Z" creationid="Luan" creationdate="20240620T195900Z">
+        <seg>Segmentos randômicos de código?</seg>
       </tuv>
     </tu>
     <tu>
@@ -35308,6 +35389,14 @@ Esse incidente é retratado como o principal motivo pelo qual Spooner não gosta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unanticipated, these free radicals engender questions of free will, creativity, and even the nature of what we might call the soul.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T195803Z" creationid="Luan" creationdate="20240620T195803Z">
+        <seg>Inesperadamente, esses radicais livres elaboram perguntas sobre o livre arbítrio, criatividade, e mesmo a natureza daquilo que chamamos de "alma".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Underwater optional.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T204148Z" creationid="Luan" creationdate="20240131T204148Z">
@@ -35912,6 +36001,32 @@ Esse incidente é retratado como o principal motivo pelo qual Spooner não gosta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When does a difference engine become the search for truth?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T195926Z" creationid="Luan" creationdate="20240620T195926Z">
+        <seg>Quando o cálculo de diferenças começa a buscar a verdade?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When does a perceptual schematic become consciousness?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T195914Z" creationid="Luan" creationdate="20240620T195914Z">
+        <seg>Quando um esquema de percepção se torna uma consciência?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When does a personality simulation become the bitter mote... of a soul?"''
+--&gt;-- '''Dr. Alfred Lanning''', ''Film/IRobot''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T200016Z" creationid="Luan" creationdate="20240620T200016Z">
+        <seg>Quando é que uma simulação de personalidade se torna o doloroso átomo de uma alma?"''
+--&gt;-- '''Dr. Alfred Lanning''', ''BrFilme/EuRobo''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When done right, it is a sure-fire way to get a [[SugarWiki/MomentOfAwesome Crowning Moment of Awesome]] or, why not, a [[SugarWiki/HeartwarmingMoments Crowning Moment of Heartwarming]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240611T002303Z" creationid="Luan" creationdate="20240611T002303Z">
@@ -36419,6 +36534,22 @@ Esse incidente é retratado como o principal motivo pelo qual Spooner não gosta
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231212T010014Z" creationid="Luan" creationdate="20231212T010014Z">
         <seg>Por que você está [[Br/{{Desfecho}} contabilizando as perdas junto com os ganhos]]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why is it that when robots are stored in an empty space, they will group together, rather than stand alone?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T195846Z" creationid="Luan" creationdate="20240620T195846Z">
+        <seg>Por que será que os robôs, quando armazenados num local vazio, eles se agrupam ao invés de ficarem sós?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why is it that when some robots are left in darkness, they will seek out the light?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240620T195815Z" creationid="Luan" creationdate="20240620T195815Z">
+        <seg>Por que será que ao ficarem no escuro, eles procuram a luz?</seg>
       </tuv>
     </tu>
     <tu>

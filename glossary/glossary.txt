@@ -4152,3 +4152,5 @@ InYourNatureToDestroyYourselves	Br/EDaSuaNaturezaSeAutodestruir
 IsThisWhatAngerFeelsLike	Br/EAssimQueESeSentirComRaiva
 LikeAnOldMarriedCouple	Br/TalQualUmCasalDeIdosos
 LostInACrowd	Br/PerdidoNaMultidao
+SerkisFolk	Br/PessoaSerkis
+Film/TheLordOfTheRings	BrFilme/OSenhorDosAneis

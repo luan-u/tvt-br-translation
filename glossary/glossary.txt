@@ -4156,3 +4156,5 @@ SerkisFolk	Br/PessoaSerkis
 Film/TheLordOfTheRings	BrFilme/OSenhorDosAneis
 ScrewTheRulesIHaveConnections	Br/DaneSeAsRegrasEuTenhoConexoes
 SimpleSolutionWontWork	Br/ASolucaoSimplesNaoServe
+OurSoulsAreDifferent	Br/NossasAlmasSaoDiferentes
+Literature/DoAndroidsDreamOfElectricSheep	BrLiteratura/AndroidesSonhamComOvelhasEletricas

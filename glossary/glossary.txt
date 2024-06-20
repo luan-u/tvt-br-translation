@@ -4142,3 +4142,5 @@ TrappedInASinkingCar	Br/PresoEmUmCarroAfundando
 ExpospeakGag	Br/PiadaDeExpolingua
 SuperStrength	Br/SuperForca
 Technophobia	Br/{{Tecnofobia}}
+WhamShot	Br/AquelaImagem
+ThreeLawsOfRobotics	Br/TresLeisDaRobotica

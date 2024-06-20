@@ -4136,3 +4136,5 @@ ButForMeItWasTuesday	Br/MasParaMimEraUmDiaComum
 TheParagonAlwaysRebels	Br/OExemploSempreSeRebela
 TheParagonAlwaysRebels	Br/OParagonoSempreSeRebela
 PercussiveMaintenance	Br/ManutencaoPercussiva
+FuturisticSuperhighway	Br/SuperViaExpressaFuturista
+FreudianSlip	Br/DeslizeFreudiano

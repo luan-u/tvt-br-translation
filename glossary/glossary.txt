@@ -4174,3 +4174,4 @@ EverythingIsOnline	Br/TudoEstaOnline
 CensorSteam	Br/VaporDeCensura
 FauxShadow	Br/PrenuncioFalso
 FiveSecondForeshadowing	Br/PrenuncioDeCincoSegundos
+FreudianTrio	Br/TrioFreudiano

@@ -4130,7 +4130,7 @@ WhatMeasureIsANonHuman	Br/QuantoValeUmNaoHumano
 PlotTriggeringDeath	Br/MorteAtivadoraDeTrama
 InvokedTrope	Br/TropoInvocado
 OddFriendship	Br/AmizadePeculiar
-MoodWhiplash	Br/MontanhaRussaDeAnimo
+MoodWhiplash	Br/MontanhaRussaDeEmocoes
 ButForMeItWasTuesday	Br/MasParaMimEraTercaFeira
 ButForMeItWasTuesday	Br/MasParaMimEraUmDiaComum
 TheParagonAlwaysRebels	Br/OExemploSempreSeRebela
@@ -4165,3 +4165,8 @@ AdvancingWallOfDoom	Br/ParedeAvancanteDaMorte
 BreakOutTheMuseumPiece	Br/VeioDiretoDoMuseu
 CasualDangerDialogue	Br/ConversaCasualEmMeioAoPerigo
 ComputerVoice	Br/VozDeComputador
+InformedAbility	Br/HabilidadeInformada
+DeadlyDodging	Br/EsquivaFatal
+EagleEyeDetection	Br/PercepcaoVisualDeAguia
+EmergencyWeapon	Br/ArmaDeEmergencia
+ElectronicSpeechImpediment	Br/DisturbioEletronicoDeFala

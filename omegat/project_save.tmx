@@ -2023,6 +2023,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AdaptationalAttractiveness: Susan Calvin is turned from a plain older woman into an attractive younger woman.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T205203Z" creationid="Luan" creationdate="20240621T205203Z">
+        <seg>* Br/AtratividadeInduzidaPorAdaptacao: Susan Calvin deixa de ser uma mulher idosa regular e passa a ser uma mulher jovem atraente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AdaptationalHeroism: The adaptation makes a character more heroic than they were in the original work.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T210600Z" creationid="Luan" creationdate="20240313T203205Z">
@@ -2075,6 +2083,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T215956Z" creationid="Luan" creationdate="20240124T215956Z">
         <seg>* Br/AcropoleAntigaAvancada: Br/ExatamenteOQueEstaEscrito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* AdvancingWallOfDoom:
+** Spooner has to outrun a demolition robot as it is pulverizing Lanning's mansion.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T205638Z" creationid="Luan" creationdate="20240621T205638Z">
+        <seg>* Br/ParedeAvancanteDaMorte:
+** Spooner precisa fugir de um robô de demolição a medida que este destrói a mansão de Lanning.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3414,6 +3432,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BoomHeadshot: Sonny does this to a robot about to tackle Spooner.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T205742Z" creationid="Luan" creationdate="20240621T205742Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BoomTown: Whoa, these guys build and breed fast.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240131T182221Z" creationid="Luan" creationdate="20240131T182221Z">
@@ -3442,6 +3468,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T212754Z" creationid="Luan" creationdate="20240313T212754Z">
         <seg>* Br/PartaOCoracaoDeleParaOSalvar: os personagens agem como um idiota com seus interesses afetivos para que eles os deixem e fiquem fora de perigo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BreakOutTheMuseumPiece: Spooner's motorcycle, as it is apparently old enough to still have an internal combustion engine.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T210037Z" creationid="Luan" creationdate="20240621T210037Z">
+        <seg>* Br/VeioDiretoDoMuseu: A motocicleta de Spooner, antiga o suficiente para ainda ter um motor a combustão interna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18384,6 +18418,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** Also, the massive, wall-like NS-5 delivery trucks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T205702Z" creationid="Luan" creationdate="20240621T205702Z">
+        <seg>** Os caminhões enormes de transporte de NS-5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>** Alternatively, the person can be hit, but the proxy somehow takes all the damage instead.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T203835Z" creationid="Luan" creationdate="20231206T203835Z">
@@ -30596,6 +30638,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sideways.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T205732Z" creationid="Luan" creationdate="20240621T205732Z">
+        <seg>E de lado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Similar to SoBadItsGood, but done quite intentionally.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231029T162050Z" creationid="Luan" creationdate="20231029T162050Z">
@@ -33897,6 +33947,14 @@ Esse incidente é retratado como o principal motivo pelo qual Spooner não gosta
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T224247Z" creationid="Luan" creationdate="20240104T224247Z">
         <seg>Eles prometem que essa obra será a última, e talvez até a anunciem como sendo o capítulo final, mas então a promessa é quebrada com mais uma sequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They rather effectively box Spooner in despite the fact that they're both moving down the road at high speed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T205730Z" creationid="Luan" creationdate="20240621T205730Z">
+        <seg>Eles são bem eficazes em aprisionar Spooner apesar de ele e os caminhões estarem se movendo pela via em alta velocidade.</seg>
       </tuv>
     </tu>
     <tu>

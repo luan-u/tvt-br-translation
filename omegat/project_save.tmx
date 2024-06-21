@@ -6499,6 +6499,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FreudianTrio: Spooner is the Id, Calvin is the Superego, and Sonny is the Ego.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T215759Z" creationid="Luan" creationdate="20240621T215759Z">
+        <seg>* Br/TrioFreudiano: Spooner é o Id, Calvin é o Superego e Sonny é o Ego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* FriendOnTheForce: A police officer who is quite amicable with the PrivateDetective or AmateurSleuth, and who can provide them with assistance.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T222134Z" creationid="Luan" creationdate="20240318T222134Z">

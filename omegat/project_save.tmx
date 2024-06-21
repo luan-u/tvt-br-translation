@@ -10449,8 +10449,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>* MoodWhiplash: After barely surviving the destruction of Dr. Lanning's mansion, Spooner goes to Calvin about it and they get in a heated argument that eventually culminates with him saying, "You are the '''dumbest''' smart person I have ''ever'' met in my life!" and she later retorts, "You are the dumbest '''dumb''' person I have ever met." The whole scene is this compared to the previous, with gems such as Calvin asking if Spooner ''ever'' has a normal day, and him replying "Once.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240619T212906Z" creationid="Luan" creationdate="20240619T212906Z">
-        <seg>* Br/MontanhaRussaDeAnimo: Após escapar por pouco da destruição da mansão do Dr. Lanning, Spooner vai até a casa de Calvin e os dois se envolvem em uma discussão acalorada que eventualmente culmina nele dizendo "Você é a pessoa inteligente mais temposa que eu já conheci!", no que ela responde que "Você é a pessoa burra mais burra que eu já conheci". A cena inteira é isso quando comparada com a cena anterior, com preciosidades tais como Calvin perguntando se Spooner já teve algum dia normal e ele respondendo "Já, uma vez.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T212022Z" creationid="Luan" creationdate="20240619T212906Z">
+        <seg>* Br/MontanhaRussaDeEmocoes: Após escapar por pouco da destruição da mansão do Dr. Lanning, Spooner vai até a casa de Calvin e os dois se envolvem em uma discussão acalorada que eventualmente culmina nele dizendo "Você é a pessoa inteligente mais temposa que eu já conheci!", no que ela responde que "Você é a pessoa burra mais burra que eu já conheci". A cena inteira é isso quando comparada com a cena anterior, com preciosidades tais como Calvin perguntando se Spooner já teve algum dia normal e ele respondendo "Já, uma vez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19660,6 +19660,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>---&gt;'''Farber''': Mother-damn, she just shot at you with her eyes closed, Spoon!\\
+'''Spooner''': [''incredulously''] AY!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T211402Z" creationid="Luan" creationdate="20240621T211402Z">
+        <seg>---&gt;'''Farber:''' Minha nossa, ela atirou na sua direção com os olhos fechados, cara!\\
+'''Spooner:''' [''incredulamente''] Perai!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>---&gt;'''Spooner:''' ''(To Sonny)'' [[spoiler:[Dr. Lanning] was counting on how much I hated your kind.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240618T023255Z" creationid="Luan" creationdate="20240618T023255Z">
@@ -22334,6 +22344,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calvin catches up to him and shoots it with the automatic weapon he lent her...but she does so ''with her eyes shut.'' Spooner understandably yells at her for it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T211139Z" creationid="Luan" creationdate="20240621T211139Z">
+        <seg>Calvin o alcança e atira nele com a arma automática que ele emprestou... só que ''com os olhos fechados.'' Spooner grita com ela, compreensivelmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calvin immediately points out that VIKI is essentially the whole building and doing that would do nothing, the nanites must be injected if a complete destruction of her positronic brain is to be assured.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240620T174530Z" creationid="Luan" creationdate="20240620T174530Z">
@@ -23311,6 +23329,20 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240418T042810Z" creationid="Luan" creationdate="20240418T042810Z">
         <seg>Dele eu queria saber?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Did you just shoot at me with your eyes closed?!\\
+'''Calvin''': [''exasperate)''] Well, it worked, didn't it?\\
+'''Spooner''': [''points at her as if to say 'we're gonna have words later''']
+* ComputerVoice: All of the [=AI=]s.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T211623Z" creationid="Luan" creationdate="20240621T211623Z">
+        <seg>Você atirou com os olhos fechados?
+'''Calvin:''' [''exasperada''] Bom, funcionou, não foi?\\
+'''Spooner:''' [''aponta pra ela como quem diz "nós vamos conversar mais tarde"'']
+* Br/VozDeComputador: Todas as [=IAs=].</seg>
       </tuv>
     </tu>
     <tu>
@@ -24640,6 +24672,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240618T004812Z" creationid="Luan" creationdate="20240618T004812Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He dispatches the robots, but one catches him and smacks his gun away and is about to kill him.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T211102Z" creationid="Luan" creationdate="20240621T211102Z">
+        <seg>Ele se livra dos robôs, mas um deles o desarma e está prestes a matá-lo.</seg>
       </tuv>
     </tu>
     <tu>

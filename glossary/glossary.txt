@@ -4163,3 +4163,4 @@ DeathMeansHumanity	Br/MorteSignificaHumanidade
 AdaptationalAttractiveness	Br/AtratividadeInduzidaPorAdaptacao
 AdvancingWallOfDoom	Br/ParedeAvancanteDaMorte
 BreakOutTheMuseumPiece	Br/VeioDiretoDoMuseu
+CasualDangerDialogue	Br/ConversaCasualEmMeioAoPerigo

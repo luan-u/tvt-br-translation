@@ -5251,8 +5251,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>* DesperateObjectCatch: Sonny throws the canister of nanites to Spooner, allowing the police detective to [[spoiler: deactivate BigBad V.I.K.I.]] while the robot saves Calvin.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240616T191354Z" creationid="Luan" creationdate="20240616T191354Z">
-        <seg>* Br/AparadaDesesperadaDeObjeto: Sonny arremessa o frasco de nanitos para Sponner, permitindo que o detetive [[spoiler: desative a VIKI]] enquanto o robô salva Calvin.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T213248Z" creationid="Luan" creationdate="20240616T191354Z">
+        <seg>* Br/AparadaDesesperadaDeObjeto: Sonny arremessa o frasco de nanitos para Spooner, permitindo que o detetive [[spoiler: desative a VIKI]] enquanto o robô salva Calvin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5879,6 +5879,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* EverythingIsOnline: Literally as soon as [[spoiler: [[BigBad VIKI]] dies, all the lights come back on and all the robots revert to nice again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T213541Z" creationid="Luan" creationdate="20240621T213541Z">
+        <seg>* Br/TudoEstaOnline: Literalmente no momento em que [[spoiler: [[Br/GrandeMal VIKI]] morre, todas as luzes reacendem e todos os robôs voltam a ser gentis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* EvilCannotComprehendGood: The villain is unable to understand why the heroes do what they do or assumes that there are evil reasons for their good deeds.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T205306Z" creationid="Luan" creationdate="20240313T205306Z">
@@ -6023,6 +6031,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T144631Z" creationid="Luan" creationdate="20231208T144631Z">
         <seg>* Br/FalharEAUnicaOpcao: Se o sucesso do personagem implicar em uma alteração drástica no status quo da série ou do próprio personagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* FakeArmDisarm: An NS-5 bashes at [[spoiler: Spooner]]'s arm with a pipe, only to discover it's an artificial limb when the fake skin breaks off while the arm withstands the assault.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T213800Z" creationid="Luan" creationdate="20240621T213800Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -18044,6 +18060,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* {{Fanservice}}:
+** Spooner's ShowerScene.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T214004Z" creationid="Luan" creationdate="20240621T213953Z">
+        <seg>* Br/{{Fanservice}}:
+** A Br/CenaDoChuveiro de Spooner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* {{Foreshadowing}}:
 ** The opening scenes aren't just for {{Fanservice}} seeing Will Smith in his underwear and in the shower.</seg>
       </tuv>
@@ -18463,6 +18489,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T203835Z" creationid="Luan" creationdate="20231206T203835Z">
         <seg>** Alternativamente, a pessoa pode sofrer o golpe mas o substituto, de algum modo, recebe todo o dano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** And let's not forget Calvin's own ShowerScene later on, although there's plenty of CensorSteam surrounding her.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T214053Z" creationid="Luan" creationdate="20240621T214053Z">
+        <seg>** E a própria Br/CenaDoChuveiro de Calvin, mas para ela há muito Br/VaporDeCensura disponível.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19706,6 +19740,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240619T215041Z" creationid="Luan" creationdate="20240619T215041Z">
         <seg>---&gt;'''Spooner:''' Eu não posso ser tão azarado assim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>--&gt; '''Det.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T213802Z" creationid="Luan" creationdate="20240621T213802Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -31535,6 +31577,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Spooner:''' Yeah.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T213806Z" creationid="Luan" creationdate="20240621T213806Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sports games?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T152811Z" creationid="Luan" creationdate="20231210T152811Z">
@@ -38440,11 +38490,11 @@ E ele tem que estar disposto a lutar!</seg>
 * ElectronicSpeechImpediment: [[spoiler: VIKI as her brain is eaten by nanites.]]
 * EmergencyWeapon: When [[spoiler: Sonny knocks his main sidearm out of his hand in USR Headquarters, Spooner draws a smaller backup pistol from an ankle holster he uses to shoot the NS-5 as it escapes]].</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T213238Z" creationid="Luan" creationdate="20240621T213238Z">
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T213330Z" creationid="Luan" creationdate="20240621T213238Z">
         <seg>[[spoiler: A figura no sonho, depois se descobre, é ''ele mesmo''.]]
 * Br/PercepcaoVisualDeAguia: Spooner usa isso na cena do suposto suicídio de Dr. Lanning para refutar a hipótese de suicídio e fortalecer a hipótese de assassinato; Lanning supostamente se jogou de uma janela, mas quando Spooner tenta quebrá-la com uma cadeira, ele é impedido pela malha de segurança [[spoiler: apesar de ter um braço prostético capaz de quebrar concreto.]] Depois se descobre que foi [[spoiler: suicídio ''assistido'' por Sonny, especificamente pensado para ''parecer'' com assassinato, como parte de um Br/GambitoDeThanatos.]]
 * Br/DisturbioEletronicoDeFala: [[spoiler: VIKI enquanto seu cérebro é destruído por nanitos.]]
-* Br/ArmaDeEmergencia: Quando [[spoiler: Sonny desarma Spooner no prédio da USR, </seg>
+* Br/ArmaDeEmergencia: Quando [[spoiler: Sonny desarma Spooner no prédio da USR, ele saca uma pistola reserva de um coldre no tornozelo, que ele então usa para atirar no NS-5 enquanto ele escapa]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -38751,6 +38801,14 @@ Categorias:
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240619T183158Z" creationid="Luan" creationdate="20240619T183158Z">
         <seg>[[Br/TropoInvertido Invertido]] para Spooner, que dirige manualmente como reflexo de seu estigma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Justified|Trope}} as they were being controlled by her remote signal.]] Also, apparently the internet led to libraries being rendered completely obsolete and shut down.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T213630Z" creationid="Luan" creationdate="20240621T213630Z">
+        <seg>[[Br/TropoJustificado Justificado]], pois eles estavam sendo controlados pelo sinal remoto]]. E aparentemente a internet fez com que as bibliotecas fechassem por terem se tornado obsoletas.</seg>
       </tuv>
     </tu>
     <tu>

@@ -855,6 +855,15 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>''(Pan out to show hundreds of robots climbing the building)''
+* CatScare: Spooner is spooked by Lanning's cat while investigating Lanning's house.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T210607Z" creationid="Luan" creationdate="20240621T210607Z">
+        <seg>''(O enquadramento passa a mostrar centenas de robôs escalando o prédio)''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>''(beat, then calls out)'' VIKI.]]
 * WhamShot: Spooner is revealed to [[spoiler: have a cybernetic arm during his battle with the robot in the highway tunnel.]]
 * WhatHappenedToTheMouse: Subverted.</seg>
@@ -3864,6 +3873,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240117T144747Z" creationid="Luan" creationdate="20240117T144747Z">
         <seg>* Br/FuturismoCassete: O começo da era digital que surgiu na segunda metade dos anos 1970, mas extrapolado para o futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CasualDangerDialogue:
+--&gt;'''Spooner''': How long is that gonna take?\\
+'''Calvin''': About six minutes.\\
+'''Spooner''': What if we didn't have six minutes?\\
+'''Calvin''': We'd have to find a way to climb down thirty stories and inject the nanites directly into her brain.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T210448Z" creationid="Luan" creationdate="20240621T210448Z">
+        <seg>* Br/ConversaCasualEmMeioAoPerigo:
+--&gt;'''Spooner:''' Quanto tempo ainda vai levar?\\
+'''Calvin:''' Uns seis minutos.\\
+'''Spooner:''' E se não tivermos seis minutos?\\
+'''Calvin:''' Então vamos ter que descer trinta andares para injetar os nanorrobôs direto no cérebro dela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18718,6 +18743,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** One PlayedForLaughs in the climax: Spooner temporarily races up ahead during the [[spoiler: robot takeover]] to rescue Farber.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T211035Z" creationid="Luan" creationdate="20240621T211035Z">
+        <seg>** Um que é Br/UsadoParaHumor no clímax: Spooner temporariamente toma a dianteira durante [[spoiler: a revolta dos robôs]] para resgatar Farber.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>** Or if the difficulty levels actually are fair, there may be an optional difficulty level that [[HarderThanHard makes Easy, Normal, and even Hard look like child's play]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231101T222259Z" creationid="Luan" creationdate="20231101T222259Z">
@@ -18876,6 +18909,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240314T172517Z" creationid="Luan" creationdate="20240314T172517Z">
         <seg>** Br/SimpatiaPeloHeroi: Um personagem que é maléfico/moralmente cinza ou Br/ObservadorInocente sente e expressa um momento de simpatia e pela pelo [[Br/OHeroi herói]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** The [[spoiler: sensor feeds]] run through the entire building.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T210718Z" creationid="Luan" creationdate="20240621T210654Z">
+        <seg>** As [[spoiler: fitas com sensores]] passam por todo o prédio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23704,6 +23745,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T151638Z" creationid="Luan" creationdate="20231208T151638Z">
         <seg>Tudo ainda está indo de acordo com o plano!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Everywhere ''except'' the service areas.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T210728Z" creationid="Luan" creationdate="20240621T210728Z">
+        <seg>Todo ele, ''exceto'' as áreas de serviço.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36706,6 +36755,16 @@ Esse incidente é retratado como o principal motivo pelo qual Spooner não gosta
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231212T005922Z" creationid="Luan" creationdate="20231028T161649Z">
         <seg>Por que a atmosfera está tão pesada com melancolia?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why?\\
+'''Spooner''': Because I seriously doubt we have six minutes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T210543Z" creationid="Luan" creationdate="20240621T210543Z">
+        <seg>Por quê?\\
+'''Spooner:''' Por que será que eu tenho tanta certeza de que não teremos seis minutos...</seg>
       </tuv>
     </tu>
     <tu>

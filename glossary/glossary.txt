@@ -4172,3 +4172,5 @@ EmergencyWeapon	Br/ArmaDeEmergencia
 ElectronicSpeechImpediment	Br/DisturbioEletronicoDeFala
 EverythingIsOnline	Br/TudoEstaOnline
 CensorSteam	Br/VaporDeCensura
+FauxShadow	Br/PrenuncioFalso
+FiveSecondForeshadowing	Br/PrenuncioDeCincoSegundos

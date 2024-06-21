@@ -4170,3 +4170,5 @@ DeadlyDodging	Br/EsquivaFatal
 EagleEyeDetection	Br/PercepcaoVisualDeAguia
 EmergencyWeapon	Br/ArmaDeEmergencia
 ElectronicSpeechImpediment	Br/DisturbioEletronicoDeFala
+EverythingIsOnline	Br/TudoEstaOnline
+CensorSteam	Br/VaporDeCensura

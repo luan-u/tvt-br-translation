@@ -6213,6 +6213,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* FauxShadow: Despite what one might infer from the scene transcribed below, [[spoiler: Robertson had nothing to do with Alfred Lanning's death]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T214226Z" creationid="Luan" creationdate="20240621T214226Z">
+        <seg>* Br/PrenuncioFalso: Apesar do que se possa inferir da cena transcrita abaixo, [[spoiler: Robertson não teve nada a ver com a morte de Alfred Lanning]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* FelonyMisdemeanor: Treating a relatively harmless misdeed as if it were a serious crime.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T140640Z" creationid="Luan" creationdate="20240104T140640Z">
@@ -19760,6 +19768,18 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>--&gt; '''Spooner:''' ''[while watching a video of Lanning's speeches]'' He's trying to tell me who killed him.\\
+''[cut to picture of [[spoiler: Robertson]]]''
+* FiveSecondForeshadowing: Lanning telling Spooner "I'm sorry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T214624Z" creationid="Luan" creationdate="20240621T214624Z">
+        <seg>--&gt; '''Spooner:''' ''[enquanto assiste a um vídeo de um discurso de Lanning]'' Ele tá tentando me dizer alguma coisa, John. Tá tentando me dizer quem o matou.\\
+''[corta para uma imagem de [[spoiler: Robertson]]]''
+* Br/PrenuncioDeCincoSegundos: Lanning dizendo a Spooner "Sinto muito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>--&gt; '''Spooner:''' She wanted to be a dentist.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240619T195313Z" creationid="Luan" creationdate="20240619T195108Z">
@@ -28543,6 +28563,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>My responses are limited.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T214629Z" creationid="Luan" creationdate="20240621T214629Z">
+        <seg>Minhas respostas são limitadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Narrative beats are not the same as {{Beat}}s and {{Beat Panel}}s, which are presentation techniques of pausing the dialogue/action to let something important sink in with the audience (although that "something" is often an underlying narrative beat).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240229T134226Z" creationid="Luan" creationdate="20240229T134226Z">
@@ -33049,6 +33077,14 @@ Esse incidente é retratado como o principal motivo pelo qual Spooner não gosta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The second time he says it, the camera pans around to reveal it's just a hologram.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T214706Z" creationid="Luan" creationdate="20240621T214706Z">
+        <seg>Na segunda vez que ele diz isso, a câmera gira para revelar que é um holograma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The sergeants, drawn from the lower classes and so the majority, wore black habits and served as infantrymen or servants.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T030851Z" creationid="Luan" creationdate="20231221T030851Z">
@@ -37023,6 +37059,14 @@ Esse incidente é retratado como o principal motivo pelo qual Spooner não gosta
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T133033Z" creationid="Luan" creationdate="20240318T133033Z">
         <seg>É possível que você esteja procurando o programa de televisão de 2006, ''BrSerie/{{Heroes}}'', o romance ''BrLiteratura/{{Heroes}}'' por BrCriador/RobertCormier, ou o álbum ''[[BrMusica/HeroesDeDavidBowie "Heroes"]]'' por BrMusica/DavidBowie em 1977.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You must ask the right questions" is a pretty big clue that he's not the real deal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20240621T214651Z" creationid="Luan" creationdate="20240621T214651Z">
+        <seg>Deve fazer as perguntas certas" é uma grande pista de que ele não é Lanning de verdade.</seg>
       </tuv>
     </tu>
     <tu>

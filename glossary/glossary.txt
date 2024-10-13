@@ -4806,3 +4806,4 @@ RobotMe	Br/RoboEu
 MindControl	Br/ControleMental
 SecondLawOfMetafictionalThermodynamics	Br/SegundaLeiDaTermodinamicaMetaficcional
 TimeSkip	Br/SaltoTemporal
+FirstLawOfResurrection	Br/PrimeiraLeiDaRessurreicao

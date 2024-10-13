@@ -8576,6 +8576,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* Excessive tweaks to the continuity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241013T220754Z" creationid="Luan" creationdate="20241013T220754Z">
+        <seg>* Ajustes excessivos na continuidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ExcitedKidsShowHost: A kids' show host who does his best to be as honest and good-natured as the character he plays on television, unlike [[DepravedKidsShowHost their counterpart]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T011023Z" creationid="Luan" creationdate="20240320T135323Z">
@@ -19353,6 +19361,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T151003Z" creationid="Luan" creationdate="20231208T151003Z">
         <seg>* Br/FormulaEstrita: Quando uma série raramente (ou nunca) desvia de uma fórmula padrão de trama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* StrongAsTheyNeedToBe and over-reliance on PlotArmor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241013T220532Z" creationid="Luan" creationdate="20241013T220532Z">
+        <seg>* Br/TaoForteQuantoNecessario e excesso de uso da Br/ArmaduraDeTrama.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35499,6 +35515,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Even if the character didn't actually die, it risks lessening the impact of a character ''actually'' dying.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241013T220201Z" creationid="Luan" creationdate="20241013T220201Z">
+        <seg>Mesmo que o personagem não tenha morrido de fato, isso arrisca diminuir o impacto de um personagem que morreu ''de fato''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Even if they eschew ThemeNaming and other NamingConventions they'll still use names they think are cool and dignified, powerful and appropriate, or sinister and fearsome.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240613T193232Z" creationid="Luan" creationdate="20240613T193232Z">
@@ -38791,6 +38815,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the author relies too heavily on {{Contrived Coincidence}}s, {{Deus Ex Machina}}s, {{Eleventh Hour Superpower}}s, {{Story Breaker Power}}s, {{Ass Pull}}s, or NewPowersAsThePlotDemands to get the heroes out of danger, the audience will eventually stop caring about whatever threat the heroes are facing, and likely won't even care ''the next time'' said heroes' lives are threatened, either.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241013T220746Z" creationid="Luan" creationdate="20241013T220746Z">
+        <seg>Se o autor usa em excesso a Br/CoincidenciaConveniente, Br/DeusExMachina, Br/SuperpoderDeUltimaHora, Br/SolucaoTiradaDaBunda ou Br/NovosPoderesConformeATramaExige para tirar os heróis do perigo, o público eventualmente vai deixar de se importar com as ameaças que os heróis estão encarando e provavelmente não vão ligar ''na próxima vez'' em que a vida dos ditos heróis for ameaçada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the author relies too heavily on {{Retcon}}s, [[AlternateTimeline Alternate Timelines]], TheMultiverse, and {{Continuity Reboot}}s, viewers are eventually going to stop caring about what happens there.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241013T221756Z" creationid="Luan" creationdate="20241013T221756Z">
+        <seg>Se o autor usar com muita frequência a Br/ContinuidadeRetroativa, a Br/LinhaDoTempoAlternativa, Br/OMultiverso e o Br/ReinicioDeContinuidade, os espectadores eventualmente vão parar de ligar para os eventos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character [[IronWoobie doesn't let bad events faze him,]] he is not the Woobie.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240228T142026Z" creationid="Luan" creationdate="20240228T142026Z">
@@ -41692,6 +41732,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T204314Z" creationid="Luan" creationdate="20231210T204314Z">
         <seg>É particularmente agudo quando o Br/CasalOficial (ou o Br/CasalBeta) está constantemente rompendo e reatando, ao ponto de irritar não somente o público como os outros personagens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's particularly bad if the entity who 'died' is revealed to have been an ExpendableClone, ActuallyADoombot, or if their odds of surviving the fake-out death [[NoOneCouldSurviveThat seemed highly improbable or impossible]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241013T220521Z" creationid="Luan" creationdate="20241013T220521Z">
+        <seg>É particularmente ruim se a entidade que "morreu" na verdade era um Br/CloneDescartavel, uma máquina ou se as chances de sobreviverem à morte forjada [[Br/NinguemPoderiaSobreviverAIsso eram muito improváveis ou impossíveis]].</seg>
       </tuv>
     </tu>
     <tu>

@@ -30109,6 +30109,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A few things that may cause viewers to stop taking your story at face-value:
+* Bringing characters BackFromTheDead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241013T215654Z" creationid="Luan" creationdate="20241013T215654Z">
+        <seg>Algumas coisas que podem fazer espectadores deixarem de levar a história a sérios são:
+* Trazer personagens Br/DeVoltaDosMortos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A former top football quarterback could become a TV sports announcer, but a character working a SoulSuckingRetailJob at a clothes store for ten seasons isn't suddenly going to become a fashion executive in Paris in season 11.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T193129Z" creationid="Luan" creationdate="20231210T193129Z">
@@ -31876,6 +31886,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240824T204608Z" creationid="Luan" creationdate="20240824T204608Z">
         <seg>Depois o ator morreu de câncer no pulmão (o que é ressaltado em um episódio posterior quando Chiquinha, após ver o Chaves receber cuidados especiais, observa que ela também é orfã.)
 ** Em menor grau, Gloria e Paty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And then, the next time a character's life is threatened, the audience ''won't even care'', because [[DeathIsCheap they now know that death can be undone]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241013T215221Z" creationid="Luan" creationdate="20241013T215221Z">
+        <seg>E então, da próxima vez que a vida de um personagem for ameaçada, o público ''não vai se importar'' porque [[Br/MorrerEBarato eles agora sabem que a morte pode ser desfeita]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -35457,6 +35475,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Even if it comes at the expense of the story's integrity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241013T215815Z" creationid="Luan" creationdate="20241013T215815Z">
+        <seg>Mesmo que isso ocorra ao custo da integridade da história.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Even if it doesn't look like a 9mm, he should employ the same basic safety practices as with a real gun, especially knowing it's a sidearm.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240827T232853Z" creationid="Luan" creationdate="20240827T232853Z">
@@ -36709,6 +36735,16 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240620T173712Z" creationid="Luan" creationdate="20240620T173712Z">
         <seg>Além do mais, ele tem êxito em obter uma ordem sigilosa contra a polícia de Chicago que impede que eles sequer mencionem a possibilidade de um robô cometer assassinato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Furthermore, if the author makes a given death permanent after already using some manner of resurrection previously, it may cause viewers to become disconnected from the characters, who chose to bring back Character A but didn't bother with Character B.
+* A FauxDeath or DisneyDeath.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241013T220130Z" creationid="Luan" creationdate="20241013T220130Z">
+        <seg>Além do mais, se o autor faz com que certa morte seja permanente após já ter usado algum truque de ressurreição, isso pode fazer com que o público se desconecte dos personagens, que escolheram trazer de volta o Personagem A mas não se incomodaram com o Personagem B.
+* Uma Br/MorteFalsa ou Br/MorteEstiloDisney.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43830,6 +43866,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T170834Z" creationid="Luan" creationdate="20231210T170834Z">
         <seg>Notavelmente, foi apenas após o término de ''Dias Felizes'' que as pessoas perceberam qual foi o ponto de virada; é difícil identificar esse tipo de salto em tempo real.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Notably, poor use of the CloningGambit (wherein it is [[AssPull abruptly revealed]] that a character had cloned themselves before death) is an especially egregious means of achieving this.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241013T215931Z" creationid="Luan" creationdate="20241013T215931Z">
+        <seg>Notavelmente, o uso ruim do Br/GambitoDoClone (onde é [[Br/SolucaoTiradaDaBunda abruptamente revelado]] que um personagem clonou a si mesmo antes da morte) é um jeito particularmente flagrante de alcançar isso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51006,6 +51050,14 @@ Esse incidente é retratado como o principal motivo pelo qual Spooner não gosta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There's a sort of unspoken assumption that the moment you start [[BackFromTheDead resurrecting the dead]], [[TimeTravel travelling through time]], or exploring {{alternate universe}}s, then '''nothing which happens in your story ''matters'' anymore''' and so the work [[JumpingTheShark can only go downhill from there]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241013T215630Z" creationid="Luan" creationdate="20241013T215630Z">
+        <seg>Existe uma hipótese não-dita de que a partir do momento em que você começa a [[Br/DeVoltaDosMortos ressuscitar os mortos]], [[Br/ViagemNoTempo viajar pelo tempo]] ou explorar um Br/UniversoAlternativo, então '''nada mais importa''' na sua história, então a obra vai [[Br/PularOTubarao descer ladeira abaixo]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There's also Roy getting an accidental shovel to the face.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240728T222527Z" creationid="Luan" creationdate="20240728T222527Z">
@@ -54146,6 +54198,14 @@ Eles rapidamente largam os livros no chão com desgosto.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Viewers are aware of the FirstLawOfResurrection: if the author is already willing to bring ''one'' beloved character back from the dead, then ''more'' dead characters ''will'' also come back later, in some way.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241013T215803Z" creationid="Luan" creationdate="20241013T215803Z">
+        <seg>Os espectadores sabem que a Br/PrimeiraLeiDaRessurreicao existe: se o autor está disposto a trazer ''um'' personagem amado de volta dos mortos, então ''mais'' personagens mortos ''vão'' voltar posteriormente, de algum modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Villains are welcome if they behave.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240118T143642Z" creationid="Luan" creationdate="20240118T143642Z">
@@ -54528,6 +54588,14 @@ Eles rapidamente largam os livros no chão com desgosto.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240823T204425Z" creationid="Luan" creationdate="20240823T204425Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What happens next is that viewers become skeptical of all the plot devices that merely '''can''' be exploited in this manner even the ''first'' time they're introduced; especially if the franchise had already gone a fair length of time without them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241013T215333Z" creationid="Luan" creationdate="20241013T215333Z">
+        <seg>O que acontece em seguida é que os espectadores se tornam céticos quanto aos artifícios de trama que '''podem''' ser explorados dessa maneira mesmo na ''primeira'' vez em que eles são apresentados, ainda mais se a franquia conseguiu avançar por muito tempo sem o uso deles.</seg>
       </tuv>
     </tu>
     <tu>

@@ -4802,3 +4802,5 @@ DialogueReversal	Br/InversaoDeDialogo
 PassingTheTorch	Br/PassandoATocha
 SignificantNameShift	Br/AlteracaoDeNomeSignificativa
 DidYouJustFlipOffCthulhu	Br/VoceAcabouDeInsultarCthulhu
+RobotMe	Br/RoboEu
+MindControl	Br/ControleMental

@@ -148,6 +148,7 @@ AlternateContinuity	Br/ContinuidadeAlternativa
 AlternateHistoryTropes	Br/TroposDeHistoriaAlternativa
 AlternateTimeline	Br/LinhaDoTempoAlternativa
 AlternateUniverse	Br/UniversoAlternativo
+ExpendableAlternateUniverse	Br/UniversoAlternativoDescartavel
 AlternateUniverseReedRichardsIsAwesome	Br/ReedRichardsDoUniversoAlternativoEIncrivel
 AlternateWorldMap	Br/MapaMundiAlternativo
 AlternativeCalendar	Br/CalendarioAlternativo
@@ -4808,3 +4809,4 @@ SecondLawOfMetafictionalThermodynamics	Br/SegundaLeiDaTermodinamicaMetaficcional
 TimeSkip	Br/SaltoTemporal
 FirstLawOfResurrection	Br/PrimeiraLeiDaRessurreicao
 NoOneCouldSurviveThat	Br/NinguemPoderiaSobreviverAIsso
+UniquenessDecay	Br/DecaimentoDaSingularidade

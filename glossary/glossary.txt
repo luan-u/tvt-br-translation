@@ -621,7 +621,6 @@ ChekhovsGag	Br/PiadaDeChekhov
 ChekhovsGun	Br/ArmaDeChekhov
 ChekhovsSkill	Br/HabilidadeDeChekhov
 ChemicallyInducedInsanity	Br/InsanidadeQuimicamenteInduzida
-ChewToy	Br/BrinquedoDeMorder
 ChewingTheScenery	Br/MastigandoOCenario
 ChezRestaurant	Br/ChezRestaurant
 Chickification	Br/{{Donzelificacao}}
@@ -1891,7 +1890,7 @@ InUniverse	Br/InUniverso
 InYourNatureToDestroyYourselves	Br/EDaSuaNaturezaSeAutodestruir
 IncitingIncident	Br/IncidenteIncitador
 IncompetenceInc	Br/IncompetenciaLtda
-IncorruptiblePurePureness	Br/PurezaPuraIncorruptivel
+TheIncorruptible	Br/OIncorruptivel
 IndexOfHospitality	Br/IndiceDeHospitalidade
 IndexToTheRescue	Br/IndiceAoResgate
 IndexWithAHeartOfGold	Br/IndiceComUmCoracaoDeOuro
@@ -2707,8 +2706,9 @@ OnlyShopInTown	Br/UnicaLojaNaCidade
 OnlyTheChosenMayWield	Br/ApenasOEscolhidoPodeEmpunhar
 OnlyTheLeadsGetAHappyEnding	Br/SoOsProtagonistasRecebemOFinalFeliz
 OnlyThePureOfHeart	Br/SomenteOsPurosDeCoracao
-OpeningACanOfClones	Br/AbrindoUmaLataDeClones
-OpeningACanOfClones	Br/AbrirUmaLataDeClones
+NoPermanenceNoStakes	Br/SemPermanenciaSemRiscos
+NoPermanenceNoStakes	Br/AbrindoUmaLataDeClones
+NoPermanenceNoStakes	Br/AbrirUmaLataDeClones
 OpeningNarration	Br/NarracaoDeAbertura
 OpinionFlipFlop	Br/MariaVaiComAsOutras
 OpiumDen	Br/AntroDoOpio
@@ -3688,7 +3688,6 @@ TheCavalryArrivesLate	Br/ACavalariaChegaTarde
 TheCharacterDiedWithHim	Br/OPersonagemMorreuComEle
 TheCharmer	Br/OEncantador
 TheChessmaster	Br/OMestreEnxadrista
-TheChewToy	Br/BrinquedoDeMorder
 TheChooserOfTheOne	Br/OEscolhedor
 TheChosenMany	Br/OsMuitosEscolhidos
 TheChosenOne	Br/OEscolhido

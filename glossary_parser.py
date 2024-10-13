@@ -28,6 +28,11 @@ def generate_tropes_file(trope_groups: dict):
     'Gera uma página com a correspondência de itens e na sintaxe wiki do TV Tropes.'
 
     outtext = '''%%This page has a list of English-Portuguese trope matches.
+%%This page is generated from a glossary file.
+%%
+%%Redundant wicks here probably exist to handle alternate spellings and redirects.
+%%Someday™ I will optimize the code to deal with them; until then, please don't remove the redundant wicks.
+
 Nesta página listaremos as correspondências propostas ou já utilizadas \
 entre tropos originais (em inglês) e tropos em português (já traduzidos ou não).
 

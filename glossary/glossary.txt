@@ -4811,3 +4811,5 @@ FirstLawOfResurrection	Br/PrimeiraLeiDaRessurreicao
 NoOneCouldSurviveThat	Br/NinguemPoderiaSobreviverAIsso
 UniquenessDecay	Br/DecaimentoDaSingularidade
 SlidingScaleOfFreeWillvsFate	Br/EscalaMovelDeLivreArbitrioVersusDestino
+Hallucinations	Br/{{Alucinacoes}}
+DelusionConclusion	Br/ConclusaoDelirante

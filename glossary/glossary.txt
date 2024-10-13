@@ -4818,3 +4818,4 @@ ComicBook/TheCloneSaga	BrQuadrinhos/SagaDoClone
 Film/AlienResurrection	BrFilme/AlienARessurreicao
 Film/The6thDay	BrFilme/OSextoDia
 Series/TheXFiles	BrSerie/ArquivoX
+TimeTravelTenseTrouble	Br/ConjugacaoVerbalEmViagensNoTempo

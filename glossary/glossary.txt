@@ -4810,3 +4810,4 @@ TimeSkip	Br/SaltoTemporal
 FirstLawOfResurrection	Br/PrimeiraLeiDaRessurreicao
 NoOneCouldSurviveThat	Br/NinguemPoderiaSobreviverAIsso
 UniquenessDecay	Br/DecaimentoDaSingularidade
+SlidingScaleOfFreeWillvsFate	Br/EscalaMovelDeLivreArbitrioVersusDestino

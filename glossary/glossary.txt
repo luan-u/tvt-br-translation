@@ -4813,3 +4813,8 @@ UniquenessDecay	Br/DecaimentoDaSingularidade
 SlidingScaleOfFreeWillvsFate	Br/EscalaMovelDeLivreArbitrioVersusDestino
 Hallucinations	Br/{{Alucinacoes}}
 DelusionConclusion	Br/ConclusaoDelirante
+ComicBook/TheDeathOfSuperman	BrQuadrinhos/AMorteDoSuperman
+ComicBook/TheCloneSaga	BrQuadrinhos/SagaDoClone
+Film/AlienResurrection	BrFilme/AlienARessurreicao
+Film/The6thDay	BrFilme/OSextoDia
+Series/TheXFiles	BrSerie/ArquivoX

@@ -37652,6 +37652,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>He is a polarizing figure in the video game community.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T191614Z" creationid="Luan" creationdate="20241014T191614Z">
+        <seg>Ele é uma figura polarizante na comunidade de videogames.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>He is a thief himself.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240823T205202Z" creationid="Luan" creationdate="20240823T205202Z">
@@ -54412,6 +54420,22 @@ Eles rapidamente largam os livros no chão com desgosto.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To others, Woolsey was a hard-pressed but nonetheless creative artisan who was the primary reason that these games weren't rendered incomprehensible to Westerners, [[BlindIdiotTranslation translated literally with little regard for accuracy or comprehensibility]], [[DubInducedPlotlineChange completely remolded to suit the audience]], or [[{{Macekre}} worse]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T192426Z" creationid="Luan" creationdate="20241014T192426Z">
+        <seg>Para outros, Woolsey era um artesão difícil de lidar, porém criativo, e que foi o principal motivo pelo qual esses jogos não foram tornados incompreensíveis para o público ocidental, [[Br/TraducaoDeIdiotaCego traduzidos de maneira literal com pouca consideração pela acurácia ou compreensibilidade]], [[Br/MudancaDeTramaInduzidaPorDublagem completamente remoldados para se adequar ao público alvo]] ou [[Br/{{Macekre}} pior]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To some, Woolsey was an iron-fisted dictator who was convinced that [[ViewersAreMorons American gamers were morons]], and couldn't accept a culture besides their own.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T191706Z" creationid="Luan" creationdate="20241014T191706Z">
+        <seg>Para alguns, Woolsey era um ditador com punho de ferro, convencido de que os [[Br/EspectadoresSaoIdiotas ''gamers'' americanos eram idiotas]] e que não poderiam aceitar uma cultura que não a própria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To this end, they fake [[ObfuscatingStupidity stupidity]] or [[ObfuscatingInsanity insanity]] so that they can avoid being assassinated while still being able to manipulate events as they please.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231213T201355Z" creationid="Luan" creationdate="20231213T201355Z">
@@ -58093,6 +58117,14 @@ Numerous tropes and [[YMMV.HomePage YMMVs]] have grown large enough that they ha
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240818T141439Z" creationid="Luan" creationdate="20240818T141439Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[https://en.wikipedia.org/wiki/Ted_Woolsey Ted Woolsey]] was the primary translator for most of [[Creator/SquareEnix Squaresoft]]'s Platform/SuperNintendoEntertainmentSystem-era {{RPG}}s from 1991–96.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T191600Z" creationid="Luan" creationdate="20241014T191408Z">
+        <seg>[[https://en.wikipedia.org/wiki/Ted_Woolsey Ted Woolsey]] foi o principal tradutor dos [=RPGs=] da [[BrCriador/SquareEnix Squaresoft]] lançados para o Super Nintendo nos anos de 1991 a 1996.</seg>
       </tuv>
     </tu>
     <tu>

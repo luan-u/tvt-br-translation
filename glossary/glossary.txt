@@ -4809,7 +4809,6 @@ SecondLawOfMetafictionalThermodynamics	Br/SegundaLeiDaTermodinamicaMetaficcional
 TimeSkip	Br/SaltoTemporal
 FirstLawOfResurrection	Br/PrimeiraLeiDaRessurreicao
 NoOneCouldSurviveThat	Br/NinguemPoderiaSobreviverAIsso
-UniquenessDecay	Br/DecaimentoDaSingularidade
 SlidingScaleOfFreeWillvsFate	Br/EscalaMovelDeLivreArbitrioVersusDestino
 Hallucinations	Br/{{Alucinacoes}}
 DelusionConclusion	Br/ConclusaoDelirante
@@ -4820,3 +4819,4 @@ Film/The6thDay	BrFilme/OSextoDia
 Series/TheXFiles	BrSerie/ArquivoX
 TimeTravelTenseTrouble	Br/ConjugacaoVerbalEmViagensNoTempo
 PlotTwist	Br/{{Reviravolta}}
+UniquenessDecay	Br/DecaimentoDaIndividualidade

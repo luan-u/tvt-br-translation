@@ -4850,3 +4850,10 @@ StyrofoamRocks	Br/RochasDeIsopor
 InCaseOfXBreakGlass	Br/EmCasoDeXQuebreOVidro
 SpecialEffects	Br/EfeitosEspeciais
 GenericCopBadges	Br/DistintivosGenericosDePolicial
+NotSoFakePropWeapon	Br/ArmaAderecoNaoTaoFalsa
+PlanningWithProps	Br/PlanejamentoComAderecos
+PropRecycling	Br/ReciclagemDeAderecos
+TheRedStapler	Br/OGrampeadorVermelho
+WhenPropsAttack	Br/QuandoAderecosAtacam
+SchematizedProp	Br/AderecoEsquematizado
+CameoProp	Br/AparicaoEspecialDeAdereco

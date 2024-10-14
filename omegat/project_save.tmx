@@ -24778,6 +24778,22 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* {{Muppet}}
+* OffTheShelfFX
+* PracticalEffects
+* SpecialEffectFailure
+* SpecialEffects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T155157Z" creationid="Luan" creationdate="20241014T155157Z">
+        <seg>* Br/{{Fantoche}}
+* Br/EfeitosEspeciaisProntos
+* Br/EfeitosPraticos
+* Br/EfeitosEspeciais
+* Br/DefeitosEspeciais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* {{Nanomachines}}: Essentially the guillotine for [=AI=]s.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240619T185918Z" creationid="Luan" creationdate="20240619T185918Z">

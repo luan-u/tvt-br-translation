@@ -27551,8 +27551,11 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>----</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20240818T032740Z" creationid="Luan" creationdate="20231212T224059Z">
-        <seg>----</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241013T235921Z" creationid="Luan" creationdate="20231212T224059Z">
+        <seg>----
+!!Exemplos:
+Br/ExemplosEmFalta.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -32385,6 +32388,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T130709Z" creationid="Luan" creationdate="20240105T130709Z">
         <seg>Como dizem, às vezes não é o destino, mas sim a jornada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As we're talking about {{Plot Twist}}s, '''{{spoiler}}s ahoy!'''</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241013T235903Z" creationid="Luan" creationdate="20241013T235903Z">
+        <seg>Como estamos falando sobre Br/{{Reviravolta}}s, '''Br/{{spoiler}}s adiante!'''</seg>
       </tuv>
     </tu>
     <tu>
@@ -45962,6 +45973,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rather, this trope is when the introduction of clones (or any other gimmick listed above) ends up undermining the story's dramatic weight and tension because the characters (and thus, the author) can just change things later with few-no repercussions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241013T235453Z" creationid="Luan" creationdate="20241013T235453Z">
+        <seg>Ao invés, este tropo é sobre quando a introdução de clones (ou outro artifício listado acima) prejudica o peso dramático e tensão da história porque os personagens (e, por extensão, o autor) podem simplesmente alterar as coisas com poucas repercussões (ou nenhuma).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rebelling against the ''other'' authority!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240417T224349Z" creationid="Luan" creationdate="20240417T224349Z">
@@ -53672,6 +53691,14 @@ Eles rapidamente largam os livros no chão com desgosto.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240327T192644Z" creationid="Luan" creationdate="20240327T192644Z">
         <seg>Por isso, enquanto a maioria dos espetáculos segue com a encenação, atualmente é aceitável revelar ao público algumas partes que são encenadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, while this trope used to be associated with cloning, it's not specifically about clones being added to a story and so making things more complicated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241013T235303Z" creationid="Luan" creationdate="20241013T235303Z">
+        <seg>Portanto, ainda que este tropo seja muito associado a clonagem, ele não se trata especificamente de clones adicionados à história e tornando as coisas mais complicadas no processo.</seg>
       </tuv>
     </tu>
     <tu>

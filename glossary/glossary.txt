@@ -4831,3 +4831,11 @@ ThrowTheDogABone	Br/JogarUmOssoParaOCachorro
 Woobie	Br/{{Coitadinho}}
 WhoWillBellTheCat	Br/QuemVaiPendurarASinetaNoGato
 TheBait	Br/AIsca
+FatComicRelief	Br/GordoAlivioComico
+SpeakingUpForAnother	Br/ManifestarSePorOutro
+BumblingSidekick	Br/ParceiroDesajeitado
+TheUnfavourite	Br/ONaoFavorito
+GuiltByAssociationGag	Br/PiadaDeCulpaPorAssociacao
+MemeticLoser	Br/FracassadoMemetico
+NoRespectGuy	Br/CaraDesrespeitado
+KafkaKomedy	Br/KomediaKafka

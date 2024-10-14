@@ -3114,6 +3114,34 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AllPartOfTheShow
+* FilmFelons
+* {{Metafiction}}
+* RecycledSet
+* SchoolPlay
+* SetBehindTheScenes
+* {{Studiopolis}}
+* ShowWithinAShow
+** TwoForOneShow
+* WeWereRehearsingAPlay
+* YouJustRuinedTheShot</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T160015Z" creationid="Luan" creationdate="20241014T160015Z">
+        <seg>* Br/ETudoParteDoShow
+* Br/CriminososCenograficos
+* Br/{{Metaficcao}}
+* Br/CenarioReciclado
+* Br/PecaTeatralDeEscola
+* Br/AmbientadoPorTrasDasCenas
+* Br/{{Studiopolis}}
+* Br/ProgramaDentroDeUmPrograma
+* Br/DoisProgramasPeloPrecoDeUm
+* Br/EstavamosEnsaiandoPraUmaPeca
+* Br/VoceAcabouDeArruinarACena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AllergicToEvil
 * AndroclesLion: The hero aids an animal, which in turn aids him/her in his/her time of need.</seg>
       </tuv>
@@ -6866,6 +6894,72 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240125T150110Z" creationid="Luan" creationdate="20240125T150031Z">
         <seg>* Br/ProvincialismoDoCriador: Se o criador mora no local X, a ambientação da obra vai ser X.
 * Br/PoraoAssustador: É como um porão normal, mas com mais aranhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* CreatorSpeak
+* {{Defictionalization}}
+* DestroyTheProductPlacement
+* DisguiseTropes
+** MobileShrubbery
+** WigDressAccent
+* EndangeredSouffle
+* FurnitureTropes
+** TheCouch
+* TheGraphShowsTheTrend
+* HollywoodDensity
+* IconicItem
+* ImaginationBasedSuperpower
+* InformedAbility
+* LetThisIndexBeYourUmbrella
+* TheMerch
+* ModelPlanning
+* MundaneUtility
+* ParodyProductPlacement
+* PlankGag
+* PricelessMingVase
+* ProductDisplacement
+* ProductPlacement
+* ReplacedWithReplica
+* ScullyBox
+* ShoePhone
+* ShoddyKnockoffProduct
+* ShootTheMoney
+* {{Squib}}
+* ThisIsWhatTheBuildingWillLookLike</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T164044Z" creationid="Luan" creationdate="20241014T164044Z">
+        <seg>* Br/DialetoDeCriador
+* Br/{{Desficcionalizacao}}
+* Br/DestruirOPosicionamentoDeProduto
+* Br/TroposDeDisfarce
+** Br/AmoitamentoMovel
+** Br/PerucaRoupasSotaque
+* Br/SufleAmeacado
+* Br/TroposDeMobilia
+** Br/OSofa
+* Br/OGraficoMostraATendencia
+* Br/DensidadeHollywoodiana
+* Br/ItemIconico
+* Br/SuperpoderBaseadoEmImaginacao
+* Br/HabilidadeInformada
+* Br/QueEsteIndiceSejaSeuGuardaChuva
+* Br/ItensPromocionais
+* Br/PlanejamentoComModelos
+* Br/UtilidadeMundana
+* Br/PosicionamentoParodiadoDeProduto
+* Br/PiadaComTabua
+* Br/InestimavelVasoDaDinastiaMing
+* Br/DeslocamentoDeProduto
+* Br/PosicionamentoDeProduto
+* Br/SubstituidoPorUmaReplica
+* Br/CaixaDeScully
+* Br/TelefoneDeSapato
+* Br/ProdutoFalsificadoMediocre
+* Br/FilmarODinheiro
+* Br/{{Squib}}
+* Br/EAssimQueOPredioVaiSeParecer</seg>
       </tuv>
     </tu>
     <tu>
@@ -57000,6 +57094,16 @@ Contrast with {{Unishment}} (a punishment that isn't a punishment at all) and Re
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T143005Z" creationid="Luan" creationdate="20240104T143005Z">
         <seg>[[AC:Outros:]]
 Contrastar com ??? {{Unishment}} (uma punição que não é realmente uma punição) e Br/VingancaComedida (uma retribuição que é menos severa do que é pretendida ao invés de apenas perdoar a pessoa em questão).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[AC:Prop Settings]]
+Settings where props are used InUniverse.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T155933Z" creationid="Luan" creationdate="20241014T155933Z">
+        <seg>[[AC:Ambientações com adereços]]
+Ambientações onde adereços são usados Br/InUniverso.</seg>
       </tuv>
     </tu>
     <tu>

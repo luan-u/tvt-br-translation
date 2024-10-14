@@ -4897,3 +4897,4 @@ ModelPlanning	Br/PlanejamentoComModelos
 TheMerch	Br/ItensPromocionais
 ShootTheMoney	Br/FilmarODinheiro
 ShoddyKnockoffProduct	Br/ProdutoFalsificadoMediocre
+BlindIdiotTranslation	Br/TraducaoDeIdiotaCego

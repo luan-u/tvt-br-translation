@@ -4829,3 +4829,5 @@ UniquenessDecay	Br/DecaimentoDaSingularidade
 HerdHittingAttack	Br/AtaqueDizimadorDeHordas
 ThrowTheDogABone	Br/JogarUmOssoParaOCachorro
 Woobie	Br/{{Coitadinho}}
+WhoWillBellTheCat	Br/QuemVaiPendurarASinetaNoGato
+TheBait	Br/AIsca

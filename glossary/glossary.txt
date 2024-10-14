@@ -4839,3 +4839,4 @@ GuiltByAssociationGag	Br/PiadaDeCulpaPorAssociacao
 MemeticLoser	Br/FracassadoMemetico
 NoRespectGuy	Br/CaraDesrespeitado
 KafkaKomedy	Br/KomediaKafka
+KarmicButtMonkey	Br/CorinhoKarmico

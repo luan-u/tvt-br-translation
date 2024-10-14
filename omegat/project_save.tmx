@@ -1013,6 +1013,20 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>'''Please do not add examples to work pages, this merely [[Administrivia/DefinitionOnlyPages defines the term]].'''
+----
+!!Tropes:
+[[index]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T150058Z" creationid="Luan" creationdate="20241014T150058Z">
+        <seg>!!Sem exemplos, por favor; [[BrAdministrivia/PaginasSomenteDeDefinicao esta página apenas define o termo]].
+----
+!!Tropos:
+[[index]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>'''Please note that the trope deals only with traumatic experiences in childhood or adolescence.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231231T010257Z" creationid="Luan" creationdate="20231231T010257Z">
@@ -2111,6 +2125,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T194837Z" creationid="Luan" creationdate="20231206T194837Z">
         <seg>* ''[[Br/SuperResistencia Feito De Diamante]]'': o poder do Br/OImplacavel e do ??? TheJuggernaut, nada causa dano a este ser. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ''[[{{Settings}} The setting]]''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T145725Z" creationid="Luan" creationdate="20241014T145725Z">
+        <seg>* ''[[Br/{{Ambientacao}} A ambientação]]''.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30381,6 +30403,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A prop is not:
+* ''[[CostumeTropes A costume]]''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T145548Z" creationid="Luan" creationdate="20241014T145548Z">
+        <seg>Um adereço não é:
+* ''[[Br/TroposDeVestuario Um traje]]''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A prop is something an actor, whether InUniverse or RealLife, physically holds or interacts with in a production.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20241014T144452Z" creationid="Luan" creationdate="20241014T144452Z">
@@ -31357,6 +31389,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T211253Z" creationid="Luan" creationdate="20231210T211253Z">
         <seg>Alternativamente o show sai dos trilhos e começa a ficar ''realmente'' estranho, especialmente depois que a [[Br/JaFoiFeito fórmula já foi exaurida]] (que nem como quando "Dias Felizes" introduziu aliens).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alternatively, with ProductPlacement, the brand and logo may be openly shown as part of a marketing deal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T145309Z" creationid="Luan" creationdate="20241014T145309Z">
+        <seg>Alternativamente, através do Br/PosicionamentoDeProduto, o item e a logomarca podem ser abertamente exibidos como parte de um acordo publicitário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36447,6 +36487,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, if a martial artist takes off their belt or [[Film/EverythingEverywhereAllAtOnce fanny pack]] and uses it to fight off a group of villains, that part of the costume ''is'' a prop.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T145714Z" creationid="Luan" creationdate="20241014T145714Z">
+        <seg>Por exemplo, se um artista marcial tira seu cinto ou [[BrFilme/TudoEmTodoLugarAoMesmoTempo pochete]] e usa esse objeto para repelir um grupo de vilões, essa parte do traje ''é'' um adereço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, if the devil asks to give him your soul after death, you can wish for {{immortality}}.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240612T014427Z" creationid="Luan" creationdate="20240612T014427Z">
@@ -38136,6 +38184,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, if an actor specifically interacts with some part of the setting, such as a BigRedButton, that thing they interact with ''is'' a prop.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T145754Z" creationid="Luan" creationdate="20241014T145754Z">
+        <seg>No entanto, se um ator especificamente interage com parte da ambientação, tal como um Br/GrandeBotaoVermelho, essa coisa que ele interage ''é'' um adereço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, if someone in the cast other than TheHero is going to [[TookALevelInBadass Take a Level in Badass]], it's almost invariably the Butt-Monkey who does it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20241014T141308Z" creationid="Luan" creationdate="20241014T141308Z">
@@ -38208,6 +38264,14 @@ Br/ExemplosEmFalta.</seg>
         <seg>
 * Br/UmEsopo:
 ** Muitos fãs do show levam no coração os ensinos de Seu Madruga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, part of the costume can be a prop if the actor uses it in their performance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T145601Z" creationid="Luan" creationdate="20241014T145601Z">
+        <seg>No entanto, parte do traje pode ser um adereço se o ator o utiliza em sua apresentação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38693,6 +38757,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a hat is sitting on stage, it’s set decoration.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T145831Z" creationid="Luan" creationdate="20241014T145831Z">
+        <seg>Se um chapéu está posicionado no palco, é uma decoração da cena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If a non-Chilindrina episode from the early years is recycled, Chilindrina will sometimes appear as the substitute for Quico or even Don Ramón in the new version.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240824T232631Z" creationid="Luan" creationdate="20240824T232631Z">
@@ -38753,6 +38825,22 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T002532Z" creationid="Luan" creationdate="20231220T002532Z">
         <seg>Se todos os outros personagens são sãos e realmente deveriam perceber algo, mas só um cara percebe, então esse cara é um ??? EinstenSue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If an actor picks the hat up, it’s a prop.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T145841Z" creationid="Luan" creationdate="20241014T145841Z">
+        <seg>Se um ator pega o chapéu, é um adereço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If an actor puts the hat on and wears it, it’s a costume.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T145858Z" creationid="Luan" creationdate="20241014T145858Z">
+        <seg>Se ele pega o chapéu e o bota na cabeça, é parte do traje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44164,6 +44252,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Not to be confused with propellers on ThoseMagnificentFlyingMachines, supports as in "prop open the door", nor the shortened slang "props" derived from "proper respect" or [[https://www.theatlantic.com/entertainment/archive/2018/08/aretha-franklin-finally-gets-her-props/568555/ Aretha]] [[Music/ArethaFranklin Franklin]]'s "propers".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T145919Z" creationid="Luan" creationdate="20241014T145919Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Not to be confused with the 1988 film starring Creator/SallyField and Creator/TomHanks, or the 2015 [[Anime/PunchLine anime]], or the web series ''WebVideo/ThePunchline''.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240725T210210Z" creationid="Luan" creationdate="20240725T210210Z">
@@ -44538,6 +44634,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231218T023009Z" creationid="Luan" creationdate="20231218T023009Z">
         <seg>É claro, cuidado é necessário, pois se um escritor torna sua história simples demais ele corre o risco de alienar o público, que vai furiosamente invocar este tropo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Of course, some overlap is always possible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T145817Z" creationid="Luan" creationdate="20241014T145817Z">
+        <seg>É claro, pode existir mais de uma categoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46026,6 +46130,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231212T220954Z" creationid="Luan" creationdate="20231212T215945Z">
         <seg>Propenso a Br/FuneralSignificativo, Br/CasamentoEmTemposDeGuerra e Br/AosAmigosAusentes. A existência de Br/BebesParaSempre e Br/AlguemParaSeLembrarDele resulta em Br/CaraMortoDaSilvaFilho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Props for fictional items that will be used by a protagonist, and thus which will be looked at closely by the audience, may be built with greater attention to detail and realism.[[note]]Captain Kirk will probably have a phaser with functioning buttons and careful detail work; an anonymous RedShirt ensign with a one minute role will have an inexpensive prop.[[/note]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T145130Z" creationid="Luan" creationdate="20241014T145130Z">
+        <seg>Adereços para itens fictícios que serão usados por um protagonista (e, por isso, atrairão a atenção do público) podem ser construídos com maior atenção para detalhes e realismo.[[note]]O Capitão Kirk provavelmente vai ter uma arma com botões funcionais e detalhes refinados; um Br/CamisaVermelha anônimo com participaçao de um minuto vai ter um adereço baratinho ao invés.[[/note]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -50882,6 +50994,14 @@ Esse incidente é retratado como o principal motivo pelo qual Spooner não gosta
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The term originated as a shortened form of stage "properties" or "property", as these items are generally provided by the theatrical or production company rather than being owned by the actors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T145432Z" creationid="Luan" creationdate="20241014T145432Z">
+        <seg>Pode também ser chamado de ''prop'', termo que se originou da forma encurtada de "propriedades", no sentido de que esses itens costumam ser fornecidos pela companhia que está produzindo a obra, ao invés de serem cedidos pelos atores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The term was originally coined in the mid-1980s by writer Jon Hein.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T170753Z" creationid="Luan" creationdate="20231210T170753Z">
@@ -54222,6 +54342,14 @@ Eles rapidamente largam os livros no chão com desgosto.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tropes below do not include examples that originally started because of a prop but are no longer prop-specific.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T150006Z" creationid="Luan" creationdate="20241014T150006Z">
+        <seg>Os tropos listados abaixo não incluem exemplos que originalmente começaram por causa de um adereço mas que deixaram de ser específicos de adereços.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tropes in this section are basic development tricks that creators will try to seamlessly use in the work or its production.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T182030Z" creationid="Luan" creationdate="20240326T182030Z">
@@ -55314,6 +55442,14 @@ Eles rapidamente largam os livros no chão com desgosto.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240819T161608Z" creationid="Luan" creationdate="20240819T161608Z">
         <seg>Quando Quico a vê roubando a moeda, ela explica que na verdade ela está enterrando a moeda "dela" para que o Seu Madruga dê a ela outra moeda; Quico enterra a moeda dele e Chiquinha rouba essa moeda também.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When RealLife products are used as props such as a can of brand-name soda pop or a laptop, the brand name and logo may be [[BlandNameProduct hidden or changed due to legal restrictions]] (so the character may hold a can of Bepsi-Kola).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T145238Z" creationid="Luan" creationdate="20241014T145238Z">
+        <seg>Quando itens da Br/VidaReal são usados como adereços, tais como uma lata de refrigerante ou um notebook, o nome e logomarca podem ser [[Br/ProdutoDeMarcaSimilar escondidos ou alterados devido à restrições legais]] (de modo que o personagem pode acabar segurando uma lata de Bepsi-Kola).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56427,6 +56563,14 @@ Eles rapidamente largam os livros no chão com desgosto.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240222T141811Z" creationid="Luan" creationdate="20240222T141811Z">
         <seg>Pedem que os protejam, e a despeito de nossos esforços, entram em guerra, poluem o planeta e tentam descobrir meios imaginativos de se auto-destruir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You get the idea.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T145908Z" creationid="Luan" creationdate="20241014T145908Z">
+        <seg>Essa é a ideia.</seg>
       </tuv>
     </tu>
     <tu>

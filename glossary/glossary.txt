@@ -4897,3 +4897,5 @@ AnimationAgeGhetto	Br/FavelaDaIdadeParaAnimacao
 GirlShowGhetto	Br/FavelaDoProgramaFeminino
 IndustrialGhetto	Br/FavelaIndustrial
 MinorityShowGhetto	Br/FavelaDoProgramaParaMinorias
+GoodBadTranslation	Br/TraducaoRuimBoa
+ForeignDubAsBasis	Br/DublagemEstrangeiraComoBase

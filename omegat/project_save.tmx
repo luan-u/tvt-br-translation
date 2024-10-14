@@ -3662,6 +3662,24 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ArtifactOfAttraction
+* AshesToCrashes
+* TheBigBoard
+* BlandNameProduct
+* CarryingACake
+* CostumeTropes: When used as props.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T152600Z" creationid="Luan" creationdate="20241014T152600Z">
+        <seg>* Br/ArtefatoDaAtracao
+* Br/DerramamentoDeCinzas
+* Br/OGrandeQuadro
+* Br/ProdutoDeMarcaSimilar
+* Br/CarregandoUmBolo
+* Br/TroposDeVestuario: quando usados como adereços.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* ArtifactOfHope: A powerful, benevolent artifact with only good, or at least holy, applications.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T135906Z" creationid="Luan" creationdate="20240318T135906Z">
@@ -56966,6 +56984,24 @@ Contrast with {{Unishment}} (a punishment that isn't a punishment at all) and Re
       <tuv lang="pt-BR" changeid="Luan" changedate="20240104T143005Z" creationid="Luan" creationdate="20240104T143005Z">
         <seg>[[AC:Outros:]]
 Contrastar com ??? {{Unishment}} (uma punição que não é realmente uma punição) e Br/VingancaComedida (uma retribuição que é menos severa do que é pretendida ao invés de apenas perdoar a pessoa em questão).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[AC:Prop Special Effects]]
+* CoconutSuperpowers
+* DiegeticVisualEffects
+* InformedAbility
+* MiniatureEffects
+** ForcedPerspective: When prop miniatures are shot up close to look like the real deal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T154833Z" creationid="Luan" creationdate="20241014T154833Z">
+        <seg>[[AC:Efeitos especiais com adereços]]
+* Br/SuperpoderesDeCoco
+* Br/EfeitosVisuaisDiegeticos
+* Br/HabilidadeInformada
+* Br/EfeitosComMiniaturas
+** Br/PerspectivaForcada: Quando adereços em miniatura são filmados bem de perto para parecer que são de verdade.</seg>
       </tuv>
     </tu>
     <tu>

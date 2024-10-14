@@ -4819,3 +4819,4 @@ Film/AlienResurrection	BrFilme/AlienARessurreicao
 Film/The6thDay	BrFilme/OSextoDia
 Series/TheXFiles	BrSerie/ArquivoX
 TimeTravelTenseTrouble	Br/ConjugacaoVerbalEmViagensNoTempo
+PlotTwist	Br/{{Reviravolta}}

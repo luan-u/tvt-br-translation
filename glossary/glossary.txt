@@ -1759,6 +1759,7 @@ HistoricalFiction	Br/FiccaoHistorica
 HistoricalInJoke	Br/PiadaInternaHistorica
 HitlersTimeTravelExemptionAct	Br/AtoDeIsencaoDeViagemNoTempoDeHitler
 HiveMind	Br/MenteColetiva
+HiveMind	Br/AColmeia
 HoYay	Br/EntaoEleE
 HoistbyHisOwnPetard	Br/VitimaDoProprioPlano
 HoldingHands	Br/DeMaosDadas
@@ -1874,6 +1875,8 @@ ImmortalityInducer	Br/IndutorDeImortalidade
 ImmuneToBullets	Br/ImuneABalas
 ImmuneToSlapstick	Br/ImuneAPastelao
 ImpairmentShot	Br/EnquadramentoDeIncapacitacao
+ImperialStormtrooperMarksmanshipAcademy	Br/AcademiaDeTiroDosSoldadosImperiais
+ImperialStormtrooperMarksmanshipAcademy	Br/AcademiaDeTiroDasTropasImperiais
 ImplacableMan	Br/OImplacavel
 ImportedAlienPhlebotinum	Br/CoisoniumImportadoDosAliens
 ImpossibleTask	Br/TarefaImpossivel
@@ -4304,7 +4307,9 @@ WhatDoYouMeanItsNotForKids	Br/ComoAssimNaoEParaCriancas
 WhatHappenedToTheMouse	Br/MasOQueHouveComORato
 WhatIsEvil	Br/OQueEOMal
 WhatMeasureIsAMook	Br/QuantoValeUmCapanga
+WhatMeasureIsAMook	Br/QuemSeImportaComOsCapangas
 WhatMeasureIsANonHuman	Br/QuantoValeUmNaoHumano
+WhatMeasureIsANonHuman	Br/QuemSeImportaComOsNaoHumanos
 WhatTheHellHero	Br/QueMerdaEEssaHeroi
 WhatTheHellPlayer	Br/QueMerdaEEssaJogador
 WheelchairWoobie	Br/CoitadinhoCadeirante
@@ -4820,3 +4825,4 @@ Series/TheXFiles	BrSerie/ArquivoX
 TimeTravelTenseTrouble	Br/ConjugacaoVerbalEmViagensNoTempo
 PlotTwist	Br/{{Reviravolta}}
 UniquenessDecay	Br/DecaimentoDaIndividualidade
+HerdHittingAttack	Br/AtaqueDizimadorDeHordas

@@ -4843,3 +4843,10 @@ KarmicButtMonkey	Br/CorinhoKarmico
 PracticalEffects	Br/EfeitosPraticos
 CostumeTropes	Br/TroposDeVestuario
 Film/EverythingEverywhereAllAtOnce	BrFilme/TudoEmTodoLugarAoMesmoTempo
+NinjaProp	Br/AderecoNinja
+LivingProp	Br/AderecoVivo
+StageMoney	Br/DinheiroCenografico
+StyrofoamRocks	Br/RochasDeIsopor
+InCaseOfXBreakGlass	Br/EmCasoDeXQuebreOVidro
+SpecialEffects	Br/EfeitosEspeciais
+GenericCopBadges	Br/DistintivosGenericosDePolicial

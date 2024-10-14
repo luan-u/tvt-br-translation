@@ -1332,6 +1332,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>''Please'' note that this trope is about script changes in translation that ''do not'' change the actual story flow and only exist to ensure meaning is conveyed between cultures; the process of throwing a script out entirely and rewriting it nearly from scratch [[DubInducedPlotlineChange is a whole other trope and can of worms]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T200142Z" creationid="Luan" creationdate="20241014T200142Z">
+        <seg>''Por favor'' perceba que este tropo se trata de mudanças no roteiro durante a tradução que ''não alteram'' o fluxo factual da história e existem para garantir que o sentido seja preservado; o processo de descartar o roteiro original e o reescrever praticamente do zero [[Br/MudancaDeTramaInduzidaPorDublagem é um outro tropo e balaio de gato por si só]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>''TabletopGame/{{Paranoia}}'' is [[BlatantLies not an example of this in the slightest.]]
 * An ''[[StatusQuoIsGod immutable]]'' Crapsack World has agony InherentInTheSystem, both physically and metaphysically, and cannot be saved or made a better place.</seg>
       </tuv>
@@ -32545,6 +32553,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As a rule of thumb, the requirements for a Woolsey-like translations are good translators (of course), good script adapters (sometimes translators and adapters are the same person, sometimes they're not), a good communication with the developers/animators/filmmakers and, in the case of video games, a good localization testing team.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T195635Z" creationid="Luan" creationdate="20241014T195635Z">
+        <seg>Como regra prática, os requisitos para uma tradução estilo Woolsey são: bons tradutores (obviamente), bons adaptadores de roteiro (às vezes a mesma pessoa faz a tradução e adaptação, às vezes são pessoas diferentes), boa comunicação com os desenvolvedores/animadores/diretores e, no caso de videogames, uma boa equipe de testes de localização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As a warning, '''''this entry contains spoilers both marked and unmarked'''''.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231206T233547Z" creationid="Luan" creationdate="20231206T233547Z">
@@ -34277,6 +34293,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Compare GoodBadTranslation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T200007Z" creationid="Luan" creationdate="20241014T200007Z">
+        <seg>Comparar com Br/TraducaoRuimBoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Compare GuileHero, its GoodCounterpart.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231103T141747Z" creationid="Luan" creationdate="20231103T141747Z">
@@ -34649,6 +34673,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240613T140830Z" creationid="Luan" creationdate="20240613T140830Z">
         <seg>Contrastar com Br/OPoderDaAmizade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contrast TheyChangedItNowItSucks and {{Macekre}}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T200017Z" creationid="Luan" creationdate="20241014T200017Z">
+        <seg>Contrastar com Br/ElesMudaramPorIssoEUmaDroga e Br/{{Macekre}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36640,6 +36672,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231212T215722Z" creationid="Luan" creationdate="20231212T215722Z">
         <seg>Para determinadas questões, esse é o único jeito de ilustrar o argumento sem que o efeito seja minado por outros tropos tais como Br/FinalTodoMundoRindo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For changes in character names, see DubNameChange.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T200302Z" creationid="Luan" creationdate="20241014T200302Z">
+        <seg>Para alterações em nomes de personagens, ver Br/MudancaDeNomeInduzidaPorDublagem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38971,6 +39011,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a Woolseyism is well-received enough to the point where the change actually gets ported to other translations, then it becomes ForeignDubAsBasis.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T200249Z" creationid="Luan" creationdate="20241014T200249Z">
+        <seg>Se um woolseyismo é tão bem-aceito que a mudança é incorporada em outras traduções, então se torna um caso de Br/DublagemEstrangeiraComoBase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If a character, for example, murders someone and never gets caught, but [[BoltOfDivineRetribution a freak lightning strike kills them]], [[KarmicDeath they've still gotten their comeuppance even though the lightning had no connection to their crime]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T160211Z" creationid="Luan" creationdate="20231220T160211Z">
@@ -40835,6 +40883,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240417T202027Z" creationid="Luan" creationdate="20240417T202027Z">
         <seg>Posto em prática figurativamente várias vezes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the process, characters are given attitudes and verbal patterns that make them distinctive and give them sometimes even more fleshed out personalities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T195440Z" creationid="Luan" creationdate="20241014T195440Z">
+        <seg>No processo, personagens recebem atitudes e padrões verbais que os tornam distintos e dão a eles personalidades mais pronunciadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47003,6 +47059,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See also CulturalTranslation, where elements of a culture are changed to work with a different language or audience.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T200204Z" creationid="Luan" creationdate="20241014T200204Z">
+        <seg>Ver também Br/TraducaoCultural, onde elementos de uma cultura são alterados para funcionar com uma linguagem ou público-alvo diferentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See also DarkAndTroubledPast, StartOfDarkness, JerkassWoobie, AbusiveParents, ParentalNeglect, ParentalAbandonment, WellDoneSonGuy, SingleIssuePsychology, TragicBigot, BeingTorturedMakesYouEvil, WoobieDestroyerOfWorlds, YouAreWhatYouHate, HeWhoFightsMonsters, and WhosLaughingNow.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231231T005009Z" creationid="Luan" creationdate="20231231T005009Z">
@@ -48305,6 +48369,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sometimes, things are considered Woolseyisms because of how drastically different languages can be, often resulting in a few things becoming LostInTranslation if it's a direct translation, or sometimes a word or phrase just doesn't have a direct translation at all.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T195812Z" creationid="Luan" creationdate="20241014T195812Z">
+        <seg>Às vezes, coisas são consideradas woolseyismos por causa do quão drasticamente diferentes as linguagens podem ser, o que costuma fazer com que algumas coisas acabem [[Br/PerdidoNaTraducao perdidas na tradução]] se for uma tradução direta, ou quando uma palavra ou frase não possui uma tradução exata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sometimes, this is done for deliberate BadassDecay, but usually it isn't.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231227T020317Z" creationid="Luan" creationdate="20231227T020317Z">
@@ -48684,6 +48756,14 @@ E shows onde muitos interesses românticos são apresentados ao herói são fada
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231221T135101Z" creationid="Luan" creationdate="20231221T135101Z">
         <seg>Os depósitos para armazenar reservas financeiras junto com a eficiência burocrática geral e seu domínio sobre rotas comerciais por terra e por mar os tornou atrativos para banqueiros e reis, além dos peregrinos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subbed shows and manga usually get around these by putting a note on the side explaining what they're mentioning.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T195913Z" creationid="Luan" creationdate="20241014T195913Z">
+        <seg>Programas legendados e mangá geralmente contornam esse problema inserindo uma nota de observação para explicar o contexto completo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49748,6 +49828,14 @@ Esse incidente é retratado como o principal motivo pelo qual Spooner não gosta
       <tuv lang="pt-BR" changeid="Luan" changedate="20240812T160302Z" creationid="Luan" creationdate="20240812T160302Z">
         <seg>Os combates que costumávamos ter eram incríveis!\\
 '''Vic:''' "Costumavam". Esse é o problema, Capitão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The best way to get these requirements is either that the producing company and/or the publisher have their own localization department, or hiring a reliable outsourced translation company which is properly familiarized with the product.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T195722Z" creationid="Luan" creationdate="20241014T195722Z">
+        <seg>O melhor jeito para se alcançar esses requisitos é com a companhia responsável possuindo o próprio departamento de localização ou contratando uma empresa de tradução confiável e que seja familiarizada com o produto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52082,6 +52170,14 @@ Esse incidente é retratado como o principal motivo pelo qual Spooner não gosta
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240620T152744Z" creationid="Luan" creationdate="20240620T152744Z">
         <seg>Esses túneis em alta velocidade até possuem saídas diretas para subterrâneos específicos, como o estacionamento da USR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These include but are not limited to puns, regional dialects, accents, and [[ShoutOut shout outs]] to pop culture.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T195845Z" creationid="Luan" creationdate="20241014T195845Z">
+        <seg>Esses casos incluem (mas não se limitam a) trocadilhos, expressões regionais, sotaques e [[Br/MandandoUmSalve salves]] para a cultura pop.</seg>
       </tuv>
     </tu>
     <tu>

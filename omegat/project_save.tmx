@@ -56924,6 +56924,16 @@ Contrastar com ??? {{Unishment}} (uma punição que não é realmente uma puniç
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[[AC:Prop-Explicit]]
+Tropes that directly reference props.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T150136Z" creationid="Luan" creationdate="20241014T150136Z">
+        <seg>[[AC:Explicitamente para adereços]]
+Tropos que referenciam adereços diretamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[[AC:[[SubTrope Sub-Tropes]]:]]
 [[index]]
 * AlwaysClose

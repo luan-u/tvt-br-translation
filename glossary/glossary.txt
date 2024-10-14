@@ -4827,3 +4827,5 @@ PlotTwist	Br/{{Reviravolta}}
 UniquenessDecay	Br/DecaimentoDaIndividualidade
 UniquenessDecay	Br/DecaimentoDaSingularidade
 HerdHittingAttack	Br/AtaqueDizimadorDeHordas
+ThrowTheDogABone	Br/JogarUmOssoParaOCachorro
+Woobie	Br/{{Coitadinho}}

@@ -4857,3 +4857,15 @@ TheRedStapler	Br/OGrampeadorVermelho
 WhenPropsAttack	Br/QuandoAderecosAtacam
 SchematizedProp	Br/AderecoEsquematizado
 CameoProp	Br/AparicaoEspecialDeAdereco
+ArtifactOfAttraction	Br/ArtefatoDaAtracao
+CarryingACake	Br/CarregandoUmBolo
+TheBigBoard	Br/OGrandeQuadro
+AshesToCrashes	Br/DerramamentoDeCinzas
+CreatorSpeak	Br/DialetoDeCriador
+FurnitureTropes	Br/TroposDeMobilia
+PricelessMingVase	Br/InestimavelVasoDaDinastiaMing
+ReplacedWithReplica	Br/SubstituidoPorUmaReplica
+ForcedPerspective	Br/PerspectivaForcada
+DiegeticVisualEffects	Br/EfeitosVisuaisDiegeticos
+MiniatureEffects	Br/EfeitosComMiniaturas
+CoconutSuperpowers	Br/SuperpoderesDeCoco

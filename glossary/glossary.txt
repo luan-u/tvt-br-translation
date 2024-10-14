@@ -4825,4 +4825,5 @@ Series/TheXFiles	BrSerie/ArquivoX
 TimeTravelTenseTrouble	Br/ConjugacaoVerbalEmViagensNoTempo
 PlotTwist	Br/{{Reviravolta}}
 UniquenessDecay	Br/DecaimentoDaIndividualidade
+UniquenessDecay	Br/DecaimentoDaSingularidade
 HerdHittingAttack	Br/AtaqueDizimadorDeHordas

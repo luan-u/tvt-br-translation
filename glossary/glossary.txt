@@ -4905,3 +4905,5 @@ BadNewsInAGoodWay	Br/MasNoticiasDeUmJeitoBom
 NotActuallyTheUltimateQuestion	Br/NaVerdadeNaoEAPerguntaDefinitiva
 MistakenForProfound	Br/ConfundidoComAlgoProfundo
 SidetrackedByTheAnalogy	Br/DistraidoPelaAnalogia
+FailedASpotCheck	Br/FalhouNoTesteDePercepcao
+ProportionalArticleImportance	Br/ImportanciaProporcionalAoArtigo

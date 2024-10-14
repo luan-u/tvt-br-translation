@@ -5197,6 +5197,18 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BubblePipe
+* CameoProp
+* GenericCopBadges: Cop badges in fiction are poorly detailed and don't reflect the ones from RealLife.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T152115Z" creationid="Luan" creationdate="20241014T152115Z">
+        <seg>* Br/CachimboDeBolhas
+* Br/AparicaoEspecialDeAdereco
+* Br/DistintivosGenericosDePolicial: Distintivos de policiais na ficção não são detalhados e não refletem aqueles que existem ma Br/VidaReal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BubblePipe: When instead of smoking a pipe is used for the purpose of blowing bubbles.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240402T195933Z" creationid="Luan" creationdate="20240402T195933Z">
@@ -11643,6 +11655,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* InCaseOfXBreakGlass: Breaking a glass to obtain something meant to be used during an emergency.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T151114Z" creationid="Luan" creationdate="20241014T151114Z">
+        <seg>* Br/EmCasoDeXQuebreOVidro: Quebrar uma vidraça para obter algo que deve ser usado durante uma emergência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* InNameOnly: The movie has several passing similarities to the namesake series (it does prominently feature robots being ThreeLawsCompliant), but the actual storyline is nothing like the original.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240619T200501Z" creationid="Luan" creationdate="20240619T200501Z">
@@ -13089,6 +13109,32 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T233448Z" creationid="Luan" creationdate="20240318T233448Z">
         <seg>* Br/SenhorinhaInvestigativa
 * Br/HeroiDeSuporteDeCarga: Um herói que segura um objeto em queda para salvar os demais membros do elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* LivingProp
+* NinjaProp
+* NotSoFakePropWeapon
+* PlanningWithProps
+* PropRecycling
+* TheRedStapler
+* SchematizedProp
+* StageMoney
+* StyrofoamRocks
+* WhenPropsAttack</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T151621Z" creationid="Luan" creationdate="20241014T151621Z">
+        <seg>* Br/AderecoVivo
+* Br/AderecoNinja
+* Br/ArmaAderecoNaoTaoFalsa
+* Br/PlanejamentoComAderecos
+* Br/ReciclagemDeAderecos
+* Br/OGrampeadorVermelho
+* Br/AderecoEsquematizado
+* Br/DinheiroCenografico
+* Br/RochasDeIsopor
+* Br/QuandoAderecosAtacam</seg>
       </tuv>
     </tu>
     <tu>
@@ -56930,6 +56976,16 @@ Tropes that directly reference props.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20241014T150136Z" creationid="Luan" creationdate="20241014T150136Z">
         <seg>[[AC:Explicitamente para adereços]]
 Tropos que referenciam adereços diretamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[AC:Prop-Oriented]]
+Where props are inextricably intertwined or the central focus.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T151708Z" creationid="Luan" creationdate="20241014T151708Z">
+        <seg>[[AC:Orientados a adereços]]
+Quando adereços estão envolvidos de maneira inseparável ou são o foco central.</seg>
       </tuv>
     </tu>
     <tu>

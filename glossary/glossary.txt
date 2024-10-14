@@ -4841,3 +4841,5 @@ NoRespectGuy	Br/CaraDesrespeitado
 KafkaKomedy	Br/KomediaKafka
 KarmicButtMonkey	Br/CorinhoKarmico
 PracticalEffects	Br/EfeitosPraticos
+CostumeTropes	Br/TroposDeVestuario
+Film/EverythingEverywhereAllAtOnce	BrFilme/TudoEmTodoLugarAoMesmoTempo

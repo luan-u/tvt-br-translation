@@ -32851,6 +32851,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Atlus is currently considered the company that most does Woolseyisms to good effect, since their [=RPGs=], being much more Japanese-flavored than other companies' series, require lots of re-interpretation and adaptation of idioms and concepts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T195410Z" creationid="Luan" creationdate="20241014T195410Z">
+        <seg>A Atlus é atualmente considerada a empresa que melhor executa woolseyismos, já que seus [=RPGs=] são muito mais acoplados na cultura japonesa do que as franquias de outras empresas, e por isso requerem muita reinterpretação e adaptação de conceitos e expressões idiomáticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Attempts to appease the first two groups have led more recent re-releases to reuse some of the more favorite lines.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20241014T193630Z" creationid="Luan" creationdate="20241014T193630Z">
@@ -34785,6 +34793,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240726T145818Z" creationid="Luan" creationdate="20240726T145818Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creator/{{Atlus}}.com lays bare the processes of Woolseyizing with their [[https://web.archive.org/web/20150709095914/http://www.atlus.com/pd.php Production Diaries.]] Some are about Woolseyizing, but others are about localization in general -- marketing, website design, and so on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T195242Z" creationid="Luan" creationdate="20241014T195242Z">
+        <seg>A BrCriador/{{Atlus}} expôs os processos de woolseyismo através dos seus [[https://web.archive.org/web/20150709095914/http://www.atlus.com/pd.php diários de produção]]. Alguns dos relatos são sobre woolseyismos, mas outros são sobre o processo de localização em geral -- a propaganda, o projeto da página web, entre outros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59529,6 +59545,14 @@ Categorias:
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T154436Z" creationid="Luan" creationdate="20231210T154436Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{{Shonen}} anime, with their younger demographics, usually don't fare as well.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T194707Z" creationid="Luan" creationdate="20241014T194707Z">
+        <seg>Animes Br/{{shonen}}, com sua demografia mais jovem, não costumam ter a mesma sorte.</seg>
       </tuv>
     </tu>
     <tu>

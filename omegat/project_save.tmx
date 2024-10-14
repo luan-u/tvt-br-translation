@@ -27593,6 +27593,17 @@ Br/ExemplosEmFalta.
     <tu>
       <tuv lang="en-US">
         <seg>----
+!!Examples</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T142941Z" creationid="Luan" creationdate="20241014T142941Z">
+        <seg>----
+!!Exemplos:
+Br/ExemplosEmFalta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>----
 !!Examples:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T161637Z" creationid="Luan" creationdate="20231029T163742Z">
@@ -29794,6 +29805,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240201T130933Z" creationid="Luan" creationdate="20240201T130933Z">
         <seg>É uma Br/DistracaoLocal específica dos britânicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A Butt Monkey may be quick to engage in an InsultAccuracyAcceptance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T142820Z" creationid="Luan" creationdate="20241014T142820Z">
+        <seg>Um Corinho pode ser rápido em Br/ConcordarComAExatidaoDoInsulto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34813,6 +34832,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do note that the Butt-Monkey is often not meant to be ''hated'' by the ''audience''.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T142841Z" creationid="Luan" creationdate="20241014T142841Z">
+        <seg>Note que o Corinho frequentemente não tem o propósito de ser ''odiado'' pelo ''público''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do robots have [[OurSoulsAreDifferent souls]]?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240620T200339Z" creationid="Luan" creationdate="20240620T200339Z">
@@ -36303,6 +36330,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231212T215722Z" creationid="Luan" creationdate="20231212T215722Z">
         <seg>Para determinadas questões, esse é o único jeito de ilustrar o argumento sem que o efeito seja minado por outros tropos tais como Br/FinalTodoMundoRindo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For characters completely intended to be dislikable, see HateSink.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T142855Z" creationid="Luan" creationdate="20241014T142855Z">
+        <seg>Para personagens que possuem a intenção de serem odiados, consulte Br/RaloDeOdio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38906,6 +38941,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the Butt-Monkey's suffering is a result of their bad deeds coming back to bite them, then they're a KarmicButtMonkey, which is also a SubTrope.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T142759Z" creationid="Luan" creationdate="20241014T142759Z">
+        <seg>Se o sofrimento do Corinho é resultado de ações do passado voltando para o atazanar, então eles são um Br/CorinhoKarmico, que é um Br/SubTropo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the Crapsack World's continued misery is caused by supernatural forces, see DarkFantasy, HellOnEarth or CosmicHorrorStory.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240103T205355Z" creationid="Luan" creationdate="20240103T205355Z">
@@ -38948,8 +38991,8 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="en-US">
         <seg>If the audience sympathizes with them, they become a {{Woobie}}.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T135955Z" creationid="Luan" creationdate="20241014T135955Z">
-        <seg>Se a audiência simpatizar com eles, eles se tornam um Br/{{Coitadinho}}.</seg>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T143129Z" creationid="Luan" creationdate="20241014T135955Z">
+        <seg>Se a audiência simpatizar com eles, eles se tornam Br/OCoitadinho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39551,6 +39594,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231215T200208Z" creationid="Luan" creationdate="20231215T200208Z">
         <seg>Em Br/SeriesDeLongaDuracao, ''retcons'' costumam ser usados para corrigir Br/DissonanciaDeValores, para lidar com problemas que derivam das várias manifestações de Br/AMarchaDoTempo ou para alinhar partes prévias da história com outras mudanças.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In RealLife, every single one of us runs into bad luck now and then.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T142909Z" creationid="Luan" creationdate="20241014T142909Z">
+        <seg>Na Br/VidaReal, cada um de nós encontra má sorte de vez em quando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46344,6 +46395,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See BareBottomedMonkey for actual moments about monkey butts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T142803Z" creationid="Luan" creationdate="20241014T142803Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See Call Back]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240618T012121Z" creationid="Luan" creationdate="20240618T012121Z">
@@ -51465,6 +51524,14 @@ Esse incidente é retratado como o principal motivo pelo qual Spooner não gosta
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240827T003124Z" creationid="Luan" creationdate="20240827T003124Z">
         <seg>Portanto não seria realmente peculiar que um homem de mais de dois metros de altura com uma testa protuberante estivesse sentado à mesa com um homem baixo e seu gato enquanto ambos falam uma linguagem não identificável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore, even if some of us ''may'' have it worse or better than others, [[Administrivia/NoRealLifeExamplesPlease said examples are not possible]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T142933Z" creationid="Luan" creationdate="20241014T142933Z">
+        <seg>Portanto, ainda que alguns de nós ''possam'' ter mais ou menos azar, [[BrAdministrivia/SemExemplosDaVidaRealPorFavor tais exemplos não são aceitos]].</seg>
       </tuv>
     </tu>
     <tu>

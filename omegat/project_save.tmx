@@ -30900,6 +30900,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Administrivia/InUniverseExamplesOnly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T212318Z" creationid="Luan" creationdate="20241014T212318Z">
+        <seg>BrAdministrivia/SomenteExemplosInUniverso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Administrivia/NoRealLifeExamplesPlease - RealLife does not have only one sane person.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231220T020522Z" creationid="Luan" creationdate="20231220T020522Z">
@@ -57909,6 +57917,14 @@ Quando adereços estão envolvidos de maneira inseparável ou são o foco centra
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240222T135812Z" creationid="Luan" creationdate="20240222T135812Z">
         <seg>[[Br/GuerraRobotica Esse tipo de rebelião]] não termina bem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[SelfDemonstratingArticle We'll have to spend a lot of money]] just to make [[Administrivia/NoRealLifeExamplesPlease another subpage for real life.]] [[labelnote: Note]]The actual reason being that it's too common and attracts natter.[[/labelnote]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241014T212426Z" creationid="Luan" creationdate="20241014T212426Z">
+        <seg>[[Br/ArtigoAutoDemonstrativo Teríamos que gastar muito dinheiro]] para criar [[BrAdministrivia/SemExemplosDaVidaRealPorFavor outra subpágina para a vida real]].[[note]]O motivo real é que é comum demais e atrai conversa fiada.[[/note]]</seg>
       </tuv>
     </tu>
     <tu>

@@ -209,7 +209,6 @@ AnimalIsTheNewMan	Br/AnimalEONovoHomem
 AnimalLover	Br/AmanteDosAnimais
 AnimalWrongsGroup	Br/GrupoPelosEsquerdosDosAnimais
 AnimateInanimateObject	Br/ObjetoInanimadoAnimado
-AnimationAgeGhetto	Br/GuetoDaIdadeParaAnimacao
 AnimeSettings	Br/AmbientacoesDeAnime
 AnnoyingYoungerSibling	Br/IrmaoMaisNovoIrritante
 AnonymousBenefactor	Br/BenfeitorAnonimo
@@ -1519,7 +1518,6 @@ GiftOfTheMagiPlot	Br/TramaTipoOPresenteDosMagos
 GildedCage	Br/GaiolaDourada
 GingerbreadHouse	Br/CasaDeGengibre
 GirlOnGirlIsHot	Br/GarotaComGarotaESexy
-GirlShowGhetto	Br/GuetoDeProgramaFeminino
 GirlyBruiser	Br/BrutaFeminina
 GivingUpOnLogic	Br/DesistindoDaLogica
 GivingUpOnLogic	Br/DesistirDaLogica
@@ -1900,7 +1898,6 @@ IndexToTheRescue	Br/IndiceAoResgate
 IndexWithAHeartOfGold	Br/IndiceComUmCoracaoDeOuro
 IndianBurialGround	Br/CemiterioIndigena
 IndianMaiden	Br/DonzelaIndigena
-IndustrialGhetto	Br/GuetoIndustrial
 IndustrialWorld	Br/MundoIndustrial
 IndustrializedMercury	Br/MercurioIndustrializado
 IndyPloy	Br/PlanoIndiana
@@ -2398,7 +2395,6 @@ MinionWithAnFInEvil	Br/CapangaQueLevouZeroEmMaldade
 MinorCrimeRevealsMajorPlot	Br/CrimePequenoRevelaPlanoGrande
 MinorFlawMajorBreakup	Br/PequenasFalhasGrandesRompimentos
 MinorInsultMeltdown	Br/ColapsoPorInsultoPequeno
-MinorityShowGhetto	Br/GuetoDeProgramaParaMinorias
 MirrorCharacter	Br/OReflexo
 MirrorMoralityMachine	Br/MaquinaDeEspelhoDaMoralidade
 MirrorUniverse	Br/UniversoEspelhado
@@ -3184,7 +3180,6 @@ SchizoTech	Br/EsquizoTech
 SchoolIsMurder	Br/EscolaSignificaMorte
 SchoolTropes	Br/TroposDeEscola
 SchrodingersCanon	Br/CanoneDeSchrodinger
-SciFiGhetto	Br/GuetoSciFi
 SciFiGhetto	Br/FavelaSciFi
 SciFiWritersHaveNoSenseOfScale	Br/EscritoresDeSciFiNaoTemSensoDeEscala
 ScienceAtTheSpeedOfPlot	Br/CienciaNaVelocidadeDaTrama
@@ -4898,3 +4893,7 @@ TheMerch	Br/ItensPromocionais
 ShootTheMoney	Br/FilmarODinheiro
 ShoddyKnockoffProduct	Br/ProdutoFalsificadoMediocre
 BlindIdiotTranslation	Br/TraducaoDeIdiotaCego
+AnimationAgeGhetto	Br/FavelaDaIdadeParaAnimacao
+GirlShowGhetto	Br/FavelaDoProgramaFeminino
+IndustrialGhetto	Br/FavelaIndustrial
+MinorityShowGhetto	Br/FavelaDoProgramaParaMinorias

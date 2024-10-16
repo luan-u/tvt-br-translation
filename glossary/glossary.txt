@@ -4922,3 +4922,8 @@ MessageInABottle	Br/MensagemEngarrafada
 TheOner	Br/TomadaUnica
 WesternAnimation/MonstersVsAliens	BrAnimacaoOcidenal/MonstrosVsAlienigenas
 ThrowAwayCountry	Br/PaisDescartavel
+HeartIsWhereTheHomeIs	Br/CoracaoEOndeOLarEsta
+HemisphereBias	Br/ViesDeHemisferio
+CreatorsCultureCarryover	Br/TransposicaoDaCulturaDoCriador
+LocalReference	Br/ReferenciaLocal
+EiffelTowerEffect	Br/EfeitoTorreEiffel

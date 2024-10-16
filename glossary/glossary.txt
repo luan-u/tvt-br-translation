@@ -4920,3 +4920,5 @@ PatiencePlot	Br/TramaDePaciencia
 DrowningMySorrows	Br/AfogandoMinhasMagoas
 MessageInABottle	Br/MensagemEngarrafada
 TheOner	Br/TomadaUnica
+WesternAnimation/MonstersVsAliens	BrAnimacaoOcidenal/MonstrosVsAlienigenas
+ThrowAwayCountry	Br/PaisDescartavel

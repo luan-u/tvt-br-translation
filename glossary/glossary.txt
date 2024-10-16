@@ -4917,3 +4917,6 @@ EpisodeOnAPlane	Br/EpisodioEmUmAviao
 DieHardOnAnX	Br/DuroDeMatarEmUmX
 MinimalistCast	Br/ElencoMinimalista
 PatiencePlot	Br/TramaDePaciencia
+DrowningMySorrows	Br/AfogandoMinhasMagoas
+MessageInABottle	Br/MensagemEngarrafada
+TheOner	Br/TomadaUnica

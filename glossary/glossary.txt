@@ -4911,3 +4911,9 @@ VarietyShow	Br/ProgramaDeVariedades
 AnthologyFilm	Br/FilmeAntologico
 WesternAnimation/TeenTitansGo	BrAnimacaoOcidental/OsJovensTitasEmAcao
 SelfImposedChallenge	Br/DesafioAutoImposto
+SinkingShipScenario	Br/CenarioDeNavioNaufragando
+LockedInARoom	Br/TrancadosEmUmComodo
+EpisodeOnAPlane	Br/EpisodioEmUmAviao
+DieHardOnAnX	Br/DuroDeMatarEmUmX
+MinimalistCast	Br/ElencoMinimalista
+PatiencePlot	Br/TramaDePaciencia

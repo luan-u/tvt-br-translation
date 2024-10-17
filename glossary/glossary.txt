@@ -472,8 +472,8 @@ BottleEpisode	Br/EpisodioEngarrafado
 BottledHeroicResolve	Br/DeterminacaoHeroicaEngarrafada
 BottomlessPits	Br/FossoSemFundo
 BoxOfficeBomb	Br/BombaDeBilheteria
-Br/FateWorseThanDeath	Br/DestinoPiorQueAMorte
-Br/UnrevealAngle	Br/AnguloDeNaoRevelacao
+FateWorseThanDeath	Br/DestinoPiorQueAMorte
+UnrevealAngle	Br/AnguloDeNaoRevelacao
 BrainBleach	Br/AguaSanitariaCerebral
 BrainFever	Br/FebreCerebral
 BrainsAndBrawn	Br/CerebroEMusculo
@@ -1187,7 +1187,6 @@ EternalHero	Br/HeroiEterno
 EternalProhibition	Br/ProibicaoEterna
 EthicalSlut	Br/VadiaEtica
 EuphemismBuster	Br/DestruidorDeEufemismo
-EuphemisticName	Br/NomeEufemista
 EurekaMoment	Br/MomentoEureka
 EvenBetterSequel	Br/SequenciaAindaMelhor
 EvenEvilHasStandards	Br/AteOMalTemLimites
@@ -1269,7 +1268,6 @@ ExtremelyDustyHome	Br/CasaExtremamentePoeirenta
 FaceHeelTurn	Br/PassandoProLadoDosViloes
 FaceHeelTurn	Br/PassarParaOLadoDosViloes
 FaceOfAThug	Br/CaraDeBandido
-FaceRealisation	Br/PercepcaoDeBondade
 FaceRealization	Br/PercepcaoDeBondade
 FailedFutureForecast	Br/PrevisaoErradaDoFuturo
 FailureHero	Br/HeroiFalho
@@ -1322,7 +1320,7 @@ FauxDeath	Br/MorteFalsa
 FauxShadow	Br/PrenuncioFalso
 FauxSymbolism	Br/PseudoSimbolismo
 FeedTheMole	Br/IludirOInfiltrado
-FelonyMisdemeanor	Br/CrimeDeMauComportamento
+FelonyMisdemeanor	Br/ContravencaoCriminosa
 FemalesAreMoreInnocent	Br/MulheresSaoMaisInocentes
 FemmeFatale	Br/FemmeFatale
 FencePainting	Br/PintarACerca
@@ -1346,7 +1344,7 @@ Film/IndianaJonesAndTheKingdomOfTheCrystalSkull	BrFilme/IndianaJonesEOReinoDaCav
 Film/ShootEmUp	BrFilme/MandandoBala
 Film/SupermanFilmSeries	BrFilme/SupermanSerieDeFilmes
 Film/Terminator2JudgmentDay	BrFilme/OExterminadorDoFuturo2OJulgamentoFinal
-Film/TheAvengers2012	Br/OsVingadores2012
+Film/TheAvengers2012	BrFilme/OsVingadores2012
 Film/TheCrow1994	BrFilme/OCorvo1994
 Film/TheDarkKnight	BrFilme/OCavaleiroDasTrevas
 Film/TheLordOfTheRings	BrFilme/OSenhorDosAneis
@@ -2273,7 +2271,6 @@ MadeOfGood	Br/FeitoDeBondade
 MadeOfIndestructium	Br/FeitoDeIndestructium
 MadeOfIron	Br/FeitoDeFerro
 MadeOfTemptation	Br/FeitoDeTentacao
-MadeOfWin	Br/FeitoDeVitoria
 MadonnaArchetype	Br/ArquetipoMadonna
 MagazineDecay	Br/DecaimentoDaRevista
 MageBornOfMuggles	Br/MagoNascidoDeTrouxas
@@ -2340,7 +2337,6 @@ MeasuringTheMarigolds	Br/MedirAsCalendulas
 MeatPuppet	Br/FantocheDeCarne
 MechaMook	Br/CapangaMecanico
 MechanicalAbomination	Br/AbominacaoMecanica
-MechanicalAnimal	Br/AnimalMecanico
 MechanicalEcosystem	Br/EcossistemaMecanico
 MechanicalEvolution	Br/EvolucaoMecanica
 MechanicalLifeforms	Br/FormasDeVidaMecanicas
@@ -3268,7 +3264,6 @@ SeriousBusiness	Br/CoisaSeria
 SeriousBusiness	Br/NegocioSerio
 SerkisFolk	Br/PessoaSerkis
 ServileSnarker	Br/SarcasticoServil
-SesquipedalianLoquaciouness	Br/LoquacidadeSesquipedaliana
 SesquipedalianLoquacity	Br/LoquacidadeSesquipedaliana
 SetBehindTheScenes	Br/AmbientadoPorTrasDasCenas
 SetRightWhatOnceWentWrong	Br/CorrigirOQueDeuErrado
@@ -3356,7 +3351,7 @@ SliceOfLife	Br/VidaCotidiana
 SlidingScaleOfAntiVillains	Br/EscalaMovelDeAntiViloes
 SlidingScaleOfComedyAndHorror	Br/EscalaMovelDeComediaETerror
 SlidingScaleOfIdealismVersusCynicism	Br/EscalaMovelDeIdealismoVersusCinismo
-SlidingScaleOfPlotVersusCharacters	Br/EscalaDeslizanteDeTramaContraPersonagens
+SlidingScaleOfPlotVersusCharacters	Br/EscalaDeslizanteDeTramaVersusPersonagens
 SlidingScaleOfRobotIntelligence	Br/EscalaMovelDeInteligenciaRobotica
 SlidingScaleOfShinyVersusGritty	Br/EscalaMovelDePolidoVersusAspero
 SlidingScaleOfVillainThreat	Br/EscalaMovelDeAmeacaVilanica
@@ -3555,7 +3550,6 @@ SuperTeam	Br/SuperTime
 SuperToughness	Br/SuperResistencia
 SuperTrope	Br/SuperTropo
 SuperVillain	Br/SuperVilao
-SuperWeight	Br/SuperPeso
 SuperZeroes	Br/SuperZeros
 SuperheroCapitalOfTheWorld	Br/CapitalMundialDosSuperHerois
 SuperheroEpisode	Br/EpisodioDeSuperHeroi
@@ -4364,7 +4358,6 @@ WordSequel	Br/SequenciaComPalavra
 WorkingClassHero	Br/HeroiDaClasseTrabalhadora
 WorkingTitle	Br/TituloTemporario
 WorkplaceHorror	Br/HorroresNoLocalDeTrabalho
-WorksAboutTheHolocaust	Br/ObrasSobreOHolocausto
 WorksSetInWorldWarI	Br/ObrasAmbientadasNaPrimeiraGuerraMundial
 WorksSetInWorldWarII	Br/ObrasAmbientadasNaSegundaGuerraMundial
 WorldGoneMad	Br/MundoEnlouquecido
@@ -4674,7 +4667,7 @@ ItAmusedMe	Br/MeDivertiu
 EveryoneCallsHimBarkeep	Br/TodosOChamamDePorteiro
 ExtraExtraReadAllAboutIt	Br/ExtraExtraReportagemCompleta
 FaintInShock	Br/DesmaiandoDeChoque
-ForeignReScore	Br/TrilhaSonoraEstrangeira
+ForeignReScore	Br/ResonorizacaoEstrangeira
 Film/GoneWithTheWind	BrFilme/EOVentoLevou
 FightBellHijinks	Br/ContendaComSomDeSineta
 WouldHurtAChild	Br/MachucariaUmaCrianca

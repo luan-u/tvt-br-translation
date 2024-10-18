@@ -4938,3 +4938,7 @@ LongHairIsFeminine	Br/CabeloLongoEFeminino
 DudeLooksLikeALady	Br/CaraQueSePareceComUmaMoca
 OutOfFocus	Br/ForaDeFoco
 SignatureLaugh	Br/RisadaAssinatura
+AccidentalMisnaming	Br/NomeErradoAcidental
+Anime/PokemonTheSeries	BrAnime/PokemonASerie
+KilledByTheAdaptation	Br/MortoPelaAdaptacao
+HilariousOuttakes	Br/ErrosHilariosDeGravacao

@@ -3277,6 +3277,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AmbiguousSyntax: In an occasion, after Binho wakes up, he says he'll "eat breakfast and street".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T215505Z" creationid="Luan" creationdate="20241018T215446Z">
+        <seg>* Br/SintaxeAmbigua: Binho, em certa ocasião após acordar, diz que "vai comer café da manhã e depois, rua".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AmbiguouslyAbsentParent: Spooner was raised by his grandmother, with no explanation of what happened to his parents.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240619T170832Z" creationid="Luan" creationdate="20240619T170832Z">
@@ -3421,6 +3429,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* AnatomyAnomaly: All characters have the classic "[[AccidentalInnuendo peculiarly-shaped]]" eyes...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T215709Z" creationid="Luan" creationdate="20241018T215709Z">
+        <seg>* Br/AnomaliaAnatomica: Todos os personagens possuem aqueles olhos [[Br/InsinuacaoAcidental em formato peculiar]]...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* AncientTomb: Tombs, burial chambers, sepulchers, mausoleums, charnel houses, ossuaries, catacombs, crypts, sometimes even dungeons.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240124T220204Z" creationid="Luan" creationdate="20240124T220204Z">
@@ -3522,6 +3538,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240814T201449Z" creationid="Luan" creationdate="20240814T201449Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* AnimatedAdaptation: The Website/YouTube channel "MÓ TRAMPO" has adapted a few comics into animations, where every single scene looks the same as it is in each panel of the original comic, except it's now moving.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T215815Z" creationid="Luan" creationdate="20241018T215815Z">
+        <seg>* Br/AdaptacaoAnimada: O canal do BrWebsite/YouTube "MÓ TRAMPO" adaptou algumas histórias em animações, onde cada cena se parece exatamente como no painel de origem da história original, só que com movimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3642,6 +3666,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* ApatheticStudent: Zuca and Tato are shown to be this in Issue 2; they don't give a damn about school and only want to play.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T215926Z" creationid="Luan" creationdate="20241018T215926Z">
+        <seg>* Br/EstudanteApatico: Zuca e Tato são isso na edição 2; eles não dão a mínima para a escola e só querem saber de brincar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Appealing to the LowestCommonDenominator.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231210T214113Z" creationid="Luan" creationdate="20231210T214113Z">
@@ -3704,6 +3736,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T220539Z" creationid="Luan" creationdate="20240313T220539Z">
         <seg>* Br/RouboHomicidioESalvamentoDeVida: Um personagem é repreendido por um superior, mas no final é revelado que ele fez bem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ArtEvolution: The art style went though numerous changes from the pilot in 1990 until the final edition in 2006.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T220132Z" creationid="Luan" creationdate="20241018T220132Z">
+        <seg>* Br/EvolucaoArtistica: O estilo artístico passou por diversas mudanças entre o piloto de 1990 e a edição final em 2006.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3836,6 +3876,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T145717Z" creationid="Luan" creationdate="20240318T145717Z">
         <seg>* Br/DemonioAscendido: Seres demoníacos se redimem para se tornarem guardiões divinos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* AscendedExtra: Tato and Pita were originally minor characters created by the artist instead of being based on actual people like the others.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T220024Z" creationid="Luan" creationdate="20241018T220024Z">
+        <seg>* Br/ExtraAscendido: Tato e Pita eram originalmente personagens menores criados pelo artista ao invés de serem baseados em pessoas reais como os demais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36051,6 +36099,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ends up backfiring when they get low grades and are forced to study while Dudão, who got good grades, can play freely.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T215959Z" creationid="Luan" creationdate="20241018T215959Z">
+        <seg>Acaba dando errado quando eles recebem notas baixas e são forçados a estudar enquanto Dudão, que obteve boas notas, fica livre para brincar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enjoyment comes from a balance of Recognition and Surprise -- we enjoy things that we can relate to and have seen before, but we also like to be surprised.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T152924Z" creationid="Luan" creationdate="20231214T152924Z">
@@ -36538,6 +36594,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240726T195514Z" creationid="Luan" creationdate="20240726T195514Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Except for a background character seen in one panel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T215724Z" creationid="Luan" creationdate="20241018T215724Z">
+        <seg>Exceto por um personagem de fundo em um painel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38084,6 +38148,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240326T134647Z" creationid="Luan" creationdate="20240326T134647Z">
         <seg>Ele pode ser [[Br/MusculoImbecil burro]] ou selvagem demais para fazer algo pela equipe, mas ele é mantido por perto porque em uma luta ele se sai bem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He meant he will have his breakfast and then go to the street, but the phrasing makes it sound like he will eat the breakfast, and then, eat the street.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T215532Z" creationid="Luan" creationdate="20241018T215500Z">
+        <seg>A ideia é que ele vai tomar o café da manhã e então ir para a rua, mas a frase faz parecer que ele vai comer o café da manhã e depois vai comer a rua também.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53407,6 +53479,14 @@ Eles rapidamente largam os livros no chão com desgosto.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20241016T202158Z" creationid="Luan" creationdate="20241016T202158Z">
         <seg>Esses programas costumam ter estereótipos humorísticos recorrentes que são usados em uma série de esquetes sem continuidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They were eventually turned into part of the main cast.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T220036Z" creationid="Luan" creationdate="20241018T220036Z">
+        <seg>Eles eventualmente foram incorporados ao elenco principal.</seg>
       </tuv>
     </tu>
     <tu>

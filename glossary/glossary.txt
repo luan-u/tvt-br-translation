@@ -4942,3 +4942,5 @@ AccidentalMisnaming	Br/NomeErradoAcidental
 Anime/PokemonTheSeries	BrAnime/PokemonASerie
 KilledByTheAdaptation	Br/MortoPelaAdaptacao
 HilariousOuttakes	Br/ErrosHilariosDeGravacao
+HypocriticalHeartwarming	Br/HipocritaDeAquecerOCoracao
+SimpletonVoice	Br/VozDeIdiota

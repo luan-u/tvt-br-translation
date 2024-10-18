@@ -4920,3 +4920,5 @@ HemisphereBias	Br/ViesDeHemisferio
 CreatorsCultureCarryover	Br/TransposicaoDaCulturaDoCriador
 LocalReference	Br/ReferenciaLocal
 EiffelTowerEffect	Br/EfeitoTorreEiffel
+ManOfAThousandVoices	Br/HomemDeMilVozes
+AffectionateNickname	Br/ApelidoCarinhoso

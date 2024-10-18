@@ -4587,6 +4587,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* BerserkButton: Tato will kick the butt of anyone who wins in a competition against him.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T220235Z" creationid="Luan" creationdate="20241018T220235Z">
+        <seg>* Br/BotaoDaFuria: Tato chuta a bunda de qualquer um que ganha em uma competição contra ele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* BespectacledCutie: A pleasant girl who wears glasses tends to be on the heroes' side.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240318T150045Z" creationid="Luan" creationdate="20240318T150045Z">
@@ -4616,6 +4624,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240313T211009Z" creationid="Luan" creationdate="20240313T211009Z">
         <seg>* Br/CuidadoComOsBonzinhos: Um personagem pacífico, brando ou benevolente é capaz de raiva mortal ou retribuição surpreendentemente eficaz se for suficientemente provocado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BewareTheNiceOnes: Dudão doesn't get angry often, but when he does, [[OOCIsSeriousBusiness things get bad for his friends]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T220307Z" creationid="Luan" creationdate="20241018T220307Z">
+        <seg>* Br/CuidadoComOsBonzinhos: Dudão não fica irritado com frequência, mas quando ele se irrita [[Br/EstarForaDePersonagemECoisaSeria as coisas ficam ruins para seus amigos]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -5179,6 +5195,16 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240818T142617Z" creationid="Luan" creationdate="20240818T142617Z">
         <seg>* Br/QuebrandoAQuartaParede:
 ** Não é regularmente usado como parte do humor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* BreakingTheFourthWall: Several stories end with Dudão, and sometimes other characters, telling the reader about the episode's lesson, such as "Don't say swear words", "Don't imitate the superheroes at TV, only idiots do that", and the controversial "God made man and woman, never want to be different!"
+* TheBully: In one of the comics set at school, Zuca and Paçoca are shown stealing a girl's lunch and bullying her.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T220537Z" creationid="Luan" creationdate="20241018T220537Z">
+        <seg>* Br/QuebrandoAQuartaParede: Várias histórias terminam com Dudão (e, às vezes, outros personagens) falando ao leitor sobre a lição da história, tais como "Não diga xingamentos", "Não imite os super-heróis da televisão, apenas idiotas fazem isso" e o controverso "Deus fez homem e mulher, não queira ser diferente!"
+* Br/OValentao: Em uma das histórias ambientadas na escola, Zuca e Paçoca aparecem roubando o almoço de uma garota e zombando dela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6054,6 +6080,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240818T151608Z" creationid="Luan" creationdate="20240818T151608Z">
         <seg>* Br/SindromeDeChuckCunningham: Quico e Seu Madruga, depois de um tempo após [[Br/ColocadoEmUmOnibus suas partidas]], e Chiquinha durante os anos de 1973 até 1975.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* ChuckCunninghamSyndrome: Zuca is the only main character who's completely absent in the 2006 issue.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T220622Z" creationid="Luan" creationdate="20241018T220622Z">
+        <seg>* Br/SindromeDeChuckCunningham: Zuca é o único personagem principal que está completamente ausente na edição de 2006.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8085,6 +8119,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240818T025506Z" creationid="Luan" creationdate="20240818T025506Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* DoubleStandard: Dudão clearly takes Binho's mistakes much more lighly than he takes the others'.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T220648Z" creationid="Luan" creationdate="20241018T220648Z">
+        <seg>* Br/DoisPesosDuasMedidas: Dudão claramente considera os erros do Binho menos graves que os dos demais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10446,6 +10488,16 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* GreenAesop:
+** Rebeca's first appearance has her finding Binho and Dudão planting a tree to comemmorate the "Ecology Year".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T220745Z" creationid="Luan" creationdate="20241018T220745Z">
+        <seg>* Br/EsopoVerde:
+** A primeira aparição de Rebeca mostra ela encontrando Binho e Dudão plantando uma árvore para comemorar o "Ano da Ecologia".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* GroinAttack: There are a few:
 ** The Red-Eyes give Blue Raja an especially vicious wedgie.</seg>
       </tuv>
@@ -10512,6 +10564,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* HairTriggerTemper: Tato.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T220956Z" creationid="Luan" creationdate="20241018T220956Z">
+        <seg>* Br/PavioCurto: Tato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* HammyVillainSeriousHero: A hero's seriousness is contrasted with their villain's hamminess.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240319T182025Z" creationid="Luan" creationdate="20240319T182025Z">
@@ -10548,6 +10608,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240105T145157Z" creationid="Luan" creationdate="20240105T145157Z">
         <seg>* Br/PassarPorCimaDoFinalFeliz: A sequência começa com a negação de uma vitória prévia e as coisas muito piores em relação ao começo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* HateSink: The characters who are portrayed as being in the wrong in the stories, while Dudão is portrayed as right.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T221034Z" creationid="Luan" creationdate="20241018T221034Z">
+        <seg>* Br/RaloDeOdio: Os personagens que são retratados como estando errados nas histórias, enquanto Dudão é sempre retratado como do lado certo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11959,6 +12027,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240823T212907Z" creationid="Luan" creationdate="20240823T212907Z">
         <seg>* Br/AtratividadeInformada: [[Br/TropoInvertido Invertido]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* InformedFlaw: In one of the stories, Rebeca makes fun of Binho for having big ears, when actually his ears are drawn the same size as the others.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T221231Z" creationid="Luan" creationdate="20241018T221231Z">
+        <seg>* Br/FalhaInformada: Em uma das histórias, Rebeca zomba de Binho por ter orelhas grandes, quando na verdade as orelhas deles são desenhadas com o mesmo tamanho das orelhas dos outros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25507,6 +25583,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** And then, the last issue (not including the 2006 revival) has a story where Zuca has to carry a couch to the dump, but he gets too tired and exhausted, so he just throws the couch at a river instead, thinking it's harmless.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T220933Z" creationid="Luan" creationdate="20241018T220933Z">
+        <seg>** A última edição (não considerando a de 2006) tem uma história onde Zuca precisa levar um sofá para o lixão, mas ele fica muito cansado, então ele apenas lança o sofá em um rio ao invés, pensando que não tem problema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>** Another one for La Chilindrina: when the series started, her GirlishPigtails were really long, but during an episode from the 1973 season, Chavo cuts off her hair and makes her pigtails short.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240819T155713Z" creationid="Luan" creationdate="20240819T155713Z">
@@ -31942,6 +32026,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Among the fans, the 1996 design is widely considered the best of them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T220220Z" creationid="Luan" creationdate="20241018T220220Z">
+        <seg>Dentre os fãs, é amplo consenso que o traço de 1996 é considerado o melhor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An "ax-crazy" character is someone who is psychologically unstable[[note]]"Unstable" is an excessively mild term here, because it implies that ''some'' residual stability may still be present.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240616T184154Z" creationid="Luan" creationdate="20240616T184154Z">
@@ -35809,6 +35901,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dudão sees it, [[SkewedPriorities but doesn't care and only thinks about retrieving his pen he lost, instead]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T220600Z" creationid="Luan" creationdate="20241018T220600Z">
+        <seg>Dudão vê isso, [[Br/PrioridadesDistorcidas mas não liga; ele está preocupado em encontrar a caneta que ele perdeu]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Due to limitations in locations and cast, the writers have to lean heavily on inventive situations and dialogue to carry the show.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20241016T203939Z" creationid="Luan" creationdate="20241016T203939Z">
@@ -37065,6 +37165,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, he gets much angrier at Rebeca saying swear words than Binho being racist.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T220706Z" creationid="Luan" creationdate="20241018T220706Z">
+        <seg>Por exemplo, ele fica muito mais irritado com Rebeca dizendo xingamentos do que com Binho sendo racista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, if a main character gains a significant other at the beginning of the episode, it is almost certain that they will break up by the end, for [[ItsNotYouItsMyEnemies one reason]] or [[MinorFlawMajorBreakup another]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T140636Z" creationid="Luan" creationdate="20231208T140636Z">
@@ -38062,6 +38170,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>He gets to the point where he ignores his own pacifist, anti-violent thoughts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T220320Z" creationid="Luan" creationdate="20241018T220320Z">
+        <seg>Ele chega ao ponto de ignorar seus próprios pensamentos pacifistas e anti-violentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>He has a shovel.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240812T152530Z" creationid="Luan" creationdate="20240812T152530Z">
@@ -38382,6 +38498,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240826T234604Z" creationid="Luan" creationdate="20240826T234604Z">
         <seg>Ele queria se alimentar dela, mas a arremessou de uma escada quando ele percebeu que o incômodo de levar ela como "lanchinho" para a viagem de volta não valia a pena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He wants to always be the best at all things, or else he gets furious.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T221008Z" creationid="Luan" creationdate="20241018T221008Z">
+        <seg>Ele quer sempre ser o melhor em todas as coisas, e do contrário ele fica furioso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43461,6 +43585,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Later that day, the city gets flooded exactly ''because'' of that couch.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T220948Z" creationid="Luan" creationdate="20241018T220948Z">
+        <seg>Mais tarde naquele dia, a cidade fica inundada ''por causa'' desse sofá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Later they are smart in every level, [[EinsteinSue providing knowledge and wisdom in every possible situation]].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231208T220202Z" creationid="Luan" creationdate="20231208T220202Z">
@@ -47967,6 +48099,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>She gets confused and ends up getting in an argument with the boys, but later makes up with them and starts comemmorating the Ecology Year with them, while a crowd starts marching for nature holding a sign saying "Thanks for the green, Jesus!".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T220839Z" creationid="Luan" creationdate="20241018T220839Z">
+        <seg>Ela se confunde e acaba envolvida em uma discussão com os garotos, mas depois faz as pazes com eles e começa a comemorar o Ano da Ecologia com eles, enquanto uma multidão começa a marchar pela natureza segurando uma faixa que diz "Obrigado pelo verde, Jesus!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>She is also the instigator in the fights Chavo has with Quico and gets away with it unscathed, although there are some exceptions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240818T165753Z" creationid="Luan" creationdate="20240818T165753Z">
@@ -48319,6 +48459,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T161728Z" creationid="Luan" creationdate="20231214T161010Z">
         <seg>Alguns editores passam ''[[Br/SoMaisUmaFase muitas horas]]'' simplesmente [[Br/MaratonaDeArquivo lendo as várias páginas]], desfrutando de um Br/WikiPasseio estendido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some examples include Binho being racist towards Zuca or refusing to eat any of the food his mother made (and having the scruples to say '''his''' mother makes '''him''' upset), Zuca kicking or otherwise harrassing several animals, and Tato beating up Rebeca for winning against him.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T221134Z" creationid="Luan" creationdate="20241018T221134Z">
+        <seg>Alguns exemplos incluem Binho sendo racista com Zuca ou se recusando a comer a comida que a mãe dele preparou (e ainda tendo a audácia de dizer que a ''mãe'' deixa ''ele'' com raiva), Zuca chutando ou maltratando diversos animais, e Tato batendo em Rebeca por ter perdido pra ela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59077,6 +59225,14 @@ Numerous tropes and [[YMMV.HomePage YMMVs]] have grown large enough that they ha
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20231214T151837Z" creationid="Luan" creationdate="20231214T151837Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[[https://www.facebook.com/groups/720465985368559/posts/776181276463696/ This post has Dudão's main designs]].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T220159Z" creationid="Luan" creationdate="20241018T220159Z">
+        <seg>[[https://www.facebook.com/groups/720465985368559/posts/776181276463696/ Esta publicação exibe as principais aparências de Dudão]].</seg>
       </tuv>
     </tu>
     <tu>

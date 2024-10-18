@@ -4926,3 +4926,4 @@ AmbiguousSyntax	Br/SintaxeAmbigua
 AccidentalInnuendo	Br/InsinuacaoAcidental
 ApatheticStudent	Br/EstudanteApatico
 ArtEvolution	Br/EvolucaoArtistica
+InformedFlaw	Br/FalhaInformada

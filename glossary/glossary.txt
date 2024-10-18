@@ -4936,3 +4936,5 @@ GirlsVsBoysPlot	Br/TramaDeGarotosContraGarotas
 ForgetfulJones	Br/JoaoEsquecido
 LongHairIsFeminine	Br/CabeloLongoEFeminino
 DudeLooksLikeALady	Br/CaraQueSePareceComUmaMoca
+OutOfFocus	Br/ForaDeFoco
+SignatureLaugh	Br/RisadaAssinatura

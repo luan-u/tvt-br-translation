@@ -4944,3 +4944,6 @@ KilledByTheAdaptation	Br/MortoPelaAdaptacao
 HilariousOuttakes	Br/ErrosHilariosDeGravacao
 HypocriticalHeartwarming	Br/HipocritaDeAquecerOCoracao
 SimpletonVoice	Br/VozDeIdiota
+VocalDissonance	Br/DissonanciaVocal
+LarynxDissonance	Br/DissonanciaDeLaringe
+BlackComedyBurst	Br/HumorNegroInesperado

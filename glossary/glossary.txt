@@ -4934,3 +4934,5 @@ AmbiguouslyBrown	Br/AmbiguamenteMarrom
 CatUpATree	Br/GatoNoAltoDeUmaArvore
 GirlsVsBoysPlot	Br/TramaDeGarotosContraGarotas
 ForgetfulJones	Br/JoaoEsquecido
+LongHairIsFeminine	Br/CabeloLongoEFeminino
+DudeLooksLikeALady	Br/CaraQueSePareceComUmaMoca

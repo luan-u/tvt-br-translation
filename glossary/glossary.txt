@@ -4929,3 +4929,8 @@ ArtEvolution	Br/EvolucaoArtistica
 InformedFlaw	Br/FalhaInformada
 PickyEater	Br/ComedorExigente
 BeYourself	Br/SejaVoceMesmo
+VitriolicBestBuds	Br/MelhoresAmigosAcidos
+AmbiguouslyBrown	Br/AmbiguamenteMarrom
+CatUpATree	Br/GatoNoAltoDeUmaArvore
+GirlsVsBoysPlot	Br/TramaDeGarotosContraGarotas
+ForgetfulJones	Br/JoaoEsquecido

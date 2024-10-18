@@ -4922,3 +4922,7 @@ LocalReference	Br/ReferenciaLocal
 EiffelTowerEffect	Br/EfeitoTorreEiffel
 ManOfAThousandVoices	Br/HomemDeMilVozes
 AffectionateNickname	Br/ApelidoCarinhoso
+AmbiguousSyntax	Br/SintaxeAmbigua
+AccidentalInnuendo	Br/InsinuacaoAcidental
+ApatheticStudent	Br/EstudanteApatico
+ArtEvolution	Br/EvolucaoArtistica

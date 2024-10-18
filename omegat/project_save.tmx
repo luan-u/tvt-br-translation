@@ -23562,6 +23562,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* WhatTheHellHero: In the story "Ioiozando", Dudão, Tato and Rebeca are in a yoyo competition.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T224829Z" creationid="Luan" creationdate="20241018T224829Z">
+        <seg>* Br/QueMerdaEEssaHeroi: Na história "Ioiozando", Dudão, Tato e Rebeca estão em uma competição de ioiô.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* WhatTheHellHero: When Doña Florinda buys the restaurant, Señor Barriga sends his son Ñoño to collect the restaurant rent.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240826T220815Z" creationid="Luan" creationdate="20240826T220815Z">
@@ -23708,6 +23716,14 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240619T211201Z" creationid="Luan" creationdate="20240619T211201Z">
         <seg>* Br/PorQueTinhaQueSerCobras: "Eu ''não me sinto bem''... em ''lugares altos''."
 * Br/VoceEOQueVoceOdeia: Spooner demonstra aversão forte a robôs humanoides... [[spoiler: apesar de ser um ciborgue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>* WhyDidItHaveToBeSnakes: There's a comic all about this, whose [[AnAesop aesop]] is teaching kids not to feel afraid of anything.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T225021Z" creationid="Luan" creationdate="20241018T225021Z">
+        <seg>* Br/PorQueTinhaQueSerCobras: Há uma história sobre isso, cujo [[Br/UmEsopo Esopo]] é sobre ensinar crianças a não sentirem medo de nada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25763,6 +25779,14 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>** At first, Pita is found sleeping outside his house; when asked about it, he says he is afraid of the dark of his bedroom at night.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T225046Z" creationid="Luan" creationdate="20241018T225046Z">
+        <seg>** No começo, Pita é encontrado dormindo fora de casa; quando perguntado a respeito, ele diz que tem medo do escuro do quarto à noite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>** At first, it was Quico's grandfather, not his father, who died in the sea.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240823T201540Z" creationid="Luan" creationdate="20240823T201540Z">
@@ -26881,6 +26905,14 @@ Br/ExemplosEmFalta.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240818T150639Z" creationid="Luan" creationdate="20240818T150639Z">
         <seg>** Quico chora com um som curioso de ''"aaaahhhrrrrrrr"'' com a língua estremecendo no R.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>** Rebeca is shown to be terrified of cockroaches after Zuca uses one to scare her.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T225130Z" creationid="Luan" creationdate="20241018T225130Z">
+        <seg>** Rebeca demonstra ter medo de baratas depois que Zuca usa uma para assustar ela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29485,6 +29517,38 @@ Br/ExemplosEmFalta.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>--&gt;'''Dudão:''' But you should be.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T224447Z" creationid="Luan" creationdate="20241018T224447Z">
+        <seg>--&gt;'''Dudão:''' Mas deveria ser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>--&gt;'''Dudão:''' That would be worse.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T224359Z" creationid="Luan" creationdate="20241018T224359Z">
+        <seg>--&gt;'''Dudão:''' Isso seria pior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>--&gt;'''Dudão:''' That's what the Bible says!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T224432Z" creationid="Luan" creationdate="20241018T224432Z">
+        <seg>--&gt;'''Dudão:''' É o que a Bíblia diz!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>--&gt;'''Dudão:''' Zuca is gonna end up badly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T224339Z" creationid="Luan" creationdate="20241018T224339Z">
+        <seg>--&gt;'''Dudão:''' Zuca vai acabar mal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>--&gt;'''Furious:''' I'm remembering a certain oath that we took at a certain bar downtown.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240728T224204Z" creationid="Luan" creationdate="20240728T224204Z">
@@ -29607,6 +29671,38 @@ Br/ExemplosEmFalta.</seg>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240618T021317Z" creationid="Luan" creationdate="20240618T021317Z">
         <seg>--&gt;'''NS-5:''' Você está sofrendo um acidente de carro.\\
 '''Spooner:''' ESTOU ''UMA OVA''!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>--&gt;'''Paçoca:''' But I'm not Christian!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T224440Z" creationid="Luan" creationdate="20241018T224440Z">
+        <seg>--&gt;'''Paçoca:''' Mas eu não sou cristão!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>--&gt;'''Paçoca:''' He hit me just because i'm smaller.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T224223Z" creationid="Luan" creationdate="20241018T224223Z">
+        <seg>--&gt;'''Paçoca:''' Ele me bateu só porque eu sou pequeno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>--&gt;'''Paçoca:''' He hit me, and I have to love him?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T224422Z" creationid="Luan" creationdate="20241018T224422Z">
+        <seg>--&gt;'''Paçoca:''' Ele me bate, e eu tenho que amar ele?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>--&gt;'''Paçoca:''' I'm gonna hit him with a piece of stick!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T224352Z" creationid="Luan" creationdate="20241018T224352Z">
+        <seg>--&gt;'''Paçoca:''' Eu vou bater nele com um pedaço de pau!</seg>
       </tuv>
     </tu>
     <tu>
@@ -43731,6 +43827,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Knowing how Tato is, Dudão tells Rebeca she's the best and tells her to leave already, because if Tato loses to her, he'll beat her up.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T224911Z" creationid="Luan" creationdate="20241018T224911Z">
+        <seg>Sabendo como Tato é, Dudão diz para Rebeca que ela é a melhor e fala pra ela sair, porque se Tato perder pra ela, ele vai bater nela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>La Chilindrina realizes he had forgotten which day it was and tries to plan a surprise party with Quico, Doña Florinda and Doña Clotilde... whose attempts to hide what they were talking about, coupled with El Chavo's PoorCommunicationKills due to eavesdropping too late, only made Don Ramón feel worse.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240819T213056Z" creationid="Luan" creationdate="20240819T213056Z">
@@ -43791,6 +43895,14 @@ also called "groupname" internally[[/note]] means a section of the Wiki's organi
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240619T213617Z" creationid="Luan" creationdate="20240619T213617Z">
         <seg>Posteriormente no filme ele cai sobre um carro com força suficiente para amassar o teto e quebrar as janelas, mas ele não fica atordoado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Later in the story, he loses his fear after praying to "[[InsistentTerminology Dudão's Jesus]]" to help him get over it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T225114Z" creationid="Luan" creationdate="20241018T225114Z">
+        <seg>Mais tarde na história, ele perde o medo após rezar para o "[[Br/TerminologiaInsistente Jesus de Dudão]]" para que ele o ajude a superar o medo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56434,6 +56546,14 @@ Eles rapidamente largam os livros no chão com desgosto.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We must love him!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T224409Z" creationid="Luan" creationdate="20241018T224409Z">
+        <seg>Devemos amar ele!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We must save you... from yourselves."''
 --&gt;-- '''VIKI''', ''Film/IRobot''</seg>
       </tuv>
@@ -56858,6 +56978,14 @@ Eles rapidamente largam os livros no chão com desgosto.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When Dudão asks Zuca about his own fears, he says he doesn't have any because "men like him don't feel scared", but he's InstantlyProvenWrong when a dog approaches and he runs away in fear.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T225208Z" creationid="Luan" creationdate="20241018T225208Z">
+        <seg>Quando Dudão pergunta a Zuca sobre os medos dele, ele diz que não tem nenhum porque "homens como ele não se assustam", mas ele é Br/InstantaneamenteProvadoErrado quando um cachorro se aproxima e ele sai correndo apavorado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When El Chavo makes a noise, he says "Another cat".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20240823T233327Z" creationid="Luan" creationdate="20240823T233327Z">
@@ -56910,6 +57038,14 @@ Eles rapidamente largam os livros no chão com desgosto.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Luan" changedate="20241014T145238Z" creationid="Luan" creationdate="20241014T145238Z">
         <seg>Quando itens da Br/VidaReal são usados como adereços, tais como uma lata de refrigerante ou um notebook, o nome e logomarca podem ser [[Br/ProdutoDeMarcaSimilar escondidos ou alterados devido à restrições legais]] (de modo que o personagem pode acabar segurando uma lata de Bepsi-Kola).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When Rebeca refuses to leave, Dudão ends up ''pushing her hair'' to make her go, and ''Tato'' is the one who has to stop Dudão from harrassing Rebeca.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241018T224945Z" creationid="Luan" creationdate="20241018T224945Z">
+        <seg>Quando Rebeca se recusa a sair, Dudão resolve ''puxar o cabelo dela'' para fazer com que ela saia, e ''Tato'' é quem precisa impedir que Dudão maltrate Rebeca.</seg>
       </tuv>
     </tu>
     <tu>

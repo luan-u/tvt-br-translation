@@ -4973,3 +4973,13 @@ CoconutMeetsCranium	Br/EncontroDoCocoComOCranio
 FlowerPotDrop	Br/QuedaDoVasoDeFlores
 PianoDrop	Br/QuedaDoPiano
 PressureSensitiveInterface	Br/InterfaceSensivelAPressao
+SquishTheCheeks	Br/AmassarAsBochechas
+StickySituation	Br/SituacaoPegajosa
+ThereWasADoor	Br/HaviaUmaPorta
+TongueOnTheFlagpole	Br/LinguaNoPoste
+WatchOutForThatTree	Br/OlhaOTroncoAi	Derivado da música de "George, o Rei da Floresta".
+WatchOutForThatTree	Br/CuidadoComAArvore
+NonFatalExplosions	Br/ExplosoesNaoFatais
+DelayedSafetyFeature	Br/FuncaoDeSegurancaComRetardo
+FacePlant	Br/CairDeCara
+RunningIntoTheWindow	Br/CorrerEAcertarAJanela

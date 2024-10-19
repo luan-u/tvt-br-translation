@@ -4933,7 +4933,7 @@ VitriolicBestBuds	Br/MelhoresAmigosAcidos
 AmbiguouslyBrown	Br/AmbiguamenteMarrom
 CatUpATree	Br/GatoNoAltoDeUmaArvore
 GirlsVsBoysPlot	Br/TramaDeGarotosContraGarotas
-ForgetfulJones	Br/JoaoEsquecido
+ForgetfulJones	Br/ZeEsquecido
 LongHairIsFeminine	Br/CabeloLongoEFeminino
 DudeLooksLikeALady	Br/CaraQueSePareceComUmaMoca
 OutOfFocus	Br/ForaDeFoco

@@ -4956,3 +4956,6 @@ PermanentPlaceholder	Br/TemporarioDeCunhoPermanente
 TributeToFido	Br/TributoAoFido
 ImMrFuturePopCultureReference	Br/EuSouOSrReferenciaFuturaDaCulturaPop
 TheDanza	Br/ODanza
+WhatCouldPossiblyGoWrong	Br/OQuePoderiaDarErrado
+ThePratfall	Br/APoupanca
+Burlesque	Br/{{Burlesco}}

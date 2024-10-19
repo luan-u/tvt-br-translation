@@ -4959,3 +4959,17 @@ TheDanza	Br/ODanza
 WhatCouldPossiblyGoWrong	Br/OQuePoderiaDarErrado
 ThePratfall	Br/APoupanca
 Burlesque	Br/{{Burlesco}}
+AnvilOnHead	Br/BigornaNaCabeca
+AssShove	Br/EnfiadoNaBunda
+ImpactSilhouette	Br/SilhuetaDeImpacto
+JawDrop	Br/DeCairOQueixo
+SurpriseJump	Br/SaltoDaSurpresa
+OwMyBodyPart	Br/AiMinhaParteDoCorpo
+HardHead	Br/CabecaDura
+TheLastStraw	Br/AUltimaGota
+FryingPanOfDoom	Br/FrigideiraDoCaos
+ComedicUnderwearExposure	Br/ExibicaoComicaDeRoupaIntima
+CoconutMeetsCranium	Br/EncontroDoCocoComOCranio
+FlowerPotDrop	Br/QuedaDoVasoDeFlores
+PianoDrop	Br/QuedaDoPiano
+PressureSensitiveInterface	Br/InterfaceSensivelAPressao

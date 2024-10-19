@@ -4983,3 +4983,4 @@ NonFatalExplosions	Br/ExplosoesNaoFatais
 DelayedSafetyFeature	Br/FuncaoDeSegurancaComRetardo
 FacePlant	Br/CairDeCara
 RunningIntoTheWindow	Br/CorrerEAcertarAJanela
+BubblegloopSwamp	Br/BrejoBorbulhante

@@ -5004,3 +5004,5 @@ TheNotCatch	Br/NaoAparamento
 PainfulBodyWaxing	Br/DepilacaoDolorosaComCera
 PainPoweredLeap	Br/SaltoInduzidoPorDor
 PeopleFallOffChairs	Br/PessoasCaemDeCadeiras
+SlipperySkid	Br/EscorregadaEscorregadia
+RightOutOfMyClothes	Br/DespidoEmUmPiscarDeOlhos

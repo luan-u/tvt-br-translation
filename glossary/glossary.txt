@@ -4947,3 +4947,8 @@ SimpletonVoice	Br/VozDeIdiota
 VocalDissonance	Br/DissonanciaVocal
 LarynxDissonance	Br/DissonanciaDeLaringe
 BlackComedyBurst	Br/HumorNegroInesperado
+ContestWinnerCameo	Br/AparicaoEspecialConcedidaComoPremio
+MemorialCharacter	Br/PersonagemMemorial
+NamedAfterSomebodyFamous	Br/RecebeuONomeDeAlguemFamoso
+FamousNamedForeigner	Br/EstrangeiroComNomeFamoso
+ShoutOutThemeNaming	Br/MandarUmSalveComNomenclaturaTematica

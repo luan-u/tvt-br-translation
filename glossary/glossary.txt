@@ -2511,7 +2511,7 @@ NaiveEverygirl	Br/GarotaIngenua
 NakedPeopleAreFunny	Br/GenteNuaEEngracada	"Gente nua é engraçada"
 NameOfCain	Br/NomeDeCain
 NamedAfterFirstInstallment	Br/RecebeuONomeDaPrimeiraObra
-NamedAfterTheInjury	Br/NomeadoPorCausaDoFerimento
+NamedAfterTheInjury	Br/NomeadoAPartirDoFerimento
 NamesToRunAwayFromReallyFast	Br/NomesParaSeAfastarOMaisRapidoPossivel
 NamesToTrustImmediately	Br/NomesParaConfiarImediatamente
 NamingConventions	Br/ConvencoesDeNomenclatura

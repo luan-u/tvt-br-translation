@@ -314,7 +314,7 @@ Cada batida narrativa pode ser resolvida de maneira positiva, ''i.e.'' na direç
 * ThePratfall
 * PressureSensitiveInterface: Hammer those buttons, break some bones, and get that device working better.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Luan" changedate="20241020T000627Z" creationid="Luan" creationdate="20241020T000627Z">
+      <tuv lang="pt-BR" changeid="Luan" changedate="20241020T000923Z" creationid="Luan" creationdate="20241020T000627Z">
         <seg>!!Subtropos:
 * Br/MachucadosFascinantes
 * Br/BigornaNaCabeca
@@ -365,6 +365,7 @@ Cada batida narrativa pode ser resolvida de maneira positiva, ''i.e.'' na direç
 * ??? KitchenSinkIncluded
 * Br/AjoelharEmpurrarCair
 * Br/EmpurrandoAEscada
+* Br/AUltimaGota
 * Br/ChutarOTraseiroLiteralmente
 * ??? LiveActionCartoon
 * Br/SocoMegaton
@@ -372,7 +373,22 @@ Cada batida narrativa pode ser resolvida de maneira positiva, ''i.e.'' na direç
 * Br/SegmentoDePastelaoMusical
 * Br/AtaqueNaVirilhaQueErraPorPouco
 * Br/ExplosoesNaoFatais
-* ??? NonSequiturThud</seg>
+* ??? NonSequiturThud
+* Br/EnfiadoNoNariz
+* Br/NaoAparamento
+* Br/AiMinhaParteDoCorpo
+* Br/DepilacaoDolorosaComCera
+* Br/SaltoInduzidoPorDor
+* Br/PessoasCaemDeCadeiras
+* Br/ManutencaoPercussiva
+* Br/QuedaDoPiano
+* Br/TortaNaCara
+* Br/PiadaPinball
+* Br/PiadaComTabua
+* Br/UmHumanoQueEUmEstouro
+* Br/APoupanca
+* Br/InterfaceSensivelAPressao
+</seg>
       </tuv>
     </tu>
     <tu>

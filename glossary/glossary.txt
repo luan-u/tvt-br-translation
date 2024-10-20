@@ -5031,3 +5031,4 @@ MusicalSlapstickMontage	Br/SegmentoDePastelaoMusical
 PopGoesTheHuman	Br/UmHumanoQueEUmEstouro
 HeadSmashesScreen	Br/CabecaQueDestroiATela
 ExtendoBoxingGlove	Br/LuvaDeBoxeExtensivel
+BloodyHilarious	Br/HilarianteDeMatar
